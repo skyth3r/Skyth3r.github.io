@@ -1,3 +1,3 @@
 # Skyth3r.github.io
-My main website
+My main website.
 [View it here](http://akashgoswami.com/)
