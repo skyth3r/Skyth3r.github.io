@@ -256,7 +256,7 @@ body {
 
 #testimonialSlider .owl-item > div,
 #teamSlider .owl-item > div,
-#educationSlider .owl-item > div,
+#portfolioSlider .owl-item > div,
 #experienceSlider .owl-item > div {
     width: 100%;
     margin: 10px 0;
@@ -855,11 +855,11 @@ header.nav.hide-menu {
     line-height: 25px;
 }
 
-.education-text {
-    color: #727272;
+.portfolio-text {
+    color: #ffffff;
 }
 
-.education-inner .card .card-image img {
+.portfolio-inner .card .card-image img {
     max-width: 100%;
 }
 

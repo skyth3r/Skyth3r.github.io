@@ -121,7 +121,7 @@ $(document).ready(function($){
 	});
 
 
-	var edSlider = $("#educationSlider");
+	var edSlider = $("#portfolioSlider");
 		edSlider.owlCarousel({
 		slideSpeed : 600,
 		items : 3,
@@ -239,7 +239,7 @@ $(document).ready(function($){
 	});
 
 	// Animate scrolling on contact me button
-    $('.hire-me-btn').on('click', function(e) {
+    $('.contact-me-btn').on('click', function(e) {
         e.preventDefault();
         $('html, body').animate({scrollTop: $("#contact").offset().top}, 500);
     });
