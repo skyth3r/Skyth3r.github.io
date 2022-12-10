@@ -12,5 +12,12 @@
     "link": "https://iterm2.com/",
     "icon": "https://icons.iconarchive.com/icons/froyoshark/enkel/256/iTerm-icon.png",
     "tag": "Productivity"
+  },
+  {
+    "name": "Typefully",
+    "description": "A fantastic & feature packed Twitter writing app! ",
+    "link": "https://typefully.com/?via=akash",
+    "icon": "https://help.typefully.com/_next/image?url=https%3A%2F%2Fsuper-static-assets.s3.amazonaws.com%2F12b87c10-21df-42b4-a307-400cd458d285%2Fimages%2Fa288996d-e16c-4ce4-9827-307104d1d903.png&w=2048&q=80",
+    "tag": "Social"
   }
 ]
