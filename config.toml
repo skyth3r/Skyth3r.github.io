@@ -2,3 +2,37 @@ baseURL = 'http://akashgoswami.com/'
 languageCode = 'en-us'
 title = 'Akash Goswami'
 theme = 'digitalgarden'
+
+[Params]
+  description = "Akash Goswami's personal website"
+
+[menu]
+[[menu.main]]
+  name = 'Home'
+  url = '/'
+  weight = 1
+[[menu.main]]
+  name = 'Content'
+  params.header = true
+  weight = 2
+[[menu.main]]
+  name = 'Articles'
+  url = '/articles'
+  weight = 3
+[[menu.main]]
+  name = 'Links'
+  params.header = true
+  weight = 6
+[[menu.main]]
+  name = 'Polywork'
+  url = 'https://www.polywork.com/akash'
+  weight = 7
+
+[[menu.social]]
+  name = 'Twitter'
+  url = 'https://twitter.com/akashgoswami_'
+  weight = 1
+[[menu.social]]
+  name = 'GitHub'
+  url = 'https://github.com/Skyth3r'
+  weight = 2
