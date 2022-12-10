@@ -1,0 +1,16 @@
+[
+  {
+    "name": "GitHub",
+    "description": "Code hosting for all projects",
+    "link": "https://github.com/",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png",
+    "tag": "Webdev"
+  },
+  {
+    "name": "iTerm",
+    "description": "A definitely more functional terminal for Mac",
+    "link": "https://iterm2.com/",
+    "icon": "https://icons.iconarchive.com/icons/froyoshark/enkel/256/iTerm-icon.png",
+    "tag": "Productivity"
+  }
+]

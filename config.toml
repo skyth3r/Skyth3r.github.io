@@ -20,13 +20,25 @@ theme = 'digitalgarden'
   url = '/articles'
   weight = 3
 [[menu.main]]
+  name = 'Stack'
+  url = '/stack'
+  weight = 4
+[[menu.main]]
   name = 'Links'
   params.header = true
-  weight = 6
+  weight = 5
 [[menu.main]]
   name = 'Polywork'
   url = 'https://www.polywork.com/akash'
+  weight = 6
+[[menu.main]]
+  name = 'Mastodon'
+  url = 'https://mastodon.world/@akashgoswami'
   weight = 7
+[[menu.main]]
+  name = 'Subscribe to Akash & Money'
+  url = 'https://www.getrevue.co/profile/akashandmoney'
+  weight = 8
 
 [[menu.social]]
   name = 'Twitter'
@@ -36,3 +48,16 @@ theme = 'digitalgarden'
   name = 'GitHub'
   url = 'https://github.com/Skyth3r'
   weight = 2
+[[menu.social]]
+  name = 'Email'
+  url = 'mailto:akash@akashgoswami.com'
+  weight = 3
+[[menu.social]]
+  name = 'RSS'
+  url = '/articles/index.xml'
+  weight = 4
+
+# syntax highlight settings
+[markup]
+  [markup.highlight]
+    style = "dracula"
