@@ -2,12 +2,12 @@
 title: Homepage
 ---
 
-# Hello 👋
+# Hello, I'm Akash 👋
 
-**Welcome to my corner of the internet!**
+## Welcome to my corner of the internet!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I'm a London based Security Analyst, that enjoys writing, travelling, video games and a whole lot more (I'm also a [massive personal finance nerd](https://akashandmoney.com/)).
 
-<hr />
+This is a home for everything I'm interested in (which quite often changes from time to time). I'd like to think of it as a digital gardern (a type of personal wiki) but I guess I'm just going to see where this goes before putting a label on it right now.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae et leo duis ut diam quam. Arcu non odio euismod lacinia at quis risus. Consectetur adipiscing elit pellentesque habitant morbi tristique senectus. Sed sed risus pretium quam vulputate dignissim suspendisse.
+While you're here check out some of my [articles](/articles) or my [stack](/stack)!
