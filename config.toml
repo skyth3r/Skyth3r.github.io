@@ -20,7 +20,7 @@ theme = 'digitalgarden'
   url = '/articles'
   weight = 3
 [[menu.main]]
-  name = 'Stack'
+  name = 'Tools'
   url = '/stack'
   weight = 4
 [[menu.main]]
