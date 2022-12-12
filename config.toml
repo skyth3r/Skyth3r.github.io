@@ -21,7 +21,7 @@ theme = 'digitalgarden'
   weight = 3
 [[menu.main]]
   name = 'Tools'
-  url = '/stack'
+  url = '/tools'
   weight = 4
 [[menu.main]]
   name = 'Links'

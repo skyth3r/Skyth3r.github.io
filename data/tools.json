@@ -1,0 +1,65 @@
+[
+  {
+    "name": "1Password",
+    "description": "My go to password manager",
+    "link": "https://1password.com/",
+    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/1password.png",
+    "tag": "Utilities"
+  },
+  {
+    "name": "Mailbrew",
+    "description": "Combine content from various sources into managable digests",
+    "link": "https://mailbrew.com/",
+    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/mailbrew.png",
+    "tag": "Productivity"
+  },
+  {
+    "name": "Typefully",
+    "description": "My favourite Twitter writing/scheduling app",
+    "link": "https://typefully.com/?via=akash",
+    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/typefully.png",
+    "tag": "Social"
+  },
+  {
+    "name": "Readwise",
+    "description": "What I use to review my highlights from books & articles",
+    "link": "https://readwise.io/i/akash56",
+    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/readwise.png",
+    "tag": "Productivity"
+  },
+  {
+    "name": "Notion",
+    "description": "Versatile note taking app",
+    "link": "https://www.notion.so/",
+    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/notion.png",
+    "tag": "Productivity"
+  },
+  {
+    "name": "GitHub",
+    "description": "Code hosting platform for all projects",
+    "link": "https://github.com/",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png",
+    "tag": "Coding"
+  },
+  {
+    "name": "iTerm",
+    "description": "My favourite terminal app for MacOS",
+    "link": "https://iterm2.com/",
+    "icon": "https://icons.iconarchive.com/icons/froyoshark/enkel/256/iTerm-icon.png",
+    "tag": "Coding"
+  },
+  {
+    "name": "Gitpod",
+    "description": "Instant cloud development environment tool",
+    "link": "https://www.gitpod.io/",
+    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/gitpod.png",
+    "tag": "Coding"
+  },
+  {
+    "name": "Excalidraw",
+    "description": "Virtual whiteboarding tool for sketching hand-drawn like diagrams",
+    "link": "https://excalidraw.com/",
+    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/excalidraw.png",
+    "tag": "Utilities"
+  }
+]

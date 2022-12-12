@@ -14,4 +14,4 @@ This website is a home for everything I've learnt, enjoyed and things I've worke
 
 The best way to get in touch with me is probably via Twitter or email (both are listed in the menu bar of this website)
 
-While you're here check out some of my [articles](/articles) or [what tools I use](/stack)!
+While you're here check out some of my [articles](/articles) or [what tools I use](/tools)!
