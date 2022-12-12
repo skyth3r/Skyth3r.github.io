@@ -6,8 +6,12 @@ title: Homepage
 
 ## Welcome to my corner of the internet!
 
-I'm a London based Security Analyst, that enjoys writing, travelling, video games and a whole lot more (I'm also a [massive personal finance nerd](https://akashandmoney.com/)).
+I'm a London based coffee fueled Security Analyst. My interest include (but are not limited to); writing, travelling, coding, video games, and a recent favourite of mine, archey!
 
-This is a home for everything I'm interested in (which quite often changes from time to time). I'd like to think of it as a digital gardern (a type of personal wiki) but I guess I'm just going to see where this goes before putting a label on it right now.
+This website is a home for everything I've learnt, enjoyed and things I've worked on. Basically it's my [digital garden](https://maggieappleton.com/garden-history) - An ever growing collection of my notes, ideas, thoughts and more
 
-While you're here check out some of my [articles](/articles) or my [stack](/stack)!
+#### Want to contact me?
+
+The best way to get in touch with me is probably via Twitter or emai (both are listed in the menu bar of this website)
+
+While you're here check out some of my [articles](/articles) or [what tools I use](/stack)!
