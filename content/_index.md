@@ -6,7 +6,7 @@ title: Homepage
 
 ## Welcome to my corner of the internet!
 
-I'm a London based coffee fueled Security Analyst. My interests include (but are not limited to); writing, travelling, coding, video games, and a recent favourite of mine, archey!
+I'm a London based coffee fueled Security Analyst. My interests include, but are not limited to: writing, travelling, coding, video games, and a recent favourite of mine, archery!
 
 This website is a home for everything I've learnt, enjoyed and things I've worked on. Basically it's my [digital garden](https://maggieappleton.com/garden-history) - An ever growing collection of my notes, ideas, thoughts and more.
 
