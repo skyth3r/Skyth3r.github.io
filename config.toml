@@ -28,13 +28,17 @@ theme = 'digitalgarden'
   params.header = true
   weight = 5
 [[menu.main]]
+  name = 'Typefully'
+  url = 'https://typefully.com/akashgoswami_'
+  weight = 6
+[[menu.main]]
   name = 'Polywork'
   url = 'https://www.polywork.com/akash'
-  weight = 6
+  weight = 7
 [[menu.main]]
   name = 'Subscribe to Akash & Money'
   url = 'https://www.getrevue.co/profile/akashandmoney'
-  weight = 7
+  weight = 8
 
 [[menu.social]]
   name = 'Twitter'
