@@ -18,6 +18,7 @@
     "tailwindcss": "^3.1.7"
   },
   "devDependencies": {
-    "concurrently": "^6.4.0"
+    "concurrently": "^6.4.0",
+    "magic-snowflakes": "^6.1.0"
   }
 }
