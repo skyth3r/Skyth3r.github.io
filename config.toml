@@ -5,6 +5,7 @@ theme = 'digitalgarden'
 
 [Params]
   description = "Akash Goswami's personal website"
+  images = ['https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/akashgoswami.png']
 
 [menu]
 [[menu.main]]
