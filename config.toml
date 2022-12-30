@@ -35,7 +35,7 @@ enableRobotsTXT = true
   weight = 6
 [[menu.main]]
   name = 'Polywork'
-  url = 'https://www.polywork.com/akash'
+  url = 'https://timeline.akashgoswami.com'
   weight = 7
 [[menu.main]]
   name = 'Subscribe to Akash & Money'
