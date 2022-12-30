@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = 'Akash Goswami'
 theme = 'digitalgarden'
 enableRobotsTXT = true
+googleAnalytics = 'G-6RD6L79H3R'
 
 [Params]
   description = "Akash Goswami's personal website"
