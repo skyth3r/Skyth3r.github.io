@@ -8,6 +8,10 @@ enableRobotsTXT = true
   description = "Akash Goswami's personal website"
   images = ['https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/akashgoswami.png']
 
+[Params.newsletter]
+  title = ""
+  description = "Recieve new articles directly in your mailbox!"
+
 [menu]
 [[menu.main]]
   name = 'Home'

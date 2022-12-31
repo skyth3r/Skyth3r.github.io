@@ -12,7 +12,7 @@ My interests include, but are not limited to: writing, travelling, coding, video
 
 This website is a home for everything I've learnt, enjoyed and things I've worked on. Basically it's my [digital garden](https://maggieappleton.com/garden-history) - An ever growing collection of my notes, ideas, thoughts and more.
 
-While you're here check out some of my [articles](/articles) or [what tools I use](/tools)!
+While you're here check out some of my [articles](/articles) or [what tools I use](/tools). You can also subscribe to new articles I post either via [RSS](https://akashgoswami.com/articles/index.xml) or via [email](https://buttondown.email/akashgoswami)!
 
 ### Want to contact me?
 
