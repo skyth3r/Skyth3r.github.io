@@ -11,6 +11,8 @@ enableRobotsTXT = true
 [Params.newsletter]
   title = ""
   description = "Recieve new articles directly in your mailbox!"
+  provider = "buttondown"
+  path = "https://buttondown.email/api/emails/embed-subscribe/akashgoswami"
 
 [menu]
 [[menu.main]]
