@@ -79,7 +79,8 @@ I just wanted to give a little shoutout to them for how they helped me find the 
 
 #### Shoutouts:
 
-* [Sophie Koonin](https://localghost.dev/) - For having an awesome personal website that inspired me to redesign my website!
+* [Sophie Koonin](https://localghost.dev/) - For having an awesome personal website that inspired me to redesign mine!
 * [Bradley J Kemp](https://bradleyjkemp.dev/) - For suggesting the static site generator, [Hugo](https://gohugo.io/) to me which has now become my favourite web framework.
 * [Maggie Appleton](https://maggieappleton.com/) - For her brilliant essay on the history of digital gardens leading me to rethink what I wanted my personal website to be.
-* [Yusuf Bouzekri](https://www.yusuf.fyi/) - For his posts on [perfectionism](https://www.yusuf.fyi/posts/perfectionism) and [the content creation dilemma](https://www.yusuf.fyi/posts/the-content-creation-dilemma), both of which helped me actually publish this post.
+* [AP Varun](https://apvarun.com/) - For the minimal [digital garden hugo theme](https://github.com/apvarun/digital-garden-hugo-theme) I'm using for this website.
+* [Yusuf Bouzekri](https://www.yusuf.fyi/) - For his posts on [perfectionism](https://www.yusuf.fyi/posts/perfectionism) and [the content creation dilemma](https://www.yusuf.fyi/posts/the-content-creation-dilemma), which helped me actually publish this post after reading them both.
