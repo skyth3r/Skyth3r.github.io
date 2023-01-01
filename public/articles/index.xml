@@ -6,14 +6,16 @@
     <description>Recent content in Articles on Akash Goswami</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://Skyth3r.github.io/articles/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://Skyth3r.github.io/articles/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello World</title>
-      <link>https://Skyth3r.github.io/articles/hello-world/</link>
-      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      <title>Why you need a personal website</title>
+      <link>https://Skyth3r.github.io/articles/why-you-need-a-personal-website/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://Skyth3r.github.io/articles/hello-world/</guid>
-      <description>Coming Soon! → Homepage</description>
+      <guid>https://Skyth3r.github.io/articles/why-you-need-a-personal-website/</guid>
+      <description>Time and time again, we are shown that we cannot rely on third-party platforms to host our content.
+The internet is constantly changing and with that, the platforms that host our content are constantly in flux. Platforms can fall just as quickly as they can rise, either by just going completely offline or by making drastic changes to how people interact with content on their site/platform.
+There are countless examples of this happening in the past and more recently the 2022 Twitter meltdown has led to some massive changes.</description>
     </item>
     
   </channel>

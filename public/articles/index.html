@@ -157,7 +157,30 @@
 
   <div class="flex-1"></div>
 
+  <div class="newsletter-widget">
+  <div class="text-bold text-sm">Subscribe to my newsletter</div>
   
+  <p class="text-xs my-1 text-slate-500">Recieve new articles directly in your mailbox!</p>
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+
+  <form action="https://www.getrevue.co/profile/%3cnil%3e/add_subscriber" method="post" id="newsletter_form" name="revue-form" target="_blank">
+    <div class="mt-2">
+      <input type="email" class="w-full px-1.5 py-0.5 text-sm rounded border dark:border-slate-700 dark:bg-slate-600" name="member[email]" id="member_email" placeholder="Your email address...">
+      <input type="submit" class="mt-2 w-full text-center text-sm bg-slate-800 text-white dark:bg-slate-50 dark:text-slate-800 py-1 rounded cursor-pointer" name="member[subscribe]" id="member_submit" value="Subscribe">
+    </div>
+  </form>
+
+  
+</div>
 
   <ul class="list-none flex flex-wrap justify-center gap-1 pt-2 border-t border-slate-200 dark:border-slate-600">
     
@@ -259,15 +282,17 @@
     <a href="https://Skyth3r.github.io/articles/">
       <h2 class="font-bold mb-5 py-1 pl-12 pr-3 md:px-3">Articles</h2>
     </a><div class="space-y-2.5">
-      <a class="article block px-3 py-4 hover:bg-slate-200 dark:hover:bg-slate-700" href="/articles/hello-world/">
+      <a class="article block px-3 py-4 hover:bg-slate-200 dark:hover:bg-slate-700" href="/articles/why-you-need-a-personal-website/">
 
         
         
-        <img class="rounded max-w-full mb-4" src="https://raw.githubusercontent.com/apvarun/digital-garden-hugo-theme/main/images/digital-garden-logo.png" alt="Hello World" />
+        <img class="rounded max-w-full mb-4" src="https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/article-images/personal-website-header.png" alt="Why you need a personal website" />
         
-        <h3 class="text-lg font-semibold mb-0.5">Hello World</h3>
+        <h3 class="text-lg font-semibold mb-0.5">Why you need a personal website</h3>
         <div class="text-sm text-slate-500 dark:text-slate-400 line-clamp-2">
-          Coming Soon! → Homepage
+          Time and time again, we are shown that we cannot rely on third-party platforms to host our content.
+The internet is constantly changing and with that, the platforms that host our content are constantly in flux. Platforms can fall just as quickly as they can rise, either by just going completely offline or by making drastic changes to how people interact with content on their site/platform.
+There are countless examples of this happening in the past and more recently the 2022 Twitter meltdown has led to some massive changes.
         </div>
       </a>
       </div>
@@ -295,10 +320,6 @@ if (!doNotTrack) {
 }
 </script>
 
-<script src="https://unpkg.com/magic-snowflakes/dist/snowflakes.min.js"></script>
-  <script>
-  	new Snowflakes();
-	</script>
 </body>
 
 </html>
