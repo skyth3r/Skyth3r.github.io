@@ -1,6 +1,6 @@
 ---
 title: Why you need a personal website
-date: 2023-01-01
+date: 2023-01-01T09:00:00
 lastmod: 2023-01-02
 images: 
 - https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/article-images/personal-website-header.png
