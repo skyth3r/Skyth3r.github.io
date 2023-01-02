@@ -48,6 +48,14 @@
 		{{ if ne $lastmod $date}}
 			<br/> Last tended to on {{ .Lastmod.Format "January 2, 2006" }}
         {{ end }}
+      <br/> Tags:
+			{{ with .Param "tags" }}
+				{{ range $index, $tag := (. | sort) }} 
+					{{ with $.Site.GetPage (printf "/%s/%s" "tags" $tag) }}
+						<a href="{{ .Permalink }}">#{{ $tag | urlize }}</a>
+					{{ end }}
+				{{ end }}
+			{{ end }}
 	  </p>
       {{ end }}
 
