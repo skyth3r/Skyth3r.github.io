@@ -46,7 +46,7 @@
 	  {{ if .Date }}
       <p class="text-sm text-slate-500 !mb-8"> Planted {{ $date }}
 		{{ if ne $lastmod $date}}
-			<br/> Pruned {{ .Lastmod.Format "January 2, 2006" }}
+			<br/> Last tended to on {{ .Lastmod.Format "January 2, 2006" }}
         {{ end }}
 	  </p>
       {{ end }}
@@ -59,7 +59,7 @@
 
       {{ .Content }}
       <hr>
-      <p>If you liked this post, consider buying me a coffee to show your support! ☕</p>
+      <p class="text-sm text-slate-500 !mb-8">If you liked this post, consider buying me a coffee to show your support! ☕</p>
       <div class="grid place-items-center">
         <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="akashgoswami_" data-color="#FFDD00" data-emoji=""  data-font="Bree" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
       </div>
