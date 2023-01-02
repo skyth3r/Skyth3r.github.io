@@ -1,6 +1,7 @@
 ---
 title: Why you need a personal website
 date: 2023-01-01
+lastmod: 2023-01-02
 images: 
 - https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/article-images/personal-website-header.png
 tags: ['web-dev', 'hugo', 'digital-garden']
@@ -52,7 +53,7 @@ For now, I plan on writing things around programming, tech, travel, video games,
 
 ### This is NOT a blog
 
-I'm kind of against the idea of calling this a blog. I found that having a blog always feel really pressurising. It felt like every post had to be perfect and I would end up spending too much time polishing up each post before publishing them. I would end up publishing less and less over time, while fussing over each post, trying to chase that sense of [perfection](https://www.yusuf.fyi/posts/perfectionism).
+I'm kind of against the idea of calling this a blog. I found that having a blog always felt really pressurising. It felt like every post had to be perfect and I would end up spending too much time polishing up each post before publishing them. I would end up publishing less and less over time, while fussing over each post, trying to chase that sense of [perfection](https://www.yusuf.fyi/posts/perfectionism).
 
 ### Welcome to my Digital Garden!
 
@@ -82,5 +83,5 @@ I just wanted to give a little shoutout to them for how they helped me find the 
 * [Sophie Koonin](https://localghost.dev/) - For having an awesome personal website that inspired me to redesign mine!
 * [Bradley J Kemp](https://bradleyjkemp.dev/) - For suggesting the static site generator, [Hugo](https://gohugo.io/) to me which has now become my favourite web framework.
 * [Maggie Appleton](https://maggieappleton.com/) - For her brilliant essay on the history of digital gardens leading me to rethink what I wanted my personal website to be.
-* [AP Varun](https://apvarun.com/) - For the minimal [digital garden hugo theme](https://github.com/apvarun/digital-garden-hugo-theme) I'm using for this website.
+* [AP Varun](https://apvarun.com/) - For the minimal [digital garden Hugo theme](https://github.com/apvarun/digital-garden-hugo-theme) I'm using for this website.
 * [Yusuf Bouzekri](https://www.yusuf.fyi/) - For his posts on [perfectionism](https://www.yusuf.fyi/posts/perfectionism) and [the content creation dilemma](https://www.yusuf.fyi/posts/the-content-creation-dilemma), which helped me actually publish this post after reading them both.
