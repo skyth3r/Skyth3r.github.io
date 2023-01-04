@@ -48,6 +48,13 @@
 		{{ if ne $lastmod $date}}
 			<br/> Last tended to on {{ .Lastmod.Format "January 2, 2006" }}
         {{ end }}
+      <br/>
+      {{ if gt .ReadingTime 1 }}
+        {{ .Scratch.Set "readingTime" "minutes" }}
+      {{ else }}
+        {{ .Scratch.Set "readingTime" "minute" }}
+      {{ end }}
+      Reading time: {{ .ReadingTime }} {{ .Scratch.Get "readingTime" }}
 	  </p>
       {{ end }}
 
