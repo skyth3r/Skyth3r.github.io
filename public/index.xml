@@ -18,5 +18,36 @@ The internet is constantly changing and with that, the platforms that host our c
 There are countless examples of this happening in the past and more recently the 2022 Twitter meltdown has led to some massive changes.</description>
     </item>
     
+    <item>
+      <title>Manual Receipt Generator</title>
+      <link>https://Skyth3r.github.io/portfolio/manual-receipt-generator/</link>
+      <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Skyth3r.github.io/portfolio/manual-receipt-generator/</guid>
+      <description>A simple python third party terminal client based on the reference receipts app that attaches receipts to Monzo transactions using the Monzo Receipts API and a json payload.
+You can find the source code here on GitHub.</description>
+    </item>
+    
+    <item>
+      <title>TfL to Monzo</title>
+      <link>https://Skyth3r.github.io/portfolio/tfl-to-monzo/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://Skyth3r.github.io/portfolio/tfl-to-monzo/</guid>
+      <description>TfL to Monzo was an severless application built as my project for my Cloud Computing module at university with a friend.
+It was written in Python and made use of AWS Lambda to process TfL jounrey data into Monzo recipts.
+The Lambda function would recieve incoming transcation webhook events from a linked Monzo account, check if they were TfL transcations and then run a web scraper script to extract the matching journey data from the TfL web portal before then submitting this data as a reciept to the Monzo receipt API endpoint.</description>
+    </item>
+    
+    <item>
+      <title>Credit Card Workout</title>
+      <link>https://Skyth3r.github.io/portfolio/credit-card-workout/</link>
+      <pubDate>Sun, 29 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://Skyth3r.github.io/portfolio/credit-card-workout/</guid>
+      <description>A website that takes a users credit card balance, interest rate and monthly amount they wish to pay to calculate how long it would take them to pay their debt off as well as showing them how much interest they have accumulated. This was made within 24 hours for the Porticode 2.0 Hackathon.
+The source code is hosted here on GitHub</description>
+    </item>
+    
   </channel>
 </rss>

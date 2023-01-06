@@ -1,4 +1,4 @@
 ---
-title: Portfolio (demo)
-description: User Experience built for you
+title: Projects
+description: Things I've worked on
 ---
