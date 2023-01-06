@@ -1,4 +1,4 @@
 ---
-title: Tools
-description: Tools I use everyday (or at least most days)
+title: Stack
+description: Please refer to tools pages for what tools I use day to day
 ---

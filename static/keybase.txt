@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/akashgoswami
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://akashgoswami.com
+  * I am akashgoswami (https://keybase.io/akashgoswami) on keybase.
+  * I have a public key with fingerprint 0169 CBD7 05F5 2FBE 30C4  F758 AB65 7AF2 D968 F004
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c18a9cc0b308d91b968f0f49463b284053f637c909b929d474f1d054bfd229d60a",
+      "fingerprint": "0169cbd705f52fbe30c4f758ab657af2d968f004",
+      "host": "keybase.io",
+      "key_id": "ab657af2d968f004",
+      "kid": "0101624fc1a163e82e4754474bc731c690c919b9bff36ddfd0f88af202e8bec689b80a",
+      "uid": "f70b9d64cf76325ab048edd8d4eb0219",
+      "username": "akashgoswami"
+    },
+    "service": {
+      "hostname": "akashgoswami.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1567894864,
+  "expire_in": 157680000,
+  "prev": "1fdab3bfd0c7a2d8b5e84545ab8b3a5163fd431ab0ae84df23acdf171f0eef3a",
+  "seqno": 12,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/crypto
+
+yMNoAnicbZJrTFxFFMcXKFTYiusDtNJCvZWHFHDu+16KrTZWCRJKgxZDgPXOvTO7
+V2CX7i7PSkFqm1qIVNIQXeTRtGgK3Q1NxARlpbyMtmgbNbTFhNgllRbSWkFaQjRx
+lthvnS+TmfM/v/M/Z2b80RBDRFAfql28Zr27LujiSHeFociVmnuAgnathko/QJWg
+tQ2VasjpMpfoGpVOAZoBKi0psqoCyAJJk2koCxIGmJM5gYWMxAGexQIrqjKQoczI
+GidymNYAz0GsMeQsAIVKobBusyBHuUO3udawgqxCTQQ85hkMEQtUDou8pECBFxXM
+aGs1AEcSrXZnIIOYg4oTpel2ckcO5jV7D9E/8E1KMBxWaYUWWCQxiBN5jliDqsjS
+qiADVaaJX4gxK2ga1gCWJAICDJIgUgVJhtKa74o1HBYBJJ1wKhYFluEVCDgJaZqk
+cQgChpYDQidy2JQyFHBVojitFruzSinTqboUikQqdRUFhhvo5iGqNNVeRhjlDrvL
+rtpLSdTqcpU70wPZrprygLwKQfP/IDPUbRqZJ8moRA6nbrdR6TRRqi49QKZ5QZRk
+ThK4FApVl+sOZNYDCl4UJEBWoA6qJEgaawpkyTMBVVQYTYI8kjieI+1JkFV4Mjis
+cSxNulVIQMMMq6gapkUaA4QwGxiPE+232QmbIT4VC2E6dYtNcVU4EFU3OlK4zhAU
+YQgLDQ58NENEuOnB96uNMhn6X7ILd1Kf20ltPxJznu1Wd11+J9WdsS2hyOq+4q93
++4o/6485fedvFkQudA4uzvjSv+Te9BTssznGloxNxzLPzC6eHPO2j3hu5C/4s4/L
+Jlf+7NHz3TuL6/3Gtzb7gq1zvqGkkaXMTmO0qTRuwtg1tWP3dPFPvDGyx/2bd7NW
+IwdnVF/ywKxv85/OeKasc/C9xkMnC/+pUH42P+ndvf+JFNVfLfzYDOP+6Nm0uivU
+Ohn/eu4OKXxxkfYXnfpdbuxjJzmTYXlyYmEbV0N/Ic+7b+8dODHf3E5nPz/99iO3
+TAN/LnwV2+XLSRyfy0lY+bjB+6tQcOoqFzwd5t0a+4ll8HJVlBjneSyr56PmvzI7
+3jjcxgo9Y/VDlq8P1b4a4g1v63Gv983rob0b9kWcaArJiP30MDye+OJNvGnv6nja
+nqQdidkX/o3stlQEJ9Ua/Ikb/beF2afYX/ZwG0YnbnTcu9cWc8F1991bAJzLbmrm
+u4YfLzPm3h87R4VFO68kr8Yn21rmbL1ntqwcaagztnql08l5rU3t/M2NE83D3VOf
+U9eXU66WJCX5ll85+N21pUl5+LW6hJbGPmFrxMUPo6L7LVuWfrh09uzK+oIBMHO9
+NyuLGYl/IWjaM7X95aY8cS6y6HvP/enwD+TWYzOjo3xBWEzOgpD7vvvZcQ/d8k1h
+R97QwYb/AGuzvKE=
+=AKwP
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/akashgoswami
+
+==================================================================
