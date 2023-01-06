@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/akashgoswami
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://akashgoswami.com
+  * I am akashgoswami (https://keybase.io/akashgoswami) on keybase.
+  * I have a public key ASDBipzAswjZG5aPD0lGOyhAU_Y3yQm5KdR08dBUv9Ip1go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c18a9cc0b308d91b968f0f49463b284053f637c909b929d474f1d054bfd229d60a",
+      "host": "keybase.io",
+      "kid": "0120c18a9cc0b308d91b968f0f49463b284053f637c909b929d474f1d054bfd229d60a",
+      "uid": "f70b9d64cf76325ab048edd8d4eb0219",
+      "username": "akashgoswami"
+    },
+    "merkle_root": {
+      "ctime": 1673005864,
+      "hash": "99567fc720f62c3427b92f2c6f3075073f814a123f2fc2b21470b49a2611eff720d82a177cfdb2e919cb4fa92f26d85779860fcdd0f50fccb25fbb504f8bab92",
+      "hash_meta": "408789c10555a12676ec09e4b5e7dd49fe4886d29d20d3d48a92a33c620467f8",
+      "seqno": 23821589
+    },
+    "service": {
+      "entropy": "k1xFAmpgcULJnLEf3DVvJNI3",
+      "hostname": "akashgoswami.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.3"
+  },
+  "ctime": 1673005878,
+  "expire_in": 504576000,
+  "prev": "077226d6324972f7a96794f3adda16b0e626ea0ed43c2002bb06e8e6143a736e",
+  "seqno": 42,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgwYqcwLMI2RuWjw9JRjsoQFP2N8kJuSnUdPHQVL/SKdYKp3BheWxvYWTESpcCKsQgB3Im1jJJcvepZ5TzrdoWsOYm6g7UPCACuwbo5hQ6c27EIBJIYxvK8iZg0ivBzhGY8dde0kOUDA+An9RRCZqbQq4bAgHCo3NpZ8RAAU1kNbuDTJ+U6W3DGYTqzzNfI+K276OZ/TS3pcMeq+kTvxrfsdtC57fKaKpIPOL+OLFkdPSdYmkoYRZ3MpEAAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIG3ksF+IRSdxEfiP/oM3PVMXmg0zXeVZ6omLwVvILkDBo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/akashgoswami
+
+==================================================================
