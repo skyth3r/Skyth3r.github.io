@@ -8,7 +8,7 @@
   </div>
 
   <div class="px-6 pb-6 w-full lg:w-[580px] max-w-[65ch] mx-auto flex flex-col gap-5 h-fit">
-    {{ range $index, $stack := .Site.Data.stack }}
+    {{ range $index, $tools := .Site.Data.tools }}
     <a href="{{ .link }}" target="_blank" rel="noopener noreferrer"
       class="flex items-center gap-2.5 p-4 rounded hover:bg-slate-200 dark:hover:bg-slate-700 group {{ if not (modBool $index 2) }} flex-row-reverse text-right {{ end }}">
       {{ if .icon }}
