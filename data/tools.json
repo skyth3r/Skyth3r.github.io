@@ -38,14 +38,14 @@
     "name": "GitHub",
     "description": "Code hosting platform for all projects",
     "link": "https://github.com/",
-    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png",
+    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/github.png",
     "tag": "Coding"
   },
   {
     "name": "iTerm",
     "description": "My favourite terminal app for MacOS",
     "link": "https://iterm2.com/",
-    "icon": "https://icons.iconarchive.com/icons/froyoshark/enkel/256/iTerm-icon.png",
+    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/iterm.png",
     "tag": "Coding"
   },
   {
@@ -53,6 +53,34 @@
     "description": "Instant cloud development environment tool",
     "link": "https://www.gitpod.io/",
     "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/gitpod.png",
+    "tag": "Coding"
+  },
+  {
+    "name": "Rocket",
+    "description": "Slack style emojo shortcuts for MacOS",
+    "link": "https://matthewpalmer.net/rocket/",
+    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/rocket.png",
+    "tag": "Utilities"
+  },
+  {
+    "name": "Raycast",
+    "description": "Supercharged application launcher for MacOS",
+    "link": "https://www.raycast.com/",
+    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/raycast.png",
+    "tag": "Utilities"
+  },
+  {
+    "name": "Figma",
+    "description": "Web based design tool",
+    "link": "https://www.figma.com/",
+    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/figma.png",
+    "tag": "Design"
+  },
+  {
+    "name": "Visual Studio Code",
+    "description": "Light weight source code editor",
+    "link": "https://code.visualstudio.com/",
+    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/vs-code.png",
     "tag": "Coding"
   },
   {
