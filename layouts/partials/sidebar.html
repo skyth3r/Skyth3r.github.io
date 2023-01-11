@@ -42,7 +42,7 @@
     {{ range .Site.Menus.social }}
     <li>
       <a class="px-2 py-1.5 rounded-md text-sm block text-slate-800 dark:text-slate-50 {{ if eq (.URL|absURL) $permalink }} bg-slate-800 text-white dark: {{ else }} hover:bg-slate-200 dark:hover:bg-slate-700 {{ end }}"
-        href="{{ .URL }}" target="_blank" rel="noopener noreferrer">
+        href="{{ .URL }}" target="_blank" rel="noopener noreferrer me">
         <span class="sr-only">{{ .Name }}</span>
         {{ if eq .Name "Twitter" }}
         <span>{{- partial "icon/twitterIcon.html" . -}}</span>
