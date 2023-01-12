@@ -4,6 +4,7 @@ date: 2023-01-01T09:00:00
 lastmod: 2023-01-02
 images: 
 - https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/article-images/personal-website-header.png
+description: Time and time again, we are shown that we cannot rely on third-party platforms to host our content. It's time to start owning our digital content.
 tags: ['web-dev', 'hugo', 'digital-garden']
 ---
 
