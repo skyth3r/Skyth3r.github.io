@@ -43,10 +43,6 @@ enableRobotsTXT = true
   name = 'Polywork'
   url = 'https://timeline.akashgoswami.com'
   weight = 7
-[[menu.main]]
-  name = 'Subscribe to Akash & Money'
-  url = 'https://www.getrevue.co/profile/akashandmoney'
-  weight = 8
 
 [[menu.social]]
   name = 'Twitter'
@@ -58,7 +54,7 @@ enableRobotsTXT = true
   weight = 2
 [[menu.social]]
   name = 'Mastodon'
-  url = 'https://mastodon.world/@akashgoswami'
+  url = 'https://hachyderm.io/@akashgoswami'
   weight = 3
 [[menu.social]]
   name = 'Email'
