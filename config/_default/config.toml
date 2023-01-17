@@ -58,7 +58,7 @@ enableRobotsTXT = true
   weight = 2
 [[menu.social]]
   name = 'Mastodon'
-  url = 'https://mastodon.world/@akashgoswami'
+  url = 'https://hachyderm.io/@akashgoswami'
   weight = 3
 [[menu.social]]
   name = 'Email'
