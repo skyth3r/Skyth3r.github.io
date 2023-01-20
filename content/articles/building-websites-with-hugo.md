@@ -135,4 +135,4 @@ That's it! You've built your own website 🎉
 
 Now that you know the basics, feel free to edit anything you like; switch themes, write new posts, the choice is yours. You can now host your own website, and push new content to it by syncing your changes from your machine to GitHub via GitHub Desktop. Just remember to also run the `hugo` command to rebuild the website after making any changes.
 
-If you found this guide helpful at all or want to suggest an improve, feel free to reach out to me and let me know.
+If you found this guide helpful at all or want to suggest an improvement, feel free to reach out to me and let me know.
