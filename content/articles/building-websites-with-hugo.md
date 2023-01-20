@@ -19,7 +19,7 @@ For this demo, I'm going to be using the [Hugo Bear Blog theme](https://github.c
 
 While it's not needed, I would recommend spending some money and buying a domain name. Usually, most people want a domain in the format of firstNameLastName[dot]com, but you can pick anything you like. For example, Sophie's domain is [localghost.dev](https://localghost.dev/), a fun play on words for localhost. 
 
-A domain name shouldn't cost too much and you can buy one from a several domain name registrars. I bought my domain name, akashgoswami.com via [Google Domains](https://domains.google/) and pay £10 a year for it (that's less than £1 a month!).
+A domain name shouldn't cost too much and you can buy one from several domain name registrars. I bought my domain name, akashgoswami.com via [Google Domains](https://domains.google/) and pay £10 a year for it (that's less than £1 a month!).
 
 ## What is Hugo?
 [Hugo](https://gohugo.io/) is a fast static site generator tool written in [Go](https://go.dev/). It uses templates and markdown files to generate webpages in seconds. The final result is a set of HTML files that you can deploy as a website using a hosting provider such as [GitHub Pages](https://pages.github.com/).
@@ -42,7 +42,7 @@ You'll need something to edit your code in. I like using [Visual Studio Code](ht
 
 ### Familiarity with using a command line app
 
-You'll need to navigate around files and to run some Hugo commands using the command line interface. On macOS the built in command line tool is called 'Terminal' (but I prefer using [iTerm2](https://iterm2.com/)) and on Windows its Powershell. 
+You'll need to navigate around files and run some Hugo commands using the command line interface. On macOS, the built-in command line tool is called 'Terminal' (but I prefer using [iTerm2](https://iterm2.com/)) and on Windows it's Powershell. 
 
 ### A Package Manager
 
@@ -52,11 +52,11 @@ macOS - [Installation instructions for Homebrew](https://brew.sh/)
 
 Windows - [Installation instructions for Chocolatey](https://chocolatey.org/install)
 
-Linux - If you use a Linux based OS then you can find the [correct installation steps for your Linux distro here](https://gohugo.io/installation/linux/)
+Linux - If you use a Linux-based OS then you can find the [correct installation steps for your Linux distro here](https://gohugo.io/installation/linux/)
 
 ### GitHub (and Git)
 
-To host the website, we're going to use GitHub Pages, so you'll need a [GitHub](https://github.com/) account. Create an account (please also enable 2 factor authentication) and then install [GitHub Desktop](https://desktop.github.com/).
+To host the website, we're going to use GitHub Pages, so you'll need a [GitHub](https://github.com/) account. Create an account (please also enable 2-factor authentication) and then install [GitHub Desktop](https://desktop.github.com/).
 
 You'll also need to install Git via your package manager if it's not already on your machine:
 
@@ -90,7 +90,7 @@ cd username.github.io
 git init
 ```
 
-After that we want to add our Hugo theme and set it as well by using the following two commands
+After that, we want to add our Hugo theme and set it as well by using the following two commands
 
 ```
 git submodule add https://github.com/janraasch/hugo-bearblog themes/hugo-bearblog
@@ -113,11 +113,11 @@ Once you've made your changes, you can build your website by running the `hugo` 
 
 Now that we're happy with our website, we'll want to upload it to GitHub. Open the GitHub Desktop application and then go to File > Open Local Repository. 
 
-Make sure you tick all the files and then enter a commit message. It does't have to be too fancy, 'first commit' works well. Once you've done that, click 'Commit to main' and then the 'Publish repository' button. A popup will appear asking you to name your new repository. Name it 'username.github.io' and set it to be public before you click the 'Publish Repository' button.
+Make sure you tick all the files and then enter a commit message. It doesn't have to be too fancy, 'first commit' works well. Once you've done that, click 'Commit to main' and then the 'Publish repository' button. A popup will appear asking you to name your new repository. Name it 'username.github.io' and set it to be public before you click the 'Publish Repository' button.
 
 ### GitHub Actions
 
-To deploy your website, open the new repository via GitHub on a web browser, and then head to the Settings > Pages. 
+To deploy your website, open the new repository via GitHub on a web browser, and then head to Settings > Pages. 
 
 From here you can switch the source to 'GitHub Actions' and the default Hugo action should be suggested. Click configure button and then commit the code to your main branch.
 
@@ -125,7 +125,7 @@ If you now head back to the Actions tab you can see a workflow running to build 
 
 #### Setting your domain name (Optional)
 
-If you have a custom domain, you can set your website's name from the Custom Domain section of the Pages settings page. You'll also need to set your DNS records from your domain register to point to GitHub. 
+If you have a custom domain, you can set your website's name from the Custom Domain section of the Pages settings page. You'll also need to set your DNS records from your domain registrar to point to GitHub. 
 
 ## Wrapping up
 
