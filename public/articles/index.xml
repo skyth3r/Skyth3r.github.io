@@ -6,7 +6,17 @@
     <description>Recent content in Articles on Akash Goswami</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jan 2023 09:00:00 +0000</lastBuildDate><atom:link href="https://Skyth3r.github.io/articles/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Jan 2023 08:00:00 +0000</lastBuildDate><atom:link href="https://Skyth3r.github.io/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building websites with Hugo</title>
+      <link>https://Skyth3r.github.io/articles/building-websites-with-hugo/</link>
+      <pubDate>Fri, 20 Jan 2023 08:00:00 +0000</pubDate>
+      
+      <guid>https://Skyth3r.github.io/articles/building-websites-with-hugo/</guid>
+      <description>In the last few months, there has been a flurry of activity around personal blogs and owning your own data, since Musk took the reins of Twitter.
+With that, a lot of people have been wondering how they can start their own websites. Since re-launching my website, I&amp;rsquo;ve had people ask me how they can make their own website in the last few weeks. To avoid repeating myself, I&amp;rsquo;ve put together a guide on how you can build a website using Hugo and GitHub Pages.</description>
+    </item>
+    
     <item>
       <title>Why you need a personal website</title>
       <link>https://Skyth3r.github.io/articles/why-you-need-a-personal-website/</link>
