@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+<html lang="en" itemscope itemtype="http://schema.org/WebPage">
+<head>
+  <meta charset="utf-8" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <link rel="icon" href="/favicon.ico">
+
+  <title>
+    Building websites with Hugo - Akash Goswami
+  </title>
+
+  <meta name="description" content="A guide on building your own website for free using Hugo and Github Pages." /><meta name="generator" content="Hugo 0.107.0">
+
+  <link rel="stylesheet" href="https://Skyth3r.github.io/css/main.css" />
+
+  
+  
+
+  <meta property="og:title" content="Building websites with Hugo" />
+<meta property="og:description" content="A guide on building your own website for free using Hugo and Github Pages." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://Skyth3r.github.io/articles/building-websites-with-hugo/" /><meta property="og:image" content="https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/article-images/setting-up-hugo-header.png" /><meta property="article:section" content="articles" />
+<meta property="article:published_time" content="2023-01-20T08:00:00+00:00" />
+<meta property="article:modified_time" content="2023-01-20T08:00:00+00:00" />
+
+
+
+  <meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/article-images/setting-up-hugo-header.png"/>
+
+<meta name="twitter:title" content="Building websites with Hugo"/>
+<meta name="twitter:description" content="A guide on building your own website for free using Hugo and Github Pages."/>
+
+
+  <meta itemprop="name" content="Building websites with Hugo">
+<meta itemprop="description" content="A guide on building your own website for free using Hugo and Github Pages."><meta itemprop="datePublished" content="2023-01-20T08:00:00+00:00" />
+<meta itemprop="dateModified" content="2023-01-20T08:00:00+00:00" />
+<meta itemprop="wordCount" content="1230"><meta itemprop="image" content="https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/article-images/setting-up-hugo-header.png">
+<meta itemprop="keywords" content="web-dev,hugo," />
+
+  <meta itemprop="name" content="Building websites with Hugo">
+<meta itemprop="description" content="A guide on building your own website for free using Hugo and Github Pages."><meta itemprop="datePublished" content="2023-01-20T08:00:00+00:00" />
+<meta itemprop="dateModified" content="2023-01-20T08:00:00+00:00" />
+<meta itemprop="wordCount" content="1230"><meta itemprop="image" content="https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/article-images/setting-up-hugo-header.png">
+<meta itemprop="keywords" content="web-dev,hugo," />
+</head><body class="flex relative h-full min-h-screen"><aside
+  class="will-change-transform transform transition-transform -translate-x-full absolute top-0 left-0 md:relative md:translate-x-0 w-3/4 md:w-60 h-full min-h-screen p-3 bg-slate-50 dark:bg-slate-800 border-r border-slate-200 dark:border-slate-700 flex flex-col gap-2.5 z-20 sidebar">
+  <p class="font-bold mb-5 flex items-center gap-2">
+    <button aria-label="Close sidebar"
+      class="md:hidden menu-trigger-close p-1 rounded text-slate-800 dark:text-slate-50 hover:bg-slate-200 dark:hover:bg-slate-700"><svg class="h-6 w-6" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor"
+  fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" />
+  <line x1="18" y1="6" x2="6" y2="18" />
+  <line x1="6" y1="6" x2="18" y2="18" />
+</svg></button>
+    <a href="https://Skyth3r.github.io" class="px-2">
+      <span>Akash Goswami</span>
+    </a>
+    <button aria-label="Toggle dark mode"
+      class="dark-mode-toggle p-2 rounded border dark:border-slate-700 hover:bg-slate-200 dark:hover:bg-slate-700"><svg class="h-4 w-4" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor"
+  fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" />
+  <circle cx="12" cy="12" r="4" />
+  <path d="M3 12h1M12 3v1M20 12h1M12 20v1M5.6 5.6l.7 .7M18.4 5.6l-.7 .7M17.7 17.7l.7 .7M6.3 17.7l-.7 .7" />
+</svg></button>
+  </p>
+
+  
+  <ul class="list-none flex flex-col gap-1">
+    
+    <li>
+      <a class="px-2 py-1.5 rounded-md text-sm flex items-center justify-between  hover:bg-slate-200 dark:hover:bg-slate-700 "
+        href="/" >
+        <span>Home</span>
+        
+      </a>
+    </li>
+    
+    <li>
+      <a class="px-2 py-1.5 rounded-md text-sm flex items-center justify-between  text-slate-600 font-semibold pb-0 pl-1 border-b cursor-default pointer-events-none "
+        href="#" >
+        <span>Content</span>
+        
+      </a>
+    </li>
+    
+    <li>
+      <a class="px-2 py-1.5 rounded-md text-sm flex items-center justify-between  hover:bg-slate-200 dark:hover:bg-slate-700 "
+        href="/articles" >
+        <span>Articles</span>
+        
+      </a>
+    </li>
+    
+    <li>
+      <a class="px-2 py-1.5 rounded-md text-sm flex items-center justify-between  hover:bg-slate-200 dark:hover:bg-slate-700 "
+        href="/tools" >
+        <span>Tools</span>
+        
+      </a>
+    </li>
+    
+    <li>
+      <a class="px-2 py-1.5 rounded-md text-sm flex items-center justify-between  text-slate-600 font-semibold pb-0 pl-1 border-b cursor-default pointer-events-none "
+        href="#" >
+        <span>Links</span>
+        
+      </a>
+    </li>
+    
+    <li>
+      <a class="px-2 py-1.5 rounded-md text-sm flex items-center justify-between  hover:bg-slate-200 dark:hover:bg-slate-700 "
+        href="https://typefully.com/akashgoswami_"  target="_blank"
+        rel="noopener" >
+        <span>Typefully</span>
+        
+        <span><svg class="h-4 w-4" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor"
+  fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" />
+  <path d="M11 7h-5a2 2 0 0 0 -2 2v9a2 2 0 0 0 2 2h9a2 2 0 0 0 2 -2v-5" />
+  <line x1="10" y1="14" x2="20" y2="4" />
+  <polyline points="15 4 20 4 20 9" />
+</svg></span>
+        
+      </a>
+    </li>
+    
+    <li>
+      <a class="px-2 py-1.5 rounded-md text-sm flex items-center justify-between  hover:bg-slate-200 dark:hover:bg-slate-700 "
+        href="https://timeline.akashgoswami.com"  target="_blank"
+        rel="noopener" >
+        <span>Polywork</span>
+        
+        <span><svg class="h-4 w-4" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor"
+  fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" />
+  <path d="M11 7h-5a2 2 0 0 0 -2 2v9a2 2 0 0 0 2 2h9a2 2 0 0 0 2 -2v-5" />
+  <line x1="10" y1="14" x2="20" y2="4" />
+  <polyline points="15 4 20 4 20 9" />
+</svg></span>
+        
+      </a>
+    </li>
+    
+  </ul>
+
+  <div class="flex-1"></div>
+
+  <div class="newsletter-widget">
+  <div class="text-bold text-sm">Subscribe to my newsletter</div>
+  
+  <p class="text-xs my-1 text-slate-500">Recieve new articles directly in your mailbox!</p>
+  
+
+  
+  
+  
+  
+
+  
+
+  <form action="https://buttondown.email/api/emails/embed-subscribe/akashgoswami" method="post" id="newsletter_form" name="" target="_blank">
+    <div class="mt-2">
+      <input type="email" class="w-full px-1.5 py-0.5 text-sm rounded border dark:border-slate-700 dark:bg-slate-600" name="email" id="member_email" placeholder="Your email address...">
+      <input type="submit" class="mt-2 w-full text-center text-sm bg-slate-800 text-white dark:bg-slate-50 dark:text-slate-800 py-1 rounded cursor-pointer" name="subscribe" id="member_submit" value="Subscribe">
+    </div>
+  </form>
+
+  
+</div>
+
+  <ul class="list-none flex flex-wrap justify-center gap-1 pt-2 border-t border-slate-200 dark:border-slate-600">
+    
+    <li>
+      <a class="px-2 py-1.5 rounded-md text-sm block text-slate-800 dark:text-slate-50  hover:bg-slate-200 dark:hover:bg-slate-700 "
+        href="https://twitter.com/akashgoswami_" target="_blank" rel="noopener noreferrer me">
+        <span class="sr-only">Twitter</span>
+        
+        <span><svg class="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+  stroke-linecap="round" stroke-linejoin="round">
+  <path
+    d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z" />
+</svg></span>
+        
+      </a>
+    </li>
+    
+    <li>
+      <a class="px-2 py-1.5 rounded-md text-sm block text-slate-800 dark:text-slate-50  hover:bg-slate-200 dark:hover:bg-slate-700 "
+        href="https://github.com/Skyth3r" target="_blank" rel="noopener noreferrer me">
+        <span class="sr-only">GitHub</span>
+        
+        <span><svg class="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+  stroke-linecap="round" stroke-linejoin="round">
+  <path
+    d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22" />
+</svg></span>
+        
+      </a>
+    </li>
+    
+    <li>
+      <a class="px-2 py-1.5 rounded-md text-sm block text-slate-800 dark:text-slate-50  hover:bg-slate-200 dark:hover:bg-slate-700 "
+        href="https://hachyderm.io/@akashgoswami" target="_blank" rel="noopener noreferrer me">
+        <span class="sr-only">Mastodon</span>
+        
+        <span><svg class="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+  stroke-linecap="round" stroke-linejoin="round">
+  <path d="M21.6,13.9c-0.3,1.5-2.6,3.2-5.3,3.5c-1.4,0.2-2.8,0.3-4.3,0.3C9.6,17.5,7.7,17,7.7,17c0,0.2,0,0.5,0,0.7 c0.3,2.4,2.4,2.5,4.3,2.6c2,0.1,3.7-0.5,3.7-0.5l0.1,1.8c0,0-1.4,0.7-3.8,0.9c-1.3,0.1-3,0-4.9-0.5c-4.2-1.1-4.9-5.6-5-10.1 C2,10.4,2,9.1,2,8c0-4.7,3-6,3-6C6.6,1.3,9.2,1,12,1H12c2.7,0,5.4,0.3,6.9,1c0,0,3,1.4,3,6C22,8,22,11.5,21.6,13.9"/>
+  <path d="M6.7,13.7c0,0,0-4.3,0-5.4c0-1.6,1.1-2.5,2.7-2.5c1.8,0,2.6,1.5,2.6,3c0,0.9,0,2.6,0,2.6"/>
+  <path d="M17.3,13.7c0,0,0-4.3,0-5.4c0-1.6-1.1-2.5-2.7-2.5c-1.8,0-2.6,1.5-2.6,3c0,0.9,0,2.6,0,2.6"/>
+</svg></span>
+        
+      </a>
+    </li>
+    
+    <li>
+      <a class="px-2 py-1.5 rounded-md text-sm block text-slate-800 dark:text-slate-50  hover:bg-slate-200 dark:hover:bg-slate-700 "
+        href="mailto:akash@akashgoswami.com" target="_blank" rel="noopener noreferrer me">
+        <span class="sr-only">Email</span>
+        
+        <span><svg class="h-4 w-4" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor"
+  fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" />
+  <rect x="3" y="5" width="18" height="14" rx="2" />
+  <polyline points="3 7 12 13 21 7" />
+</svg></span>
+        
+      </a>
+    </li>
+    
+    <li>
+      <a class="px-2 py-1.5 rounded-md text-sm block text-slate-800 dark:text-slate-50  hover:bg-slate-200 dark:hover:bg-slate-700 "
+        href="/articles/index.xml" target="_blank" rel="noopener noreferrer me">
+        <span class="sr-only">RSS</span>
+        
+        <span><svg class="h-4 w-4" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor"
+  fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" />
+  <circle cx="5" cy="19" r="1" />
+  <path d="M4 4a16 16 0 0 1 16 16" />
+  <path d="M4 11a9 9 0 0 1 9 9" />
+</svg></span>
+        
+      </a>
+    </li>
+    
+  </ul>
+</aside>
+
+<div
+  class="fixed bg-slate-700 bg-opacity-5 transition duration-200 ease-in-out inset-0 z-10 pointer-events-auto md:hidden left-0 top-0 w-full h-full hidden menu-overlay">
+</div>
+
+<button aria-label="Toggle Sidebar"
+  class="md:hidden absolute top-3 left-3 z-10 menu-trigger p-1 rounded text-slate-800 dark:text-slate-50 hover:bg-slate-100"><svg class="h-6 w-6" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor"
+  fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" />
+  <line x1="4" y1="6" x2="20" y2="6" />
+  <line x1="4" y1="12" x2="20" y2="12" />
+  <line x1="4" y1="18" x2="16" y2="18" />
+</svg></button>
+<div class="flex-1">
+
+
+
+
+
+<div class="flex h-screen relative">
+
+  <section
+    class="will-change-transform transform transition-transform -translate-x-[200%] absolute top-0 left-0 lg:relative
+  lg:translate-x-0 lg:min-w-[400px] lg:w-1/4 h-full bg-slate-50 dark:bg-slate-800 border-r border-slate-200 dark:border-slate-700 lg:flex flex-col py-3 overflow-y-auto scroll-area">
+    
+    
+    <a href="https://Skyth3r.github.io/articles/">
+      <h2 class="font-bold mb-5 py-1 pl-12 pr-3 md:px-3">Articles</h2>
+    </a><div class="space-y-2.5">
+      
+      <a class="article block px-3 py-4  bg-slate-900 dark:bg-slate-700 text-slate-50 "
+        href="/articles/building-websites-with-hugo/">
+        
+        
+        <img class="rounded max-w-full mb-4" src="https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/article-images/setting-up-hugo-header.png" alt="Building websites with Hugo" />
+        
+        <h3 class="text-lg font-semibold mb-0.5">Building websites with Hugo</h3>
+        <div
+          class="text-sm  text-slate-400  line-clamp-3">
+          A guide on building your own website for free using Hugo and Github Pages.
+        </div>
+      </a>
+      
+      <a class="article block px-3 py-4  hover:bg-slate-200 dark:hover:bg-slate-700 "
+        href="/articles/why-you-need-a-personal-website/">
+        
+        
+        <img class="rounded max-w-full mb-4" src="https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/article-images/personal-website-header.png" alt="Why you need a personal website" />
+        
+        <h3 class="text-lg font-semibold mb-0.5">Why you need a personal website</h3>
+        <div
+          class="text-sm  text-slate-500 dark:text-slate-400  line-clamp-3">
+          Time and time again, we are shown that we cannot rely on third-party platforms to host our content. It&#39;s time to start owning our digital content.
+        </div>
+      </a>
+      </div>
+    </section>
+
+  <div class="overflow-y-auto h-screen w-full">
+    <article class="px-6 py-20 w-full mx-auto prose lg:prose-lg h-fit dark:prose-invert prose-img:mx-auto">
+
+      
+      <h1 class="!mb-2">Building websites with Hugo</h1>
+
+	  
+      <p class="text-sm text-slate-500 !mb-8"> Planted January 20, 2023
+		
+      <br/>
+      
+        
+      
+      Reading time: 6 minutes
+      <br/> Tags:
+      
+         
+          
+            <a href="https://Skyth3r.github.io/tags/hugo/">#hugo</a>
+          
+         
+          
+            <a href="https://Skyth3r.github.io/tags/web-dev/">#web-dev</a>
+          
+        
+      
+	  </p>
+      
+
+      
+      <img class="rounded max-w-full mx-auto mb-4" src="https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/article-images/setting-up-hugo-header.png" alt="Building websites with Hugo" />
+      
+
+      <p>In the last few months, there has been a flurry of activity around <a href="https://www.theverge.com/23513418/bring-back-personal-blogging"  target="_blank" rel="noopener" >personal blogs</a> and <a href="https://www.brycewray.com/posts/2022/11/own-your-stuff/"  target="_blank" rel="noopener" >owning your own data</a>, since <a href="https://www.theverge.com/23551060/elon-musk-twitter-takeover-layoffs-workplace-salute-emoji"  target="_blank" rel="noopener" >Musk took the reins of Twitter</a>.</p>
+<p>With that, a lot of people have been wondering how they can start their own websites. Since re-launching my website, I&rsquo;ve had people ask me how they can make their own website in the last few weeks. To avoid repeating myself, I&rsquo;ve put together a guide on how you can build a website using Hugo and GitHub Pages.</p>
+<p><a href="https://kinsta.com/blog/hugo-static-site/"  target="_blank" rel="noopener" >Other guides exist</a>, but this one covers how I&rsquo;ve set up my website in a simple and easy-to-follow guide.</p>
+<p>For this demo, I&rsquo;m going to be using the <a href="https://github.com/janraasch/hugo-bearblog"  target="_blank" rel="noopener" >Hugo Bear Blog theme</a> as it&rsquo;s a nice minimalist theme to start with. My website uses a theme called <a href="https://github.com/apvarun/digital-garden-hugo-theme"  target="_blank" rel="noopener" >Digital Garden</a>. The <a href="https://digital-garden-hugo-theme.vercel.app/articles/installation/"  target="_blank" rel="noopener" >installation steps</a> for this theme are slightly more complicated. This guide will focus on using a simpler theme to demonstrate the basics of building websites with Hugo. There are many other <a href="https://themes.gohugo.io/"  target="_blank" rel="noopener" >free Hugo themes</a> you can choose from as well on the official Hugo website.</p>
+<p><strong>One minor note</strong></p>
+<p>While it&rsquo;s not needed, I would recommend spending some money and buying a domain name. Usually, most people want a domain in the format of firstNameLastName[dot]com, but you can pick anything you like. For example, Sophie&rsquo;s domain is <a href="https://localghost.dev/"  target="_blank" rel="noopener" >localghost.dev</a>, a fun play on words for localhost.</p>
+<p>A domain name shouldn&rsquo;t cost too much and you can buy one from a several domain name registrars. I bought my domain name, akashgoswami.com via <a href="https://domains.google/"  target="_blank" rel="noopener" >Google Domains</a> and pay £10 a year for it (that&rsquo;s less than £1 a month!).</p>
+<h2 id="what-is-hugo">What is Hugo?</h2>
+<p><a href="https://gohugo.io/"  target="_blank" rel="noopener" >Hugo</a> is a fast static site generator tool written in <a href="https://go.dev/"  target="_blank" rel="noopener" >Go</a>. It uses templates and markdown files to generate webpages in seconds. The final result is a set of HTML files that you can deploy as a website using a hosting provider such as <a href="https://pages.github.com/"  target="_blank" rel="noopener" >GitHub Pages</a>.</p>
+<p>Let&rsquo;s use an analogy. Let&rsquo;s pretend that we&rsquo;re making a sandwich, instead of building a website 🥪</p>
+<p>We prepare our sandwich by laying out all the ingredients that we want to include in our sandwich. Once that&rsquo;s done, you simply run the &lsquo;make sandwich&rsquo; command to create a sandwich within seconds.</p>
+<p>Now imagine we want to swap out some of those ingredients, add new ones or remove some we don&rsquo;t like. We can run the &lsquo;make sandwich&rsquo; command again and have a new sandwich created with these changes.</p>
+<p>That&rsquo;s how Hugo works, but instead of making a sandwich, it generates the files needed to make a website.</p>
+<h2 id="prerequisites">Prerequisites</h2>
+<p>Before we start building our website, there are a few things you&rsquo;ll need beforehand.</p>
+<h3 id="a-text-editor">A text editor</h3>
+<p>You&rsquo;ll need something to edit your code in. I like using <a href="https://code.visualstudio.com/"  target="_blank" rel="noopener" >Visual Studio Code</a>.There are some <a href="https://gohugo.io/tools/editors/#visual-studio-code"  target="_blank" rel="noopener" >handy Hugo extensions</a> that you can install within Visual Studio Code as well.</p>
+<h3 id="familiarity-with-using-a-command-line-app">Familiarity with using a command line app</h3>
+<p>You&rsquo;ll need to navigate around files and to run some Hugo commands using the command line interface. On macOS the built in command line tool is called &lsquo;Terminal&rsquo; (but I prefer using <a href="https://iterm2.com/"  target="_blank" rel="noopener" >iTerm2</a>) and on Windows its Powershell.</p>
+<h3 id="a-package-manager">A Package Manager</h3>
+<p>Hugo can be installed as a <a href="https://gohugo.io/installation/"  target="_blank" rel="noopener" >prebuilt binary</a> but I prefer using a package manager. For macOS, you&rsquo;ll want to use Homebrew. For Windows, it&rsquo;s Chocolatey. The installation guides for both of these package managers is well documented so I&rsquo;ll leave the links to official installation instructions below.</p>
+<p>macOS - <a href="https://brew.sh/"  target="_blank" rel="noopener" >Installation instructions for Homebrew</a></p>
+<p>Windows - <a href="https://chocolatey.org/install"  target="_blank" rel="noopener" >Installation instructions for Chocolatey</a></p>
+<p>Linux - If you use a Linux based OS then you can find the <a href="https://gohugo.io/installation/linux/"  target="_blank" rel="noopener" >correct installation steps for your Linux distro here</a></p>
+<h3 id="github-and-git">GitHub (and Git)</h3>
+<p>To host the website, we&rsquo;re going to use GitHub Pages, so you&rsquo;ll need a <a href="https://github.com/"  target="_blank" rel="noopener" >GitHub</a> account. Create an account (please also enable 2 factor authentication) and then install <a href="https://desktop.github.com/"  target="_blank" rel="noopener" >GitHub Desktop</a>.</p>
+<p>You&rsquo;ll also need to install Git via your package manager if it&rsquo;s not already on your machine:</p>
+<p>macOS</p>
+<pre tabindex="0"><code>brew install git
+</code></pre><p>Windows</p>
+<pre tabindex="0"><code>choco install git.install
+</code></pre><h2 id="setting-up-our-website">Setting up our website</h2>
+<p>First up, open the command line and navigate to where you want to create your website project file. I choose to create mine in Users/Akash (the default directory when you open Terminal on macOS).</p>
+<p>Then, run the following command (but replace username with your GitHub username):</p>
+<pre tabindex="0"><code>hugo new site username.github.io
+</code></pre><p>This creates a new folder under the same name that contains some starter files for your Hugo website.</p>
+<p>Then run the following two commands to navigate into this newly created folder and create a git repository:</p>
+<pre tabindex="0"><code>cd username.github.io
+git init
+</code></pre><p>After that we want to add our Hugo theme and set it as well by using the following two commands</p>
+<pre tabindex="0"><code>git submodule add https://github.com/janraasch/hugo-bearblog themes/hugo-bearblog
+echo &#34;theme = &#39;hugo-bearblog&#39;&#34; &gt;&gt; config.toml
+</code></pre><p>Once that&rsquo;s done you can spin up the website by running  <code>hugo server</code> and then visiting http://localhost:1313/</p>
+<p>To stop the web server, just enter the command mentioned in your command line application (for macOS its Ctrl+C).</p>
+<h3 id="modifying-the-site">Modifying the site</h3>
+<p>Now that the website is set up, you can add your own content to it.</p>
+<p>It&rsquo;s best to refer to a theme&rsquo;s recommended instructions. For <a href="https://github.com/janraasch/hugo-bearblog/"  target="_blank" rel="noopener" >hugo-bearblog theme</a>, it&rsquo;s best to refer to the <a href="https://github.com/janraasch/hugo-bearblog/tree/master/exampleSite"  target="_blank" rel="noopener" >exampleSite folder</a> with the theme.</p>
+<p>Once you&rsquo;ve made your changes, you can build your website by running the <code>hugo</code> command. This will update the files within your public folder, which you can then deploy to a hosting service.</p>
+<h2 id="uploading-the-website-to-github">Uploading the website to GitHub</h2>
+<p>Now that we&rsquo;re happy with our website, we&rsquo;ll want to upload it to GitHub. Open the GitHub Desktop application and then go to File &gt; Open Local Repository.</p>
+<p>Make sure you tick all the files and then enter a commit message. It does&rsquo;t have to be too fancy, &lsquo;first commit&rsquo; works well. Once you&rsquo;ve done that, click &lsquo;Commit to main&rsquo; and then the &lsquo;Publish repository&rsquo; button. A popup will appear asking you to name your new repository. Name it &lsquo;username.github.io&rsquo; and set it to be public before you click the &lsquo;Publish Repository&rsquo; button.</p>
+<h3 id="github-actions">GitHub Actions</h3>
+<p>To deploy your website, open the new repository via GitHub on a web browser, and then head to the Settings &gt; Pages.</p>
+<p>From here you can switch the source to &lsquo;GitHub Actions&rsquo; and the default Hugo action should be suggested. Click configure button and then commit the code to your main branch.</p>
+<p>If you now head back to the Actions tab you can see a workflow running to build your website.</p>
+<h4 id="setting-your-domain-name-optional">Setting your domain name (Optional)</h4>
+<p>If you have a custom domain, you can set your website&rsquo;s name from the Custom Domain section of the Pages settings page. You&rsquo;ll also need to set your DNS records from your domain register to point to GitHub.</p>
+<h2 id="wrapping-up">Wrapping up</h2>
+<p>Once your website has been built, you can view it by entering either username.github.io or your custom domain name from your web browser!</p>
+<p>That&rsquo;s it! You&rsquo;ve built your own website 🎉</p>
+<p>Now that you know the basics, feel free to edit anything you like; switch themes, write new posts, the choice is yours. You can now host your own website, and push new content to it by syncing your changes from your machine to GitHub via GitHub Desktop. Just remember to also run the <code>hugo</code> command to rebuild the website after making any changes.</p>
+<p>If you found this guide helpful at all or want to suggest an improve, feel free to reach out to me and let me know.</p>
+
+      <hr><p class="text-sm text-slate-500 !mb-8">If you liked this post, consider buying me a coffee to show your support! ☕</p>
+<div class="grid place-items-center">
+  <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="akashgoswami_" data-color="#FFDD00" data-emoji=""  data-font="Bree" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+</div></article>
+  </div>
+
+</div>
+
+
+  </div>
+<script type="text/javascript" src="/main.js" defer></script>
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-6RD6L79H3R"></script>
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-6RD6L79H3R', { 'anonymize_ip': false });
+}
+</script>
+
+</body>
+
+</html>
