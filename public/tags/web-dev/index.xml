@@ -6,7 +6,17 @@
     <description>Recent content in web-dev on Akash Goswami</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Jan 2023 08:00:00 +0000</lastBuildDate><atom:link href="https://Skyth3r.github.io/tags/web-dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Jan 2023 21:45:00 +0000</lastBuildDate><atom:link href="https://Skyth3r.github.io/tags/web-dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Customising my Hugo Theme</title>
+      <link>https://Skyth3r.github.io/articles/customising-my-hugo-theme/</link>
+      <pubDate>Mon, 30 Jan 2023 21:45:00 +0000</pubDate>
+      
+      <guid>https://Skyth3r.github.io/articles/customising-my-hugo-theme/</guid>
+      <description>My Hugo website uses the Digital Garden Hugo theme but I&amp;rsquo;ve made a few changes in addition to using the theme. I&amp;rsquo;ve listed these changes below both for myself to refer back to and for anyone else that might find these useful to include in their own Hugo website 👇🏽
+Updating lastmod text One of the first changes I made was to change the lastmod front matter text that was displayed on the theme.</description>
+    </item>
+    
     <item>
       <title>Building websites with Hugo</title>
       <link>https://Skyth3r.github.io/articles/building-websites-with-hugo/</link>
