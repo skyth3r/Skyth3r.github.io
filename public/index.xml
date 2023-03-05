@@ -23,8 +23,10 @@ Updating lastmod text One of the first changes I made was to change the lastmod 
       <pubDate>Fri, 20 Jan 2023 08:00:00 +0000</pubDate>
       
       <guid>https://Skyth3r.github.io/articles/building-websites-with-hugo/</guid>
-      <description>In the last few months, there has been a flurry of activity around personal blogs and owning your own data, since Musk took the reins of Twitter.
-With that, a lot of people have been wondering how they can start their own websites. Since re-launching my website, I&amp;rsquo;ve had people ask me how they can make their own website in the last few weeks. To avoid repeating myself, I&amp;rsquo;ve put together a guide on how you can build a website using Hugo and GitHub Pages.</description>
+      <description>Please note
+Due to issues with the theme, I&amp;rsquo;ve had to remove the code blocks from this article. The code is still present below but it&amp;rsquo;s not formatted as a code block. I&amp;rsquo;ll update this once this issue is fixed.
+In the last few months, there has been a flurry of activity around personal blogs and owning your own data, since Musk took the reins of Twitter.
+With that, a lot of people have been wondering how they can start their own websites.</description>
     </item>
     
     <item>

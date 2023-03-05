@@ -1,10 +1,17 @@
 ---
 title: Building websites with Hugo
 date: 2023-01-20T08:00:00
+lastmod: 2023-03-05
 images: 
 - https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/article-images/setting-up-hugo-header.png
 description: A guide on building your own website for free using Hugo and Github Pages.
 tags: ['web-dev', 'hugo']
+---
+
+**Please note**
+
+Due to issues with the theme, I've had to remove the code blocks from this article. The code is still present below but it's not formatted as a code block. I'll update this once this issue is fixed.
+
 ---
 
 In the last few months, there has been a flurry of activity around [personal blogs](https://www.theverge.com/23513418/bring-back-personal-blogging) and [owning your own data](https://www.brycewray.com/posts/2022/11/own-your-stuff/), since [Musk took the reins of Twitter](https://www.theverge.com/23551060/elon-musk-twitter-takeover-layoffs-workplace-salute-emoji).
@@ -62,15 +69,11 @@ You'll also need to install Git via your package manager if it's not already on 
 
 macOS
 
-```
-brew install git
-```
+`brew install git`
 
 Windows
 
-```
-choco install git.install
-```
+`choco install git.install`
 
 ## Setting up our website
 
@@ -78,24 +81,19 @@ First up, open the command line and navigate to where you want to create your we
 
 Then, run the following command (but replace username with your GitHub username):
 
-```
-hugo new site username.github.io
-```
+`hugo new site username.github.io`
 
 This creates a new folder under the same name that contains some starter files for your Hugo website.
 
 Then run the following two commands to navigate into this newly created folder and create a git repository:
-```
-cd username.github.io
-git init
-```
+
+`cd username.github.io`
+`git init`
 
 After that, we want to add our Hugo theme and set it as well by using the following two commands
 
-```
-git submodule add https://github.com/janraasch/hugo-bearblog themes/hugo-bearblog
-echo "theme = 'hugo-bearblog'" >> config.toml
-```
+`git submodule add https://github.com/janraasch/hugo-bearblog themes/hugo-bearblog`
+`echo "theme = 'hugo-bearblog'" >> config.toml`
 
 Once that's done you can spin up the website by running  `hugo server` and then visiting http://localhost:1313/
 
