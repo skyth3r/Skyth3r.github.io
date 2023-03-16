@@ -2,7 +2,7 @@
 title: Unity 3D Platformer
 date: 2019-06-01
 images:
-- https://i.imgur.com/jjcEXJF.png
+- https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/portfolio-images/unity-3d-platformer.png
 description: University dissertation project demostating the use of randomised game mechanics in a 3D platformer game
 ---
 
