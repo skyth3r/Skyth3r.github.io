@@ -71,6 +71,17 @@ You can find the source code here on GitHub.</description>
     </item>
     
     <item>
+      <title>Unity 3D Platformer</title>
+      <link>https://Skyth3r.github.io/portfolio/unity-3d-platformer/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://Skyth3r.github.io/portfolio/unity-3d-platformer/</guid>
+      <description>A 3d platformer game with randomised powerup mechanics I made for my final year universirty dissertation project.
+The game focus on giving players a different playthrough experience on each playthrough based on the powerups they acquired throughout each level.
+These powerups affected player stats such as movement speed, jump height, and base attack damage. By manipulating these game elements, each playthrough of the game would be unique due to the randomness of the powerups that were presented in each level.</description>
+    </item>
+    
+    <item>
       <title>TfL to Monzo</title>
       <link>https://Skyth3r.github.io/portfolio/tfl-to-monzo/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
