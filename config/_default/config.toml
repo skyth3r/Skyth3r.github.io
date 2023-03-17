@@ -36,13 +36,18 @@ enableRobotsTXT = true
   params.header = true
   weight = 5
 [[menu.main]]
-  name = 'Typefully'
-  url = 'https://typefully.com/akashgoswami_'
+  name = 'Akash & Money'
+  url = 'https://www.akashandmoney.com/'
   weight = 6
 [[menu.main]]
   name = 'Polywork'
   url = 'https://timeline.akashgoswami.com'
   weight = 7
+[[menu.main]]
+  name = 'Typefully'
+  url = 'https://typefully.com/akashgoswami_'
+  weight = 8
+
 
 [[menu.social]]
   name = 'Twitter'
@@ -63,7 +68,7 @@ enableRobotsTXT = true
 [[menu.social]]
   name = 'RSS'
   url = '/articles/index.xml'
-  weight = 5
+  weight = 6
 
 # syntax highlight settings
 [markup]
