@@ -2,6 +2,8 @@
 title: Customising my Hugo Theme
 date: 2023-01-30T21:45:00
 lastmod: 2023-06-17T12:00:00
+images: 
+- https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/article-images/customising-hugo-website-header.png
 description: Modifications I've made to my Digital Garden Hugo theme.
 tags: ['web-dev', 'hugo']
 ---
