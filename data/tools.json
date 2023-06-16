@@ -7,13 +7,6 @@
     "tag": "Utilities"
   },
   {
-    "name": "Mailbrew",
-    "description": "Combine content from various sources into managable digests",
-    "link": "https://mailbrew.com/",
-    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/mailbrew.png",
-    "tag": "Productivity"
-  },
-  {
     "name": "Typefully",
     "description": "My favourite Twitter writing/scheduling app",
     "link": "https://typefully.com/?via=akash",
