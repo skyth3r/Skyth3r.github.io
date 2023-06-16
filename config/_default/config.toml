@@ -44,8 +44,8 @@ enableRobotsTXT = true
   url = 'https://timeline.akashgoswami.com'
   weight = 7
 [[menu.main]]
-  name = 'Typefully'
-  url = 'https://typefully.com/akashgoswami_'
+  name = 'Bluesky'
+  url = 'https://bsky.app/profile/akashgoswami.com'
   weight = 8
 
 
