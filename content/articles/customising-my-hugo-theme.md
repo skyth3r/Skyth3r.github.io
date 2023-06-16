@@ -1,6 +1,9 @@
 ---
 title: Customising my Hugo Theme
 date: 2023-01-30T21:45:00
+lastmod: 2023-06-17T12:00:00
+images: 
+- https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/article-images/customising-hugo-website-header.png
 description: Modifications I've made to my Digital Garden Hugo theme.
 tags: ['web-dev', 'hugo']
 ---
@@ -11,6 +14,17 @@ My Hugo website uses the [Digital Garden Hugo theme](https://github.com/apvarun/
 One of the first changes I made was to change the lastmod front matter text that was displayed on the theme. Previously it would default to showing `Pruned January 2, 2023` on articles with the `lastmod` front matter. After my change to the article single layout it now instead shows `Last tended to on January 2, 2023`.
 
 [Link to code change](https://github.com/Skyth3r/Skyth3r.github.io/commit/ee9926c786e458476524ac571be01a7ea6a38285).
+
+## Google Analytics
+Adding Google Analytics to the site is pretty simple as it's natively supported by the theme I'm using. Within the config.toml file, you just need to add the Google Analytics tracking ID in the format, "googleAnalytics = 'TRAKCING_CODE_HERE'".
+
+One issue I noticed with this was the fact analytics data would be pinged back to Google Analytics while I worked on the website locally on my own machine.
+
+To fix this, I replaced the config.toml file stored in the root of the repository with a config folder and then split the config.toml file into two files, a default file that contained all the config settings for the site, and a production config.toml file that contains only the Google Analytics tracking code. 
+
+Now when I work on new things for the website I run the command `hugo server --environment development -D`, which loads only the default config file. When re-building the website, I use the `hugo` command takes both config files and merges them together to build the production website, thus resolving the issue of generating accidently analytics data during testing and development.
+
+[Link to code change](https://github.com/Skyth3r/Skyth3r.github.io/commit/1bcb816700f2244d7a8337f61be5b410886f88bd#diff-5f948a63b2e0f5e8409b3a709cb74c89451854c6ded2959a6f110d5340001cc1).
 
 ## Additional Article Front Matter
 I ended up adding a few new improvements to the article front matter.
