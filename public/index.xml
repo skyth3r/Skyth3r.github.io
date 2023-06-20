@@ -102,5 +102,18 @@ The Lambda function would recieve incoming transcation webhook events from a lin
 The source code is hosted here on GitHub</description>
     </item>
     
+    <item>
+      <title>Now</title>
+      <link>https://Skyth3r.github.io/now/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Skyth3r.github.io/now/</guid>
+      <description>This is my now page.
+⭐ So here&amp;rsquo;s what I&amp;rsquo;m up to now I live in London and just got back after travelling for 2 month as part of my sabbatical leave from work.
+Currently I work at Monzo Bank as a Cybersecurity Analyst.
+🤓 Learning Right now I&amp;rsquo;m working on improving my programming skills. I&amp;rsquo;m programming in Go at the moment.
+I&amp;rsquo;m learning German 🇩🇪 (currently just via Duolingo).</description>
+    </item>
+    
   </channel>
 </rss>
