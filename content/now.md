@@ -49,11 +49,11 @@ So far this year, I've been to the following countries:
 
 ## 🎬 Films & TV Shows
 
-### Recently watched Films
+### Recently watched films
 * [Spider-man: Across the Spider-Verse](https://youtu.be/shW9i6k8cB0?t=5).
 * [Indiana Jones and the Dial of Destiny](https://www.youtube.com/watch?v=eQfMbSe7F2g).
 
-### TV Shows
+### TV shows
 * [Black Mirror, season 6](https://www.youtube.com/watch?v=5jY1ecibLYo)
 
 ## 🎮 Video Games
