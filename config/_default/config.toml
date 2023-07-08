@@ -32,20 +32,20 @@ enableRobotsTXT = true
   url = '/tools'
   weight = 4
 [[menu.main]]
+  name = 'Now'
+  url = '/now'
+  weight = 5
+[[menu.main]]
   name = 'Links'
   params.header = true
-  weight = 5
+  weight = 6
 [[menu.main]]
   name = 'Akash & Money'
   url = 'https://www.akashandmoney.com/'
-  weight = 6
+  weight = 7
 [[menu.main]]
   name = 'Polywork'
   url = 'https://timeline.akashgoswami.com'
-  weight = 7
-[[menu.main]]
-  name = 'Bluesky'
-  url = 'https://bsky.app/profile/akashgoswami.com'
   weight = 8
 
 
