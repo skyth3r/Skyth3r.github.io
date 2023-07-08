@@ -7,6 +7,13 @@
     "tag": "Utilities"
   },
   {
+    "name": "Bear",
+    "description": "Minimal writing app with markdown support",
+    "link": "https://bear.app/",
+    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/bear.png",
+    "tag": "Utilities"
+  },
+  {
     "name": "Mailbrew",
     "description": "Combine content from various sources into managable digests",
     "link": "https://mailbrew.com/",
