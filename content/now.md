@@ -22,7 +22,7 @@ I'm currently getting back into going to the gym regularly 🏋🏽‍♂️
 
 I'm trying to get into running and cycling 🚴‍♀️
 
-I've also got into hiking over the last year. Next month (July) I'll be hiking up Ben Nevis in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+I've also got into hiking over the last year. This month, I'll be hiking up Ben Nevis in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 
 ## 🌏 Travel
 
@@ -40,6 +40,8 @@ So far this year, I've been to the following countries:
 
 🇸🇬 Singapore
 
+🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland (soon)
+
 ## 📚 Books
 
 * I finished reading [The Ballad of Songbirds and Snakes](https://www.hive.co.uk/Product/Suzanne-Collins/The-Ballad-of-Songbirds-and-Snakes-A-Hunger-Games-Novel/25646993).
@@ -47,8 +49,12 @@ So far this year, I've been to the following countries:
 
 ## 🎬 Films & TV Shows
 
-* I recently watched [Spider-man: Across the Spider-Verse](https://youtu.be/shW9i6k8cB0?t=5).
-* I'm currently watching [Black Mirror, season 6](https://www.youtube.com/watch?v=5jY1ecibLYo).
+### Recently watched Films
+* [Spider-man: Across the Spider-Verse](https://youtu.be/shW9i6k8cB0?t=5).
+* [Indiana Jones and the Dial of Destiny](https://www.youtube.com/watch?v=eQfMbSe7F2g).
+
+### TV Shows
+* [Black Mirror, season 6](https://www.youtube.com/watch?v=5jY1ecibLYo)
 
 ## 🎮 Video Games
 
@@ -56,4 +62,4 @@ So far this year, I've been to the following countries:
 
 ---
 
-Last updated: 20th June 2023. 
+Last updated: 8th July 2023. 
