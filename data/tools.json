@@ -14,6 +14,13 @@
     "tag": "Utilities"
   },
   {
+    "name": "Raindrop",
+    "description": "Cross platform bookmark manager",
+    "link": "https://raindrop.io/",
+    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/raindrop.png",
+    "tag": "Utilities"
+  },
+  {
     "name": "Mailbrew",
     "description": "Combine content from various sources into managable digests",
     "link": "https://mailbrew.com/",
