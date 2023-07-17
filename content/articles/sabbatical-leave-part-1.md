@@ -66,7 +66,7 @@ That leads me to my next tip…
 
 **Don’t plan everything in advance**
 
-Don’t get me wrong. It’s nice to have a plan and some things you definitely do need to book in advance. Not every day has to be planned down to the last minute, however.
+It’s nice to have a plan and some things you definitely do need to book in advance. Not every day has to be planned down to the last minute, however.
 
 Sometimes it’s better to just embrace the randomness. That’s how I ended up doing some things I would never have considered, like trying out a sensory deprivation tank in Vietnam, climbing an active volcano at 4 am in the morning to watch the sunrise, or accidentally walking right into the Sanja Festival in Tokyo.
 
