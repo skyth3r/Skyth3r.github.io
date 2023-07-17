@@ -102,7 +102,7 @@ There were a lot of exciting moments from my trip. Here’s what were my top fiv
 3. Waking up at 4:30 am in the morning to an iconic photo of the Hōkan-ji Temple in Kyoto
 ![Sunrise photo of the Hōkan-ji Temple in Kyoto](/img/sabbatical-leave/hokan_ji.png)
 4. Watching the sunset on a boat at Ha Long Bay in Vietnam
-![Sunset of the bay at Ha Long Bay in Vietnam]](/img/sabbatical-leave/halong_bay.png)
+![Sunset of the bay at Ha Long Bay in Vietnam](/img/sabbatical-leave/halong_bay.png)
 5. Taking a photo with this adorable chihuahua at the Senso-ji temple festive (Sanja Matsuri) in Tokyo
 ![Photo of me holding a chihuahua wearing a costume with glasses for the Senso-ji temple festive (Sanja Matsuri)](/img/sabbatical-leave/chihuahua.png)
 
