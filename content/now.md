@@ -45,7 +45,8 @@ So far this year, I've been to the following countries:
 ## 📚 Books
 
 * I finished reading [The Ballad of Songbirds and Snakes](https://www.hive.co.uk/Product/Suzanne-Collins/The-Ballad-of-Songbirds-and-Snakes-A-Hunger-Games-Novel/25646993).
-* Currently reading through [The Sacrifice](https://www.hive.co.uk/Product/Charlie-Higson/The-Sacrifice-The-Enemy-Book-4/11732279), book 4 of [The Enemy series](https://www.hive.co.uk/Search/Search?Series=The%20Enemy).
+* Currently reading through [The Fallen](https://www.hive.co.uk/Product/Charlie-Higson/The-Sacrifice-The-Enemy-Book-4/11732279), book 5 of [The Enemy series](https://www.hive.co.uk/Search/Search?Series=The%20Enemy).
+* Slowly getting through [Filmmakers without Cameras: Issue 3](https://shop.peregrinecoast.press/products/filmmakers-without-cameras-the-trilogy) as well.
 
 ## 🎬 Films & TV Shows
 
@@ -53,7 +54,7 @@ So far this year, I've been to the following countries:
 * [Spider-man: Across the Spider-Verse](https://youtu.be/shW9i6k8cB0?t=5).
 * [Indiana Jones and the Dial of Destiny](https://www.youtube.com/watch?v=eQfMbSe7F2g).
 
-### TV shows
+### Recently watched TV shows
 * [Black Mirror, season 6](https://www.youtube.com/watch?v=5jY1ecibLYo)
 
 ## 🎮 Video Games
@@ -62,4 +63,4 @@ So far this year, I've been to the following countries:
 
 ---
 
-Last updated: 8th July 2023. 
+Last updated: 15th July 2023. 
