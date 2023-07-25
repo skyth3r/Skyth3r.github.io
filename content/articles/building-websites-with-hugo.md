@@ -3,7 +3,7 @@ title: Building websites with Hugo
 date: 2023-01-20T08:00:00
 lastmod: 2023-03-05
 images: 
-- https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/article-images/setting-up-hugo-header.png
+- /img/setting-up-hugo/setting-up-hugo-header.png
 description: A guide on building your own website for free using Hugo and Github Pages.
 tags: ['web-dev', 'hugo']
 ---

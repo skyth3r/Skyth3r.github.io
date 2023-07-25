@@ -3,7 +3,7 @@ title: Why you need a personal website
 date: 2023-01-01T09:00:00
 lastmod: 2023-01-02
 images: 
-- https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/article-images/personal-website-header.png
+- /img/personal-website/personal-website-header.png
 description: Time and time again, we are shown that we cannot rely on third-party platforms to host our content. It's time to start owning our digital content.
 tags: ['web-dev', 'hugo', 'digital-garden']
 ---
@@ -42,7 +42,7 @@ Currently, this website is built using a static site generator and hosted via [G
 Because I'm using a static site generator for this website now, this has simplified a lot for me and has helped make the website a lot smaller and more compact. Due to its small size, I'm able to back up the entire site to several other code hosting/cloud storage platforms with ease. Currently, you can find this website on [GitHub](https://github.com/Skyth3r/Skyth3r.github.io). 
 
 Additionally, using a static site generator has also done a lot of the heavy lifting when it comes to SEO optimisation and has drastically improved the website's load times as pointed out by this speed test 👇🏽
-![Pagespeed insights results desktop: 100% all pagespeed-insights-desktop-100-performace](https://i.imgur.com/GWgfRzM.png)
+![Pagespeed insights results desktop: 100% all pagespeed-insights-desktop-100-performace](/img/personal-website/pagespeed-insights-desktop-100.png)
 
 ## What to expect from this website
 
