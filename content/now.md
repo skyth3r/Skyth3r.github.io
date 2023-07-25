@@ -40,7 +40,7 @@ So far this year, I've been to the following countries:
 
 🇸🇬 Singapore
 
-🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland (soon)
+🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland
 
 ## 📚 Books
 
@@ -63,4 +63,4 @@ So far this year, I've been to the following countries:
 
 ---
 
-Last updated: 15th July 2023. 
+Last updated: 25th July 2023. 
