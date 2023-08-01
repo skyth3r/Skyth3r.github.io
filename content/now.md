@@ -14,7 +14,7 @@ Currently I work at [Monzo Bank](https://monzo.com/) as a Cybersecurity Analyst.
 
 Right now I'm working on improving my programming skills. I'm programming in [Go](https://go.dev/) at the moment.
 
-I'm learning German 🇩🇪 (currently just via [Duolingo](https://www.duolingo.com/)).
+I'm also learning German 🇩🇪.
 
 ## 🤸🏽‍♂️ Fitness
 
@@ -22,7 +22,7 @@ I'm currently getting back into going to the gym regularly 🏋🏽‍♂️
 
 I'm trying to get into running and cycling 🚴‍♀️
 
-I've also got into hiking over the last year. This month, I'll be hiking up Ben Nevis in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+I've got into hiking over the last year. Last month, I hiked up Ben Nevis in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 
 ## 🌏 Travel
 
@@ -44,13 +44,13 @@ So far this year, I've been to the following countries:
 
 ## 📚 Books
 
-* I finished reading [The Ballad of Songbirds and Snakes](https://www.hive.co.uk/Product/Suzanne-Collins/The-Ballad-of-Songbirds-and-Snakes-A-Hunger-Games-Novel/25646993).
-* Currently reading through [The Fallen](https://www.hive.co.uk/Product/Charlie-Higson/The-Sacrifice-The-Enemy-Book-4/11732279), book 5 of [The Enemy series](https://www.hive.co.uk/Search/Search?Series=The%20Enemy).
+* Currently reading through [The Hunted](https://www.hive.co.uk/Product/Charlie-Higson/The-Sacrifice-The-Enemy-Book-4/11732279), book 6 of [The Enemy series](https://www.hive.co.uk/Search/Search?Series=The%20Enemy).
 * Slowly getting through [Filmmakers without Cameras: Issue 3](https://shop.peregrinecoast.press/products/filmmakers-without-cameras-the-trilogy) as well.
 
 ## 🎬 Films & TV Shows
 
 ### Recently watched films
+* [Guardians of the Galaxy Vol. 3](https://www.youtube.com/watch?v=u3V5KDHRQvk)
 * [Spider-man: Across the Spider-Verse](https://youtu.be/shW9i6k8cB0?t=5).
 * [Indiana Jones and the Dial of Destiny](https://www.youtube.com/watch?v=eQfMbSe7F2g).
 
@@ -63,4 +63,4 @@ So far this year, I've been to the following countries:
 
 ---
 
-Last updated: 25th July 2023. 
+Last updated: 1st August 2023. 
