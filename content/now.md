@@ -4,15 +4,13 @@ title: Now
 
 This is my [now page](https://nownownow.com/about).
 
-## ⭐ So here's what I'm up to now
+## ⭐ What I'm up to
 
-I live in London and just got back after travelling for 2 month as part of my sabbatical leave from work. 
-
-Currently I work at [Monzo Bank](https://monzo.com/) as a Cybersecurity Analyst.
+I live in London and currently work at [Monzo Bank](https://monzo.com/) as a Cybersecurity Specialist.
 
 ## 🤓 Learning
 
-Right now I'm working on improving my programming skills. I'm programming in [Go](https://go.dev/) at the moment.
+Right now I'm working on improving my programming skills. I'm focusing on [Go](https://go.dev/) at the moment.
 
 I'm also learning German 🇩🇪.
 
@@ -63,4 +61,4 @@ So far this year, I've been to the following countries:
 
 ---
 
-Last updated: 1st August 2023. 
+Last updated: 11th August 2023. 
