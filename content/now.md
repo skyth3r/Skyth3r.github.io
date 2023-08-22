@@ -57,8 +57,8 @@ So far this year, I've been to the following countries:
 
 ## 🎮 Video Games
 
-* Right now I'm playing [The Legend of Zelda: Tears of the Kingdom](https://www.nintendo.co.uk/Games/Nintendo-Switch-games/The-Legend-of-Zelda-Tears-of-the-Kingdom-1576884.html) on my Nitendo Switch.
+* Right now I'm playing [The Legend of Zelda: Tears of the Kingdom](https://www.nintendo.co.uk/Games/Nintendo-Switch-games/The-Legend-of-Zelda-Tears-of-the-Kingdom-1576884.html) on my Nintendo Switch.
 
 ---
 
-Last updated: 11th August 2023. 
+Last updated: 22nd August 2023. 
