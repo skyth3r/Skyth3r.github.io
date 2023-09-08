@@ -40,13 +40,17 @@ enableRobotsTXT = true
   params.header = true
   weight = 6
 [[menu.main]]
+  name = 'akashgoswami.dev'
+  url = 'https://akashgoswami.dev'
+  weight = 7
+[[menu.main]]
   name = 'Akash & Money'
   url = 'https://www.akashandmoney.com/'
-  weight = 7
+  weight = 8
 [[menu.main]]
   name = 'Polywork'
   url = 'https://timeline.akashgoswami.com'
-  weight = 8
+  weight = 9
 
 
 [[menu.social]]
