@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>notes on Akash Goswami</title>
+    <link>https://Skyth3r.github.io/tags/notes/</link>
+    <description>Recent content in notes on Akash Goswami</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Sep 2023 09:42:00 +0000</lastBuildDate><atom:link href="https://Skyth3r.github.io/tags/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Houston, we have notes!</title>
+      <link>https://Skyth3r.github.io/articles/adding-notes/</link>
+      <pubDate>Sat, 09 Sep 2023 09:42:00 +0000</pubDate>
+      
+      <guid>https://Skyth3r.github.io/articles/adding-notes/</guid>
+      <description>In addition to the articles, I’ve decided to add a notes section to the website now. There are times when I wanted to write a short piece about something but it didn’t feel right to put it in the articles section of the website.
+Sometimes I just want to…note something down.
+Hence the notes section!
+What are notes meant to be? Notes will be short pieces of writing. Most likely a couple of lines long.</description>
+    </item>
+    
+    <item>
+      <title>Use an adblocker</title>
+      <link>https://Skyth3r.github.io/notes/adblocker/</link>
+      <pubDate>Sat, 09 Sep 2023 09:30:00 +0000</pubDate>
+      
+      <guid>https://Skyth3r.github.io/notes/adblocker/</guid>
+      <description>You should be using an adblocker.
+Not because ads are bad (although some are really annoying), but because even the FBI recommend using one for security now.
+Use uBlock Origin and block those scam adverts that pop up at the top of search results.</description>
+    </item>
+    
+  </channel>
+</rss>

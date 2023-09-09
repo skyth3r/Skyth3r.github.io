@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notes on Akash Goswami</title>
+    <link>https://Skyth3r.github.io/notes/</link>
+    <description>Recent content in Notes on Akash Goswami</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Sep 2023 09:30:00 +0000</lastBuildDate><atom:link href="https://Skyth3r.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Use an adblocker</title>
+      <link>https://Skyth3r.github.io/notes/adblocker/</link>
+      <pubDate>Sat, 09 Sep 2023 09:30:00 +0000</pubDate>
+      
+      <guid>https://Skyth3r.github.io/notes/adblocker/</guid>
+      <description>You should be using an adblocker.
+Not because ads are bad (although some are really annoying), but because even the FBI recommend using one for security now.
+Use uBlock Origin and block those scam adverts that pop up at the top of search results.</description>
+    </item>
+    
+  </channel>
+</rss>
