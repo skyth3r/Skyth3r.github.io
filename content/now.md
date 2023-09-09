@@ -6,7 +6,7 @@ This is my [now page](https://nownownow.com/about).
 
 ## ⭐ What I'm up to
 
-I live in London and currently work at [Monzo Bank](https://monzo.com/) as a Cybersecurity Specialist.
+I live in London and currently work at [Monzo Bank](https://monzo.com/) as a Cybersecurity Backend Engineer.
 
 ## 🤓 Learning
 
