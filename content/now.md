@@ -18,7 +18,9 @@ I'm also learning German 🇩🇪.
 
 I'm currently getting back into going to the gym regularly 🏋🏽‍♂️
 
-I'm trying to get into running and cycling 🚴‍♀️
+Managing to cycle to work more regularly 🚴🏽‍♂️
+
+Still trying to get into running  🚴‍♀️
 
 I've got into hiking over the last year. Last month, I hiked up Ben Nevis in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 
@@ -48,6 +50,7 @@ So far this year, I've been to the following countries:
 ## 🎬 Films & TV Shows
 
 ### Recently watched films
+* [Barbenheimer](https://en.wikipedia.org/wiki/Barbenheimer)
 * [Guardians of the Galaxy Vol. 3](https://www.youtube.com/watch?v=u3V5KDHRQvk)
 * [Spider-man: Across the Spider-Verse](https://youtu.be/shW9i6k8cB0?t=5).
 * [Indiana Jones and the Dial of Destiny](https://www.youtube.com/watch?v=eQfMbSe7F2g).
@@ -61,4 +64,4 @@ So far this year, I've been to the following countries:
 
 ---
 
-Last updated: 22nd August 2023. 
+Last updated: 9th September 2023. 
