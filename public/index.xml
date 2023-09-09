@@ -9,10 +9,10 @@
     <lastBuildDate>Sat, 09 Sep 2023 15:20:00 +0000</lastBuildDate><atom:link href="https://Skyth3r.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arc&#39;s secert reader mode</title>
-      <link>https://Skyth3r.github.io/notes/chrome-reader-mode/</link>
+      <link>https://Skyth3r.github.io/notes/arc-reader-mode/</link>
       <pubDate>Sat, 09 Sep 2023 15:20:00 +0000</pubDate>
       
-      <guid>https://Skyth3r.github.io/notes/chrome-reader-mode/</guid>
+      <guid>https://Skyth3r.github.io/notes/arc-reader-mode/</guid>
       <description>One of the features I&amp;rsquo;ve always liked in Apple&amp;rsquo;s Safari web browser is the Safari Reader mode, which removes ads, navigation or other distracting elements from a web page.
 This works perfectly for me on iOS but on my laptop, I mainly use Google Chrome and Arc for my web browsing.
 Chrome has a reader type view hidden under chrome://flags and by then searching for &amp;lsquo;reading mode&amp;rsquo; but it&amp;rsquo;s still a bit complicated to enable and doesn&amp;rsquo;t provide the same view as Safari&amp;rsquo;s web browser.</description>
