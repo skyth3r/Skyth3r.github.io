@@ -11,7 +11,7 @@ This works perfectly for me on iOS but on my laptop, I mainly use Google Chrome 
 
 Chrome has a reader type view hidden under `chrome://flags` and by then searching for 'reading mode' but it's still a bit complicated to enable and doesn't provide the same view as Safari's web browser. 
 
-It turns out, Arc for macOS has a hidden reader mode that can be enabled on a web page by pressing the `option + command + r` keys together which is much more similar to Safari's reader mode.
+It turns out, [Arc for macOS](https://arc.net/) has a hidden reader mode that can be enabled on a web page by pressing the `option + command + r` keys together which is much more similar to Safari's reader mode.
 
 ***Note*** - Arc's reader mode is still in beta but does a great job regardless
 
