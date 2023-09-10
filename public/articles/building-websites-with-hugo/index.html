@@ -294,7 +294,7 @@
   <line x1="4" y1="12" x2="20" y2="12" />
   <line x1="4" y1="18" x2="16" y2="18" />
 </svg></button>
-<div class="flex-1">
+<div class="flex-1 max-w-full">
 
 
 
@@ -457,21 +457,21 @@
 <p>To host the website, we&rsquo;re going to use GitHub Pages, so you&rsquo;ll need a <a href="https://github.com/"  target="_blank" rel="noopener" >GitHub</a> account. Create an account (please also enable 2-factor authentication) and then install <a href="https://desktop.github.com/"  target="_blank" rel="noopener" >GitHub Desktop</a>.</p>
 <p>You&rsquo;ll also need to install Git via your package manager if it&rsquo;s not already on your machine:</p>
 <p>macOS</p>
-<p><code>brew install git</code></p>
-<p>Windows</p>
-<p><code>choco install git.install</code></p>
-<h2 id="setting-up-our-website">Setting up our website</h2>
+<pre tabindex="0"><code>brew install git
+</code></pre><p>Windows</p>
+<pre tabindex="0"><code>choco install git.install
+</code></pre><h2 id="setting-up-our-website">Setting up our website</h2>
 <p>First up, open the command line and navigate to where you want to create your website project file. I choose to create mine in Users/Akash (the default directory when you open Terminal on macOS).</p>
 <p>Then, run the following command (but replace username with your GitHub username):</p>
-<p><code>hugo new site username.github.io</code></p>
-<p>This creates a new folder under the same name that contains some starter files for your Hugo website.</p>
+<pre tabindex="0"><code>hugo new site username.github.io
+</code></pre><p>This creates a new folder under the same name that contains some starter files for your Hugo website.</p>
 <p>Then run the following two commands to navigate into this newly created folder and create a git repository:</p>
-<p><code>cd username.github.io</code>
-<code>git init</code></p>
-<p>After that, we want to add our Hugo theme and set it as well by using the following two commands</p>
-<p><code>git submodule add https://github.com/janraasch/hugo-bearblog themes/hugo-bearblog</code>
-<code>echo &quot;theme = 'hugo-bearblog'&quot; &gt;&gt; config.toml</code></p>
-<p>Once that&rsquo;s done you can spin up the website by running  <code>hugo server</code> and then visiting http://localhost:1313/</p>
+<pre tabindex="0"><code>cd username.github.io
+git init
+</code></pre><p>After that, we want to add our Hugo theme and set it as well by using the following two commands</p>
+<pre tabindex="0"><code>git submodule add https://github.com/janraasch/hugo-bearblog themes/hugo-bearblog
+echo &#34;theme = &#39;hugo-bearblog&#39;&#34; &gt;&gt; config.toml
+</code></pre><p>Once that&rsquo;s done you can spin up the website by running <code>hugo server</code> and then visiting http://localhost:1313/</p>
 <p>To stop the web server, just enter the command mentioned in your command line application (for macOS its Ctrl+C).</p>
 <h3 id="modifying-the-site">Modifying the site</h3>
 <p>Now that the website is set up, you can add your own content to it.</p>
