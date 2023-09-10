@@ -254,21 +254,21 @@ If you want to subscribe to it, here’s the &lt;a href=&#34;https://Skyth3r.git
 &lt;p&gt;To host the website, we&amp;rsquo;re going to use GitHub Pages, so you&amp;rsquo;ll need a &lt;a href=&#34;https://github.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;GitHub&lt;/a&gt; account. Create an account (please also enable 2-factor authentication) and then install &lt;a href=&#34;https://desktop.github.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;GitHub Desktop&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;You&amp;rsquo;ll also need to install Git via your package manager if it&amp;rsquo;s not already on your machine:&lt;/p&gt;
 &lt;p&gt;macOS&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;brew install git&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;Windows&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;choco install git.install&lt;/code&gt;&lt;/p&gt;
-&lt;h2 id=&#34;setting-up-our-website&#34;&gt;Setting up our website&lt;/h2&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;brew install git
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Windows&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;choco install git.install
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;setting-up-our-website&#34;&gt;Setting up our website&lt;/h2&gt;
 &lt;p&gt;First up, open the command line and navigate to where you want to create your website project file. I choose to create mine in Users/Akash (the default directory when you open Terminal on macOS).&lt;/p&gt;
 &lt;p&gt;Then, run the following command (but replace username with your GitHub username):&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;hugo new site username.github.io&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;This creates a new folder under the same name that contains some starter files for your Hugo website.&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;hugo new site username.github.io
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;This creates a new folder under the same name that contains some starter files for your Hugo website.&lt;/p&gt;
 &lt;p&gt;Then run the following two commands to navigate into this newly created folder and create a git repository:&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;cd username.github.io&lt;/code&gt;
-&lt;code&gt;git init&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;After that, we want to add our Hugo theme and set it as well by using the following two commands&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;git submodule add https://github.com/janraasch/hugo-bearblog themes/hugo-bearblog&lt;/code&gt;
-&lt;code&gt;echo &amp;quot;theme = &#39;hugo-bearblog&#39;&amp;quot; &amp;gt;&amp;gt; config.toml&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;Once that&amp;rsquo;s done you can spin up the website by running  &lt;code&gt;hugo server&lt;/code&gt; and then visiting http://localhost:1313/&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;cd username.github.io
+git init
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;After that, we want to add our Hugo theme and set it as well by using the following two commands&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;git submodule add https://github.com/janraasch/hugo-bearblog themes/hugo-bearblog
+echo &amp;#34;theme = &amp;#39;hugo-bearblog&amp;#39;&amp;#34; &amp;gt;&amp;gt; config.toml
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Once that&amp;rsquo;s done you can spin up the website by running &lt;code&gt;hugo server&lt;/code&gt; and then visiting http://localhost:1313/&lt;/p&gt;
 &lt;p&gt;To stop the web server, just enter the command mentioned in your command line application (for macOS its Ctrl+C).&lt;/p&gt;
 &lt;h3 id=&#34;modifying-the-site&#34;&gt;Modifying the site&lt;/h3&gt;
 &lt;p&gt;Now that the website is set up, you can add your own content to it.&lt;/p&gt;

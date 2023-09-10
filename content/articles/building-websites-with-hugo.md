@@ -69,11 +69,15 @@ You'll also need to install Git via your package manager if it's not already on 
 
 macOS
 
-`brew install git`
+```
+brew install git
+```
 
 Windows
 
-`choco install git.install`
+```
+choco install git.install
+```
 
 ## Setting up our website
 
@@ -81,21 +85,27 @@ First up, open the command line and navigate to where you want to create your we
 
 Then, run the following command (but replace username with your GitHub username):
 
-`hugo new site username.github.io`
+```
+hugo new site username.github.io
+```
 
 This creates a new folder under the same name that contains some starter files for your Hugo website.
 
 Then run the following two commands to navigate into this newly created folder and create a git repository:
 
-`cd username.github.io`
-`git init`
+```
+cd username.github.io
+git init
+```
 
 After that, we want to add our Hugo theme and set it as well by using the following two commands
 
-`git submodule add https://github.com/janraasch/hugo-bearblog themes/hugo-bearblog`
-`echo "theme = 'hugo-bearblog'" >> config.toml`
+```
+git submodule add https://github.com/janraasch/hugo-bearblog themes/hugo-bearblog
+echo "theme = 'hugo-bearblog'" >> config.toml
+```
 
-Once that's done you can spin up the website by running  `hugo server` and then visiting http://localhost:1313/
+Once that's done you can spin up the website by running `hugo server` and then visiting http://localhost:1313/
 
 To stop the web server, just enter the command mentioned in your command line application (for macOS its Ctrl+C).
 
