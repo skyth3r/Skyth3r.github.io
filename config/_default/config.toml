@@ -85,4 +85,3 @@ enableRobotsTXT = true
 
 [outputs]
     section = ["HTML","RSS", "JSON"]
-    taxonomy = ["HTML", "RSS", "JSON"]
