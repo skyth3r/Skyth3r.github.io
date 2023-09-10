@@ -1,0 +1,97 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Tags on Akash Goswami",
+    "description": "Recent content in Tags on Akash Goswami",
+    "home_page_url" : "https://Skyth3r.github.io",
+    "feed_url" : "https://Skyth3r.github.io/tags/index.json",
+    "items" : [
+    {
+        "title" : "chrome",
+        "date_published" : "2023-09-09T15:20:00Z",
+        "date_modified" : "2023-09-09T15:20:00Z",
+        "id" : "https://Skyth3r.github.io/tags/chrome/",
+        "url" : "https://Skyth3r.github.io/tags/chrome/",
+        "content_html" : ""
+    },
+    {
+        "title" : "notes",
+        "date_published" : "2023-09-09T15:20:00Z",
+        "date_modified" : "2023-09-09T15:20:00Z",
+        "id" : "https://Skyth3r.github.io/tags/notes/",
+        "url" : "https://Skyth3r.github.io/tags/notes/",
+        "content_html" : ""
+    },
+    {
+        "title" : "update",
+        "date_published" : "2023-09-09T09:42:00Z",
+        "date_modified" : "2023-09-09T09:42:00Z",
+        "id" : "https://Skyth3r.github.io/tags/update/",
+        "url" : "https://Skyth3r.github.io/tags/update/",
+        "content_html" : ""
+    },
+    {
+        "title" : "cybersecurity",
+        "date_published" : "2023-09-09T09:30:00Z",
+        "date_modified" : "2023-09-09T09:30:00Z",
+        "id" : "https://Skyth3r.github.io/tags/cybersecurity/",
+        "url" : "https://Skyth3r.github.io/tags/cybersecurity/",
+        "content_html" : ""
+    },
+    {
+        "title" : "ebooks",
+        "date_published" : "2023-08-21T17:00:00Z",
+        "date_modified" : "2023-08-21T17:00:00Z",
+        "id" : "https://Skyth3r.github.io/tags/ebooks/",
+        "url" : "https://Skyth3r.github.io/tags/ebooks/",
+        "content_html" : ""
+    },
+    {
+        "title" : "guide",
+        "date_published" : "2023-08-21T17:00:00Z",
+        "date_modified" : "2023-08-21T17:00:00Z",
+        "id" : "https://Skyth3r.github.io/tags/guide/",
+        "url" : "https://Skyth3r.github.io/tags/guide/",
+        "content_html" : ""
+    },
+    {
+        "title" : "kindle",
+        "date_published" : "2023-08-21T17:00:00Z",
+        "date_modified" : "2023-08-21T17:00:00Z",
+        "id" : "https://Skyth3r.github.io/tags/kindle/",
+        "url" : "https://Skyth3r.github.io/tags/kindle/",
+        "content_html" : ""
+    },
+    {
+        "title" : "travel",
+        "date_published" : "2023-07-17T08:30:00Z",
+        "date_modified" : "2023-07-17T08:30:00Z",
+        "id" : "https://Skyth3r.github.io/tags/travel/",
+        "url" : "https://Skyth3r.github.io/tags/travel/",
+        "content_html" : ""
+    },
+    {
+        "title" : "hugo",
+        "date_published" : "2023-01-30T21:45:00Z",
+        "date_modified" : "2023-01-30T21:45:00Z",
+        "id" : "https://Skyth3r.github.io/tags/hugo/",
+        "url" : "https://Skyth3r.github.io/tags/hugo/",
+        "content_html" : ""
+    },
+    {
+        "title" : "web-dev",
+        "date_published" : "2023-01-30T21:45:00Z",
+        "date_modified" : "2023-01-30T21:45:00Z",
+        "id" : "https://Skyth3r.github.io/tags/web-dev/",
+        "url" : "https://Skyth3r.github.io/tags/web-dev/",
+        "content_html" : ""
+    },
+    {
+        "title" : "digital-garden",
+        "date_published" : "2023-01-01T09:00:00Z",
+        "date_modified" : "2023-01-01T09:00:00Z",
+        "id" : "https://Skyth3r.github.io/tags/digital-garden/",
+        "url" : "https://Skyth3r.github.io/tags/digital-garden/",
+        "content_html" : ""
+    }
+    ]
+}

@@ -13,9 +13,12 @@
       <pubDate>Sat, 09 Sep 2023 15:20:00 +0000</pubDate>
       
       <guid>https://Skyth3r.github.io/notes/arc-reader-mode/</guid>
-      <description>One of the features I&amp;rsquo;ve always liked in Apple&amp;rsquo;s Safari web browser is the Safari Reader mode, which removes ads, navigation or other distracting elements from a web page.
-This works perfectly for me on iOS but on my laptop, I mainly use Google Chrome and Arc for my web browsing.
-Chrome has a reader type view hidden under chrome://flags and by then searching for &amp;lsquo;reading mode&amp;rsquo; but it&amp;rsquo;s still a bit complicated to enable and doesn&amp;rsquo;t provide the same view as Safari&amp;rsquo;s web browser.</description>
+      <description>&lt;p&gt;One of the features I&amp;rsquo;ve always liked in Apple&amp;rsquo;s Safari web browser is the &lt;a href=&#34;https://support.apple.com/en-gb/guide/safari/sfri32632/mac&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Safari Reader mode&lt;/a&gt;, which removes ads, navigation or other distracting elements from a web page.&lt;/p&gt;
+&lt;p&gt;This works perfectly for me on iOS but on my laptop, I mainly use Google Chrome and Arc for my web browsing.&lt;/p&gt;
+&lt;p&gt;Chrome has a reader type view hidden under &lt;code&gt;chrome://flags&lt;/code&gt; and by then searching for &amp;lsquo;reading mode&amp;rsquo; but it&amp;rsquo;s still a bit complicated to enable and doesn&amp;rsquo;t provide the same view as Safari&amp;rsquo;s web browser.&lt;/p&gt;
+&lt;p&gt;It turns out, &lt;a href=&#34;https://arc.net/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Arc for macOS&lt;/a&gt; has a hidden reader mode that can be enabled on a web page by pressing the &lt;code&gt;option + command + r&lt;/code&gt; keys together which is much more similar to Safari&amp;rsquo;s reader mode.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Note&lt;/strong&gt;&lt;/em&gt; - Arc&amp;rsquo;s reader mode is still in beta but does a great job regardless&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -24,10 +27,17 @@ Chrome has a reader type view hidden under chrome://flags and by then searching 
       <pubDate>Sat, 09 Sep 2023 09:42:00 +0000</pubDate>
       
       <guid>https://Skyth3r.github.io/articles/adding-notes/</guid>
-      <description>In addition to the articles, I’ve decided to add a notes section to the website now. There are times when I wanted to write a short piece about something but it didn’t feel right to put it in the articles section of the website.
-Sometimes I just want to…note something down.
-Hence the notes section!
-What are notes meant to be? Notes will be short pieces of writing. Most likely a couple of lines long.</description>
+      <description>&lt;p&gt;In addition to the articles, I’ve decided to add a notes section to the website now. There are times when I wanted to write a short piece about something but it didn’t feel right to put it in the articles section of the website.&lt;/p&gt;
+&lt;p&gt;Sometimes I just want to…note something down.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Hence the &lt;a href=&#34;https://Skyth3r.github.io/notes&#34; &gt;notes section&lt;/a&gt;!&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;what-are-notes-meant-to-be&#34;&gt;What are notes meant to be?&lt;/h2&gt;
+&lt;p&gt;Notes will be short pieces of writing. Most likely a couple of lines long.&lt;/p&gt;
+&lt;p&gt;They’ll basically be my equivalent of a tweet.&lt;/p&gt;
+&lt;p&gt;If a note ends up getting too long, I might decide to nudge it over to the articles section.&lt;/p&gt;
+&lt;h2 id=&#34;notes-rss-feed&#34;&gt;Notes RSS feed&lt;/h2&gt;
+&lt;p&gt;Thanks to &lt;a href=&#34;https://Skyth3r.github.io/articles/building-websites-with-hugo&#34; &gt;Hugo&lt;/a&gt;, a new RSS feed is auto-magically generated for notes.
+If you want to subscribe to it, here’s the &lt;a href=&#34;https://Skyth3r.github.io/notes/index.xml&#34; &gt;notes RSS feed link&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -36,9 +46,10 @@ What are notes meant to be? Notes will be short pieces of writing. Most likely a
       <pubDate>Sat, 09 Sep 2023 09:30:00 +0000</pubDate>
       
       <guid>https://Skyth3r.github.io/notes/adblocker/</guid>
-      <description>You should be using an adblocker.
-Not because ads are bad (although some are really annoying), but because even the FBI recommend using one for security now.
-Use uBlock Origin and block those scam adverts that pop up at the top of search results.</description>
+      <description>&lt;p&gt;You should be using an adblocker.&lt;/p&gt;
+&lt;p&gt;Not because ads are bad (although some are really annoying), but because even &lt;a href=&#34;https://techcrunch.com/2022/12/22/fbi-ad-blocker/?guccounter=1&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;the FBI recommend using one for security&lt;/a&gt; now.&lt;/p&gt;
+&lt;p&gt;Use &lt;a href=&#34;https://ublockorigin.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;uBlock Origin&lt;/a&gt; and block those scam adverts that pop up at the top of search results.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

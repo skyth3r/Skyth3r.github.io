@@ -82,3 +82,7 @@ enableRobotsTXT = true
 [markup]
   [markup.highlight]
     style = "dracula"
+
+[outputs]
+    section = ["HTML","RSS", "JSON"]
+    taxonomy = ["HTML", "RSS", "JSON"]
