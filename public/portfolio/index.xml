@@ -13,8 +13,9 @@
       <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://Skyth3r.github.io/portfolio/buying-back-your-time/</guid>
-      <description>A talk I presented at You Got This in Cyberspace about knowing when to prioritise saving time vs saving money and a simple framework for how we can buy back our time.
-View the full talk here</description>
+      <description>&lt;p&gt;A talk I presented at &lt;a href=&#34;https://yougotthis.io/collections/cyberspace/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;You Got This in Cyberspace&lt;/a&gt; about knowing when to prioritise saving time vs saving money and a simple framework for how we can buy back our time.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://yougotthis.io/library/buying-back-time&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;View the full talk here&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -23,8 +24,9 @@ View the full talk here</description>
       <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://Skyth3r.github.io/portfolio/akash-and-money/</guid>
-      <description>A writing side project I started in 2020 that covers topics around personal finance. Currently the newsletter has 180+ subscribers.
-View the Akash &amp;amp;amp; Money website here.</description>
+      <description>&lt;p&gt;A writing side project I started in 2020 that covers topics around personal finance. Currently the newsletter has 180+ subscribers.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://akashandmoney.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;View the Akash &amp;amp;amp; Money website here&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -33,8 +35,9 @@ View the Akash &amp;amp;amp; Money website here.</description>
       <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://Skyth3r.github.io/portfolio/manual-receipt-generator/</guid>
-      <description>A simple python third party terminal client based on the reference receipts app that attaches receipts to Monzo transactions using the Monzo Receipts API and a json payload.
-You can find the source code here on GitHub.</description>
+      <description>&lt;p&gt;A simple python third party terminal client based on the &lt;a href=&#34;https://github.com/monzo/reference-receipts-app&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;reference receipts app&lt;/a&gt; that attaches receipts to Monzo transactions using the Monzo Receipts API and a json payload.&lt;/p&gt;
+&lt;p&gt;You can find the &lt;a href=&#34;https://github.com/Skyth3r/Manual-Receipt-Generator&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;source code here on GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -43,9 +46,12 @@ You can find the source code here on GitHub.</description>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://Skyth3r.github.io/portfolio/unity-3d-platformer/</guid>
-      <description>A 3d platformer game with randomised powerup mechanics I made for my final year universirty dissertation project.
-The game focus on giving players a different playthrough experience on each playthrough based on the powerups they acquired throughout each level.
-These powerups affected player stats such as movement speed, jump height, and base attack damage. By manipulating these game elements, each playthrough of the game would be unique due to the randomness of the powerups that were presented in each level.</description>
+      <description>&lt;p&gt;A 3d platformer game with randomised powerup mechanics I made for my final year universirty dissertation project.&lt;/p&gt;
+&lt;p&gt;The game focus on giving players a different playthrough experience on each playthrough based on the powerups they acquired throughout each level.&lt;/p&gt;
+&lt;p&gt;These powerups affected player stats such as movement speed, jump height, and base attack damage. By manipulating these game elements, each playthrough of the game would be unique due to the randomness of the powerups that were presented in each level.&lt;/p&gt;
+&lt;p&gt;Additionally, this 3d platformer also featured a number of classic platformer game mechanics such as pick-up items (coins), moving platforms, enemies, obstacles and portals to teleport the player around different parts of each level.&lt;/p&gt;
+&lt;p&gt;Overall, this project recieved a 1st.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -54,9 +60,11 @@ These powerups affected player stats such as movement speed, jump height, and ba
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://Skyth3r.github.io/portfolio/tfl-to-monzo/</guid>
-      <description>TfL to Monzo was an severless application built as my project for my Cloud Computing module at university with a friend.
-It was written in Python and made use of AWS Lambda to process TfL jounrey data into Monzo recipts.
-The Lambda function would recieve incoming transcation webhook events from a linked Monzo account, check if they were TfL transcations and then run a web scraper script to extract the matching journey data from the TfL web portal before then submitting this data as a reciept to the Monzo receipt API endpoint.</description>
+      <description>&lt;p&gt;TfL to Monzo was an severless application built as my project for my Cloud Computing module at university with a friend.&lt;/p&gt;
+&lt;p&gt;It was written in Python and made use of AWS Lambda to process TfL jounrey data into Monzo recipts.&lt;/p&gt;
+&lt;p&gt;The Lambda function would recieve incoming transcation webhook events from a linked Monzo account, check if they were TfL transcations and then run a web scraper script to extract the matching journey data from the TfL web portal before then submitting this data as a reciept to the Monzo receipt API endpoint.&lt;/p&gt;
+&lt;p&gt;This was one of my favourite projects at university and overall we recieved a final mark of 98/100. I also posted a &lt;a href=&#34;https://twitter.com/akashgoswami_/status/1112685400336855040&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;tweet&lt;/a&gt; of this project and it was highly received.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -65,8 +73,9 @@ The Lambda function would recieve incoming transcation webhook events from a lin
       <pubDate>Sun, 29 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://Skyth3r.github.io/portfolio/credit-card-workout/</guid>
-      <description>A website that takes a users credit card balance, interest rate and monthly amount they wish to pay to calculate how long it would take them to pay their debt off as well as showing them how much interest they have accumulated. This was made within 24 hours for the Porticode 2.0 Hackathon.
-The source code is hosted here on GitHub</description>
+      <description>&lt;p&gt;A website that takes a users credit card balance, interest rate and monthly amount they wish to pay to calculate how long it would take them to pay their debt off as well as showing them how much interest they have accumulated. This was made within 24 hours for the Porticode 2.0 Hackathon.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://github.com/Skyth3r/Credit-Card-Workout&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;source code is hosted here on GitHub&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

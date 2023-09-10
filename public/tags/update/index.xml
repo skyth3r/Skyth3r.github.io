@@ -13,10 +13,17 @@
       <pubDate>Sat, 09 Sep 2023 09:42:00 +0000</pubDate>
       
       <guid>https://Skyth3r.github.io/articles/adding-notes/</guid>
-      <description>In addition to the articles, I’ve decided to add a notes section to the website now. There are times when I wanted to write a short piece about something but it didn’t feel right to put it in the articles section of the website.
-Sometimes I just want to…note something down.
-Hence the notes section!
-What are notes meant to be? Notes will be short pieces of writing. Most likely a couple of lines long.</description>
+      <description>&lt;p&gt;In addition to the articles, I’ve decided to add a notes section to the website now. There are times when I wanted to write a short piece about something but it didn’t feel right to put it in the articles section of the website.&lt;/p&gt;
+&lt;p&gt;Sometimes I just want to…note something down.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Hence the &lt;a href=&#34;https://Skyth3r.github.io/notes&#34; &gt;notes section&lt;/a&gt;!&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;what-are-notes-meant-to-be&#34;&gt;What are notes meant to be?&lt;/h2&gt;
+&lt;p&gt;Notes will be short pieces of writing. Most likely a couple of lines long.&lt;/p&gt;
+&lt;p&gt;They’ll basically be my equivalent of a tweet.&lt;/p&gt;
+&lt;p&gt;If a note ends up getting too long, I might decide to nudge it over to the articles section.&lt;/p&gt;
+&lt;h2 id=&#34;notes-rss-feed&#34;&gt;Notes RSS feed&lt;/h2&gt;
+&lt;p&gt;Thanks to &lt;a href=&#34;https://Skyth3r.github.io/articles/building-websites-with-hugo&#34; &gt;Hugo&lt;/a&gt;, a new RSS feed is auto-magically generated for notes.
+If you want to subscribe to it, here’s the &lt;a href=&#34;https://Skyth3r.github.io/notes/index.xml&#34; &gt;notes RSS feed link&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

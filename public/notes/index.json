@@ -1,0 +1,25 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Notes on Akash Goswami",
+    "description": "Recent content in Notes on Akash Goswami",
+    "home_page_url" : "https://Skyth3r.github.io",
+    "feed_url" : "https://Skyth3r.github.io/notes/index.json",
+    "items" : [
+    {
+        "title" : "Arc's secert reader mode",
+        "date_published" : "2023-09-09T15:20:00Z",
+        "date_modified" : "2023-09-09T15:20:00Z",
+        "id" : "https://Skyth3r.github.io/notes/arc-reader-mode/",
+        "url" : "https://Skyth3r.github.io/notes/arc-reader-mode/",
+        "content_html" : "\u003cp\u003eOne of the features I\u0026rsquo;ve always liked in Apple\u0026rsquo;s Safari web browser is the \u003ca href=\"https://support.apple.com/en-gb/guide/safari/sfri32632/mac\"  target=\"_blank\" rel=\"noopener\" \u003eSafari Reader mode\u003c/a\u003e, which removes ads, navigation or other distracting elements from a web page.\u003c/p\u003e\n\u003cp\u003eThis works perfectly for me on iOS but on my laptop, I mainly use Google Chrome and Arc for my web browsing.\u003c/p\u003e\n\u003cp\u003eChrome has a reader type view hidden under \u003ccode\u003echrome://flags\u003c/code\u003e and by then searching for \u0026lsquo;reading mode\u0026rsquo; but it\u0026rsquo;s still a bit complicated to enable and doesn\u0026rsquo;t provide the same view as Safari\u0026rsquo;s web browser.\u003c/p\u003e\n\u003cp\u003eIt turns out, \u003ca href=\"https://arc.net/\"  target=\"_blank\" rel=\"noopener\" \u003eArc for macOS\u003c/a\u003e has a hidden reader mode that can be enabled on a web page by pressing the \u003ccode\u003eoption + command + r\u003c/code\u003e keys together which is much more similar to Safari\u0026rsquo;s reader mode.\u003c/p\u003e\n\u003cp\u003e\u003cem\u003e\u003cstrong\u003eNote\u003c/strong\u003e\u003c/em\u003e - Arc\u0026rsquo;s reader mode is still in beta but does a great job regardless\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Use an adblocker",
+        "date_published" : "2023-09-09T09:30:00Z",
+        "date_modified" : "2023-09-09T09:30:00Z",
+        "id" : "https://Skyth3r.github.io/notes/adblocker/",
+        "url" : "https://Skyth3r.github.io/notes/adblocker/",
+        "content_html" : "\u003cp\u003eYou should be using an adblocker.\u003c/p\u003e\n\u003cp\u003eNot because ads are bad (although some are really annoying), but because even \u003ca href=\"https://techcrunch.com/2022/12/22/fbi-ad-blocker/?guccounter=1\"  target=\"_blank\" rel=\"noopener\" \u003ethe FBI recommend using one for security\u003c/a\u003e now.\u003c/p\u003e\n\u003cp\u003eUse \u003ca href=\"https://ublockorigin.com/\"  target=\"_blank\" rel=\"noopener\" \u003euBlock Origin\u003c/a\u003e and block those scam adverts that pop up at the top of search results.\u003c/p\u003e\n"
+    }
+    ]
+}
