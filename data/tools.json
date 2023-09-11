@@ -7,6 +7,13 @@
     "tag": "Utilities"
   },
   {
+    "name": "Arc",
+    "description": "A better web browser",
+    "link": "https://arc.net/",
+    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/arc.png",
+    "tag": "Utilities"
+  },
+  {
     "name": "Bear",
     "description": "Minimal writing app with markdown support",
     "link": "https://bear.app/",
@@ -19,6 +26,13 @@
     "link": "https://raindrop.io/",
     "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/raindrop.png",
     "tag": "Utilities"
+  },
+  {
+    "name": "Obsidian",
+    "description": "Markdown based note taking app",
+    "link": "https://obsidian.md/",
+    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/obsidian.png",
+    "tag": "Productivity"
   },
   {
     "name": "Mailbrew",
