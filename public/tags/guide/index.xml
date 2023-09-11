@@ -59,5 +59,76 @@
 </description>
     </item>
     
+    <item>
+      <title>Building websites with Hugo</title>
+      <link>https://Skyth3r.github.io/articles/building-websites-with-hugo/</link>
+      <pubDate>Fri, 20 Jan 2023 08:00:00 +0000</pubDate>
+      
+      <guid>https://Skyth3r.github.io/articles/building-websites-with-hugo/</guid>
+      <description>&lt;p&gt;In the last few months, there has been a flurry of activity around &lt;a href=&#34;https://www.theverge.com/23513418/bring-back-personal-blogging&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;personal blogs&lt;/a&gt; and &lt;a href=&#34;https://www.brycewray.com/posts/2022/11/own-your-stuff/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;owning your own data&lt;/a&gt;, since &lt;a href=&#34;https://www.theverge.com/23551060/elon-musk-twitter-takeover-layoffs-workplace-salute-emoji&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Musk took the reins of Twitter&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;With that, a lot of people have been wondering how they can start their own websites. Since re-launching my website, I&amp;rsquo;ve had people ask me how they can make their own website in the last few weeks. To avoid repeating myself, I&amp;rsquo;ve put together a guide on how you can build a website using Hugo and GitHub Pages.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://kinsta.com/blog/hugo-static-site/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Other guides exist&lt;/a&gt;, but this one covers how I&amp;rsquo;ve set up my website in a simple and easy-to-follow guide.&lt;/p&gt;
+&lt;p&gt;For this demo, I&amp;rsquo;m going to be using the &lt;a href=&#34;https://github.com/janraasch/hugo-bearblog&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Hugo Bear Blog theme&lt;/a&gt; as it&amp;rsquo;s a nice minimalist theme to start with. My website uses a theme called &lt;a href=&#34;https://github.com/apvarun/digital-garden-hugo-theme&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Digital Garden&lt;/a&gt;. The &lt;a href=&#34;https://digital-garden-hugo-theme.vercel.app/articles/installation/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;installation steps&lt;/a&gt; for this theme are slightly more complicated. This guide will focus on using a simpler theme to demonstrate the basics of building websites with Hugo. There are many other &lt;a href=&#34;https://themes.gohugo.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;free Hugo themes&lt;/a&gt; you can choose from as well on the official Hugo website.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;One minor note&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;While it&amp;rsquo;s not needed, I would recommend spending some money and buying a domain name. Usually, most people want a domain in the format of firstNameLastName[dot]com, but you can pick anything you like. For example, Sophie&amp;rsquo;s domain is &lt;a href=&#34;https://localghost.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;localghost.dev&lt;/a&gt;, a fun play on words for localhost.&lt;/p&gt;
+&lt;p&gt;A domain name shouldn&amp;rsquo;t cost too much and you can buy one from several domain name registrars. I bought my domain name, akashgoswami.com via &lt;a href=&#34;https://domains.google/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Google Domains&lt;/a&gt; and pay £10 a year for it (that&amp;rsquo;s less than £1 a month!).&lt;/p&gt;
+&lt;h2 id=&#34;what-is-hugo&#34;&gt;What is Hugo?&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://gohugo.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Hugo&lt;/a&gt; is a fast static site generator tool written in &lt;a href=&#34;https://go.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Go&lt;/a&gt;. It uses templates and markdown files to generate webpages in seconds. The final result is a set of HTML files that you can deploy as a website using a hosting provider such as &lt;a href=&#34;https://pages.github.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;GitHub Pages&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s use an analogy. Let&amp;rsquo;s pretend that we&amp;rsquo;re making a sandwich, instead of building a website 🥪&lt;/p&gt;
+&lt;p&gt;We prepare our sandwich by laying out all the ingredients that we want to include in our sandwich. Once that&amp;rsquo;s done, you simply run the &amp;lsquo;make sandwich&amp;rsquo; command to create a sandwich within seconds.&lt;/p&gt;
+&lt;p&gt;Now imagine we want to swap out some of those ingredients, add new ones or remove some we don&amp;rsquo;t like. We can run the &amp;lsquo;make sandwich&amp;rsquo; command again and have a new sandwich created with these changes.&lt;/p&gt;
+&lt;p&gt;That&amp;rsquo;s how Hugo works, but instead of making a sandwich, it generates the files needed to make a website.&lt;/p&gt;
+&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h2&gt;
+&lt;p&gt;Before we start building our website, there are a few things you&amp;rsquo;ll need beforehand.&lt;/p&gt;
+&lt;h3 id=&#34;a-text-editor&#34;&gt;A text editor&lt;/h3&gt;
+&lt;p&gt;You&amp;rsquo;ll need something to edit your code in. I like using &lt;a href=&#34;https://code.visualstudio.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Visual Studio Code&lt;/a&gt;.There are some &lt;a href=&#34;https://gohugo.io/tools/editors/#visual-studio-code&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;handy Hugo extensions&lt;/a&gt; that you can install within Visual Studio Code as well.&lt;/p&gt;
+&lt;h3 id=&#34;familiarity-with-using-a-command-line-app&#34;&gt;Familiarity with using a command line app&lt;/h3&gt;
+&lt;p&gt;You&amp;rsquo;ll need to navigate around files and run some Hugo commands using the command line interface. On macOS, the built-in command line tool is called &amp;lsquo;Terminal&amp;rsquo; (but I prefer using &lt;a href=&#34;https://iterm2.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;iTerm2&lt;/a&gt;) and on Windows it&amp;rsquo;s Powershell.&lt;/p&gt;
+&lt;h3 id=&#34;a-package-manager&#34;&gt;A Package Manager&lt;/h3&gt;
+&lt;p&gt;Hugo can be installed as a &lt;a href=&#34;https://gohugo.io/installation/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;prebuilt binary&lt;/a&gt; but I prefer using a package manager. For macOS, you&amp;rsquo;ll want to use Homebrew. For Windows, it&amp;rsquo;s Chocolatey. The installation guides for both of these package managers is well documented so I&amp;rsquo;ll leave the links to official installation instructions below.&lt;/p&gt;
+&lt;p&gt;macOS - &lt;a href=&#34;https://brew.sh/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Installation instructions for Homebrew&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Windows - &lt;a href=&#34;https://chocolatey.org/install&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Installation instructions for Chocolatey&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Linux - If you use a Linux-based OS then you can find the &lt;a href=&#34;https://gohugo.io/installation/linux/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;correct installation steps for your Linux distro here&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;github-and-git&#34;&gt;GitHub (and Git)&lt;/h3&gt;
+&lt;p&gt;To host the website, we&amp;rsquo;re going to use GitHub Pages, so you&amp;rsquo;ll need a &lt;a href=&#34;https://github.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;GitHub&lt;/a&gt; account. Create an account (please also enable 2-factor authentication) and then install &lt;a href=&#34;https://desktop.github.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;GitHub Desktop&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You&amp;rsquo;ll also need to install Git via your package manager if it&amp;rsquo;s not already on your machine:&lt;/p&gt;
+&lt;p&gt;macOS&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;brew install git
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Windows&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;choco install git.install
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;setting-up-our-website&#34;&gt;Setting up our website&lt;/h2&gt;
+&lt;p&gt;First up, open the command line and navigate to where you want to create your website project file. I choose to create mine in Users/Akash (the default directory when you open Terminal on macOS).&lt;/p&gt;
+&lt;p&gt;Then, run the following command (but replace username with your GitHub username):&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;hugo new site username.github.io
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;This creates a new folder under the same name that contains some starter files for your Hugo website.&lt;/p&gt;
+&lt;p&gt;Then run the following two commands to navigate into this newly created folder and create a git repository:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;cd username.github.io
+git init
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;After that, we want to add our Hugo theme and set it as well by using the following two commands&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;git submodule add https://github.com/janraasch/hugo-bearblog themes/hugo-bearblog
+echo &amp;#34;theme = &amp;#39;hugo-bearblog&amp;#39;&amp;#34; &amp;gt;&amp;gt; config.toml
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Once that&amp;rsquo;s done you can spin up the website by running &lt;code&gt;hugo server&lt;/code&gt; and then visiting http://localhost:1313/&lt;/p&gt;
+&lt;p&gt;To stop the web server, just enter the command mentioned in your command line application (for macOS its Ctrl+C).&lt;/p&gt;
+&lt;h3 id=&#34;modifying-the-site&#34;&gt;Modifying the site&lt;/h3&gt;
+&lt;p&gt;Now that the website is set up, you can add your own content to it.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s best to refer to a theme&amp;rsquo;s recommended instructions. For &lt;a href=&#34;https://github.com/janraasch/hugo-bearblog/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;hugo-bearblog theme&lt;/a&gt;, it&amp;rsquo;s best to refer to the &lt;a href=&#34;https://github.com/janraasch/hugo-bearblog/tree/master/exampleSite&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;exampleSite folder&lt;/a&gt; with the theme.&lt;/p&gt;
+&lt;p&gt;Once you&amp;rsquo;ve made your changes, you can build your website by running the &lt;code&gt;hugo&lt;/code&gt; command. This will update the files within your public folder, which you can then deploy to a hosting service.&lt;/p&gt;
+&lt;h2 id=&#34;uploading-the-website-to-github&#34;&gt;Uploading the website to GitHub&lt;/h2&gt;
+&lt;p&gt;Now that we&amp;rsquo;re happy with our website, we&amp;rsquo;ll want to upload it to GitHub. Open the GitHub Desktop application and then go to File &amp;gt; Open Local Repository.&lt;/p&gt;
+&lt;p&gt;Make sure you tick all the files and then enter a commit message. It doesn&amp;rsquo;t have to be too fancy, &amp;lsquo;first commit&amp;rsquo; works well. Once you&amp;rsquo;ve done that, click &amp;lsquo;Commit to main&amp;rsquo; and then the &amp;lsquo;Publish repository&amp;rsquo; button. A popup will appear asking you to name your new repository. Name it &amp;lsquo;username.github.io&amp;rsquo; and set it to be public before you click the &amp;lsquo;Publish Repository&amp;rsquo; button.&lt;/p&gt;
+&lt;h3 id=&#34;github-actions&#34;&gt;GitHub Actions&lt;/h3&gt;
+&lt;p&gt;To deploy your website, open the new repository via GitHub on a web browser, and then head to Settings &amp;gt; Pages.&lt;/p&gt;
+&lt;p&gt;From here you can switch the source to &amp;lsquo;GitHub Actions&amp;rsquo; and the default Hugo action should be suggested. Click configure button and then commit the code to your main branch.&lt;/p&gt;
+&lt;p&gt;If you now head back to the Actions tab you can see a workflow running to build your website.&lt;/p&gt;
+&lt;h4 id=&#34;setting-your-domain-name-optional&#34;&gt;Setting your domain name (Optional)&lt;/h4&gt;
+&lt;p&gt;If you have a custom domain, you can set your website&amp;rsquo;s name from the Custom Domain section of the Pages settings page. You&amp;rsquo;ll also need to set your DNS records from your domain registrar to point to GitHub.&lt;/p&gt;
+&lt;h2 id=&#34;wrapping-up&#34;&gt;Wrapping up&lt;/h2&gt;
+&lt;p&gt;Once your website has been built, you can view it by entering either username.github.io or your custom domain name from your web browser!&lt;/p&gt;
+&lt;p&gt;That&amp;rsquo;s it! You&amp;rsquo;ve built your own website 🎉&lt;/p&gt;
+&lt;p&gt;Now that you know the basics, feel free to edit anything you like; switch themes, write new posts, the choice is yours. You can now host your own website, and push new content to it by syncing your changes from your machine to GitHub via GitHub Desktop. Just remember to also run the &lt;code&gt;hugo&lt;/code&gt; command to rebuild the website after making any changes.&lt;/p&gt;
+&lt;p&gt;If you found this guide helpful at all or want to suggest an improvement, feel free to reach out to me and let me know.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

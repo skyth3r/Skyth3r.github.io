@@ -40,20 +40,20 @@ enableRobotsTXT = true
   url = '/now'
   weight = 6
 [[menu.main]]
+  name = 'Tags'
+  url = '/tags'
+  weight = 7
+[[menu.main]]
   name = 'Links'
   params.header = true
-  weight = 7
+  weight = 8
 [[menu.main]]
   name = 'akashgoswami.dev'
   url = 'https://akashgoswami.dev'
-  weight = 8
+  weight = 9
 [[menu.main]]
   name = 'Akash & Money'
   url = 'https://www.akashandmoney.com/'
-  weight = 9
-[[menu.main]]
-  name = 'Polywork'
-  url = 'https://timeline.akashgoswami.com'
   weight = 10
 
 
@@ -70,9 +70,13 @@ enableRobotsTXT = true
   url = 'https://hachyderm.io/@akashgoswami'
   weight = 3
 [[menu.social]]
+  name = 'Polywork'
+  url = 'https://timeline.akashgoswami.com'
+  weight = 4
+[[menu.social]]
   name = 'Email'
   url = 'mailto:akash@akashgoswami.com'
-  weight = 4
+  weight = 5
 [[menu.social]]
   name = 'RSS'
   url = '/articles/index.xml'
