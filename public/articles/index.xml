@@ -163,31 +163,49 @@ If you want to subscribe to it, here’s the &lt;a href=&#34;https://Skyth3r.git
       <guid>https://Skyth3r.github.io/articles/customising-my-hugo-theme/</guid>
       <description>&lt;p&gt;My Hugo website uses the &lt;a href=&#34;https://github.com/apvarun/digital-garden-hugo-theme&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Digital Garden Hugo theme&lt;/a&gt; but I&amp;rsquo;ve made a few changes in addition to using the theme. I&amp;rsquo;ve listed these changes below both for myself to refer back to and for anyone else that might find these useful to include in their own Hugo website 👇🏽&lt;/p&gt;
 &lt;h2 id=&#34;updating-lastmod-text&#34;&gt;Updating lastmod text&lt;/h2&gt;
-&lt;p&gt;One of the first changes I made was to change the lastmod front matter text that was displayed on the theme. Previously it would default to showing &lt;code&gt;Pruned January 2, 2023&lt;/code&gt; on articles with the &lt;code&gt;lastmod&lt;/code&gt; front matter. After my change to the article single layout it now instead shows &lt;code&gt;Last tended to on January 2, 2023&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/Skyth3r/Skyth3r.github.io/commit/ee9926c786e458476524ac571be01a7ea6a38285&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Link to code change&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;google-analytics&#34;&gt;Google Analytics&lt;/h2&gt;
+&lt;p&gt;One of the first changes I made was to &lt;a href=&#34;https://github.com/Skyth3r/Skyth3r.github.io/commit/ee9926c786e458476524ac571be01a7ea6a38285&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;change the lastmod front matter text&lt;/a&gt; that was displayed on the theme. Previously it would default to showing &lt;code&gt;Pruned January 2, 2023&lt;/code&gt; on articles with the &lt;code&gt;lastmod&lt;/code&gt; front matter. After my change to the article single layout it now instead shows &lt;code&gt;Last tended to on January 2, 2023&lt;/code&gt;.&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{ if .Date }}
+    &amp;lt;p class=&amp;#34;text-sm text-slate-500 !mb-8&amp;#34;&amp;gt; Planted {{ $date }}
+		{{ if ne $lastmod $date}}
+			&amp;lt;br/&amp;gt; Last tended to on {{ .Lastmod.Format &amp;#34;January 2, 2006&amp;#34; }}
+        {{ end }}
+	&amp;lt;/p&amp;gt;
+{{ end }}
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;google-analytics&#34;&gt;Google Analytics&lt;/h2&gt;
 &lt;p&gt;Adding Google Analytics to the site is pretty simple as it&amp;rsquo;s natively supported by the theme I&amp;rsquo;m using. Within the config.toml file, you just need to add the Google Analytics tracking ID in the format, &amp;ldquo;googleAnalytics = &amp;lsquo;TRAKCING_CODE_HERE&amp;rsquo;&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;One issue I noticed with this was the fact analytics data would be pinged back to Google Analytics while I worked on the website locally on my own machine.&lt;/p&gt;
-&lt;p&gt;To fix this, I replaced the config.toml file stored in the root of the repository with a config folder and then split the config.toml file into two files, a default file that contained all the config settings for the site, and a production config.toml file that contains only the Google Analytics tracking code.&lt;/p&gt;
+&lt;p&gt;To fix this, I &lt;a href=&#34;https://github.com/Skyth3r/Skyth3r.github.io/commit/1bcb816700f2244d7a8337f61be5b410886f88bd#diff-5f948a63b2e0f5e8409b3a709cb74c89451854c6ded2959a6f110d5340001cc1&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;replaced the config.toml file stored in the root of the repository with a config folder&lt;/a&gt; and then split the config.toml file into two files, a default file that contained all the config settings for the site, and a production config.toml file that contains only the Google Analytics tracking code.&lt;/p&gt;
 &lt;p&gt;Now when I work on new things for the website I run the command &lt;code&gt;hugo server --environment development -D&lt;/code&gt;, which loads only the default config file. When re-building the website, I use the &lt;code&gt;hugo&lt;/code&gt; command takes both config files and merges them together to build the production website, thus resolving the issue of generating accidently analytics data during testing and development.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/Skyth3r/Skyth3r.github.io/commit/1bcb816700f2244d7a8337f61be5b410886f88bd#diff-5f948a63b2e0f5e8409b3a709cb74c89451854c6ded2959a6f110d5340001cc1&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Link to code change&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;additional-article-front-matter&#34;&gt;Additional Article Front Matter&lt;/h2&gt;
 &lt;p&gt;I ended up adding a few new improvements to the article front matter.&lt;/p&gt;
 &lt;h3 id=&#34;article-read-time&#34;&gt;Article read time&lt;/h3&gt;
-&lt;p&gt;Added a read time for articles. This is automatically generated and listed for each article item. This is based on the code found &lt;a href=&#34;https://discourse.gohugo.io/t/readingtime-define/13036/4&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/Skyth3r/Skyth3r.github.io/commit/a3cea7373e46fd49c8ab0c0e1499497741153237&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Link to code change&lt;/a&gt;.&lt;/p&gt;
-&lt;h3 id=&#34;tags&#34;&gt;Tags&lt;/h3&gt;
-&lt;p&gt;I wanted to be able to nagivate my site articles by tags, so I&amp;rsquo;ve added tags to each article and updated the autogenerated tags page (was previously blank) as well. The code from the tags page is currently just copied from the theme&amp;rsquo;s &lt;a href=&#34;https://github.com/apvarun/digital-garden-hugo-theme/tree/main/layouts/portfolio&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;portfolio layout&lt;/a&gt;. It&amp;rsquo;s not perfect but it works for now.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/Skyth3r/Skyth3r.github.io/commit/29ede00b08c2f0eabe217eee315ef9924498250d&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Link to code change&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;rel-me-verifcation&#34;&gt;rel-me verifcation&lt;/h2&gt;
-&lt;p&gt;Modified the social icons sidebar code to include rel=me. Used for &lt;a href=&#34;https://docs.joinmastodon.org/user/profile/#verification&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;verification on Mastodon&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/Skyth3r/Skyth3r.github.io/commit/f7cf25f796ead76c1348da976cb980e899f1302a&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Link to code change&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;404-page-copy&#34;&gt;404 page copy&lt;/h2&gt;
-&lt;p&gt;Added some copy to the 404 page (was previously a blank page).&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/Skyth3r/Skyth3r.github.io/commit/1dd845aa4b5894753755a2384eb4d1f784067337&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Link to code change&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Skyth3r/Skyth3r.github.io/commit/a3cea7373e46fd49c8ab0c0e1499497741153237&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Added a read time for articles&lt;/a&gt;. This is automatically generated and listed for each article item. This is based on the code found &lt;a href=&#34;https://discourse.gohugo.io/t/readingtime-define/13036/4&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{ if gt .ReadingTime 1 }}
+    {{ .Scratch.Set &amp;#34;readingTime&amp;#34; &amp;#34;minutes&amp;#34; }}
+{{ else }}
+    {{ .Scratch.Set &amp;#34;readingTime&amp;#34; &amp;#34;minute&amp;#34; }}
+{{ end }}
+Reading time: {{ .ReadingTime }} {{ .Scratch.Get &amp;#34;readingTime&amp;#34; }}
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;tags&#34;&gt;Tags&lt;/h3&gt;
+&lt;p&gt;I wanted to be able to nagivate my site articles by tags, so I&amp;rsquo;ve &lt;a href=&#34;https://github.com/Skyth3r/Skyth3r.github.io/commit/29ede00b08c2f0eabe217eee315ef9924498250d&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;added tags to each article&lt;/a&gt; and updated the autogenerated tags page (was previously blank) as well. The code from the tags page is currently just copied from the theme&amp;rsquo;s &lt;a href=&#34;https://github.com/apvarun/digital-garden-hugo-theme/tree/main/layouts/portfolio&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;portfolio layout&lt;/a&gt;. It&amp;rsquo;s not perfect but it works for now.&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&amp;lt;br/&amp;gt; Tags:
+{{ with .Param &amp;#34;tags&amp;#34; }}
+    {{ range $index, $tag := (. | sort) }} 
+        {{ with $.Site.GetPage (printf &amp;#34;/%s/%s&amp;#34; &amp;#34;tags&amp;#34; $tag) }}
+            &amp;lt;a href=&amp;#34;{{ .Permalink }}&amp;#34;&amp;gt;#{{ $tag | urlize }}&amp;lt;/a&amp;gt;
+        {{ end }}
+    {{ end }}
+{{ end }}
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;rel-me-verifcation&#34;&gt;rel-me verifcation&lt;/h2&gt;
+&lt;p&gt;Modified the social icons sidebar code to &lt;a href=&#34;ttps://github.com/Skyth3r/Skyth3r.github.io/commit/f7cf25f796ead76c1348da976cb980e899f1302a&#34; &gt;include rel=me&lt;/a&gt;. Used for &lt;a href=&#34;https://docs.joinmastodon.org/user/profile/#verification&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;verification on Mastodon&lt;/a&gt;.&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&amp;lt;li&amp;gt;
+    &amp;lt;a class=&amp;#34;px-2 py-1.5 rounded-md text-sm block text-slate-800 dark:text-slate-50 {{ if eq (.URL|absURL) $permalink }} bg-slate-800 text-white dark: {{ else }} hover:bg-slate-200 dark:hover:bg-slate-700 {{ end }}&amp;#34;
+    href=&amp;#34;{{ .URL }}&amp;#34; target=&amp;#34;_blank&amp;#34; rel=&amp;#34;noopener noreferrer me&amp;#34;&amp;gt;
+...
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;404-page-copy&#34;&gt;404 page copy&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Skyth3r/Skyth3r.github.io/commit/1dd845aa4b5894753755a2384eb4d1f784067337&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Added some copy to the 404 page&lt;/a&gt; as it was previously a blank page.&lt;/p&gt;
 &lt;h2 id=&#34;buy-me-a-coffee-widget&#34;&gt;Buy me a coffee widget&lt;/h2&gt;
-&lt;p&gt;Added a buy me a coffee widget to each article page by creating a new partial shortcode.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/Skyth3r/Skyth3r.github.io/commit/698221f0451372bac9b85b90fcff1b9f92321597&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Link to code change&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Skyth3r/Skyth3r.github.io/commit/698221f0451372bac9b85b90fcff1b9f92321597&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Added a buy me a coffee widget&lt;/a&gt; to each article page by creating a new partial shortcode.&lt;/p&gt;
 </description>
     </item>
     
@@ -197,10 +215,7 @@ If you want to subscribe to it, here’s the &lt;a href=&#34;https://Skyth3r.git
       <pubDate>Fri, 20 Jan 2023 08:00:00 +0000</pubDate>
       
       <guid>https://Skyth3r.github.io/articles/building-websites-with-hugo/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Please note&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Due to issues with the theme, I&amp;rsquo;ve had to remove the code blocks from this article. The code is still present below but it&amp;rsquo;s not formatted as a code block. I&amp;rsquo;ll update this once this issue is fixed.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;In the last few months, there has been a flurry of activity around &lt;a href=&#34;https://www.theverge.com/23513418/bring-back-personal-blogging&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;personal blogs&lt;/a&gt; and &lt;a href=&#34;https://www.brycewray.com/posts/2022/11/own-your-stuff/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;owning your own data&lt;/a&gt;, since &lt;a href=&#34;https://www.theverge.com/23551060/elon-musk-twitter-takeover-layoffs-workplace-salute-emoji&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Musk took the reins of Twitter&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;In the last few months, there has been a flurry of activity around &lt;a href=&#34;https://www.theverge.com/23513418/bring-back-personal-blogging&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;personal blogs&lt;/a&gt; and &lt;a href=&#34;https://www.brycewray.com/posts/2022/11/own-your-stuff/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;owning your own data&lt;/a&gt;, since &lt;a href=&#34;https://www.theverge.com/23551060/elon-musk-twitter-takeover-layoffs-workplace-salute-emoji&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Musk took the reins of Twitter&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;With that, a lot of people have been wondering how they can start their own websites. Since re-launching my website, I&amp;rsquo;ve had people ask me how they can make their own website in the last few weeks. To avoid repeating myself, I&amp;rsquo;ve put together a guide on how you can build a website using Hugo and GitHub Pages.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://kinsta.com/blog/hugo-static-site/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Other guides exist&lt;/a&gt;, but this one covers how I&amp;rsquo;ve set up my website in a simple and easy-to-follow guide.&lt;/p&gt;
 &lt;p&gt;For this demo, I&amp;rsquo;m going to be using the &lt;a href=&#34;https://github.com/janraasch/hugo-bearblog&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Hugo Bear Blog theme&lt;/a&gt; as it&amp;rsquo;s a nice minimalist theme to start with. My website uses a theme called &lt;a href=&#34;https://github.com/apvarun/digital-garden-hugo-theme&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Digital Garden&lt;/a&gt;. The &lt;a href=&#34;https://digital-garden-hugo-theme.vercel.app/articles/installation/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;installation steps&lt;/a&gt; for this theme are slightly more complicated. This guide will focus on using a simpler theme to demonstrate the basics of building websites with Hugo. There are many other &lt;a href=&#34;https://themes.gohugo.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;free Hugo themes&lt;/a&gt; you can choose from as well on the official Hugo website.&lt;/p&gt;

@@ -20,7 +20,7 @@ I'm currently getting back into going to the gym regularly 🏋🏽‍♂️
 
 Managing to cycle to work more regularly 🚴🏽‍♂️
 
-Still trying to get into running  🚴‍♀️
+Still trying to get into running 🏃🏽‍♂️
 
 I've got into hiking over the last year. Last month, I hiked up Ben Nevis in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 

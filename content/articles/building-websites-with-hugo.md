@@ -1,17 +1,11 @@
 ---
 title: Building websites with Hugo
 date: 2023-01-20T08:00:00
-lastmod: 2023-03-05
+lastmod: 2023-09-11T7:41:00
 images: 
 - /img/setting-up-hugo/setting-up-hugo-header.png
 description: A guide on building your own website for free using Hugo and Github Pages.
-tags: ['web-dev', 'hugo']
----
-
-**Please note**
-
-Due to issues with the theme, I've had to remove the code blocks from this article. The code is still present below but it's not formatted as a code block. I'll update this once this issue is fixed.
-
+tags: ['web-dev', 'hugo', 'guide']
 ---
 
 In the last few months, there has been a flurry of activity around [personal blogs](https://www.theverge.com/23513418/bring-back-personal-blogging) and [owning your own data](https://www.brycewray.com/posts/2022/11/own-your-stuff/), since [Musk took the reins of Twitter](https://www.theverge.com/23551060/elon-musk-twitter-takeover-layoffs-workplace-salute-emoji).

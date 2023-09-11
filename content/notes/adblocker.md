@@ -2,7 +2,7 @@
 title: Use an adblocker
 date: 2023-09-09T09:30:00
 description: Block those annoying scammers.
-tags: ['notes', 'cybersecurity']
+tags: ['cybersecurity']
 ---
 
 You should be using an adblocker. 
