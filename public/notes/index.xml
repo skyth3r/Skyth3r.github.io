@@ -6,7 +6,21 @@
     <description>Recent content in Notes on Akash Goswami</description>
     <generator>Hugo -- gohugo.io</generator>
     <language></language>
-    <lastBuildDate>Sat, 09 Sep 2023 15:20:00 +0000</lastBuildDate><atom:link href="https://Skyth3r.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Sep 2023 14:20:00 +0000</lastBuildDate><atom:link href="https://Skyth3r.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apple Watch Double Tap</title>
+      <link>https://Skyth3r.github.io/notes/apple-watch-double-tap/</link>
+      <pubDate>Fri, 15 Sep 2023 14:20:00 +0000</pubDate>
+      
+      <guid>https://Skyth3r.github.io/notes/apple-watch-double-tap/</guid>
+      <description>&lt;p&gt;On 12th September 2023, Apple announced the new Apple Watch series 9 with a new double tap guesture.&lt;/p&gt;
+&lt;p&gt;Except&amp;hellip;this new guesture isn&amp;rsquo;t actually new. You can enable it on your Apple Watch (Series 4 and later, Apple Watch SE and later, and Apple Watch Ultra) already.&lt;/p&gt;
+&lt;p&gt;On the Apple Watch app on your iPhone, head to Settings &amp;gt; Accessibility &amp;gt; AssistiveTouch and then toggle &amp;lsquo;Hand Gestures&amp;rsquo; on. You can now control your entire Apple Watch with one hand using the Pinch, Double Pinch, Clench and Double Clench gestures.&lt;/p&gt;
+&lt;p&gt;This works flawlessly on my Apple Watch series 8 (gestures on older models might be less reliable). The difference between the new double tap guesture and the double pinch guesture seems to be minimal with the expection of the double tap guesture being enabled by default on the new Apple Watch and the hardware being slighlty better.&lt;/p&gt;
+&lt;p&gt;I wouldn&amp;rsquo;t upgrade an Apple Watch for this one feature but battery life and other improvements would be my main reason for getting a newer Apple Watch. For now, I&amp;rsquo;ll be sticking to my series 8.&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>Arc&#39;s secert reader mode</title>
       <link>https://Skyth3r.github.io/notes/arc-reader-mode/</link>
