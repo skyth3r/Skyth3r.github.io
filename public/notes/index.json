@@ -6,6 +6,14 @@
     "feed_url" : "https://Skyth3r.github.io/notes/index.json",
     "items" : [
     {
+        "title" : "A solar powered website",
+        "date_published" : "2023-09-15T21:32:00Z",
+        "date_modified" : "2023-09-15T21:32:00Z",
+        "id" : "https://Skyth3r.github.io/notes/solar-website/",
+        "url" : "https://Skyth3r.github.io/notes/solar-website/",
+        "content_html" : "\u003cp\u003eLast month I came across a quirky little website.\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"https://solar.lowtechmagazine.com/\"  target=\"_blank\" rel=\"noopener\" \u003eLow Tech Magazine\u003c/a\u003e is a website that explores forgotten tech and energy sustainability.\u003c/p\u003e\n\u003cp\u003eArticles on the website are split into three main categories; \u003ca href=\"https://solar.lowtechmagazine.com/low-tech-solutions/\"  target=\"_blank\" rel=\"noopener\" \u003eLow-tech solutions\u003c/a\u003e, \u003ca href=\"https://solar.lowtechmagazine.com/high-tech-problems/\"  target=\"_blank\" rel=\"noopener\" \u003eHigh-tech problems\u003c/a\u003e and \u003ca href=\"https://solar.lowtechmagazine.com/obsolete-technology/\"  target=\"_blank\" rel=\"noopener\" \u003eObsolete Technology\u003c/a\u003e.\u003c/p\u003e\n\u003cp\u003eMy favourite part. It\u0026rsquo;s a solar powered website ☀️\u003c/p\u003e\n\u003cp\u003eOccasionally the website goes down when it\u0026rsquo;s not sunny enough in Barcelona (where the web server is based) and the backup battery has run dry.\u003c/p\u003e\n\u003cp\u003eWhat do you do when you want to read articles from the website and the site is down? Well you can access the site\u0026rsquo;s content offline\u0026hellip;as \u003ca href=\"https://solar.lowtechmagazine.com/offline-reading/\"  target=\"_blank\" rel=\"noopener\" \u003ephysical books\u003c/a\u003e!\u003c/p\u003e\n\u003cp\u003eIt\u0026rsquo;s such a interesting take on websites that I really like the idea of.\u003c/p\u003e\n\u003cp\u003eMy favourite article from the website so far - \u003ca href=\"https://solar.lowtechmagazine.com/2023/02/can-we-make-bicycles-sustainable-again/\"  target=\"_blank\" rel=\"noopener\" \u003eCan We Make Bicycles Sustainable Again?\n\u003c/a\u003e.\u003c/p\u003e\n"
+    },
+    {
         "title" : "Apple Watch Double Tap",
         "date_published" : "2023-09-15T14:20:00Z",
         "date_modified" : "2023-09-15T14:20:00Z",
