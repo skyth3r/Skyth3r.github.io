@@ -46,6 +46,8 @@
         <span class="sr-only">{{ .Name }}</span>
         {{ if eq .Name "Twitter" }}
         <span>{{- partial "icon/twitterIcon.html" . -}}</span>
+        {{ else if eq .Name "X" }}
+        <span>{{- partial "icon/xIcon.html" . -}}</span>
         {{ else if eq .Name "Codeberg" }}
         <span>{{- partial "icon/codebergIcon.html" . -}}</span>
         {{ else if eq .Name "GitHub" }}
@@ -64,6 +66,8 @@
         <span>{{- partial "icon/codepenIcon.html" . -}}</span>
         {{ else if eq .Name "Polywork" }}
         <span>{{- partial "icon/polyworkIcon.html" . -}}</span>
+        {{ else if eq .Name "T2" }}
+        <span>{{- partial "icon/t2Icon.html" . -}}</span>
         {{ else if eq .Name "Twitch" }}
         <span>{{- partial "icon/twitchIcon.html" . -}}</span>
         {{ else if eq .Name "Email" }}
