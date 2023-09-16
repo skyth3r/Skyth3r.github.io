@@ -16,4 +16,4 @@ While you're here check out some of my [articles](/articles) or [what tools I us
 
 ### Want to contact me?
 
-The best way to get in touch with me is probably via [Twitter](https://twitter.com/akashgoswami_) or [email](mailto:akash@akashgoswami.com).
+The best way to get in touch with me is probably via [Twitter](https://twitter.com/akashgoswami_) or {{< cloakemail address="akash@akashgoswami.com" display="email" >}}.
