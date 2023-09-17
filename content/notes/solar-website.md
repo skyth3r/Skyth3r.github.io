@@ -2,7 +2,7 @@
 title: A solar powered website
 date: 2023-09-15T21:32:00
 description: I found this awesome website last month and 
-tags: ['apple']
+tags: ['misc']
 ---
 
 Last month I came across a quirky little website.
@@ -19,6 +19,5 @@ What do you do when you want to read articles from the website and the site is d
 
 It's such a interesting take on websites that I really like the idea of.
 
-My favourite article from the website so far - [Can We Make Bicycles Sustainable Again?
-](https://solar.lowtechmagazine.com/2023/02/can-we-make-bicycles-sustainable-again/).
+My favourite article from the website so far - [Can We Make Bicycles Sustainable Again?](https://solar.lowtechmagazine.com/2023/02/can-we-make-bicycles-sustainable-again/).
 
