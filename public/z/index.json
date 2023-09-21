@@ -1,0 +1,17 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "z on Akash Goswami",
+    "description": "Recent content in z on Akash Goswami",
+    "home_page_url" : "https://Skyth3r.github.io",
+    "feed_url" : "https://Skyth3r.github.io/z/index.json",
+    "items" : [
+    {
+        "title" : "Japan Tips",
+        "date_published" : "2023-09-21T10:24:00Z",
+        "date_modified" : "2023-09-21T10:24:00Z",
+        "id" : "https://Skyth3r.github.io/z/japan-tips/",
+        "url" : "https://Skyth3r.github.io/z/japan-tips/",
+        "content_html" : "\u003cp\u003e\u003cstrong\u003eNote: This is a work in progress page\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eSome tips for visiting Japan.\u003c/p\u003e\n\u003ch2 id=\"general-tips\"\u003eGeneral Tips\u003c/h2\u003e\n\u003cul\u003e\n\u003cli\u003eIf you have an iPhone, add a Suica card to your Apple Wallet and then add it to Express Mode via the settings. This lets you tap in and out of most public transport extremely quickly. You can also use the for payments in a number of stores and topping it up is done within seconds from the Apple Wallet app.\u003c/li\u003e\n\u003cli\u003eNote down the 7-11 locations near where you\u0026rsquo;re staying. They are open 24/7 and all have an ATM that accepts all international bank cards (great for when you need to make a cash withdrawal)\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch2 id=\"tokyo\"\u003eTokyo\u003c/h2\u003e\n\u003cp\u003e🔜\u003c/p\u003e\n\u003ch2 id=\"osaka\"\u003eOsaka\u003c/h2\u003e\n\u003cp\u003e🔜\u003c/p\u003e\n\u003ch2 id=\"kyoto\"\u003eKyoto\u003c/h2\u003e\n\u003cp\u003e🔜\u003c/p\u003e\n"
+    }
+    ]
+}
