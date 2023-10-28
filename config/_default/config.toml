@@ -51,10 +51,6 @@ enableRobotsTXT = true
   name = 'akashgoswami.dev'
   url = 'https://akashgoswami.dev'
   weight = 9
-[[menu.main]]
-  name = 'Pebble'
-  url = 'https://pebble.is/akash/'
-  weight = 10
 
 [[menu.social]]
   name = 'Mastodon'
