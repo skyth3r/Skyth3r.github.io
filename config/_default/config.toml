@@ -1,4 +1,4 @@
-baseURL = 'https://Skyth3r.github.io'
+baseURL = 'https://akashgoswami.com'
 languageCode = 'en-us'
 title = 'Akash Goswami'
 theme = ['hugo-cloak-email', 'digitalgarden']

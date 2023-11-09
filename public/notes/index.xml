@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Notes on Akash Goswami</title>
-    <link>https://Skyth3r.github.io/notes/</link>
+    <link>https://akashgoswami.com/notes/</link>
     <description>Recent content in Notes on Akash Goswami</description>
     <generator>Hugo -- gohugo.io</generator>
     <language></language>
-    <lastBuildDate>Sun, 17 Sep 2023 08:40:00 +0000</lastBuildDate><atom:link href="https://Skyth3r.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Sep 2023 08:40:00 +0000</lastBuildDate><atom:link href="https://akashgoswami.com/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>An eSim database!</title>
-      <link>https://Skyth3r.github.io/notes/esimdb/</link>
+      <link>https://akashgoswami.com/notes/esimdb/</link>
       <pubDate>Sun, 17 Sep 2023 08:40:00 +0000</pubDate>
       
-      <guid>https://Skyth3r.github.io/notes/esimdb/</guid>
+      <guid>https://akashgoswami.com/notes/esimdb/</guid>
       <description>&lt;p&gt;Last year I came across a handly little app called &lt;a href=&#34;https://www.airalo.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Airalo&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Airalo lets you install data only eSims on your phone - perfect for a trip abroad.&lt;/p&gt;
 &lt;p&gt;It&amp;rsquo;s always been my go to since (most) mobile networks in the UK re-introuduced roaming fees.&lt;/p&gt;
@@ -24,10 +24,10 @@
     
     <item>
       <title>A solar powered website</title>
-      <link>https://Skyth3r.github.io/notes/solar-website/</link>
+      <link>https://akashgoswami.com/notes/solar-website/</link>
       <pubDate>Fri, 15 Sep 2023 21:32:00 +0000</pubDate>
       
-      <guid>https://Skyth3r.github.io/notes/solar-website/</guid>
+      <guid>https://akashgoswami.com/notes/solar-website/</guid>
       <description>&lt;p&gt;Last month I came across a quirky little website.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://solar.lowtechmagazine.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Low Tech Magazine&lt;/a&gt; is a website that explores forgotten tech and energy sustainability.&lt;/p&gt;
 &lt;p&gt;Articles on the website are split into three main categories; &lt;a href=&#34;https://solar.lowtechmagazine.com/low-tech-solutions/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Low-tech solutions&lt;/a&gt;, &lt;a href=&#34;https://solar.lowtechmagazine.com/high-tech-problems/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;High-tech problems&lt;/a&gt; and &lt;a href=&#34;https://solar.lowtechmagazine.com/obsolete-technology/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Obsolete Technology&lt;/a&gt;.&lt;/p&gt;
@@ -41,10 +41,10 @@
     
     <item>
       <title>Apple Watch Double Tap</title>
-      <link>https://Skyth3r.github.io/notes/apple-watch-double-tap/</link>
+      <link>https://akashgoswami.com/notes/apple-watch-double-tap/</link>
       <pubDate>Fri, 15 Sep 2023 14:20:00 +0000</pubDate>
       
-      <guid>https://Skyth3r.github.io/notes/apple-watch-double-tap/</guid>
+      <guid>https://akashgoswami.com/notes/apple-watch-double-tap/</guid>
       <description>&lt;p&gt;On 12th September 2023, Apple announced the new Apple Watch Series 9 with a new double tap guesture.&lt;/p&gt;
 &lt;p&gt;Except&amp;hellip;this new guesture isn&amp;rsquo;t actually new. You can enable it on your Apple Watch (Series 4 and later, Apple Watch SE and later, and Apple Watch Ultra) already.&lt;/p&gt;
 &lt;p&gt;On the Apple Watch app on your iPhone, head to Settings &amp;gt; Accessibility &amp;gt; AssistiveTouch and then toggle &amp;lsquo;Hand Gestures&amp;rsquo; on. You can now control your entire Apple Watch with one hand using the Pinch, Double Pinch, Clench and Double Clench gestures.&lt;/p&gt;
@@ -55,10 +55,10 @@
     
     <item>
       <title>Arc&#39;s secert reader mode</title>
-      <link>https://Skyth3r.github.io/notes/arc-reader-mode/</link>
+      <link>https://akashgoswami.com/notes/arc-reader-mode/</link>
       <pubDate>Sat, 09 Sep 2023 15:20:00 +0000</pubDate>
       
-      <guid>https://Skyth3r.github.io/notes/arc-reader-mode/</guid>
+      <guid>https://akashgoswami.com/notes/arc-reader-mode/</guid>
       <description>&lt;p&gt;One of the features I&amp;rsquo;ve always liked in Apple&amp;rsquo;s Safari web browser is the &lt;a href=&#34;https://support.apple.com/en-gb/guide/safari/sfri32632/mac&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Safari Reader mode&lt;/a&gt;, which removes ads, navigation or other distracting elements from a web page.&lt;/p&gt;
 &lt;p&gt;This works perfectly for me on iOS but on my laptop, I mainly use Google Chrome and Arc for my web browsing.&lt;/p&gt;
 &lt;p&gt;Chrome has a reader type view hidden under &lt;code&gt;chrome://flags&lt;/code&gt; and by then searching for &amp;lsquo;reading mode&amp;rsquo; but it&amp;rsquo;s still a bit complicated to enable and doesn&amp;rsquo;t provide the same view as Safari&amp;rsquo;s web browser.&lt;/p&gt;
@@ -69,10 +69,10 @@
     
     <item>
       <title>Use an adblocker</title>
-      <link>https://Skyth3r.github.io/notes/adblocker/</link>
+      <link>https://akashgoswami.com/notes/adblocker/</link>
       <pubDate>Sat, 09 Sep 2023 09:30:00 +0000</pubDate>
       
-      <guid>https://Skyth3r.github.io/notes/adblocker/</guid>
+      <guid>https://akashgoswami.com/notes/adblocker/</guid>
       <description>&lt;p&gt;You should be using an adblocker.&lt;/p&gt;
 &lt;p&gt;Not because ads are bad (although some are really annoying), but because even &lt;a href=&#34;https://techcrunch.com/2022/12/22/fbi-ad-blocker/?guccounter=1&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;the FBI recommend using one for security&lt;/a&gt; now.&lt;/p&gt;
 &lt;p&gt;Use &lt;a href=&#34;https://ublockorigin.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;uBlock Origin&lt;/a&gt; and block those scam adverts that pop up at the top of search results.&lt;/p&gt;
