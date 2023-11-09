@@ -2,47 +2,47 @@
     "version" : "https://jsonfeed.org/version/1",
     "title" : "Notes on Akash Goswami",
     "description": "Recent content in Notes on Akash Goswami",
-    "home_page_url" : "https://Skyth3r.github.io",
-    "feed_url" : "https://Skyth3r.github.io/notes/index.json",
+    "home_page_url" : "https://akashgoswami.com",
+    "feed_url" : "https://akashgoswami.com/notes/index.json",
     "items" : [
     {
         "title" : "An eSim database!",
         "date_published" : "2023-09-17T08:40:00Z",
         "date_modified" : "2023-09-17T08:40:00Z",
-        "id" : "https://Skyth3r.github.io/notes/esimdb/",
-        "url" : "https://Skyth3r.github.io/notes/esimdb/",
+        "id" : "https://akashgoswami.com/notes/esimdb/",
+        "url" : "https://akashgoswami.com/notes/esimdb/",
         "content_html" : "\u003cp\u003eLast year I came across a handly little app called \u003ca href=\"https://www.airalo.com/\"  target=\"_blank\" rel=\"noopener\" \u003eAiralo\u003c/a\u003e.\u003c/p\u003e\n\u003cp\u003eAiralo lets you install data only eSims on your phone - perfect for a trip abroad.\u003c/p\u003e\n\u003cp\u003eIt\u0026rsquo;s always been my go to since (most) mobile networks in the UK re-introuduced roaming fees.\u003c/p\u003e\n\u003cp\u003eThen I found \u003ca href=\"https://esimdb.com/\"  target=\"_blank\" rel=\"noopener\" \u003eesimbdb\u003c/a\u003e. A way of comparing eSim prices from various eSim providers for different countries!\u003c/p\u003e\n\u003cp\u003eI\u0026rsquo;m probably still going to use Airalo. It might cost a little more, but the app is super conveniance, accepts Apple Pay (or Google Pay on Android), gives you cashback credit on your purchases and simplifies the eSim installion process (it\u0026rsquo;s a one tap install on iOS).\u003c/p\u003e\n\u003cp\u003eWant to give Airalo a spin? Use my code \u003cstrong\u003e\u0026lsquo;AKASH336\u0026rsquo;\u003c/strong\u003e for $3 off your first purchase (I also get $3 in credit as well).\u003c/p\u003e\n"
     },
     {
         "title" : "A solar powered website",
         "date_published" : "2023-09-15T21:32:00Z",
         "date_modified" : "2023-09-15T21:32:00Z",
-        "id" : "https://Skyth3r.github.io/notes/solar-website/",
-        "url" : "https://Skyth3r.github.io/notes/solar-website/",
+        "id" : "https://akashgoswami.com/notes/solar-website/",
+        "url" : "https://akashgoswami.com/notes/solar-website/",
         "content_html" : "\u003cp\u003eLast month I came across a quirky little website.\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"https://solar.lowtechmagazine.com/\"  target=\"_blank\" rel=\"noopener\" \u003eLow Tech Magazine\u003c/a\u003e is a website that explores forgotten tech and energy sustainability.\u003c/p\u003e\n\u003cp\u003eArticles on the website are split into three main categories; \u003ca href=\"https://solar.lowtechmagazine.com/low-tech-solutions/\"  target=\"_blank\" rel=\"noopener\" \u003eLow-tech solutions\u003c/a\u003e, \u003ca href=\"https://solar.lowtechmagazine.com/high-tech-problems/\"  target=\"_blank\" rel=\"noopener\" \u003eHigh-tech problems\u003c/a\u003e and \u003ca href=\"https://solar.lowtechmagazine.com/obsolete-technology/\"  target=\"_blank\" rel=\"noopener\" \u003eObsolete Technology\u003c/a\u003e.\u003c/p\u003e\n\u003cp\u003eMy favourite part. It\u0026rsquo;s a solar powered website ☀️\u003c/p\u003e\n\u003cp\u003eOccasionally the website goes down when it\u0026rsquo;s not sunny enough in Barcelona (where the web server is based) and the backup battery has run dry.\u003c/p\u003e\n\u003cp\u003eWhat do you do when you want to read articles from the website and the site is down? Well you can access the site\u0026rsquo;s content offline\u0026hellip;as \u003ca href=\"https://solar.lowtechmagazine.com/offline-reading/\"  target=\"_blank\" rel=\"noopener\" \u003ephysical books\u003c/a\u003e!\u003c/p\u003e\n\u003cp\u003eIt\u0026rsquo;s such a interesting take on websites that I really like the idea of.\u003c/p\u003e\n\u003cp\u003eMy favourite article from the website so far - \u003ca href=\"https://solar.lowtechmagazine.com/2023/02/can-we-make-bicycles-sustainable-again/\"  target=\"_blank\" rel=\"noopener\" \u003eCan We Make Bicycles Sustainable Again?\u003c/a\u003e.\u003c/p\u003e\n"
     },
     {
         "title" : "Apple Watch Double Tap",
         "date_published" : "2023-09-15T14:20:00Z",
         "date_modified" : "2023-09-15T14:20:00Z",
-        "id" : "https://Skyth3r.github.io/notes/apple-watch-double-tap/",
-        "url" : "https://Skyth3r.github.io/notes/apple-watch-double-tap/",
+        "id" : "https://akashgoswami.com/notes/apple-watch-double-tap/",
+        "url" : "https://akashgoswami.com/notes/apple-watch-double-tap/",
         "content_html" : "\u003cp\u003eOn 12th September 2023, Apple announced the new Apple Watch Series 9 with a new double tap guesture.\u003c/p\u003e\n\u003cp\u003eExcept\u0026hellip;this new guesture isn\u0026rsquo;t actually new. You can enable it on your Apple Watch (Series 4 and later, Apple Watch SE and later, and Apple Watch Ultra) already.\u003c/p\u003e\n\u003cp\u003eOn the Apple Watch app on your iPhone, head to Settings \u0026gt; Accessibility \u0026gt; AssistiveTouch and then toggle \u0026lsquo;Hand Gestures\u0026rsquo; on. You can now control your entire Apple Watch with one hand using the Pinch, Double Pinch, Clench and Double Clench gestures.\u003c/p\u003e\n\u003cp\u003eThis works flawlessly on my Apple Watch Series 8 (gestures on older models might be less reliable). The difference between the new double tap guesture and the double pinch guesture seems to be minimal with the expection of the double tap guesture being enabled by default on the new Apple Watch and the hardware being slighlty better.\u003c/p\u003e\n\u003cp\u003eI wouldn\u0026rsquo;t upgrade an Apple Watch for this one feature but battery life and other improvements would be my main reason for getting a newer Apple Watch. For now, I\u0026rsquo;ll be sticking to my Series 8.\u003c/p\u003e\n"
     },
     {
         "title" : "Arc's secert reader mode",
         "date_published" : "2023-09-09T15:20:00Z",
         "date_modified" : "2023-09-09T15:20:00Z",
-        "id" : "https://Skyth3r.github.io/notes/arc-reader-mode/",
-        "url" : "https://Skyth3r.github.io/notes/arc-reader-mode/",
+        "id" : "https://akashgoswami.com/notes/arc-reader-mode/",
+        "url" : "https://akashgoswami.com/notes/arc-reader-mode/",
         "content_html" : "\u003cp\u003eOne of the features I\u0026rsquo;ve always liked in Apple\u0026rsquo;s Safari web browser is the \u003ca href=\"https://support.apple.com/en-gb/guide/safari/sfri32632/mac\"  target=\"_blank\" rel=\"noopener\" \u003eSafari Reader mode\u003c/a\u003e, which removes ads, navigation or other distracting elements from a web page.\u003c/p\u003e\n\u003cp\u003eThis works perfectly for me on iOS but on my laptop, I mainly use Google Chrome and Arc for my web browsing.\u003c/p\u003e\n\u003cp\u003eChrome has a reader type view hidden under \u003ccode\u003echrome://flags\u003c/code\u003e and by then searching for \u0026lsquo;reading mode\u0026rsquo; but it\u0026rsquo;s still a bit complicated to enable and doesn\u0026rsquo;t provide the same view as Safari\u0026rsquo;s web browser.\u003c/p\u003e\n\u003cp\u003eIt turns out, \u003ca href=\"https://arc.net/\"  target=\"_blank\" rel=\"noopener\" \u003eArc for macOS\u003c/a\u003e has a hidden reader mode that can be enabled on a web page by pressing the \u003ccode\u003eoption + command + r\u003c/code\u003e keys together which is much more similar to Safari\u0026rsquo;s reader mode.\u003c/p\u003e\n\u003cp\u003e\u003cem\u003e\u003cstrong\u003eNote\u003c/strong\u003e\u003c/em\u003e - Arc\u0026rsquo;s reader mode is still in beta but does a great job regardless\u003c/p\u003e\n"
     },
     {
         "title" : "Use an adblocker",
         "date_published" : "2023-09-09T09:30:00Z",
         "date_modified" : "2023-09-09T09:30:00Z",
-        "id" : "https://Skyth3r.github.io/notes/adblocker/",
-        "url" : "https://Skyth3r.github.io/notes/adblocker/",
+        "id" : "https://akashgoswami.com/notes/adblocker/",
+        "url" : "https://akashgoswami.com/notes/adblocker/",
         "content_html" : "\u003cp\u003eYou should be using an adblocker.\u003c/p\u003e\n\u003cp\u003eNot because ads are bad (although some are really annoying), but because even \u003ca href=\"https://techcrunch.com/2022/12/22/fbi-ad-blocker/?guccounter=1\"  target=\"_blank\" rel=\"noopener\" \u003ethe FBI recommend using one for security\u003c/a\u003e now.\u003c/p\u003e\n\u003cp\u003eUse \u003ca href=\"https://ublockorigin.com/\"  target=\"_blank\" rel=\"noopener\" \u003euBlock Origin\u003c/a\u003e and block those scam adverts that pop up at the top of search results.\u003c/p\u003e\n"
     }
     ]
