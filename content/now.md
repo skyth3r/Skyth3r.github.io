@@ -18,11 +18,11 @@ I'm also learning German 🇩🇪.
 
 I'm currently getting back into going to the gym regularly 🏋🏽‍♂️
 
-Managing to cycle to work more regularly 🚴🏽‍♂️
+I cycle regularly (paused for the winter) 🚴🏽‍♂️
 
 Still trying to get into running 🏃🏽‍♂️
 
-I've got into hiking over the last year. Last month, I hiked up Ben Nevis in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+I've got into hiking over the last year. A few months ago, I hiked up Ben Nevis in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 
 ## 🌏 Travel
 
@@ -50,18 +50,15 @@ So far this year, I've been to the following countries:
 ## 🎬 Films & TV Shows
 
 ### Recently watched films
-* [Barbenheimer](https://en.wikipedia.org/wiki/Barbenheimer)
-* [Guardians of the Galaxy Vol. 3](https://www.youtube.com/watch?v=u3V5KDHRQvk)
-* [Spider-man: Across the Spider-Verse](https://youtu.be/shW9i6k8cB0?t=5).
-* [Indiana Jones and the Dial of Destiny](https://www.youtube.com/watch?v=eQfMbSe7F2g).
+* [John Wick: Chapter 4](https://www.youtube.com/watch?v=qEVUtrk8_B4)
 
 ### Recently watched TV shows
-* [Black Mirror, season 6](https://www.youtube.com/watch?v=5jY1ecibLYo)
+* [Invincible, season 2](https://www.youtube.com/watch?v=tyqiQWxPz0c&t=3s)
 
 ## 🎮 Video Games
 
-* Right now I'm playing [The Legend of Zelda: Tears of the Kingdom](https://www.nintendo.co.uk/Games/Nintendo-Switch-games/The-Legend-of-Zelda-Tears-of-the-Kingdom-1576884.html) on my Nintendo Switch.
+* Right now I'm playing [Super Mario Bros. Wonder](https://www.youtube.com/watch?v=XvQNlGKNC6o), [Hades](https://www.youtube.com/watch?v=91t0ha9x0AE) & [Spiritfarer](https://www.youtube.com/watch?v=4pKJ-NuSjNE) on my Nintendo Switch.
 
 ---
 
-Last updated: 9th September 2023. 
+Last updated: 14th November 2023. 
