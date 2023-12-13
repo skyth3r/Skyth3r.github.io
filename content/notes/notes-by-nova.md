@@ -1,6 +1,6 @@
 ---
 title: Notes by Nova
-date: 2023-12-1309T09:30:00
+date: 2023-12-13T09:30:00
 description: blah.
 tags: ['misc']
 ---
