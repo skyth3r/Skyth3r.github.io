@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://akashgoswami.com/</loc>
-    <lastmod>2023-09-21T10:24:00+00:00</lastmod>
+    <loc>https://akashgoswami.com/z/nova/</loc>
+    <lastmod>2023-12-13T09:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/z/japan-tips/</loc>
-    <lastmod>2023-09-21T10:24:00+00:00</lastmod>
+    <loc>https://akashgoswami.com/</loc>
+    <lastmod>2023-12-13T09:30:00+00:00</lastmod>
   </url><url>
     <loc>https://akashgoswami.com/z/</loc>
+    <lastmod>2023-12-13T09:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://akashgoswami.com/z/japan-tips/</loc>
     <lastmod>2023-09-21T10:24:00+00:00</lastmod>
   </url><url>
     <loc>https://akashgoswami.com/notes/esimdb/</loc>
