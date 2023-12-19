@@ -6,6 +6,14 @@
     "feed_url" : "https://akashgoswami.com/z/index.json",
     "items" : [
     {
+        "title" : "A note from Nova",
+        "date_published" : "2023-12-13T09:30:00Z",
+        "date_modified" : "2023-12-13T09:30:00Z",
+        "id" : "https://akashgoswami.com/z/nova/",
+        "url" : "https://akashgoswami.com/z/nova/",
+        "content_html" : "\u003cp\u003eujhgmngnggnngggngn\nkbnkn nl;l\n;l\u003c/p\u003e\n\u003cp\u003e;;;;;;\n;l\n\u0026rsquo;l\nl\u003c/p\u003e\n\u003cp\u003ev nnnhouh bv a\u003c/p\u003e\n"
+    },
+    {
         "title" : "Japan Tips",
         "date_published" : "2023-09-21T10:24:00Z",
         "date_modified" : "2023-09-21T10:24:00Z",

@@ -1,8 +1,6 @@
 ---
-title: Notes by Nova
+title: A note from Nova
 date: 2023-12-13T09:30:00
-description: blah.
-tags: ['misc']
 ---
 
 ujhgmngnggnngggngn
