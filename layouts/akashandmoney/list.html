@@ -19,8 +19,10 @@
         {{ end -}}
         {{ end }}  */}}
 
+        {{ $altText := .Params.altText }}
+
         {{ with .Resources.GetMatch "cover.*" }}
-            <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+            <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="{{ $altText }}">
         {{ end }}
         
         <h3 class="text-lg font-semibold mb-0.5">{{ $title }}</h3>

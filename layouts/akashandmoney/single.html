@@ -26,9 +26,11 @@
         <img class="rounded max-w-full mb-4" src="{{ . }}" alt="{{ $title }}" />
         {{ end -}}
         {{ end }}  */}}
+
+        {{ $altText := .Params.altText }}
         
         {{ with .Resources.GetMatch "cover.*" }}
-            <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+            <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="{{ $altText }}">
         {{ end }}
         <h3 class="text-lg font-semibold mb-0.5">{{ $title }}</h3>
         <div
@@ -70,9 +72,11 @@
 	  </p>
       {{ end }}
 
+      {{ $altText := .Params.altText }}
+
       {{ with .Params.images }}
       {{- range first 1 . }}
-      <img class="rounded max-w-full mx-auto mb-4" src="{{ . }}" alt="{{ $title }}" />
+      <img class="rounded max-w-full mx-auto mb-4" src="{{ . }}" alt="{{ $altText }}" />
       {{ end -}}
       {{ end }}
 
