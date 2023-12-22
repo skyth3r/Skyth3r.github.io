@@ -21,10 +21,14 @@
       <a class="article block px-3 py-4 {{ if $isCurrentPage }} bg-slate-900 dark:bg-slate-700 text-slate-50 {{ else }} hover:bg-slate-200 dark:hover:bg-slate-700 {{ end }}"
         href="{{ .RelPermalink }}">
         {{ $title := .Params.title }}
-        {{ with .Params.images }}
+        {{/*  {{ with .Params.images }}
         {{- range first 1 . }}
         <img class="rounded max-w-full mb-4" src="{{ . }}" alt="{{ $title }}" />
         {{ end -}}
+        {{ end }}  */}}
+        
+        {{ with .Resources.GetMatch "cover.*" }}
+            <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
         {{ end }}
         <h3 class="text-lg font-semibold mb-0.5">{{ $title }}</h3>
         <div
