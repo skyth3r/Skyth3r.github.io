@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>crypto on Akash Goswami</title>
+    <link>https://akashgoswami.com/tags/crypto/</link>
+    <description>Recent content in crypto on Akash Goswami</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language></language>
+    <lastBuildDate>Thu, 03 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://akashgoswami.com/tags/crypto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What you need to know about...Bitcoin</title>
+      <link>https://akashgoswami.com/archive/akashandmoney/bitcoin/</link>
+      <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://akashgoswami.com/archive/akashandmoney/bitcoin/</guid>
+      <description>&lt;p&gt;Hey friends 👋&lt;/p&gt;
+&lt;p&gt;Let’s talk about Bitcoin.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Over the last year or so, everyone has either been talking about Bitcoin or has at least heard of it by now.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;What is Bitcoin? Should I buy Bitcoin? Is Bitcoin a scam?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;These are all questions that have been asked (and more) by a lot of people when they first heard of Bitcoin.&lt;/p&gt;
+&lt;p&gt;Over the years I’ve had many conversations with people about Bitcoin; people who saw it as an amazing opportunity, people who thought it was a massive scam and those who just didn’t really understand it.&lt;/p&gt;
+&lt;p&gt;To me, Bitcoin (and cryptocurrencies in general) has always been an interesting topic.&lt;/p&gt;
+&lt;p&gt;So I wanted to use this newsletter issue to share with you what I think of Bitcoin and what I think more people need to be aware of.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt; - I won’t be covering the technical details of Bitcoin here and the following issue is one of my longer pieces. If you wanted a quick summary of what you need to know about Bitcoin, check out this thread I wrote on Twitter last year 👇&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;🥇 BITCOIN 101 THREAD 🥇&lt;br&gt;&lt;br&gt;This year El Salvador made &lt;a href=&#34;https://twitter.com/hashtag/Bitcoin?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Bitcoin&lt;/a&gt; legal tender 🇸🇻&lt;br&gt;&lt;br&gt;Tesla and Microstrategy have bought billions of dollars worth of bitcoins 💸&lt;br&gt;&lt;br&gt;But what actually is Bitcoin?&lt;br&gt;&lt;br&gt;Here&amp;#39;s a guide to everything you NEED to know about Bitcoin ($BTC)&lt;br&gt;&lt;br&gt;THREAD BELOW 👇 &lt;a href=&#34;https://t.co/W0QadFHJnb&#34;&gt;pic.twitter.com/W0QadFHJnb&lt;/a&gt;&lt;/p&gt;&amp;mdash; Akash Goswami 👨🏽‍💻 (@akashgoswami_) &lt;a href=&#34;https://twitter.com/akashgoswami_/status/1442799252665606145?ref_src=twsrc%5Etfw&#34;&gt;September 28, 2021&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;h2 id=&#34;disclaimer&#34;&gt;Disclaimer&lt;/h2&gt;
+&lt;p&gt;I should make this clear before going further…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nothing discussed here is financial advice.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This post is for educational and entertainment purposes only. Please don’t make financial decisions based on this newsletter issue.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;I’m not a financial advisor. I’m just a guy that is interested in personal finance (and by extension, cryptocurrencies).&lt;/p&gt;
+&lt;h3 id=&#34;bias&#34;&gt;Bias&lt;/h3&gt;
+&lt;p&gt;Another thing I should mention is that my option will be slightly biased. I own a small amount of Bitcoin, so I’ll be trying to show a balanced view here but I thought it was worth mentioning.&lt;/p&gt;
+&lt;h2 id=&#34;what-makes-bitcoin-different&#34;&gt;What makes Bitcoin different?&lt;/h2&gt;
+&lt;p&gt;Believe it or not, &lt;a href=&#34;https://www.investopedia.com/tech/were-there-cryptocurrencies-bitcoin/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Bitcoin was not the world’s first attempt at a cryptocurrency&lt;/a&gt; but rather it was the first successful decentralised cryptocurrency to have taken off.&lt;/p&gt;
+&lt;p&gt;Bitcoin is an open-source decentralised peer to peer currency that had no central authority that controls.&lt;/p&gt;
+&lt;p&gt;I always like comparing it to the likes of email, because who owns email?&lt;/p&gt;
+&lt;p&gt;The answer is no one because it’s an open standard that other companies have built things on top of, but they don’t ‘own’ email because of this. The same can be said for Bitcoin.&lt;/p&gt;
+&lt;p&gt;In addition to that, there are a number of factors to Bitcoin’s success since its invention but there are five main factors that make Bitcoin valuable or desirable as a currency to people. Let’s have a look at each one in a bit more detail below…&lt;/p&gt;
+&lt;h2 id=&#34;scarcity&#34;&gt;Scarcity&lt;/h2&gt;
+&lt;h3 id=&#34;fixed-supply&#34;&gt;Fixed Supply&lt;/h3&gt;
+&lt;p&gt;Scarcity is the first factor that makes Bitcoin different from other currencies. Scarcity simply means that there is a limited supply or shortage of a certain thing. A lot of things have a limited supply if you think about it, oil, computer chips, gold, limited edition trainers, etc.&lt;/p&gt;
+&lt;p&gt;In Bitcoin’s case, there are a maximum number of Bitcoins that can ever exist. Bitcoin was hardcoded with a fixed supply of 21 million bitcoins.&lt;/p&gt;
+&lt;p&gt;This might sound like a lot but roughly 2.8 to 3.8 million bitcoins are said to already be lost and there are bitcoin wallets with hundreds if not thousands of bitcoins already in them.&lt;/p&gt;
+&lt;p&gt;This creates a limited supply of bitcoins in circulation right now and once all 21 million bitcoins have been mined, there will never be any new bitcoins.&lt;/p&gt;
+&lt;p&gt;Traditional currencies like the US dollar or the British pound sterling, don’t have a limited supply as more can be printed when needed. This is partly why traditional currencies lose value over time due to inflation.&lt;/p&gt;
+&lt;p&gt;Bitcoin on the other hand is not subject to inflation but rather deflation as creating new bitcoins becomes increasingly more difficult over time due to…&lt;/p&gt;
+&lt;h3 id=&#34;halving-events&#34;&gt;Halving Events&lt;/h3&gt;
+&lt;p&gt;What is a &lt;em&gt;“Halving Event”&lt;/em&gt; you say?&lt;/p&gt;
+&lt;p&gt;The halving is something that currently happens roughly every 4 years. Currently, when a block is successful ‘mined’, the person (or machine) that mined this block is given a reward in bitcoins.&lt;/p&gt;
+&lt;p&gt;In 2009, this reward was initially set at 50 bitcoins. 4 years later it dropped to 25 bitcoins and in 2016 it dropped to 12.5 bitcoins per block. The last halving event was in 2020 and the reward now sits at 6.25 bitcoins per successfully mined block. The next halving event is expected to happen around 2024 when the block reward will drop to just 3.125 bitcoins.&lt;/p&gt;
+&lt;p&gt;The difficulty (or energy required) of mining these blocks does not decrease, so obtaining new bitcoins becomes harder due to the decreasing block reward.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;halving-events.png&#34; alt=&#34;image showing bitcoin halving events from 2009, 2013, 2016 and 2020 where the reward has havled starting at 50 BTC in 2009 to 6.25BTC in 2020&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The reward of mining a block halves roughly every 4 years&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;These halvings help ensure a steady and predictable supply of new bitcoins, where the last bitcoin is expected to be mined around the year 2140.&lt;/p&gt;
+&lt;p&gt;Due to Bitcoin’s fixed supply along with these periodic halving events, the overall supply of new bitcoins decreases over time. Therefore a lot of people believe that the overall value of a bitcoin will increase due to this contrasted supply of new bitcoins.&lt;/p&gt;
+&lt;h2 id=&#34;durability&#34;&gt;Durability&lt;/h2&gt;
+&lt;p&gt;Durability is the ability to be able to withstand damage. Since bitcoins are not physical or digital objects, they can’t be destroyed and they don’t ‘wear down’ over time. Instead, the ownership of bitcoins is recorded in a public ledger called the blockchain.&lt;/p&gt;
+&lt;p&gt;The blockchain is a decentralised ledger with a copy of every single transaction that has taken place on the Bitcoin network. As long as you retain access to the bitcoin wallet (or more specifically the private keys), then you’ll always have access to your bitcoins.&lt;/p&gt;
+&lt;p&gt;Bitcoin is often compared to gold when discussing durability as, like gold, it can’t be destroyed and it also can’t be physically ‘lost’ because it’s not a physical object like gold.&lt;/p&gt;
+&lt;p&gt;Durability is a favourable quality in a currency, which is something Bitcoin provides.&lt;/p&gt;
+&lt;h2 id=&#34;portability&#34;&gt;Portability&lt;/h2&gt;
+&lt;p&gt;Bitcoins (and cryptocurrencies in general) are probably some of the most portable currencies we have today. Since they have no physical form, there’s no storage risk that comes with traditional currencies or gold.&lt;/p&gt;
+&lt;p&gt;Because Bitcoin is very portable, it’s relatively easy to send a large amount of money (or value) using the Bitcoin network without a middleman.&lt;/p&gt;
+&lt;p&gt;If you were to attempt the same with say a million dollars you would either have to use a trusted third party like a bank which could take a lot longer at sending such a large amount of money or you could move this money in cash which would be incredibly costly and risky.&lt;/p&gt;
+&lt;p&gt;With Bitcoin, on the other hand, you could ‘technically’ carry large amounts of bitcoins with you on your phone via a mobile wallet app or a USB stick and it wouldn’t ‘weigh’ you down the same way carrying a lot of coins or banknotes would.&lt;/p&gt;
+&lt;p&gt;Bitcoin nails portability thanks to the fact it’s fully digital.&lt;/p&gt;
+&lt;h2 id=&#34;divisibility&#34;&gt;Divisibility&lt;/h2&gt;
+&lt;p&gt;Bitcoin is extremely divisible, meaning you can send or receive tiny factions of a bitcoin very easily.&lt;/p&gt;
+&lt;p&gt;The smallest unit of bitcoin is a ‘sat’ or satoshi, which is one hundred millionth of a bitcoin, or 0.00000001 bitcoins.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;bitcoin-pizza.png&#34; alt=&#34;image showing how bitcoin is divisible like a pizza&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Bitcoins are divisible, like a pizza and a single unit of a bitcoin is called a satoshi or &amp;lsquo;sat&amp;rsquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This allows bitcoins to be used for smaller transactions and even micro-transactions, such as tips, buying small things like coffees and so on. Most of these micro-transactions are made using a layer 2 solution called &lt;a href=&#34;https://lightning.network/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;The Lightning Network&lt;/a&gt; for faster and cheaper payments ⚡&lt;/p&gt;
+&lt;h2 id=&#34;fungibility&#34;&gt;Fungibility&lt;/h2&gt;
+&lt;p&gt;Bitcoin’s final factor is fungible, meaning each and every bitcoin is identical. Each of the 21 million bitcoins is exactly the same. Fungibility is a desirable trait within any currency, including cryptocurrencies like Bitcoin.&lt;/p&gt;
+&lt;h2 id=&#34;the-future-of-bitcoin&#34;&gt;The Future of Bitcoin&lt;/h2&gt;
+&lt;p&gt;So now that we’ve explored the five factors that make Bitcoin different, let’s talk about what this means for Bitcoin going forward.&lt;/p&gt;
+&lt;p&gt;The popularity of Bitcoin is &lt;em&gt;likely&lt;/em&gt; going to grow in the future. This doesn’t mean the price of Bitcoin itself is going to increase but rather we will likely see other companies and countries holding onto Bitcoin as a reserve of some kind.&lt;/p&gt;
+&lt;p&gt;There are actually &lt;a href=&#34;https://bitcointreasuries.net/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;a few companies that now own and hold Bitcoin&lt;/a&gt;; MicroStrategy, Tesla, Block (formally Square), Coinbase and even one of the ‘big four’ accounting organisations, KPMG!&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;We have just completed an allocation of cryptoassets to our corporate treasury, our firm’s first of its kind investment in the asset class. This includes Bitcoin and Ethereum tokens, and carbon offsets to maintain a net-zero carbon transaction: &lt;a href=&#34;https://t.co/32hsKbnGuC&#34;&gt;https://t.co/32hsKbnGuC&lt;/a&gt;&lt;/p&gt;&amp;mdash; KPMG Canada (@KPMG_Canada) &lt;a href=&#34;https://twitter.com/KPMG_Canada/status/1490728332345987078?ref_src=twsrc%5Etfw&#34;&gt;February 7, 2022&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;Country-wise, only one country has made Bitcoin legal tender and that’s El Salvador but some folks are speculating that other countries might look to do the same over the coming years.&lt;/p&gt;
+&lt;p&gt;So that begs the question…&lt;em&gt;should you buy Bitcoin?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The answer (bearing in mind this isn’t financial advice) is maybe.&lt;/p&gt;
+&lt;p&gt;I personally think it depends on your individual circumstances…&lt;/p&gt;
+&lt;p&gt;For example, if you currently have little to no savings, I don’t think it’s a good idea to buy Bitcoin or any cryptocurrency and instead, you should focus on &lt;a href=&#34;https://akashgoswami.com/archive/akashandmoney/emergency-funds&#34; &gt;building up an emergency fund&lt;/a&gt;, first.&lt;/p&gt;
+&lt;p&gt;If you’re someone that already has some savings/an emergency fund, then I think it makes more sense to &lt;a href=&#34;https://akashgoswami.com/archive/akashandmoney/investing-101&#34; &gt;look into more traditional investments&lt;/a&gt; that are less risky and &lt;a href=&#34;https://akashgoswami.com/archive/akashandmoney/interesting-isas&#34; &gt;explore tax-efficient savings accounts&lt;/a&gt; such as a Stocks and Shares ISA.&lt;/p&gt;
+&lt;p&gt;If you’ve already nailed the emergency fund, have a decent tax-efficient investment portfolio, have looked into &lt;a href=&#34;https://yougotthis.io/talks/buying-back-your-time&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;buying back your time&lt;/a&gt; (optional - but I highly recommend it), only then would I really say it would be worth looking into Bitcoin as an investment (once again, &lt;em&gt;not. financial. advice.&lt;/em&gt;).&lt;/p&gt;
+&lt;p&gt;Even at this point, I would say it’s probably best to only invest a small amount of your net worth/investment portfolio into Bitcoin. Bitcoin is still a relatively high risk as an asset class and extremely volatile.&lt;/p&gt;
+&lt;p&gt;I wanted to also discuss the risks and concerns that come with Bitcoin and cryptocurrencies because Bitcoin is not a perfect solution.&lt;/p&gt;
+&lt;h2 id=&#34;bitcoin-woes--risks&#34;&gt;Bitcoin Woes &amp;amp; Risks&lt;/h2&gt;
+&lt;h3 id=&#34;volatility&#34;&gt;Volatility&lt;/h3&gt;
+&lt;p&gt;Let’s talk about Bitcoin’s volatility first. As you might be aware, Bitcoin is highly volatile. Its price has fluctuated and more recently it’s lost 40% of its value since its last all-time high of $68,990 (around £51,780) in November 2021.&lt;/p&gt;
+&lt;p&gt;A store of value (often what Bitcoin is often referred to) does not lose 40% of its value in less than a year. If you had bought Bitcoin at this all-time high, it would be devastating to see that you’ve lost 40% of your money in less than 6 months.&lt;/p&gt;
+&lt;p&gt;That being said…volatility does bring opportunities. Looking at the longer term, Bitcoin has slowly been increasing in value over the last 12 years.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;bitcoin-price-history.png&#34; alt=&#34;Price chart for Bitcoin from 2009 to 2022. Source: CoinMarketCap&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Bitcoin&amp;rsquo;s price history (source - coinmarketcap.com)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Seeing these types of gains or profit require being able to stomach large drops without panic selling and &lt;strong&gt;there isn’t a guarantee that Bitcoin will continue to increase in value&lt;/strong&gt; over the next decade and beyond as it has done in the past.&lt;/p&gt;
+&lt;p&gt;This is why I would recommend focusing on savings/emergency funds first, and then traditional investments before looking into volatile cryptocurrencies. There’s just still a lot we don’t know when it comes to what will happen to cryptocurrencies in the future.&lt;/p&gt;
+&lt;p&gt;That leads me to my next point now…&lt;/p&gt;
+&lt;h3 id=&#34;fighting-fomo-fear-of-missing-out&#34;&gt;Fighting FOMO (Fear Of Missing Out)&lt;/h3&gt;
+&lt;p&gt;One thing I’ve seen increase along with Bitcoin’s coverage in the media is the fear people have of feeling like they’re missing out. Which in turn causes them to panic buy Bitcoin and other cryptocurrencies without really understanding it and then panic selling when they see massive price swings, losing their money in the process. The news coverage around Bitcoin’s all-time high price tends to have this effect the most, and the people who buy Bitcoin at this all-time high and usually the first to get stung when Bitcoin tumbles down in price.&lt;/p&gt;
+&lt;p&gt;I think this issue can be summarised to just this:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;People get too emotional when it comes to any form of investments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;When it comes to other things, we’re generally a lot more level headed and reasonable.&lt;/p&gt;
+&lt;p&gt;Like, you wouldn’t panic-buy a new car because everyone else is buying that exact same car? Or what about a new phone?&lt;/p&gt;
+&lt;p&gt;You’d probably want to do your research first, understand why these items are sought after and what they offer.&lt;/p&gt;
+&lt;p&gt;Here’s another example. Over 2021, the &lt;em&gt;S&amp;amp;P 500 hit an all high 70 times throughout the year&lt;/em&gt;…how many times did you panic buy the S&amp;amp;P 500 during 2021?&lt;/p&gt;
+&lt;p&gt;For most people reading this, they likely didn’t. Instead, they might have been fixated on what the media was saying about Bitcoin.&lt;/p&gt;
+&lt;p&gt;One way I fight FOMO is by spending a lot of time researching and learning about what I want to invest in, all while ignoring the price of the asset while I do so. Depending on what I’m looking into, this process can take a few months and in the end, I might just decide not to invest in something because of something I found during my research.&lt;/p&gt;
+&lt;h3 id=&#34;replacing-traditional-currencies&#34;&gt;Replacing traditional currencies&lt;/h3&gt;
+&lt;p&gt;Some folks that support Bitcoin see it as something that might replace traditional fiat currencies like the dollar and the pound sterling in the future.&lt;/p&gt;
+&lt;p&gt;I’ll be honest… I don’t think this will ever happen. No government would want to rely on a currency they are not in control of as their main currency. Fiat currencies in western nations also come with some level of protection on your money such as the FSCS protection scheme in the UK or the FDIC deposit insurance in the US. Bitcoin (and cryptocurrencies as a whole) do not come with such protection.&lt;/p&gt;
+&lt;p&gt;Another reason I don’t think we’ll see cryptocurrencies like Bitcoin replace traditional currencies is that cryptocurrencies exclude people who are not technologically literate.&lt;/p&gt;
+&lt;p&gt;My grandparents struggle using a smartphone, let alone mobile banking. I can’t see them ever getting crypto wallets and fully understanding the risks that come with it. I’m sure there are large groups of people who will likely struggle with cryptocurrencies due to this.&lt;/p&gt;
+&lt;p&gt;I do however think Bitcoin and other cryptocurrencies that offer ‘DeFi’ (Decentralised Finance) will offer an alternative to traditional markets, and there is likely a future for that, but it won’t be replacing any traditional markets any time soon.&lt;/p&gt;
+&lt;h3 id=&#34;energy-concerns&#34;&gt;Energy concerns&lt;/h3&gt;
+&lt;p&gt;One of the biggest outcries you’ll see around Bitcoin is its high energy usage. I won’t go into too much detail here but I will say that Bitcoin does use a lot of energy and that energy usage is only going to increase. That being said, however, I think people get Bitcoin’s energy consumption confused with its carbon emission output.&lt;/p&gt;
+&lt;p&gt;It’s estimated that Bitcoin currently uses around 0.55% of global electricity production (roughly the equivalent amount of energy a small country uses). The exact percentage varies but it is suggested that a large amount of the energy used by Bitcoin miners is generated using renewable energy sources, hydropower being one of the largest sources of energy for Bitcoin. Using a renewable energy source will mean that there is minimal carbon output.&lt;/p&gt;
+&lt;p&gt;Other cryptocurrencies have found more energy-efficient ways of running their networks, one of such is &lt;a href=&#34;https://ethereum.org&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Ethereum&lt;/a&gt; which plans to move away from Proof of Work (what Bitcoin uses) to Proof of Stake.&lt;/p&gt;
+&lt;p&gt;Bitcoin will likely not change how it works. It is designed to sacrifice electrical energy to generate/mine new bitcoins. This is its ‘cost’ of creating new bitcoins. Removing this ‘cost’ would also remove/reduce the value of Bitcoin.&lt;/p&gt;
+&lt;p&gt;There’s not really much I can add to this. I just wanted to point it out and make sure you were aware of it.&lt;/p&gt;
+&lt;h2 id=&#34;security&#34;&gt;Security&lt;/h2&gt;
+&lt;p&gt;Security plays a major part in cryptocurrencies. Specifically speaking, cryptography is critical in what makes or breaks a &lt;em&gt;cryptocurrency&lt;/em&gt;. In fact, it’s even mentioned in the name!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Crypto&lt;/strong&gt;currency&lt;/p&gt;
+&lt;p&gt;A lot of people get really excited for the ‘&lt;em&gt;currency&lt;/em&gt;’ part of cryptocurrency but bear little attention to the ‘cryptography’ part of it.&lt;/p&gt;
+&lt;p&gt;Cryptocurrencies are all about decentralisation and ‘Being your own bank’ and I have some thoughts around this.
+Banks exist for a reason. They help the average person keep their money secure and outsource the need for having to think about how you keep your money safe.&lt;/p&gt;
+&lt;p&gt;If I’m being brutely honest. I don’t think the majority of people understand the difficulty that comes with being your own bank. The security of your money is ultimately your responsibility. If you haven’t done a good job of securing your crypto wallet, that falls on you.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Not your keys, not your wallet&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This is a famous phrase you’ll hear among the crypto community. Holding your cryptocurrency on an exchange can be risky due to exchange hacks. It’s happened in the past and &lt;a href=&#34;https://crystalblockchain.com/articles/the-10-biggest-crypto-exchange-hacks-in-history/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;I doubt we’ve seen the last of exchange hacks&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;At the same time, being your own bank is not easy. There are countless stories of people who have lost fortunes where they did own their own keys.&lt;/p&gt;
+&lt;p&gt;There’s one famous story of &lt;a href=&#34;https://www.bbc.co.uk/news/uk-wales-55658942&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;a man in the UK who accidentally threw away a hard drive that contained the private keys to around 7,500 bitcoins&lt;/a&gt; 😱&lt;/p&gt;
+&lt;p&gt;Then there’s the fact that transactions made using cryptocurrencies are irreversible. If you happen to get scammed out of your cryptocurrency, there’s no way of getting it back. There are no chargebacks, no refunds, nothing.&lt;/p&gt;
+&lt;p&gt;Scammers have plagued cryptocurrencies for a long time and if you fall for one, there’s not much that can be done. I would advise being aware of how these scams work and how you can protect yourself against such scams.&lt;/p&gt;
+&lt;p&gt;I went and found two great resources for getting a basic understanding of crypto security.&lt;/p&gt;
+&lt;p&gt;The first is a thread by Bobby Ong (the co-founder &amp;amp; COO of &lt;a href=&#34;https://www.coingecko.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;CoinGecko&lt;/a&gt;) which covers some basics at a very high-level overview.&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Crypto is a very dangerous and adversarial place. If you are not careful, you risk having your valuable cryptocurrencies stolen from you.&lt;br&gt;&lt;br&gt;I&amp;#39;ve compiled a thread on some security best practices that you can follow to stay safe. Read on below 👇👇&lt;/p&gt;&amp;mdash; Bobby Ong (@bobbyong) &lt;a href=&#34;https://twitter.com/bobbyong/status/1403881080902471680?ref_src=twsrc%5Etfw&#34;&gt;June 13, 2021&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;The second is &lt;a href=&#34;https://skerritt.blog/wallet-security/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;a blog post&lt;/a&gt; covering crypto wallet security, put together by a friend of mine! I’ve personally gone through this post and found it really easy to follow along, all while explaining complicated wallet security topics. There’s a great little summary at the end that summaries everything pretty well but I would highly recommend giving &lt;a href=&#34;https://skerritt.blog/wallet-security/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;the full post a read&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;I will add however, it would be a good idea to consider getting a hardware wallet if you are storing large amounts of bitcoins - There are other great guides and resources around this topic online.&lt;/p&gt;
+&lt;p&gt;Personally, I’m a fan of the &lt;a href=&#34;https://www.ledger.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Ledger hardware wallet devices&lt;/a&gt;. If you wanted to test out an app-based software wallet in the meantime, the open-source &lt;a href=&#34;https://bluewallet.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;BlueWallet&lt;/a&gt; is a great simple first wallet with some advanced features built-in.&lt;/p&gt;
+&lt;h2 id=&#34;further-reading&#34;&gt;Further reading&lt;/h2&gt;
+&lt;p&gt;Just before I wrap up this post, I thought I’d share four resources you might want to look into if you wanted to read up more on Bitcoin:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://spiral.xyz/bitcoin.pdf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;The Bitcoin Whitepaper&lt;/a&gt; (The original Bitcoin whitepaper)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.co.uk/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;The Bitcoin Standard&lt;/a&gt; (Highly recommended book)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://michaelmcguiness.com/essays/why-bitcoin-makes-sense&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Why Bitcoin Makes Sense&lt;/a&gt; (An essay on the pros of Bitcoin)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=4ByO8ym-iF8&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Bitcoin: The Future, or a World’s Greatest Scam&lt;/a&gt; (A great explanation from James Jani in video format)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Of course, there are a lot more resources that I haven’t been able to list here.&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;If you made it this far, great! Thanks for sticking around 😁&lt;/p&gt;
+&lt;p&gt;Here’s my summary - Regardless of if you love or hate Bitcoin and what is it. Just like marmite, Bitcoin is here to stay.&lt;/p&gt;
+&lt;p&gt;There are a number of countries with inadequate payments infrastructure and currency stability issues (such as hyperinflation) where Bitcoin could provide some stability.&lt;/p&gt;
+&lt;p&gt;The majority of us are very fortunate and privileged to live in parts of the world where we have these types of infrastructure in place and don’t have to worry about currency stability issues that other places deal with.&lt;/p&gt;
+&lt;p&gt;Additionally, there will likely be a lot of interesting and exciting projects being developed around Bitcoin now that large companies (and even countries) have taken such an interest in Bitcoin.&lt;/p&gt;
+&lt;p&gt;Price predictions - Easy, don’t bother. Almost everyone that has made a production of what price Bitcoin will be has been wrong. No one knows what will happen, but I’m certain Bitcoin will continue being the rollercoaster that it’s so commonly known for the foreseeable future.&lt;/p&gt;
+&lt;p&gt;There is, of course, so much more that I wanted to write about when it comes to Bitcoin, but I’m going to have to leave it like this, for now, to avoid this becoming a dissertation on Bitcoin.&lt;/p&gt;
+&lt;p&gt;That’s all from me for today!&lt;/p&gt;
+&lt;p&gt;I’m planning on writing up something on Ethereum next and will drop a thread on Twitter as well, so follow me on Twitter if you haven’t already.&lt;/p&gt;
+&lt;p&gt;I’ll see you next time 👋&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
