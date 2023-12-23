@@ -15,7 +15,7 @@ Hey friends 👋
 
 I'm hoping to share a lot of useful information about personal finance in the future so I'm glad you are here. Today's topic is emergency funds and is inspired by [Kae](https://twitter.com/ikeeyah_) and one of her tweets.
 
-![alt-text](kae-emergency-funds-tweet.png)
+![tweet from kae about emergency funds](kae-emergency-funds-tweet.png)
 
 I wanted to cover this as my first topic because 2020 has been pretty wild so far. Coronavirus has caused unemployment rates to skyrocket and with that the need for emergency funds as well. 
 
