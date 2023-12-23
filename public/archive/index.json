@@ -1,0 +1,17 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Archives on Akash Goswami",
+    "description": "Recent content in Archives on Akash Goswami",
+    "home_page_url" : "https://akashgoswami.com",
+    "feed_url" : "https://akashgoswami.com/archive/index.json",
+    "items" : [
+    {
+        "title" : "Akash \u0026 Money Archives",
+        "date_published" : "2022-03-03T00:00:00Z",
+        "date_modified" : "2022-03-03T00:00:00Z",
+        "id" : "https://akashgoswami.com/archive/akashandmoney/",
+        "url" : "https://akashgoswami.com/archive/akashandmoney/",
+        "content_html" : ""
+    }
+    ]
+}
