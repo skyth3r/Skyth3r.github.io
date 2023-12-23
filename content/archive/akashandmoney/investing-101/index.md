@@ -4,6 +4,7 @@ date: 2021-04-22
 images: 
     - cover.png
 altText: "banner of an upward chart on a light blue background"
+description: "What you need to know as a beginner in investing"
 tags: ['finance']
 type: "akashandmoney"
 layout: "single"

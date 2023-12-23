@@ -4,6 +4,7 @@ date: 2020-11-11
 images: 
     - cover.png
 altText: "banner with a square icon with a circle of green hues with the words Credit Scores in the centre of the circle on a off white background"
+description: "How  I improved my own credit score"
 tags: ['finance']
 type: "akashandmoney"
 layout: "single"
@@ -64,4 +65,4 @@ Having a good credit score and credit history can help you secure a better inter
 
 Checking your score also helps you spot anything fishy on your account, such as a credit card you never took out - Using these same services you can usually report something like this and they'll be able to investigate things like that for you. 
 
-That's all for this email and I hope that this is a great introduction to credit scores for you. In the next issue, I'll go over credit cards and how I use mine to get a ton of points, air miles and cashback without paying anything extra fees or costs.
+That's all for this email and I hope that this is a great introduction to credit scores for you. In the next issue, I'll go over [credit cards](/archive/akashandmoney/credit-card-connoisseur) and how I use mine to get a ton of points, air miles and cashback without paying anything extra fees or costs.

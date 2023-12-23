@@ -4,6 +4,7 @@ date: 2021-03-25
 images: 
     - cover.png
 altText: "banner with a bag of money emoji in the centre on a gradient green background"
+description: "Learn about the different types of ISAs and what you can use each one for"
 tags: ['finance']
 type: "akashandmoney"
 layout: "single"

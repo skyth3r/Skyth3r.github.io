@@ -4,6 +4,7 @@ date: 2021-02-17
 images: 
     - cover.jpg
 altText: "banner of a phone with a light green screen and a sim card propped next to the phone on a white background"
+description: "Phone bills are expensive, so here's how I save money on them"
 tags: ['finance']
 type: "akashandmoney"
 layout: "single"
@@ -39,7 +40,7 @@ Personally, I buy my phone outright while sticking to sim only plans and hang on
 
 Virtual network operators are companies that lease network usage from the main network providers and usually have sim plans that are a lot cheaper than those offered by the main network providers. You’ve likely heard of a few of them already such as GiffGaff, Lyca Mobile and Virgin Mobile just to name a few and there are some newer (and interesting) ones popping up like Voxi and Zevvle. 
 
-Voxi has been a favourite of mine in the past due to it’s unique ‘Endless Social Media’ perk that comes with all its sim plans. Another great benefit of virtual networks is that a lot of the sim only plans offer flexibility. They are mostly 30-day sim plans which give you the freedom to switch to a better deal later on if you wanted. Most virtual network providers tend to also offer the standard fixed-price phone contracts (again, usually for less) if you aren’t ready to switch over to a sim only deal yet.
+[Voxi](https://www.voxi.co.uk/) has been a favourite of mine in the past due to it’s unique ‘Endless Social Media’ perk that comes with all its sim plans. Another great benefit of virtual networks is that a lot of the sim only plans offer flexibility. They are mostly 30-day sim plans which give you the freedom to switch to a better deal later on if you wanted. Most virtual network providers tend to also offer the standard fixed-price phone contracts (again, usually for less) if you aren’t ready to switch over to a sim only deal yet.
 
 **Fun Fact** - Virtual networks are getting more popular in the US and one virtual network provider ‘Mint Mobile’ is partly owned by Ryan Reynolds...
 

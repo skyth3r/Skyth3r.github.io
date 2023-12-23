@@ -4,6 +4,7 @@ date: 2020-11-25
 images: 
     - cover.png
 altText: "banner with three credit cards fanned out and centred on a off white background"
+description: "My rules when it comes to reward credit cards and how I make the most out of them"
 tags: ['finance']
 type: "akashandmoney"
 layout: "single"

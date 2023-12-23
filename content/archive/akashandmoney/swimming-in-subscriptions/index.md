@@ -4,6 +4,7 @@ date: 2021-02-03
 images: 
     - cover.png
 altText: "banner of a man (in emoji style) swimming in a sea surrounded by a sea of subscriptions"
+description: "Everything is becoming a subscription. Here's how to cut out what you don't need or use to save money, while priortising what you should keep"
 tags: ['finance']
 type: "akashandmoney"
 layout: "single"

@@ -4,6 +4,7 @@ date: 2021-03-10
 images: 
     - cover.jpg
 altText: "this is fine two panel meme. caption on first panel - 'Bank has an outage'. Second panel has no caption"
+description: "Planning for outages with multiple bank accounts"
 tags: ['finance']
 type: "akashandmoney"
 layout: "single"

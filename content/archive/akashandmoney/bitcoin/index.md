@@ -3,7 +3,8 @@ title: What you need to know about...Bitcoin
 date: 2022-03-03
 images: 
     - cover.png
-altText: ""
+altText: "banner with a scribbly drawn Bitcoin with the word 'Bitcoin' underneath it on an orange background"
+description: "What I wish I knew when I first heard of Bitcoin"
 tags: ['finance', 'bitcoin', 'crypto']
 type: "akashandmoney"
 layout: "single"

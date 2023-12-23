@@ -4,6 +4,7 @@ date: 2020-12-11
 images: 
     - cover.png
 altText: "banner with two shopping bags centred on a red background"
+description: "Spending money on things that matter to you without wasting money in the process"
 tags: ['finance']
 type: "akashandmoney"
 layout: "single"

@@ -4,6 +4,7 @@ date: 2020-10-07
 images: 
     - cover.png
 altText: "banner with a light sea green wifi icon centred on a off white background"
+description: "Tips and tricks on lowering your broadband bill"
 tags: ['finance']
 type: "akashandmoney"
 layout: "single"

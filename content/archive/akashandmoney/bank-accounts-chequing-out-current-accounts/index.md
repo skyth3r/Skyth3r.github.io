@@ -4,6 +4,7 @@ date: 2020-09-23
 images: 
     - cover.png
 altText: "banner with a 2D icon of a bank building centred on a orange background"
+description: "What you should know when it comes to current account"
 tags: ['finance']
 type: "akashandmoney"
 layout: "single"

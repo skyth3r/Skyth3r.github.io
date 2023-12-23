@@ -4,6 +4,7 @@ date: 2021-05-24
 images: 
     - cover.png
 altText: "square image of a mocked up screenshot of text messages from a scammer requesting money"
+description: "My chat with Kia on the Pennies to Pounds Podcast about text message scams"
 tags: ['finance']
 type: "akashandmoney"
 layout: "single"

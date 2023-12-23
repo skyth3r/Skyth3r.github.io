@@ -4,6 +4,7 @@ date: 2020-09-09
 images: 
     - cover.png
 altText: "banner with a 2D icon of a safe centred on a blue background"
+description: "You need an emergency fund! Don't get stuck without one"
 tags: ['finance']
 type: "akashandmoney"
 layout: "single"

@@ -4,6 +4,7 @@ date: 2020-10-28
 images: 
     - cover.png
 altText: "banner with a Snapchat styled ghost logo centred on a gradient background where the colours of gradient closely resemble Instagram's brand colours"
+description: "Common scams you'll come across on social media. Here's what to watch out for!"
 tags: ['finance']
 type: "akashandmoney"
 layout: "single"
