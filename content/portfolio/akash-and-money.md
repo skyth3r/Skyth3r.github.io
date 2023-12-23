@@ -6,9 +6,9 @@ images:
 description: A personal finance newsletter project
 ---
 
-A writing side project I started in 2020 that covers topics around personal finance. Currently the newsletter has 180+ subscribers.
+A writing side project I worked on from 2020 to 2022 that covers topics on personal finance. The newsletter had 185 subscribers, with an average open rate of 67% across all posts.
 
-[View the Akash & Money website here](https://akashandmoney.com/).
+[View the past Akash and Money issues here](/archive/akashandmoney).
 
 
 
