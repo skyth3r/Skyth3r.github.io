@@ -3,7 +3,7 @@ title: Four finance books for 2021
 date: 2021-01-13
 images: 
     - cover.png
-altText: "banner with two shopping bages centred on a red background"
+altText: "banner of an open book with a pair of glasses and a coffee next to it on a white tabletop"
 tags: ['finance']
 type: "akashandmoney"
 layout: "single"
