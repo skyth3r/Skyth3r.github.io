@@ -21,13 +21,6 @@
     "tag": "Utilities"
   },
   {
-    "name": "Raindrop",
-    "description": "Cross platform bookmark manager",
-    "link": "https://raindrop.io/",
-    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/raindrop.png",
-    "tag": "Utilities"
-  },
-  {
     "name": "Obsidian",
     "description": "Markdown based note taking app",
     "link": "https://obsidian.md/",
@@ -35,11 +28,32 @@
     "tag": "Productivity"
   },
   {
-    "name": "Mailbrew",
-    "description": "Combine content from various sources into managable digests",
-    "link": "https://mailbrew.com/",
-    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/mailbrew.png",
+    "name": "Readwise",
+    "description": "What I use to review my highlights from books & articles",
+    "link": "https://readwise.io/i/akash56",
+    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/readwise.png",
     "tag": "Productivity"
+  },
+  {
+    "name": "Readwise Reader",
+    "description": "A powerful read it later app that integrates with Readwise",
+    "link": "https://readwise.io/read",
+    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/reader.png",
+    "tag": "Productivity"
+  },
+  {
+    "name": "Raindrop",
+    "description": "Cross platform bookmark manager",
+    "link": "https://raindrop.io/",
+    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/raindrop.png",
+    "tag": "Utilities"
+  },
+  {
+    "name": "NetNewsWire",
+    "description": "A free and open source RSS reader for Mac, iPhone, and iPad",
+    "link": "https://netnewswire.com/",
+    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/netnewswire.png",
+    "tag": "Utilities"
   },
   {
     "name": "Typefully",
@@ -47,13 +61,6 @@
     "link": "https://typefully.com/?via=akash",
     "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/typefully.png",
     "tag": "Social"
-  },
-  {
-    "name": "Readwise",
-    "description": "What I use to review my highlights from books & articles",
-    "link": "https://readwise.io/i/akash56",
-    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/readwise.png",
-    "tag": "Productivity"
   },
   {
     "name": "Notion",
@@ -109,6 +116,13 @@
     "description": "Light weight source code editor",
     "link": "https://code.visualstudio.com/",
     "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/vs-code.png",
+    "tag": "Coding"
+  },
+  {
+    "name": "JetBrains GoLand IDE",
+    "description": "Feature packed IDE for Go",
+    "link": "https://www.jetbrains.com/go/",
+    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/goland.png",
     "tag": "Coding"
   },
   {
