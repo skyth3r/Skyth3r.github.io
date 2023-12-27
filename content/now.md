@@ -30,9 +30,9 @@ So far this year, I've been to the following countries:
 
 🇳🇱 The Netherlands
 
-🇩🇪 Germany
+🇩🇪 Germany x2
 
-🇯🇵 Japan
+🇯🇵 Japan x2
 
 🇻🇳 Vietnam
 
@@ -44,21 +44,25 @@ So far this year, I've been to the following countries:
 
 ## 📚 Books
 
-* Currently reading through [The Hunted](https://www.hive.co.uk/Product/Charlie-Higson/The-Sacrifice-The-Enemy-Book-4/11732279), book 6 of [The Enemy series](https://www.hive.co.uk/Search/Search?Series=The%20Enemy).
+* Currently reading through [The End](https://www.hive.co.uk/Product/Charlie-Higson/The-End-The-Enemy-Book-7/17521697), book 7 of [The Enemy series](https://www.hive.co.uk/Search/Search?Series=The%20Enemy).
 * Slowly getting through [Filmmakers without Cameras: Issue 3](https://shop.peregrinecoast.press/products/filmmakers-without-cameras-the-trilogy) as well.
 
 ## 🎬 Films & TV Shows
 
 ### Recently watched films
+* [The Trueman Show](https://www.youtube.com/watch?v=dlnmQbPGuls)
 * [John Wick: Chapter 4](https://www.youtube.com/watch?v=qEVUtrk8_B4)
 
 ### Recently watched TV shows
+* [Doctor Who - Christmas Special: The Church on Ruby Road](https://www.bbc.co.uk/iplayer/episode/m001tfnl/doctor-who-2023-christmas-special-the-church-on-ruby-road)
 * [Invincible, season 2](https://www.youtube.com/watch?v=tyqiQWxPz0c&t=3s)
 
 ## 🎮 Video Games
 
+* Recently started [The Outer Worlds](https://store.epicgames.com/en-US/p/the-outer-worlds-spacers-choice-edition) on PC.
 * Right now I'm playing [Super Mario Bros. Wonder](https://www.youtube.com/watch?v=XvQNlGKNC6o), [Hades](https://www.youtube.com/watch?v=91t0ha9x0AE) & [Spiritfarer](https://www.youtube.com/watch?v=4pKJ-NuSjNE) on my Nintendo Switch.
+* Finished [Wolfenstein: The New Order](https://store.epicgames.com/en-US/p/wolfenstein-the-new-order).
 
 ---
 
-Last updated: 14th November 2023. 
+Last updated: 27th December 2023. 
