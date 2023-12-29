@@ -6,7 +6,18 @@
     <description>Recent content in Home on Akash Goswami</description>
     <generator>Hugo -- gohugo.io</generator>
     <language></language>
-    <lastBuildDate>Mon, 18 Dec 2023 13:44:00 +0000</lastBuildDate><atom:link href="https://akashgoswami.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://akashgoswami.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>You Got This Scraper</title>
+      <link>https://akashgoswami.com/portfolio/you-got-this-scraper/</link>
+      <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://akashgoswami.com/portfolio/you-got-this-scraper/</guid>
+      <description>&lt;p&gt;A Python script to scrape the metadata from the &lt;a href=&#34;https://yougotthis.io/library&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;You Got This library&lt;/a&gt; and output the formatted data into a txt file that can be used in &lt;a href=&#34;https://obsidian.md/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Obsidian&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Skyth3r/You-Got-This-Scraper&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;View the code here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>A note from Sage</title>
       <link>https://akashgoswami.com/z/sage/</link>
