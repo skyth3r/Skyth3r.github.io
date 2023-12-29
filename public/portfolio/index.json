@@ -6,6 +6,14 @@
     "feed_url" : "https://akashgoswami.com/portfolio/index.json",
     "items" : [
     {
+        "title" : "You Got This Scraper",
+        "date_published" : "2023-12-29T00:00:00Z",
+        "date_modified" : "2023-12-29T00:00:00Z",
+        "id" : "https://akashgoswami.com/portfolio/you-got-this-scraper/",
+        "url" : "https://akashgoswami.com/portfolio/you-got-this-scraper/",
+        "content_html" : "\u003cp\u003eA Python script to scrape the metadata from the \u003ca href=\"https://yougotthis.io/library\"  target=\"_blank\" rel=\"noopener\" \u003eYou Got This library\u003c/a\u003e and output the formatted data into a txt file that can be used in \u003ca href=\"https://obsidian.md/\"  target=\"_blank\" rel=\"noopener\" \u003eObsidian\u003c/a\u003e.\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"https://github.com/Skyth3r/You-Got-This-Scraper\"  target=\"_blank\" rel=\"noopener\" \u003eView the code here\u003c/a\u003e.\u003c/p\u003e\n"
+    },
+    {
         "title" : "Buying Back Your Time",
         "date_published" : "2022-01-15T00:00:00Z",
         "date_modified" : "2022-01-15T00:00:00Z",
