@@ -22,11 +22,17 @@ I cycle regularly (paused for the winter) 🚴🏽‍♂️
 
 Still trying to get into running 🏃🏽‍♂️
 
-I've got into hiking over the last year. A few months ago, I hiked up Ben Nevis in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+I've got into hiking in 2023. Last summer, I hiked up Ben Nevis in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 
 ## 🌏 Travel
 
-So far this year, I've been to the following countries:
+### 2024
+
+🔜
+
+### 2023
+
+Last year, I travelled to the following countries:
 
 🇳🇱 The Netherlands
 
@@ -50,6 +56,7 @@ So far this year, I've been to the following countries:
 ## 🎬 Films & TV Shows
 
 ### Recently watched films
+* [The Hunger Games: The Ballad of Songbirds & Snakes](https://www.youtube.com/watch?v=RDE6Uz73A7g&list=PLJ7A97yl9oXpfq64XZCN9CEQVKMCsHAXh)
 * [The Trueman Show](https://www.youtube.com/watch?v=dlnmQbPGuls)
 * [John Wick: Chapter 4](https://www.youtube.com/watch?v=qEVUtrk8_B4)
 
@@ -65,4 +72,4 @@ So far this year, I've been to the following countries:
 
 ---
 
-Last updated: 27th December 2023. 
+Last updated: 1st January 2024. 
