@@ -1548,5 +1548,50 @@ Two years ago I woke up one morning to catch my flight to Tokyo. Unfortunately, 
 </description>
     </item>
     
+    <item>
+      <title>Verify</title>
+      <link>https://akashgoswami.com/verify/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://akashgoswami.com/verify/</guid>
+      <description>&lt;p&gt;This page serves as record for my online identity. It is inspired by &lt;a href=&#34;https://www.mollywhite.net/verify/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Molly White&amp;#39;s verify page.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The accounts listed below are the public facing accounts I use online:&lt;/p&gt;
+&lt;p&gt;Mastodon - &lt;a href=&#34;https://hachyderm.io/@akashgoswami&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;@akashgoswami@hachyderm.io&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Bluesky - &lt;a href=&#34;https://bsky.app/profile/akashgoswami.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;@akashgoswami.com&lt;/a&gt; and &lt;a href=&#34;https://bsky.app/profile/akash.bsky.social&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;@akash.bsky.social&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;GitHub - &lt;a href=&#34;https://github.com/skyth3r/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Skyth3r&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Linkedin - &lt;a href=&#34;https://www.linkedin.com/in/akashgoswamiuk/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;akashgoswamiuk&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Twitter - &lt;a href=&#34;https://twitter.com/akashgoswami_&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;@akashgoswami_&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Hacker News - &lt;a href=&#34;https://news.ycombinator.com/user?id=akashgoswami&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;akashgoswami&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Reddit - &lt;a href=&#34;https://www.reddit.com/user/akashgoswami_/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;akashgoswami_&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;My main email address is 
+&lt;style&gt;
+  #span-28838cee.cloaked-e-mail:before {
+    content:attr(data-domain) &#34;\0040&#34; attr(data-user);
+    unicode-bidi:bidi-override;
+    direction:rtl;
+  }
+&lt;/style&gt;
+&amp;#32;&lt;span class=&#34;cloaked-e-mail&#34; data-user=&#34;hsaka&#34; data-domain=&#34;moc.imawsoghsaka&#34; id=&#34;span-28838cee&#34;&gt;&lt;/span&gt;&amp;#32;
+
+&lt;script id=&#34;script-28838cee&#34;&gt;
+  var scriptTag = document.getElementById(&#34;script-28838cee&#34;);
+  var link = document.createElement(&#34;a&#34;);
+  var address = &#34;hsaka&#34;.split(&#39;&#39;).reverse().join(&#39;&#39;) + &#34;@&#34; + &#34;moc.imawsoghsaka&#34;.split(&#39;&#39;).reverse().join(&#39;&#39;);
+  link.href = &#34;mailto&#34; + &#34;:&#34; + address;
+  link.innerText = address.split(&#39;?&#39;)[0];
+  scriptTag.parentElement.insertBefore(link, scriptTag.previousElementSibling);
+  scriptTag.parentElement.removeChild(scriptTag.previousElementSibling)
+&lt;/script&gt;
+
+&lt;/p&gt;
+&lt;p&gt;If there&amp;rsquo;s an account claiming to be me and it&amp;rsquo;s not one of these accounts on the list, it&amp;rsquo;s probably an impersonator.&lt;/p&gt;
+&lt;h2 id=&#34;domain-names&#34;&gt;Domain names&lt;/h2&gt;
+&lt;p&gt;I also own the following domain names:&lt;/p&gt;
+&lt;p&gt;akashgoswami.com&lt;/p&gt;
+&lt;p&gt;akashgoswami.dev&lt;/p&gt;
+&lt;p&gt;akash.lol&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
