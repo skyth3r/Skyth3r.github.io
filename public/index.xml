@@ -1565,16 +1565,16 @@ Two years ago I woke up one morning to catch my flight to Tokyo. Unfortunately, 
 &lt;p&gt;Reddit - &lt;a href=&#34;https://www.reddit.com/user/akashgoswami_/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;akashgoswami_&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;My main email address is 
 &lt;style&gt;
-  #span-28838cee.cloaked-e-mail:before {
+  #span-9b9a89f0.cloaked-e-mail:before {
     content:attr(data-domain) &#34;\0040&#34; attr(data-user);
     unicode-bidi:bidi-override;
     direction:rtl;
   }
 &lt;/style&gt;
-&amp;#32;&lt;span class=&#34;cloaked-e-mail&#34; data-user=&#34;hsaka&#34; data-domain=&#34;moc.imawsoghsaka&#34; id=&#34;span-28838cee&#34;&gt;&lt;/span&gt;&amp;#32;
+&amp;#32;&lt;span class=&#34;cloaked-e-mail&#34; data-user=&#34;hsaka&#34; data-domain=&#34;moc.imawsoghsaka&#34; id=&#34;span-9b9a89f0&#34;&gt;&lt;/span&gt;&amp;#32;
 
-&lt;script id=&#34;script-28838cee&#34;&gt;
-  var scriptTag = document.getElementById(&#34;script-28838cee&#34;);
+&lt;script id=&#34;script-9b9a89f0&#34;&gt;
+  var scriptTag = document.getElementById(&#34;script-9b9a89f0&#34;);
   var link = document.createElement(&#34;a&#34;);
   var address = &#34;hsaka&#34;.split(&#39;&#39;).reverse().join(&#39;&#39;) + &#34;@&#34; + &#34;moc.imawsoghsaka&#34;.split(&#39;&#39;).reverse().join(&#39;&#39;);
   link.href = &#34;mailto&#34; + &#34;:&#34; + address;
