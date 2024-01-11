@@ -61,7 +61,7 @@ Last year, I travelled to the following countries:
 * [John Wick: Chapter 4](https://www.youtube.com/watch?v=qEVUtrk8_B4)
 
 ### Recently watched TV shows
-* [What If...?, season 2](https://www.youtube.com/watch?v=TiEVqZ2Bc_c)
+* [What If\...?, season 2](https://www.youtube.com/watch?v=TiEVqZ2Bc_c)
 * [Doctor Who - Christmas Special: The Church on Ruby Road](https://www.bbc.co.uk/iplayer/episode/m001tfnl/doctor-who-2023-christmas-special-the-church-on-ruby-road)
 * [Invincible, season 2](https://www.youtube.com/watch?v=tyqiQWxPz0c&t=3s)
 
