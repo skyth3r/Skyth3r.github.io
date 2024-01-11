@@ -2,7 +2,7 @@
 title: Now
 ---
 
-This is my [now page](https://nownownow.com/about).
+This is my [now page](https://nownownow.com/about). You can also view my profile on [nownownow](https://nownownow.com/p/1M0p).
 
 ## ⭐ What I'm up to
 
@@ -56,11 +56,12 @@ Last year, I travelled to the following countries:
 ## 🎬 Films & TV Shows
 
 ### Recently watched films
-* [The Hunger Games: The Ballad of Songbirds & Snakes](https://www.youtube.com/watch?v=RDE6Uz73A7g&list=PLJ7A97yl9oXpfq64XZCN9CEQVKMCsHAXh)
+* [The Hunger Games: The Ballad of Songbirds and Snakes](https://www.youtube.com/watch?v=RDE6Uz73A7g&list=PLJ7A97yl9oXpfq64XZCN9CEQVKMCsHAXh)
 * [The Trueman Show](https://www.youtube.com/watch?v=dlnmQbPGuls)
 * [John Wick: Chapter 4](https://www.youtube.com/watch?v=qEVUtrk8_B4)
 
 ### Recently watched TV shows
+* [What If\...?, season 2](https://www.youtube.com/watch?v=TiEVqZ2Bc_c)
 * [Doctor Who - Christmas Special: The Church on Ruby Road](https://www.bbc.co.uk/iplayer/episode/m001tfnl/doctor-who-2023-christmas-special-the-church-on-ruby-road)
 * [Invincible, season 2](https://www.youtube.com/watch?v=tyqiQWxPz0c&t=3s)
 
@@ -72,4 +73,4 @@ Last year, I travelled to the following countries:
 
 ---
 
-Last updated: 1st January 2024. 
+Last updated: 11th January 2024. 
