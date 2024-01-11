@@ -73,4 +73,4 @@ Last year, I travelled to the following countries:
 
 ---
 
-Last updated: 1st January 2024. 
+Last updated: 11th January 2024. 
