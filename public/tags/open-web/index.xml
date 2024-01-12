@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>open-web on Akash Goswami</title>
+    <link>https://akashgoswami.com/tags/open-web/</link>
+    <description>Recent content in open-web on Akash Goswami</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language></language>
+    <lastBuildDate>Fri, 12 Jan 2024 18:17:00 +0000</lastBuildDate><atom:link href="https://akashgoswami.com/tags/open-web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RSS Feeds</title>
+      <link>https://akashgoswami.com/notes/rss-feeds/</link>
+      <pubDate>Fri, 12 Jan 2024 18:17:00 +0000</pubDate>
+      
+      <guid>https://akashgoswami.com/notes/rss-feeds/</guid>
+      <description>&lt;p&gt;Recently I&amp;rsquo;ve been thinking a lot about RSS (Really Simple Syndication) feeds.&lt;/p&gt;
+&lt;p&gt;There&amp;rsquo;s a lot of cool stuff you can do with RSS feeds. I read a post by Robb Knight, about how he &lt;a href=&#34;https://rknight.me/blog/automating-my-now-page/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;automated his now page&lt;/a&gt;, which led to &lt;a href=&#34;https://localghost.dev/blog/everything-should-have-an-api-adventures-in-trying-to-automate-stuff/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Sophie automating her now page as well&lt;/a&gt;. I was thinking of how I could do the same using services that offer RSS feeds.&lt;/p&gt;
+&lt;p&gt;I would love to be able to automate the Movies, TV Shows and Video Games sections of my now page. So far I&amp;rsquo;ve found that Letterboxd offers an RSS feed for movies and Backloggd offers an RSS feed for a user&amp;rsquo;s reviewed games but not for their &amp;lsquo;Currently playing&amp;rsquo; games. I&amp;rsquo;m still exploring what would be the best solution to use for books and TV shows.&lt;/p&gt;
+&lt;p&gt;Currently, I use &lt;a href=&#34;https://netnewswire.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;NetNewsWire&lt;/a&gt; as my RSS Reader app.&lt;/p&gt;
+&lt;p&gt;Another cool project I found recently was &lt;a href=&#34;https://rss-parrot.net/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;RSS Parrot&lt;/a&gt; by &lt;a href=&#34;https://genart.social/@twilliability&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Gábor Ugray&lt;/a&gt;. RSS Parrot allows you to subscribe to RSS feeds directly via Mastodon.&lt;/p&gt;
+&lt;p&gt;In addition to that, it&amp;rsquo;s possible to also subscribe to Bluesky profiles using RSS parrot via Bluesky&amp;rsquo;s &lt;a href=&#34;https://bsky.app/profile/bsky.app/post/3kh5rjl6bgu2i&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;new RSS feeds feature&lt;/a&gt; that was introduced at the end of 2023 and with Meta&amp;rsquo;s plan to &lt;a href=&#34;https://www.theverge.com/2023/12/13/24000120/threads-meta-activitypub-test-mastodon&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;add ActivityPub integration to Threads&lt;/a&gt;, I might be able to finally follow all my friends across the internet via one account!&lt;/p&gt;
+&lt;p&gt;Twitter doesn&amp;rsquo;t have native RSS feed support but I&amp;rsquo;ve managed to find a workaround using &lt;a href=&#34;https://nitter.net/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Nitter&lt;/a&gt; (&lt;strong&gt;Note&lt;/strong&gt; - RSS feeds are currently disabled on the main Nitter instance at the moment. There are other instances where RSS feeds are still enabled.)&lt;/p&gt;
+&lt;p&gt;Overall, the future for an open web is looking bright.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
