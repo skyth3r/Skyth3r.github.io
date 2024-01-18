@@ -6,7 +6,38 @@
     <description>Recent content in guide on Akash Goswami</description>
     <generator>Hugo -- gohugo.io</generator>
     <language></language>
-    <lastBuildDate>Mon, 21 Aug 2023 17:00:00 +0000</lastBuildDate><atom:link href="https://akashgoswami.com/tags/guide/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Jan 2024 12:05:00 +0000</lastBuildDate><atom:link href="https://akashgoswami.com/tags/guide/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Remove files from Git history</title>
+      <link>https://akashgoswami.com/notes/remove-files-from-git-history/</link>
+      <pubDate>Thu, 18 Jan 2024 12:05:00 +0000</pubDate>
+      
+      <guid>https://akashgoswami.com/notes/remove-files-from-git-history/</guid>
+      <description>&lt;p&gt;A note for myself because I know I&amp;rsquo;ll probably do it again in the future&amp;hellip;&lt;/p&gt;
+&lt;p&gt;I managed to accidently commited a text file to a repository and pushed it to GitHub 🤦🏽‍♂️&lt;/p&gt;
+&lt;p&gt;While it didn&amp;rsquo;t contain any sensitive data, I still wanted to remove it from the repository&amp;rsquo;s history. I found &lt;a href=&#34;https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;this guide on GitHub&lt;/a&gt; and these are the exact steps I followed to resolve this issue.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Install &lt;a href=&#34;https://formulae.brew.sh/formula/bfg&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;bfg via Homebrew&lt;/a&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-zsh&#34; data-lang=&#34;zsh&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;brew install bfg
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;Remove the file from the local repository and push this change to the GitHub repository&lt;/li&gt;
+&lt;li&gt;Clone the repository from GitHub to a new location on my machine
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-zsh&#34; data-lang=&#34;zsh&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;gh repo clone GITHUB_USERNAME_HERE/REPOSITORY_NAME_HERE
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;Ran the following command to remove the file from the repository&amp;rsquo;s history
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-zsh&#34; data-lang=&#34;zsh&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;bfg --delete-files FILENAME_HERE_WITH_EXTENSION
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;Then I ran these commands together (This was what was recommended after running the command above)
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-zsh&#34; data-lang=&#34;zsh&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;git reflog expire --expire&lt;span style=&#34;color:#ff79c6&#34;&gt;=&lt;/span&gt;now --all &lt;span style=&#34;color:#ff79c6&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; git gc --prune&lt;span style=&#34;color:#ff79c6&#34;&gt;=&lt;/span&gt;now --aggressive
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;Force push the changes to GitHub
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-zsh&#34; data-lang=&#34;zsh&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;git push --force
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The file should now be removed from GitHub and you should see a new commit message with no changes made.&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>DRM free books</title>
       <link>https://akashgoswami.com/articles/removing-drm-from-kindle-books/</link>
