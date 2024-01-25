@@ -398,7 +398,7 @@ If you want to subscribe to it, here’s the &lt;a href=&#34;https://akashgoswam
       <pubDate>Mon, 30 Jan 2023 21:45:00 +0000</pubDate>
       
       <guid>https://akashgoswami.com/articles/customising-my-hugo-theme/</guid>
-      <description>&lt;p&gt;My Hugo website uses the &lt;a href=&#34;https://github.com/apvarun/digital-garden-hugo-theme&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Digital Garden Hugo theme&lt;/a&gt; but I&amp;rsquo;ve made a few changes in addition to using the theme. I&amp;rsquo;ve listed these changes below both for myself to refer back to and for anyone else that might find these useful to include in their own Hugo website 👇🏽&lt;/p&gt;
+      <description>&lt;p&gt;My Hugo website uses the &lt;a href=&#34;https://github.com/apvarun/digital-garden-hugo-theme&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Digital Garden Hugo theme&lt;/a&gt; but I&amp;rsquo;ve made a few changes in addition to using the theme. I&amp;rsquo;ve listed these changes below both for myself to refer back to and for anyone else who might find these useful to include in their own Hugo website 👇🏽&lt;/p&gt;
 &lt;h2 id=&#34;updating-lastmod-text&#34;&gt;Updating lastmod text&lt;/h2&gt;
 &lt;p&gt;One of the first changes I made was to &lt;a href=&#34;https://github.com/Skyth3r/Skyth3r.github.io/commit/ee9926c786e458476524ac571be01a7ea6a38285&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;change the lastmod front matter text&lt;/a&gt; that was displayed on the theme. Previously it would default to showing &lt;code&gt;Pruned January 2, 2023&lt;/code&gt; on articles with the &lt;code&gt;lastmod&lt;/code&gt; front matter. After my change to the article single layout it now instead shows &lt;code&gt;Last tended to on January 2, 2023&lt;/code&gt;.&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{ if .Date }}
@@ -411,8 +411,8 @@ If you want to subscribe to it, here’s the &lt;a href=&#34;https://akashgoswam
 &lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;google-analytics&#34;&gt;Google Analytics&lt;/h2&gt;
 &lt;p&gt;Adding Google Analytics to the site is pretty simple as it&amp;rsquo;s natively supported by the theme I&amp;rsquo;m using. Within the config.toml file, you just need to add the Google Analytics tracking ID in the format, &amp;ldquo;googleAnalytics = &amp;lsquo;TRAKCING_CODE_HERE&amp;rsquo;&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;One issue I noticed with this was the fact analytics data would be pinged back to Google Analytics while I worked on the website locally on my own machine.&lt;/p&gt;
-&lt;p&gt;To fix this, I &lt;a href=&#34;https://github.com/Skyth3r/Skyth3r.github.io/commit/1bcb816700f2244d7a8337f61be5b410886f88bd#diff-5f948a63b2e0f5e8409b3a709cb74c89451854c6ded2959a6f110d5340001cc1&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;replaced the config.toml file stored in the root of the repository with a config folder&lt;/a&gt; and then split the config.toml file into two files, a default file that contained all the config settings for the site, and a production config.toml file that contains only the Google Analytics tracking code.&lt;/p&gt;
-&lt;p&gt;Now when I work on new things for the website I run the command &lt;code&gt;hugo server --environment development -D&lt;/code&gt;, which loads only the default config file. When re-building the website, I use the &lt;code&gt;hugo&lt;/code&gt; command takes both config files and merges them together to build the production website, thus resolving the issue of generating accidently analytics data during testing and development.&lt;/p&gt;
+&lt;p&gt;To fix this, I &lt;a href=&#34;https://github.com/Skyth3r/Skyth3r.github.io/commit/1bcb816700f2244d7a8337f61be5b410886f88bd#diff-5f948a63b2e0f5e8409b3a709cb74c89451854c6ded2959a6f110d5340001cc1&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;replaced the config.toml file stored in the root of the repository with a config folder&lt;/a&gt; and then split the config.toml file into two files, a default file that contains all the config settings for the site, and a production config.toml file that contains only the Google Analytics tracking code.&lt;/p&gt;
+&lt;p&gt;Now when I work on new things for the website I run the command &lt;code&gt;hugo server --environment development -D&lt;/code&gt;, which loads only the default config file. When re-building the website, I use the &lt;code&gt;hugo&lt;/code&gt; command takes both config files and merges them together to build the production website, thus resolving the issue of generating accidental analytics data during testing and development.&lt;/p&gt;
 &lt;h2 id=&#34;additional-article-front-matter&#34;&gt;Additional Article Front Matter&lt;/h2&gt;
 &lt;p&gt;I ended up adding a few new improvements to the article front matter.&lt;/p&gt;
 &lt;h3 id=&#34;article-read-time&#34;&gt;Article read time&lt;/h3&gt;
@@ -424,7 +424,7 @@ If you want to subscribe to it, here’s the &lt;a href=&#34;https://akashgoswam
 {{ end }}
 Reading time: {{ .ReadingTime }} {{ .Scratch.Get &amp;#34;readingTime&amp;#34; }}
 &lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;tags&#34;&gt;Tags&lt;/h3&gt;
-&lt;p&gt;I wanted to be able to nagivate my site articles by tags, so I&amp;rsquo;ve &lt;a href=&#34;https://github.com/Skyth3r/Skyth3r.github.io/commit/29ede00b08c2f0eabe217eee315ef9924498250d&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;added tags to each article&lt;/a&gt; and updated the autogenerated tags page (was previously blank) as well. The code from the tags page is currently just copied from the theme&amp;rsquo;s &lt;a href=&#34;https://github.com/apvarun/digital-garden-hugo-theme/tree/main/layouts/portfolio&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;portfolio layout&lt;/a&gt;. It&amp;rsquo;s not perfect but it works for now.&lt;/p&gt;
+&lt;p&gt;I wanted to be able to navigate my site articles by tags, so I&amp;rsquo;ve &lt;a href=&#34;https://github.com/Skyth3r/Skyth3r.github.io/commit/29ede00b08c2f0eabe217eee315ef9924498250d&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;added tags to each article&lt;/a&gt; and updated the autogenerated tags page (was previously blank) as well. The code from the tags page is currently just copied from the theme&amp;rsquo;s &lt;a href=&#34;https://github.com/apvarun/digital-garden-hugo-theme/tree/main/layouts/portfolio&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;portfolio layout&lt;/a&gt;. It&amp;rsquo;s not perfect but it works for now.&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&amp;lt;br/&amp;gt; Tags:
 {{ with .Param &amp;#34;tags&amp;#34; }}
     {{ range $index, $tag := (. | sort) }} 
@@ -433,7 +433,7 @@ Reading time: {{ .ReadingTime }} {{ .Scratch.Get &amp;#34;readingTime&amp;#34; }
         {{ end }}
     {{ end }}
 {{ end }}
-&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;rel-me-verifcation&#34;&gt;rel-me verifcation&lt;/h2&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;rel-me-verification&#34;&gt;rel-me verification&lt;/h2&gt;
 &lt;p&gt;Modified the social icons sidebar code to &lt;a href=&#34;ttps://github.com/Skyth3r/Skyth3r.github.io/commit/f7cf25f796ead76c1348da976cb980e899f1302a&#34; &gt;include rel=me&lt;/a&gt;. Used for &lt;a href=&#34;https://docs.joinmastodon.org/user/profile/#verification&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;verification on Mastodon&lt;/a&gt;.&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&amp;lt;li&amp;gt;
     &amp;lt;a class=&amp;#34;px-2 py-1.5 rounded-md text-sm block text-slate-800 dark:text-slate-50 {{ if eq (.URL|absURL) $permalink }} bg-slate-800 text-white dark: {{ else }} hover:bg-slate-200 dark:hover:bg-slate-700 {{ end }}&amp;#34;
@@ -1614,16 +1614,16 @@ Two years ago I woke up one morning to catch my flight to Tokyo. Unfortunately, 
 &lt;p&gt;Reddit - &lt;a href=&#34;https://www.reddit.com/user/akashgoswami_/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;akashgoswami_&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;My main email address is 
 &lt;style&gt;
-  #span-56f1fbf5.cloaked-e-mail:before {
+  #span-726f538a.cloaked-e-mail:before {
     content:attr(data-domain) &#34;\0040&#34; attr(data-user);
     unicode-bidi:bidi-override;
     direction:rtl;
   }
 &lt;/style&gt;
-&amp;#32;&lt;span class=&#34;cloaked-e-mail&#34; data-user=&#34;hsaka&#34; data-domain=&#34;moc.imawsoghsaka&#34; id=&#34;span-56f1fbf5&#34;&gt;&lt;/span&gt;&amp;#32;
+&amp;#32;&lt;span class=&#34;cloaked-e-mail&#34; data-user=&#34;hsaka&#34; data-domain=&#34;moc.imawsoghsaka&#34; id=&#34;span-726f538a&#34;&gt;&lt;/span&gt;&amp;#32;
 
-&lt;script id=&#34;script-56f1fbf5&#34;&gt;
-  var scriptTag = document.getElementById(&#34;script-56f1fbf5&#34;);
+&lt;script id=&#34;script-726f538a&#34;&gt;
+  var scriptTag = document.getElementById(&#34;script-726f538a&#34;);
   var link = document.createElement(&#34;a&#34;);
   var address = &#34;hsaka&#34;.split(&#39;&#39;).reverse().join(&#39;&#39;) + &#34;@&#34; + &#34;moc.imawsoghsaka&#34;.split(&#39;&#39;).reverse().join(&#39;&#39;);
   link.href = &#34;mailto&#34; + &#34;:&#34; + address;
