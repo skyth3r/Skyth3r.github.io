@@ -44,7 +44,7 @@
       <pubDate>Mon, 21 Aug 2023 17:00:00 +0000</pubDate>
       
       <guid>https://akashgoswami.com/articles/removing-drm-from-kindle-books/</guid>
-      <description>&lt;p&gt;I really enjoy reading books on my Kindle. I also buy most of my digital books via Amazon. I never thought about making DRM-free copies of my eBooks until I read about how &lt;a href=&#34;https://medium.com/@bjax_/a-tale-of-unwanted-disruption-my-week-without-amazon-df1074e3818b&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;an engineer has his Amazon account suspended&lt;/a&gt; due to a delivery driver&amp;rsquo;s false claim.&lt;/p&gt;
+      <description>&lt;p&gt;I really enjoy reading books on my Kindle. I also buy most of my digital books via Amazon. I never thought about making DRM-free copies of my eBooks until I read about how &lt;a href=&#34;https://medium.com/@bjax_/a-tale-of-unwanted-disruption-my-week-without-amazon-df1074e3818b&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;an engineer had his Amazon account suspended&lt;/a&gt; due to a delivery driver&amp;rsquo;s false claim.&lt;/p&gt;
 &lt;p&gt;That really got me thinking about how I would feel if I lost access to my Amazon account. I’ve purchased most of my ebooks from Amazon. Losing access would mean losing the majority of my digital library.&lt;/p&gt;
 &lt;p&gt;To avoid such a situation, I decided it was time to make a copy of the digital eBooks I purchased from Amazon.&lt;/p&gt;
 &lt;p&gt;This article covers how I removed the DRM from my Kindle ebooks so I can read my books on any device without needing to use a Kindle app.&lt;/p&gt;
@@ -63,7 +63,7 @@
 &lt;p&gt;No. Just don’t distribute the DRM-free books you have as that would be illegal.&lt;/p&gt;
 &lt;h3 id=&#34;disclaimer&#34;&gt;Disclaimer&lt;/h3&gt;
 &lt;p&gt;There a several guides online that explain how to do this, I initially followed those methods but I got some errors when following these guides.&lt;/p&gt;
-&lt;p&gt;Below I’ve listed the steps that worked for me. You might find that this exact approach not working for you.&lt;/p&gt;
+&lt;p&gt;Below I’ve listed the steps that worked for me. You might find that this exact approach might not work for you.&lt;/p&gt;
 &lt;h3 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h3&gt;
 &lt;p&gt;You’ll need a Kindle eReader or the Kindle app on your machine. I personally used my Kindle eReader for this process.&lt;/p&gt;
 &lt;p&gt;Note - I use MacOS so these steps will be MacOS specific but the steps are similar if you are using a different operating system.&lt;/p&gt;
@@ -74,7 +74,7 @@
 &lt;li&gt;Open the settings/preferences menu within Calibre and then click plug-ins under ‘Advanced’&lt;/li&gt;
 &lt;li&gt;Click the ‘Load plug-in from file’ option and then select the noDRM zip file you downloaded&lt;/li&gt;
 &lt;li&gt;Get your Kindle’s serial number from your Kindle device. You can find it under Settings &amp;gt; Device options &amp;gt; Device info&lt;/li&gt;
-&lt;li&gt;Go back the plug-in menu in Calibre, select the NoDRM plug-in (under the file type sub-heading) and click ‘Customise plug-in’&lt;/li&gt;
+&lt;li&gt;Go back to the plug-in menu in Calibre, select the NoDRM plug-in (under the file type sub-heading) and click ‘Customise plug-in’&lt;/li&gt;
 &lt;li&gt;Select ‘Kindle eInk ebooks’, click the green plus icon and enter your Kindle serial number and then click ok&lt;/li&gt;
 &lt;li&gt;Go back to the plug-ins menu, click ‘Get new plug-ins’ and then install the ‘KFX Input’ plug-in&lt;/li&gt;
 &lt;li&gt;Go to the Amazon website and then select the ‘Manage Your Content and Devices’ under your account menu and then click ‘Books’&lt;/li&gt;
@@ -85,7 +85,7 @@
 &lt;p&gt;Now that you’re able to remove DRM from your Kindle books you can read them on any device you like! If you want a Kindle like e-reader without having to buy a Kindle, you might want to consider a &lt;a href=&#34;https://pocketbook.ch/en-ch&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Pocketbook&lt;/a&gt; instead.&lt;/p&gt;
 &lt;h3 id=&#34;where-to-buy-ebooks-going-forward&#34;&gt;Where to buy eBooks going forward&lt;/h3&gt;
 &lt;p&gt;You can of course still buy your eBooks from Amazon, but it might be worth exploring what other options exist that allow you to get DRM free books way more easily. One of my favourites is a website called &lt;a href=&#34;https://www.hive.co.uk/eBooks&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Hive&lt;/a&gt; which sells eBooks in ePub and PDF formats by default and most books are similarly priced to their Amazon counterparts.&lt;/p&gt;
-&lt;p&gt;That’s everything you should need to build a DRM-free digital library. All that’s left to do is to back up your eBooks somewhere (like a digital cloud provider) so you can alway keep a copy of the books you bought).&lt;/p&gt;
+&lt;p&gt;That’s everything you should need to build a DRM-free digital library. All that’s left to do is to back up your eBooks somewhere (like a digital cloud provider) so you can always keep a copy of the books you bought).&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;&lt;a href=&#34;https://www.figma.com/community/file/1047875211730430527/Amazon-Kindle-Paperwhite-Mockup&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Article header image by Vyshnav Gangadharan under CC 4.0 license&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
