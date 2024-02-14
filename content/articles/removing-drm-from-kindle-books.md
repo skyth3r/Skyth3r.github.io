@@ -1,13 +1,14 @@
 ---
 title: DRM free books
 date: 2023-08-21T17:00:00
+lastmod: 2024-02-08:11:02
 images: 
 - /img/drm-free-books/remove-drm.png
 description: A guide on how to remove DRM from Kindle books and why I think it matters
 tags: ['ebooks', 'guide', 'kindle']
 ---
 
-I really enjoy reading books on my Kindle. I also buy most of my digital books via Amazon. I never thought about making DRM-free copies of my eBooks until I read about how [an engineer has his Amazon account suspended](https://medium.com/@bjax_/a-tale-of-unwanted-disruption-my-week-without-amazon-df1074e3818b) due to a delivery driver's false claim.
+I really enjoy reading books on my Kindle. I also buy most of my digital books via Amazon. I never thought about making DRM-free copies of my eBooks until I read about how [an engineer had his Amazon account suspended](https://medium.com/@bjax_/a-tale-of-unwanted-disruption-my-week-without-amazon-df1074e3818b) due to a delivery driver's false claim.
 
 That really got me thinking about how I would feel if I lost access to my Amazon account. I’ve purchased most of my ebooks from Amazon. Losing access would mean losing the majority of my digital library.
 
@@ -44,7 +45,7 @@ No. Just don’t distribute the DRM-free books you have as that would be illegal
 ### Disclaimer
 There a several guides online that explain how to do this, I initially followed those methods but I got some errors when following these guides.
 
-Below I’ve listed the steps that worked for me. You might find that this exact approach not working for you.
+Below I’ve listed the steps that worked for me. You might find that this exact approach might not work for you.
 
 ### Prerequisites
 You’ll need a Kindle eReader or the Kindle app on your machine. I personally used my Kindle eReader for this process.
@@ -58,7 +59,7 @@ Note - I use MacOS so these steps will be MacOS specific but the steps are simil
 3. Open the settings/preferences menu within Calibre and then click plug-ins under ‘Advanced’
 4. Click the ‘Load plug-in from file’ option and then select the noDRM zip file you downloaded
 5. Get your Kindle’s serial number from your Kindle device. You can find it under Settings > Device options > Device info
-6. Go back the plug-in menu in Calibre, select the NoDRM plug-in (under the file type sub-heading) and click ‘Customise plug-in’
+6. Go back to the plug-in menu in Calibre, select the NoDRM plug-in (under the file type sub-heading) and click ‘Customise plug-in’
 7. Select ‘Kindle eInk ebooks’, click the green plus icon and enter your Kindle serial number and then click ok
 8. Go back to the plug-ins menu, click ‘Get new plug-ins’ and then install the ‘KFX Input’ plug-in
 9. Go to the Amazon website and then select the ‘Manage Your Content and Devices’ under your account menu and then click ‘Books’
@@ -71,6 +72,6 @@ Now that you’re able to remove DRM from your Kindle books you can read them on
 ### Where to buy eBooks going forward
 You can of course still buy your eBooks from Amazon, but it might be worth exploring what other options exist that allow you to get DRM free books way more easily. One of my favourites is a website called [Hive](https://www.hive.co.uk/eBooks) which sells eBooks in ePub and PDF formats by default and most books are similarly priced to their Amazon counterparts.
 
-That’s everything you should need to build a DRM-free digital library. All that’s left to do is to back up your eBooks somewhere (like a digital cloud provider) so you can alway keep a copy of the books you bought).
+That’s everything you should need to build a DRM-free digital library. All that’s left to do is to back up your eBooks somewhere (like a digital cloud provider) so you can always keep a copy of the books you bought).
 
 *[Article header image by Vyshnav Gangadharan under CC 4.0 license](https://www.figma.com/community/file/1047875211730430527/Amazon-Kindle-Paperwhite-Mockup)*
