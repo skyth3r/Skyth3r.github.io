@@ -2,10 +2,10 @@ name: update-now
 
 on:
   schedule:
-    - cron: '0 1 * * *'
+    - cron: '15 1 * * *'
   push:
     branches:
-      - main
+      - master
 
 jobs:
   build-and-deploy:
