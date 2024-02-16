@@ -28,19 +28,15 @@ I've got into hiking in 2023. Last summer, I hiked up Ben Nevis in Scotland 🏴
 
 ### 2024
 
-🔜
+🇬🇷 Greece
 
 ### 2023
 
-Last year, I travelled to the following countries:
-
-🇳🇱 The Netherlands
-
-🇩🇪 Germany x2
-
-🇯🇵 Japan x2
+🇳🇱 Netherlands
 
 🇻🇳 Vietnam
+
+🇯🇵 Japan
 
 🇮🇩 Indonesia
 
@@ -48,29 +44,31 @@ Last year, I travelled to the following countries:
 
 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland
 
+🇩🇪 Germany
+
 ## 📚 Books
+* [The End (The Enemy, #7)](https://oku.club/book/the-end-by-charlie-higson-NNODn)
 
-* Currently reading through [The End](https://www.hive.co.uk/Product/Charlie-Higson/The-End-The-Enemy-Book-7/17521697), book 7 of [The Enemy series](https://www.hive.co.uk/Search/Search?Series=The%20Enemy).
-* Slowly getting through [Filmmakers without Cameras: Issue 3](https://shop.peregrinecoast.press/products/filmmakers-without-cameras-the-trilogy) as well.
+## 🎬 Movies and TV Shows
 
-## 🎬 Films & TV Shows
+### Recently watched movies
 
-### Recently watched films
-* [The Hunger Games: The Ballad of Songbirds and Snakes](https://www.youtube.com/watch?v=RDE6Uz73A7g&list=PLJ7A97yl9oXpfq64XZCN9CEQVKMCsHAXh)
-* [The Trueman Show](https://www.youtube.com/watch?v=dlnmQbPGuls)
-* [John Wick: Chapter 4](https://www.youtube.com/watch?v=qEVUtrk8_B4)
+* [The Marvels](https://letterboxd.com/film/the-marvels/)
+* [The Hunger Games: The Ballad of Songbirds & Snakes](https://letterboxd.com/film/the-hunger-games-the-ballad-of-songbirds-snakes/)
 
 ### Recently watched TV shows
-* [What If\...?, season 2](https://www.youtube.com/watch?v=TiEVqZ2Bc_c)
-* [Doctor Who - Christmas Special: The Church on Ruby Road](https://www.bbc.co.uk/iplayer/episode/m001tfnl/doctor-who-2023-christmas-special-the-church-on-ruby-road)
-* [Invincible, season 2](https://www.youtube.com/watch?v=tyqiQWxPz0c&t=3s)
+
+* [Modern Family, Season 1](https://www.serializd.com/show/1421)
+* [The Bear, Season 1](https://www.serializd.com/show/136315)
+* [Secret Invasion, Miniseries](https://www.serializd.com/show/114472)
 
 ## 🎮 Video Games
 
-* Recently started [The Outer Worlds](https://store.epicgames.com/en-US/p/the-outer-worlds-spacers-choice-edition) on PC.
-* Right now I'm playing [Super Mario Bros. Wonder](https://www.youtube.com/watch?v=XvQNlGKNC6o), [Hades](https://www.youtube.com/watch?v=91t0ha9x0AE) & [Spiritfarer](https://www.youtube.com/watch?v=4pKJ-NuSjNE) on my Nintendo Switch.
-* Finished [Wolfenstein: The New Order](https://store.epicgames.com/en-US/p/wolfenstein-the-new-order).
+* [The Legend of Zelda: Tears of the Kingdom](https://backloggd.com/games/the-legend-of-zelda-tears-of-the-kingdom/)
+* [Hades](https://backloggd.com/games/hades--1/)
+* [The Outer Worlds](https://backloggd.com/games/the-outer-worlds/)
+* [Super Mario Bros. Wonder](https://backloggd.com/games/super-mario-bros-wonder/)
 
 ---
 
-Last updated: 11th January 2024. 
+Last updated: 16 Feb 2024
