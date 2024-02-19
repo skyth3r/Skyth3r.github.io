@@ -47,7 +47,7 @@ I've got into hiking in 2023. Last summer, I hiked up Ben Nevis in Scotland 🏴
 🇩🇪 Germany
 
 ## 📚 Books
-* [The End (The Enemy, #7)](https://oku.club/book/the-end-by-charlie-higson-NNODn)
+* [Wool](https://oku.club/book/wool-by-hugh-howey-q3WcI)
 
 ## 🎬 Movies and TV Shows
 
@@ -59,8 +59,8 @@ I've got into hiking in 2023. Last summer, I hiked up Ben Nevis in Scotland 🏴
 ### Recently watched TV shows
 
 * [Modern Family, Season 1](https://www.serializd.com/show/1421)
+* [The Bear, Season 2](https://www.serializd.com/show/136315)
 * [The Bear, Season 1](https://www.serializd.com/show/136315)
-* [Secret Invasion, Miniseries](https://www.serializd.com/show/114472)
 
 ## 🎮 Video Games
 
@@ -71,4 +71,4 @@ I've got into hiking in 2023. Last summer, I hiked up Ben Nevis in Scotland 🏴
 
 ---
 
-Last updated: 18 Feb 2024
+Last updated: 19 Feb 2024
