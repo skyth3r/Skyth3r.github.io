@@ -34,9 +34,11 @@ I've got into hiking in 2023. Last summer, I hiked up Ben Nevis in Scotland 🏴
 
 🇳🇱 Netherlands
 
-🇻🇳 Vietnam
+🇩🇪 Germany
 
 🇯🇵 Japan
+
+🇻🇳 Vietnam
 
 🇮🇩 Indonesia
 
@@ -44,9 +46,8 @@ I've got into hiking in 2023. Last summer, I hiked up Ben Nevis in Scotland 🏴
 
 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland
 
-🇩🇪 Germany
-
 ## 📚 Books
+
 * [Wool](https://oku.club/book/wool-by-hugh-howey-q3WcI)
 
 ## 🎬 Movies and TV Shows
@@ -58,9 +59,7 @@ I've got into hiking in 2023. Last summer, I hiked up Ben Nevis in Scotland 🏴
 
 ### Recently watched TV shows
 
-* [Modern Family, Season 1](https://www.serializd.com/show/1421)
-* [The Bear, Season 2](https://www.serializd.com/show/136315)
-* [The Bear, Season 1](https://www.serializd.com/show/136315)
+Haven't watched any TV shows recently
 
 ## 🎮 Video Games
 
