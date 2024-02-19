@@ -2,7 +2,7 @@ name: update-now
 
 on:
   schedule:
-    - cron: '55 1 * * *'
+    - cron: '0 1 * * *'
   push:
     branches:
       - master
