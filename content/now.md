@@ -59,7 +59,9 @@ I've got into hiking in 2023. Last summer, I hiked up Ben Nevis in Scotland 🏴
 
 ### Recently watched TV shows
 
-Haven't watched any TV shows recently
+* [Modern Family, Season 1](https://www.serializd.com/show/1421)
+* [The Bear, Season 2](https://www.serializd.com/show/136315)
+* [The Bear, Season 1](https://www.serializd.com/show/136315)
 
 ## 🎮 Video Games
 
