@@ -4,6 +4,9 @@ title: Now
 
 This is my [now page](https://nownownow.com/about). You can also view my profile on [nownownow](https://nownownow.com/p/1M0p).
 
+**This now page is automatically updated daily using [automate /now](https://github.com/Skyth3r/automate-now).**
+
+
 ## ⭐ What I'm up to
 
 I live in London and currently work at [Monzo Bank](https://monzo.com/) as a Cybersecurity Backend Engineer.
