@@ -6,7 +6,22 @@
     <description>Recent content in Home on Akash Goswami</description>
     <generator>Hugo -- gohugo.io</generator>
     <language></language>
-    <lastBuildDate>Thu, 18 Jan 2024 12:05:00 +0000</lastBuildDate><atom:link href="https://akashgoswami.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Feb 2024 21:35:00 +0000</lastBuildDate><atom:link href="https://akashgoswami.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automating Now</title>
+      <link>https://akashgoswami.com/notes/automating-now/</link>
+      <pubDate>Thu, 22 Feb 2024 21:35:00 +0000</pubDate>
+      
+      <guid>https://akashgoswami.com/notes/automating-now/</guid>
+      <description>&lt;p&gt;A quick little website update.&lt;/p&gt;
+&lt;p&gt;My &lt;a href=&#34;https://akashgoswami.com/now&#34; &gt;now&lt;/a&gt; page on this website is automatically updated daily 🎉&lt;/p&gt;
+&lt;p&gt;The travel and media sections are now updated daily with the lastest places I&amp;rsquo;ve been and the lastest things I&amp;rsquo;ve watched, read and played as well!&lt;/p&gt;
+&lt;p&gt;The idea to automate my now page comes from seeing other folks trying to do the same, but I was mainly inspired by &lt;a href=&#34;https://rknight.me/blog/automating-my-now-page/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Robb Knight&lt;/a&gt; and &lt;a href=&#34;https://localghost.dev/blog/everything-should-have-an-api-adventures-in-trying-to-automate-stuff/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Sophie Koonin&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This data is obtained from a few different sources. If you want to know more about how it works, you can checkout the Go script I wrote &lt;a href=&#34;https://github.com/Skyth3r/automate-now&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;here on GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I plan on putting a small guide together on how to use it to automate your own now page as well as a detailed deep dive post to explain how I got it all working and what some of the challenges were with this project soon.&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>Remove files from Git history</title>
       <link>https://akashgoswami.com/notes/remove-files-from-git-history/</link>
@@ -1536,7 +1551,7 @@ Two years ago I woke up one morning to catch my flight to Tokyo. Unfortunately, 
 &lt;li&gt;&lt;a href=&#34;https://backloggd.com/games/super-mario-bros-wonder/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Super Mario Bros. Wonder&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;p&gt;Last updated: 21 Feb 2024&lt;/p&gt;
+&lt;p&gt;Last updated: 22 Feb 2024&lt;/p&gt;
 </description>
     </item>
     
@@ -1641,16 +1656,16 @@ Two years ago I woke up one morning to catch my flight to Tokyo. Unfortunately, 
 &lt;p&gt;Reddit - &lt;a href=&#34;https://www.reddit.com/user/akashgoswami_/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;akashgoswami_&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;My main email address is 
 &lt;style&gt;
-  #span-3790c586.cloaked-e-mail:before {
+  #span-3259d70b.cloaked-e-mail:before {
     content:attr(data-domain) &#34;\0040&#34; attr(data-user);
     unicode-bidi:bidi-override;
     direction:rtl;
   }
 &lt;/style&gt;
-&amp;#32;&lt;span class=&#34;cloaked-e-mail&#34; data-user=&#34;hsaka&#34; data-domain=&#34;moc.imawsoghsaka&#34; id=&#34;span-3790c586&#34;&gt;&lt;/span&gt;&amp;#32;
+&amp;#32;&lt;span class=&#34;cloaked-e-mail&#34; data-user=&#34;hsaka&#34; data-domain=&#34;moc.imawsoghsaka&#34; id=&#34;span-3259d70b&#34;&gt;&lt;/span&gt;&amp;#32;
 
-&lt;script id=&#34;script-3790c586&#34;&gt;
-  var scriptTag = document.getElementById(&#34;script-3790c586&#34;);
+&lt;script id=&#34;script-3259d70b&#34;&gt;
+  var scriptTag = document.getElementById(&#34;script-3259d70b&#34;);
   var link = document.createElement(&#34;a&#34;);
   var address = &#34;hsaka&#34;.split(&#39;&#39;).reverse().join(&#39;&#39;) + &#34;@&#34; + &#34;moc.imawsoghsaka&#34;.split(&#39;&#39;).reverse().join(&#39;&#39;);
   link.href = &#34;mailto&#34; + &#34;:&#34; + address;
