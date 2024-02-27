@@ -57,17 +57,21 @@ enableRobotsTXT = true
   url = 'https://hachyderm.io/@akashgoswami'
   weight = 1
 [[menu.social]]
+  name = 'Bluesky'
+  url = 'https://bsky.app/profile/akashgoswami.com'
+  weight = 2
+[[menu.social]]
   name = 'GitHub'
   url = 'https://github.com/Skyth3r'
-  weight = 2
+  weight = 3
 [[menu.social]]
   name = 'Email'
   url = 'mailto:akash@akashgoswami.com'
-  weight = 3
+  weight = 4
 [[menu.social]]
   name = 'RSS'
   url = '/articles/index.xml'
-  weight = 4
+  weight = 5
 
 # syntax highlight settings
 [markup]

@@ -1506,6 +1506,7 @@ Two years ago I woke up one morning to catch my flight to Tokyo. Unfortunately, 
       
       <guid>https://akashgoswami.com/now/</guid>
       <description>&lt;p&gt;This is my &lt;a href=&#34;https://nownownow.com/about&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;now page&lt;/a&gt;. You can also view my profile on &lt;a href=&#34;https://nownownow.com/p/1M0p&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;nownownow&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This now page is automatically updated daily using &lt;a href=&#34;https://github.com/Skyth3r/automate-now&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;automate /now&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;-what-im-up-to&#34;&gt;⭐ What I&amp;rsquo;m up to&lt;/h2&gt;
 &lt;p&gt;I live in London and currently work at &lt;a href=&#34;https://monzo.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Monzo Bank&lt;/a&gt; as a Cybersecurity Backend Engineer.&lt;/p&gt;
 &lt;h2 id=&#34;-learning&#34;&gt;🤓 Learning&lt;/h2&gt;
@@ -1539,8 +1540,8 @@ Two years ago I woke up one morning to catch my flight to Tokyo. Unfortunately, 
 &lt;/ul&gt;
 &lt;h3 id=&#34;recently-watched-tv-shows&#34;&gt;Recently watched TV shows&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.serializd.com/show/1421&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Modern Family, Season 1&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.serializd.com/show/136315&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;The Bear, Season 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.serializd.com/show/1421&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Modern Family, Season 1&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.serializd.com/show/136315&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;The Bear, Season 1&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;-video-games&#34;&gt;🎮 Video Games&lt;/h2&gt;
@@ -1551,7 +1552,7 @@ Two years ago I woke up one morning to catch my flight to Tokyo. Unfortunately, 
 &lt;li&gt;&lt;a href=&#34;https://backloggd.com/games/super-mario-bros-wonder/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Super Mario Bros. Wonder&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;p&gt;Last updated: 22 Feb 2024&lt;/p&gt;
+&lt;p&gt;Last updated: 27 Feb 2024&lt;/p&gt;
 </description>
     </item>
     
@@ -1656,16 +1657,16 @@ Two years ago I woke up one morning to catch my flight to Tokyo. Unfortunately, 
 &lt;p&gt;Reddit - &lt;a href=&#34;https://www.reddit.com/user/akashgoswami_/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;akashgoswami_&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;My main email address is 
 &lt;style&gt;
-  #span-3259d70b.cloaked-e-mail:before {
+  #span-1f48ab46.cloaked-e-mail:before {
     content:attr(data-domain) &#34;\0040&#34; attr(data-user);
     unicode-bidi:bidi-override;
     direction:rtl;
   }
 &lt;/style&gt;
-&amp;#32;&lt;span class=&#34;cloaked-e-mail&#34; data-user=&#34;hsaka&#34; data-domain=&#34;moc.imawsoghsaka&#34; id=&#34;span-3259d70b&#34;&gt;&lt;/span&gt;&amp;#32;
+&amp;#32;&lt;span class=&#34;cloaked-e-mail&#34; data-user=&#34;hsaka&#34; data-domain=&#34;moc.imawsoghsaka&#34; id=&#34;span-1f48ab46&#34;&gt;&lt;/span&gt;&amp;#32;
 
-&lt;script id=&#34;script-3259d70b&#34;&gt;
-  var scriptTag = document.getElementById(&#34;script-3259d70b&#34;);
+&lt;script id=&#34;script-1f48ab46&#34;&gt;
+  var scriptTag = document.getElementById(&#34;script-1f48ab46&#34;);
   var link = document.createElement(&#34;a&#34;);
   var address = &#34;hsaka&#34;.split(&#39;&#39;).reverse().join(&#39;&#39;) + &#34;@&#34; + &#34;moc.imawsoghsaka&#34;.split(&#39;&#39;).reverse().join(&#39;&#39;);
   link.href = &#34;mailto&#34; + &#34;:&#34; + address;
