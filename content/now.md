@@ -33,8 +33,6 @@ I've got into hiking in 2023. Last summer, I hiked up Ben Nevis in Scotland 🏴
 
 🇬🇷 Greece
 
-🇿🇦 South Africa
-
 ### 2023
 
 🇳🇱 Netherlands
@@ -53,6 +51,7 @@ I've got into hiking in 2023. Last summer, I hiked up Ben Nevis in Scotland 🏴
 
 ## 📚 Books
 
+* [Focus on What Matters](https://oku.club/book/focus-on-what-matters-by-darius-foroux-EpdkW)
 * [Wool](https://oku.club/book/wool-by-hugh-howey-q3WcI)
 
 ## 🎬 Movies and TV Shows
@@ -77,4 +76,4 @@ I've got into hiking in 2023. Last summer, I hiked up Ben Nevis in Scotland 🏴
 
 ---
 
-Last updated: 5 Mar 2024
+Last updated: 6 Mar 2024
