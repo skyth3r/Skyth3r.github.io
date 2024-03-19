@@ -1,10 +1,10 @@
 ---
 title: Initial thoughts on Robinhood UK
-date: 2024-03-19T21:11:00
+date: 2024-03-19T22:55:00
 images: 
     - /img/initial-thoughts-on-robinhood/cover.png
 description: Some thoughts on Robinhood's launch in the UK and if it's an account worth opening
-tags: ['personal-finance', 'investing']
+tags: ['finance']
 ---
 
 This week, [Robinhood](https://robinhood.com/gb/en/), a US based stock trading app, went [live in the UK](https://www.cityam.com/robinhood-launches-to-uk-customers/). As someone that is very much interested in investing and having tried out other app based investment platforms in the last, I thought it would be a good idea to share my thoughts on the platform and if it’s worth using.
