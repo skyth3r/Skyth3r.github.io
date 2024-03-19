@@ -65,6 +65,7 @@ I've got into hiking in 2023. Last summer, I hiked up Ben Nevis in Scotland 🏴
 
 ### Recently watched TV shows
 
+* [Invincible, Season 2](https://www.serializd.com/show/95557)
 * [The Bear, Season 2](https://www.serializd.com/show/136315)
 * [Modern Family, Season 1](https://www.serializd.com/show/1421)
 
@@ -77,4 +78,4 @@ I've got into hiking in 2023. Last summer, I hiked up Ben Nevis in Scotland 🏴
 
 ---
 
-Last updated: 18 Mar 2024
+Last updated: 19 Mar 2024
