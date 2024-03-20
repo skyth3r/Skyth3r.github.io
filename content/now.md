@@ -60,6 +60,7 @@ I've got into hiking in 2023. Last summer, I hiked up Ben Nevis in Scotland 🏴
 
 ### Recently watched movies
 
+* [Dumb Money](https://letterboxd.com/film/dumb-money/)
 * [The Marvels](https://letterboxd.com/film/the-marvels/)
 * [The Hunger Games: The Ballad of Songbirds and Snakes](https://letterboxd.com/film/the-hunger-games-the-ballad-of-songbirds-snakes/)
 
@@ -78,4 +79,4 @@ I've got into hiking in 2023. Last summer, I hiked up Ben Nevis in Scotland 🏴
 
 ---
 
-Last updated: 19 Mar 2024
+Last updated: 20 Mar 2024
