@@ -3,7 +3,7 @@ title: Initial thoughts on Robinhood UK
 date: 2024-03-19T22:55:00
 images: 
     - /img/initial-thoughts-on-robinhood/cover.png
-description: Some thoughts on Robinhood's launch in the UK and if it's an account worth opening
+description: Thoughts on Robinhood's initial offering in the UK and how it compares to other available investment platforms
 tags: ['finance']
 ---
 
