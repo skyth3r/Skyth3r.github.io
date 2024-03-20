@@ -139,7 +139,7 @@ Margin trading is not something that is typically offered to UK investors but Ro
 My opinion - stay away from margin trading. Investing already comes with risk, so why add more unnecessary risk, especially if you are a new investor? I ended up just unchecking the box and continuing.
 
 ### Funding 
-Funding the account was pretty easy. This is handled by Open banking via Truelayer. No issues here and worked as expected.
+Funding the account was pretty easy. This is handled by open banking via Truelayer. No issues here and worked as expected.
 
 ### Identity Verification
 I’ve signed up for dozens of fintech apps and they all follow a similar identification verification process. Take a photo of your ID and take a video or photo of yourself. 
