@@ -172,6 +172,8 @@ I would hope Robinhood offers a localised ETF equivalent offerings similar to th
 
 ## Summary
 
-Overall while Robinhood’s offering is unique compared to other brokerages in the UK, I don’t believe it’s a great option in the long run for long-term passive UK investors. There are other platforms that are better suited for passive investing.
+Overall while Robinhood’s offering is unique and competitive in terms of fees compared to other brokerages in the UK. I think it makes more sense to focus on filling up a Stocks and Shares ISA for tax efficiency.
+
+I would only consider looking into a Robinhood account after fully utilising my ISA allowance first. I’m more of a long term passive investor, and I don’t think Robinhood is well suited for passive investors that are looking to solely focus on buying ETFs in a tax efficient investment account. There are other platforms that are better suited for passive investing.
 
 Of course, this is just my opinion. Remember, none of this is financial advice. I just wanted to share some initial thoughts on Robinhood’s launch in the UK.
