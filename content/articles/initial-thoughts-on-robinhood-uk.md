@@ -1,6 +1,7 @@
 ---
 title: Initial thoughts on Robinhood UK
 date: 2024-03-19T22:55:00
+lastmod: 2024-03-24T20:15:00
 images: 
     - /img/initial-thoughts-on-robinhood/cover.png
 description: Thoughts on Robinhood's initial offering in the UK and how it compares to other available investment platforms
