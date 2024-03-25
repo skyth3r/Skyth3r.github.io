@@ -80,4 +80,4 @@ I've got into hiking in 2023. Last summer, I hiked up Ben Nevis in Scotland 🏴
 
 ---
 
-Last updated: 24 Mar 2024
+Last updated: 25 Mar 2024
