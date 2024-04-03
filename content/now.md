@@ -31,6 +31,8 @@ I've got into hiking in 2023. Last summer, I hiked up Ben Nevis in Scotland 🏴
 
 ## 🌏 Travel
 
+*Data sourced from [Nomadlist](https://nomadlist.com/)*
+
 ### 2024
 
 🇬🇷 Greece
@@ -55,6 +57,8 @@ I've got into hiking in 2023. Last summer, I hiked up Ben Nevis in Scotland 🏴
 
 ## 📚 Books
 
+*Data sourced from [Oku](https://oku.club/)*
+
 * [The People on Platform 5](https://oku.club/book/the-people-on-platform-5-by-clare-pooley-Rq3BN)
 * [Focus on What Matters](https://oku.club/book/focus-on-what-matters-by-darius-foroux-EpdkW)
 * [Wool](https://oku.club/book/wool-by-hugh-howey-q3WcI)
@@ -63,17 +67,23 @@ I've got into hiking in 2023. Last summer, I hiked up Ben Nevis in Scotland 🏴
 
 ### Recently watched movies
 
+*Data sourced from [Letterboxd](https://letterboxd.com/)*
+
 * [Dumb Money](https://letterboxd.com/film/dumb-money/)
 * [The Marvels](https://letterboxd.com/film/the-marvels/)
 * [The Hunger Games: The Ballad of Songbirds and Snakes](https://letterboxd.com/film/the-hunger-games-the-ballad-of-songbirds-snakes/)
 
 ### Recently watched TV shows
 
+*Data sourced from [Serializd](https://www.serializd.com/)*
+
 * [Invincible, Season 2](https://www.serializd.com/show/95557)
 * [The Bear, Season 2](https://www.serializd.com/show/136315)
 * [Modern Family, Season 1](https://www.serializd.com/show/1421)
 
 ## 🎮 Video Games
+
+*Data sourced from [Backloggd](https://backloggd.com/)*
 
 * [The Legend of Zelda: Tears of the Kingdom](https://backloggd.com/games/the-legend-of-zelda-tears-of-the-kingdom/)
 * [Hades](https://backloggd.com/games/hades--1/)
