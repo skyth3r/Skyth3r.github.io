@@ -24,6 +24,8 @@ My main email address is {{< cloakemail "akash@akashgoswami.com" >}}
 
 If there's an account claiming to be me and it's not one of these accounts on the list, it's probably an impersonator. 
 
+If you're contacted by someone claiming to be me via a platform not listed above, please feel free to contact me via the accounts listed above to verify if it is me (I will be happy to confirm this privately). In most instances, I will likely **NOT** reachout to you via an account that is not listed on this page.
+
 ## Domain names
 
 I also own the following domain names:
