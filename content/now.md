@@ -69,17 +69,17 @@ I've got into hiking in 2023. Last summer, I hiked up Ben Nevis in Scotland 🏴
 
 *Data sourced from [Letterboxd](https://letterboxd.com/)*
 
+* [Monkey Man](https://letterboxd.com/film/monkey-man/)
 * [Dumb Money](https://letterboxd.com/film/dumb-money/)
 * [The Marvels](https://letterboxd.com/film/the-marvels/)
-* [The Hunger Games: The Ballad of Songbirds and Snakes](https://letterboxd.com/film/the-hunger-games-the-ballad-of-songbirds-snakes/)
 
 ### Recently watched TV shows
 
 *Data sourced from [Serializd](https://www.serializd.com/)*
 
+* [Mr. and Mrs. Smith, Season 1](https://www.serializd.com/show/118642)
 * [Invincible, Season 2](https://www.serializd.com/show/95557)
 * [The Bear, Season 2](https://www.serializd.com/show/136315)
-* [Modern Family, Season 1](https://www.serializd.com/show/1421)
 
 ## 🎮 Video Games
 
@@ -92,4 +92,4 @@ I've got into hiking in 2023. Last summer, I hiked up Ben Nevis in Scotland 🏴
 
 ---
 
-Last updated: 12 Apr 2024
+Last updated: 13 Apr 2024
