@@ -10,4 +10,13 @@ A simple python third party terminal client based on the [reference receipts app
 
 You can find the [source code here on GitHub](https://github.com/Skyth3r/Manual-Receipt-Generator).
 
+**Screenshots 👇🏽**
+
+![](/portfolio/coco_ichibanya.png)
+
+![](/portfolio/edgard_cooper.png)
+
+![](/portfolio/lush.png)
+
+![](/portfolio/tonkotsu.png)
 
