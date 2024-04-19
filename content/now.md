@@ -77,9 +77,9 @@ I've got into hiking in 2023. Last summer, I hiked up Ben Nevis in Scotland 🏴
 
 *Data sourced from [Serializd](https://www.serializd.com/)*
 
-* [Mr. and Mrs. Smith, Season 1](https://www.serializd.com/show/118642)
-* [Invincible, Season 2](https://www.serializd.com/show/95557)
-* [The Bear, Season 2](https://www.serializd.com/show/136315)
+* [Modern Family, Season 1](https://www.serializd.com/show/1421)
+* [Inside No. 9, Series 3](https://www.serializd.com/show/61746)
+* [Inside No. 9, Series 1](https://www.serializd.com/show/61746)
 
 ## 🎮 Video Games
 
@@ -92,4 +92,4 @@ I've got into hiking in 2023. Last summer, I hiked up Ben Nevis in Scotland 🏴
 
 ---
 
-Last updated: 18 Apr 2024
+Last updated: 19 Apr 2024
