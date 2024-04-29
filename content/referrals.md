@@ -16,6 +16,17 @@ Get £5 when you open a personal account or £50 if you open a business account.
 
 [Open an account](https://join.monzo.com/c/hr2fwzn)
 
+
+## 🍽️ First Table
+Get £3 of credit to use on your first 50% off restaurant booking.
+
+[Get 50% off at restaurants](https://www.firsttable.co.uk/invite/akashg4)
+
+## 🛍️ Airtime rewards
+Spend at a supported merchant within 7 days and get £1.50 of credit.
+
+[Save money on your mobile bills](https://airtimerewards.app.link/YOvs53FycJb)
+
 ## 📻 Airalo
 Get $3 off your first eSim from Airalo. Use the code AKASH336 when you sign up or apply it at checkout
 
