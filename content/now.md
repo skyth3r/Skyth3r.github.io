@@ -9,7 +9,7 @@ This is my [now page](https://nownownow.com/about). You can also view my profile
 
 ## ⭐ What I'm up to
 
-I live in London and currently work at [Monzo Bank](https://monzo.com/) as a Cybersecurity Backend Engineer.
+I live in London and currently work at [Monzo Bank](https://monzo.com/) as a Backend Engineer.
 
 Recently I just got back from Cape Town, where I attended a friends wedding and also did my first skydive 🪂
 
@@ -17,7 +17,7 @@ Recently I just got back from Cape Town, where I attended a friends wedding and 
 
 Right now I'm working on improving my programming skills. I'm focusing on [Go](https://go.dev/) at the moment.
 
-I'm also learning German 🇩🇪.
+I'm also working on creating a Go package, [unserializd](https://github.com/Skyth3r/unserializd).
 
 ## 🤸🏽‍♂️ Fitness
 
