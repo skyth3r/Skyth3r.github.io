@@ -6,9 +6,18 @@
     <description>Recent content in Tags on Akash Goswami</description>
     <generator>Hugo -- gohugo.io</generator>
     <language></language>
-    <lastBuildDate>Thu, 22 Feb 2024 21:35:00 +0000</lastBuildDate><atom:link href="https://akashgoswami.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Mar 2024 22:55:00 +0000</lastBuildDate><atom:link href="https://akashgoswami.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>update</title>
+      <title>Finance</title>
+      <link>https://akashgoswami.com/tags/finance/</link>
+      <pubDate>Tue, 19 Mar 2024 22:55:00 +0000</pubDate>
+      
+      <guid>https://akashgoswami.com/tags/finance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Update</title>
       <link>https://akashgoswami.com/tags/update/</link>
       <pubDate>Thu, 22 Feb 2024 21:35:00 +0000</pubDate>
       
@@ -17,7 +26,7 @@
     </item>
     
     <item>
-      <title>git</title>
+      <title>Git</title>
       <link>https://akashgoswami.com/tags/git/</link>
       <pubDate>Thu, 18 Jan 2024 12:05:00 +0000</pubDate>
       
@@ -26,7 +35,7 @@
     </item>
     
     <item>
-      <title>guide</title>
+      <title>Guide</title>
       <link>https://akashgoswami.com/tags/guide/</link>
       <pubDate>Thu, 18 Jan 2024 12:05:00 +0000</pubDate>
       
@@ -35,7 +44,7 @@
     </item>
     
     <item>
-      <title>open-web</title>
+      <title>Open-Web</title>
       <link>https://akashgoswami.com/tags/open-web/</link>
       <pubDate>Fri, 12 Jan 2024 18:17:00 +0000</pubDate>
       
@@ -44,16 +53,7 @@
     </item>
     
     <item>
-      <title>finance</title>
-      <link>https://akashgoswami.com/tags/finance/</link>
-      <pubDate>Sun, 17 Sep 2023 08:40:00 +0000</pubDate>
-      
-      <guid>https://akashgoswami.com/tags/finance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>misc</title>
+      <title>Misc</title>
       <link>https://akashgoswami.com/tags/misc/</link>
       <pubDate>Fri, 15 Sep 2023 21:32:00 +0000</pubDate>
       
@@ -62,7 +62,7 @@
     </item>
     
     <item>
-      <title>apple</title>
+      <title>Apple</title>
       <link>https://akashgoswami.com/tags/apple/</link>
       <pubDate>Fri, 15 Sep 2023 14:20:00 +0000</pubDate>
       
@@ -71,7 +71,7 @@
     </item>
     
     <item>
-      <title>web-browser</title>
+      <title>Web-Browser</title>
       <link>https://akashgoswami.com/tags/web-browser/</link>
       <pubDate>Sat, 09 Sep 2023 15:20:00 +0000</pubDate>
       
@@ -80,7 +80,7 @@
     </item>
     
     <item>
-      <title>cybersecurity</title>
+      <title>Cybersecurity</title>
       <link>https://akashgoswami.com/tags/cybersecurity/</link>
       <pubDate>Sat, 09 Sep 2023 09:30:00 +0000</pubDate>
       
@@ -89,7 +89,7 @@
     </item>
     
     <item>
-      <title>ebooks</title>
+      <title>Ebooks</title>
       <link>https://akashgoswami.com/tags/ebooks/</link>
       <pubDate>Mon, 21 Aug 2023 17:00:00 +0000</pubDate>
       
@@ -98,7 +98,7 @@
     </item>
     
     <item>
-      <title>kindle</title>
+      <title>Kindle</title>
       <link>https://akashgoswami.com/tags/kindle/</link>
       <pubDate>Mon, 21 Aug 2023 17:00:00 +0000</pubDate>
       
@@ -107,7 +107,7 @@
     </item>
     
     <item>
-      <title>travel</title>
+      <title>Travel</title>
       <link>https://akashgoswami.com/tags/travel/</link>
       <pubDate>Mon, 17 Jul 2023 08:30:00 +0000</pubDate>
       
@@ -116,7 +116,7 @@
     </item>
     
     <item>
-      <title>hugo</title>
+      <title>Hugo</title>
       <link>https://akashgoswami.com/tags/hugo/</link>
       <pubDate>Mon, 30 Jan 2023 21:45:00 +0000</pubDate>
       
@@ -125,7 +125,7 @@
     </item>
     
     <item>
-      <title>web-dev</title>
+      <title>Web-Dev</title>
       <link>https://akashgoswami.com/tags/web-dev/</link>
       <pubDate>Mon, 30 Jan 2023 21:45:00 +0000</pubDate>
       
@@ -134,7 +134,7 @@
     </item>
     
     <item>
-      <title>digital-garden</title>
+      <title>Digital-Garden</title>
       <link>https://akashgoswami.com/tags/digital-garden/</link>
       <pubDate>Sun, 01 Jan 2023 09:00:00 +0000</pubDate>
       
@@ -143,7 +143,7 @@
     </item>
     
     <item>
-      <title>bitcoin</title>
+      <title>Bitcoin</title>
       <link>https://akashgoswami.com/tags/bitcoin/</link>
       <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
       
@@ -152,7 +152,7 @@
     </item>
     
     <item>
-      <title>crypto</title>
+      <title>Crypto</title>
       <link>https://akashgoswami.com/tags/crypto/</link>
       <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
       

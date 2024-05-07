@@ -11,38 +11,50 @@
     Building websites with Hugo - Akash Goswami
   </title>
 
-  <meta name="description" content="A guide on building your own website for free using Hugo and Github Pages." /><meta name="generator" content="Hugo 0.122.0">
+  <meta name="description" content="A guide on building your own website for free using Hugo and Github Pages." /><meta name="generator" content="Hugo 0.125.6">
 
   <link rel="stylesheet" href="https://akashgoswami.com/css/main.css" />
 
   
   
 
-  <meta property="og:title" content="Building websites with Hugo" />
-<meta property="og:description" content="A guide on building your own website for free using Hugo and Github Pages." />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="https://akashgoswami.com/articles/building-websites-with-hugo/" /><meta property="og:image" content="https://akashgoswami.com/img/setting-up-hugo/setting-up-hugo-header.png" /><meta property="article:section" content="articles" />
-<meta property="article:published_time" content="2023-01-20T08:00:00+00:00" />
-<meta property="article:modified_time" content="2023-09-11T07:41:00+00:00" />
+  <meta property="og:url" content="https://akashgoswami.com/articles/building-websites-with-hugo/">
+  <meta property="og:site_name" content="Akash Goswami">
+  <meta property="og:title" content="Building websites with Hugo">
+  <meta property="og:description" content="A guide on building your own website for free using Hugo and Github Pages.">
+  <meta property="og:locale" content="en-us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="articles">
+    <meta property="article:published_time" content="2023-01-20T08:00:00+00:00">
+    <meta property="article:modified_time" content="2024-05-07T18:05:00+00:00">
+    <meta property="article:tag" content="Web-Dev">
+    <meta property="article:tag" content="Hugo">
+    <meta property="article:tag" content="Guide">
+    <meta property="og:image" content="https://akashgoswami.com/img/setting-up-hugo/setting-up-hugo-header.png">
 
 
+  <meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://akashgoswami.com/img/setting-up-hugo/setting-up-hugo-header.png"><meta name="twitter:title" content="Building websites with Hugo">
+<meta name="twitter:description" content="A guide on building your own website for free using Hugo and Github Pages.">
 
-  <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:image" content="https://akashgoswami.com/img/setting-up-hugo/setting-up-hugo-header.png" /><meta name="twitter:title" content="Building websites with Hugo"/>
-<meta name="twitter:description" content="A guide on building your own website for free using Hugo and Github Pages."/>
 
-
+  
   <meta itemprop="name" content="Building websites with Hugo">
-<meta itemprop="description" content="A guide on building your own website for free using Hugo and Github Pages."><meta itemprop="datePublished" content="2023-01-20T08:00:00+00:00" />
-<meta itemprop="dateModified" content="2023-09-11T07:41:00+00:00" />
-<meta itemprop="wordCount" content="1224"><meta itemprop="image" content="https://akashgoswami.com/img/setting-up-hugo/setting-up-hugo-header.png" />
-<meta itemprop="keywords" content="web-dev,hugo,guide," />
+  <meta itemprop="description" content="A guide on building your own website for free using Hugo and Github Pages.">
+  <meta itemprop="datePublished" content="2023-01-20T08:00:00+00:00">
+  <meta itemprop="dateModified" content="2024-05-07T18:05:00+00:00">
+  <meta itemprop="wordCount" content="1229">
+  <meta itemprop="image" content="https://akashgoswami.com/img/setting-up-hugo/setting-up-hugo-header.png">
+  <meta itemprop="keywords" content="Web-Dev,Hugo,Guide">
 
+  
   <meta itemprop="name" content="Building websites with Hugo">
-<meta itemprop="description" content="A guide on building your own website for free using Hugo and Github Pages."><meta itemprop="datePublished" content="2023-01-20T08:00:00+00:00" />
-<meta itemprop="dateModified" content="2023-09-11T07:41:00+00:00" />
-<meta itemprop="wordCount" content="1224"><meta itemprop="image" content="https://akashgoswami.com/img/setting-up-hugo/setting-up-hugo-header.png" />
-<meta itemprop="keywords" content="web-dev,hugo,guide," />
+  <meta itemprop="description" content="A guide on building your own website for free using Hugo and Github Pages.">
+  <meta itemprop="datePublished" content="2023-01-20T08:00:00+00:00">
+  <meta itemprop="dateModified" content="2024-05-07T18:05:00+00:00">
+  <meta itemprop="wordCount" content="1229">
+  <meta itemprop="image" content="https://akashgoswami.com/img/setting-up-hugo/setting-up-hugo-header.png">
+  <meta itemprop="keywords" content="Web-Dev,Hugo,Guide">
 </head><body class="flex relative h-full min-h-screen"><aside
   class="will-change-transform transform transition-transform -translate-x-full absolute top-0 left-0 md:relative md:translate-x-0 w-3/4 md:w-60 h-full min-h-screen p-3 bg-slate-50 dark:bg-slate-800 border-r border-slate-200 dark:border-slate-700 flex flex-col gap-2.5 z-20 sidebar">
   <p class="font-bold mb-5 flex items-center gap-2">
@@ -53,7 +65,7 @@
   <line x1="18" y1="6" x2="6" y2="18" />
   <line x1="6" y1="6" x2="18" y2="18" />
 </svg></button>
-    <a href="https://akashgoswami.com" class="px-2">
+    <a href="https://akashgoswami.com/" class="px-2">
       <span>Akash Goswami</span>
     </a>
     <button aria-label="Toggle dark mode"
@@ -112,6 +124,14 @@
       <a class="px-2 py-1.5 rounded-md text-sm flex items-center justify-between  hover:bg-slate-200 dark:hover:bg-slate-700 "
         href="/now" >
         <span>Now</span>
+        
+      </a>
+    </li>
+    
+    <li>
+      <a class="px-2 py-1.5 rounded-md text-sm flex items-center justify-between  hover:bg-slate-200 dark:hover:bg-slate-700 "
+        href="/verify" >
+        <span>Verify</span>
         
       </a>
     </li>
@@ -291,6 +311,19 @@
     </a><div class="space-y-2.5">
       
       <a class="article block px-3 py-4  hover:bg-slate-200 dark:hover:bg-slate-700 "
+        href="/articles/initial-thoughts-on-robinhood-uk/">
+        
+        
+        <img class="rounded max-w-full mb-4" src="/img/initial-thoughts-on-robinhood/cover.png" alt="Initial thoughts on Robinhood UK" />
+        
+        <h3 class="text-lg font-semibold mb-0.5">Initial thoughts on Robinhood UK</h3>
+        <div
+          class="text-sm  text-slate-500 dark:text-slate-400  line-clamp-3">
+          Thoughts on Robinhood&#39;s initial offering in the UK and how it compares to other available investment platforms
+        </div>
+      </a>
+      
+      <a class="article block px-3 py-4  hover:bg-slate-200 dark:hover:bg-slate-700 "
         href="/articles/adding-notes/">
         
         
@@ -379,7 +412,7 @@
 	  
       <p class="text-sm text-slate-500 !mb-8"> Planted January 20, 2023
 		
-			<br/> Last tended to on September 11, 2023
+			<br/> Last tended to on May 7, 2024
         
       <br/>
       
@@ -450,12 +483,13 @@
 git init
 </code></pre><p>After that, we want to add our Hugo theme and set it as well by using the following two commands</p>
 <pre tabindex="0"><code>git submodule add https://github.com/janraasch/hugo-bearblog themes/hugo-bearblog
-echo &#34;theme = &#39;hugo-bearblog&#39;&#34; &gt;&gt; config.toml
-</code></pre><p>Once that&rsquo;s done you can spin up the website by running <code>hugo server</code> and then visiting http://localhost:1313/</p>
-<p>To stop the web server, just enter the command mentioned in your command line application (for macOS its Ctrl+C).</p>
-<h3 id="modifying-the-site">Modifying the site</h3>
+echo &#34;theme = &#39;hugo-bearblog&#39;&#34; &gt;&gt; hugo.toml
+</code></pre><h3 id="modifying-the-site">Modifying the site</h3>
 <p>Now that the website is set up, you can add your own content to it.</p>
 <p>It&rsquo;s best to refer to a theme&rsquo;s recommended instructions. For <a href="https://github.com/janraasch/hugo-bearblog/"  target="_blank" rel="noopener" >hugo-bearblog theme</a>, it&rsquo;s best to refer to the <a href="https://github.com/janraasch/hugo-bearblog/tree/master/exampleSite"  target="_blank" rel="noopener" >exampleSite folder</a> with the theme.</p>
+<h3 id="testing-and-building-the-site">Testing and building the site</h3>
+<p>Once that&rsquo;s done you can spin up the website by running <code>hugo server</code> and then visiting http://localhost:1313/</p>
+<p>To stop the web server, just enter the command mentioned in your command line application (for macOS its Ctrl+C).</p>
 <p>Once you&rsquo;ve made your changes, you can build your website by running the <code>hugo</code> command. This will update the files within your public folder, which you can then deploy to a hosting service.</p>
 <h2 id="uploading-the-website-to-github">Uploading the website to GitHub</h2>
 <p>Now that we&rsquo;re happy with our website, we&rsquo;ll want to upload it to GitHub. Open the GitHub Desktop application and then go to File &gt; Open Local Repository.</p>
@@ -485,16 +519,25 @@ echo &#34;theme = &#39;hugo-bearblog&#39;&#34; &gt;&gt; config.toml
 <script type="text/javascript" src="/main.js" defer></script>
 
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-6RD6L79H3R"></script>
-<script>
-var doNotTrack = false;
-if (!doNotTrack) {
-	window.dataLayer = window.dataLayer || [];
-	function gtag(){dataLayer.push(arguments);}
-	gtag('js', new Date());
-	gtag('config', 'G-6RD6L79H3R', { 'anonymize_ip': false });
-}
-</script>
+  
+    
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-6RD6L79H3R"></script>
+      <script>
+        var doNotTrack = false;
+        if ( false ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-6RD6L79H3R');
+        }
+      </script>
+    
+  
+
 
 </body>
 

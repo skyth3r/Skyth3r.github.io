@@ -2,7 +2,7 @@
     "version" : "https://jsonfeed.org/version/1",
     "title" : "Projects on Akash Goswami",
     "description": "Recent content in Projects on Akash Goswami",
-    "home_page_url" : "https://akashgoswami.com",
+    "home_page_url" : "https://akashgoswami.com/",
     "feed_url" : "https://akashgoswami.com/portfolio/index.json",
     "items" : [
     {
@@ -35,7 +35,7 @@
         "date_modified" : "2020-02-12T00:00:00Z",
         "id" : "https://akashgoswami.com/portfolio/manual-receipt-generator/",
         "url" : "https://akashgoswami.com/portfolio/manual-receipt-generator/",
-        "content_html" : "\u003cp\u003eA simple python third party terminal client based on the \u003ca href=\"https://github.com/monzo/reference-receipts-app\"  target=\"_blank\" rel=\"noopener\" \u003ereference receipts app\u003c/a\u003e that attaches receipts to Monzo transactions using the Monzo Receipts API and a json payload.\u003c/p\u003e\n\u003cp\u003eYou can find the \u003ca href=\"https://github.com/Skyth3r/Manual-Receipt-Generator\"  target=\"_blank\" rel=\"noopener\" \u003esource code here on GitHub\u003c/a\u003e.\u003c/p\u003e\n"
+        "content_html" : "\u003cp\u003eA simple python third party terminal client based on the \u003ca href=\"https://github.com/monzo/reference-receipts-app\"  target=\"_blank\" rel=\"noopener\" \u003ereference receipts app\u003c/a\u003e that attaches receipts to Monzo transactions using the Monzo Receipts API and a json payload.\u003c/p\u003e\n\u003cp\u003eYou can find the \u003ca href=\"https://github.com/Skyth3r/Manual-Receipt-Generator\"  target=\"_blank\" rel=\"noopener\" \u003esource code here on GitHub\u003c/a\u003e.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eScreenshots 👇🏽\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cimg src=\"/portfolio/coco_ichibanya.png\" alt=\"\"\u003e\u003c/p\u003e\n\u003cp\u003e\u003cimg src=\"/portfolio/edgard_cooper.png\" alt=\"\"\u003e\u003c/p\u003e\n\u003cp\u003e\u003cimg src=\"/portfolio/lush.png\" alt=\"\"\u003e\u003c/p\u003e\n\u003cp\u003e\u003cimg src=\"/portfolio/tonkotsu.png\" alt=\"\"\u003e\u003c/p\u003e\n"
     },
     {
         "title" : "Unity 3D Platformer",
@@ -51,7 +51,7 @@
         "date_modified" : "2019-04-01T00:00:00Z",
         "id" : "https://akashgoswami.com/portfolio/tfl-to-monzo/",
         "url" : "https://akashgoswami.com/portfolio/tfl-to-monzo/",
-        "content_html" : "\u003cp\u003eTfL to Monzo was an severless application built as my project for my Cloud Computing module at university with a friend.\u003c/p\u003e\n\u003cp\u003eIt was written in Python and made use of AWS Lambda to process TfL jounrey data into Monzo recipts.\u003c/p\u003e\n\u003cp\u003eThe Lambda function would recieve incoming transcation webhook events from a linked Monzo account, check if they were TfL transcations and then run a web scraper script to extract the matching journey data from the TfL web portal before then submitting this data as a reciept to the Monzo receipt API endpoint.\u003c/p\u003e\n\u003cp\u003eThis was one of my favourite projects at university and overall we recieved a final mark of 98/100. I also posted a \u003ca href=\"https://twitter.com/akashgoswami_/status/1112685400336855040\"  target=\"_blank\" rel=\"noopener\" \u003etweet\u003c/a\u003e of this project and it was highly received.\u003c/p\u003e\n"
+        "content_html" : "\u003cp\u003eTfL to Monzo was an severless application built as my project for my Cloud Computing module at university with a friend.\u003c/p\u003e\n\u003cp\u003eIt was written in Python and made use of AWS Lambda to process TfL jounrey data into Monzo recipts.\u003c/p\u003e\n\u003cp\u003eThe Lambda function would recieve incoming transcation webhook events from a linked Monzo account, check if they were TfL transcations and then run a web scraper script to extract the matching journey data from the TfL web portal before then submitting this data as a reciept to the Monzo receipt API endpoint.\u003c/p\u003e\n\u003cp\u003eThis was one of my favourite projects at university and overall we recieved a final mark of 98/100. I also posted a \u003ca href=\"https://twitter.com/akashgoswami_/status/1112685400336855040\"  target=\"_blank\" rel=\"noopener\" \u003etweet\u003c/a\u003e of this project and it was highly received.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eScreenshots 👇🏽\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cimg src=\"/portfolio/tfl-to-monzo-tweet.png\" alt=\"\"\u003e\u003c/p\u003e\n\u003cp\u003e\u003cimg src=\"/portfolio/tfl-monzo-1.png\" alt=\"\"\u003e\u003c/p\u003e\n\u003cp\u003e\u003cimg src=\"/portfolio/tfl-monzo-2.png\" alt=\"\"\u003e\u003c/p\u003e\n\u003cp\u003e\u003cimg src=\"/portfolio/tfl-monzo-3.png\" alt=\"\"\u003e\u003c/p\u003e\n\u003cp\u003e\u003cimg src=\"/portfolio/tfl-monzo-4.png\" alt=\"\"\u003e\u003c/p\u003e\n"
     },
     {
         "title" : "Credit Card Workout",
