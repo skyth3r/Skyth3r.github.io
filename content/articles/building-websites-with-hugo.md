@@ -1,7 +1,7 @@
 ---
 title: Building websites with Hugo
 date: 2023-01-20T08:00:00
-lastmod: 2023-09-11T7:41:00
+lastmod: 2024-05-07T18:05:00
 images: 
 - /img/setting-up-hugo/setting-up-hugo-header.png
 description: A guide on building your own website for free using Hugo and Github Pages.
@@ -96,18 +96,20 @@ After that, we want to add our Hugo theme and set it as well by using the follow
 
 ```
 git submodule add https://github.com/janraasch/hugo-bearblog themes/hugo-bearblog
-echo "theme = 'hugo-bearblog'" >> config.toml
+echo "theme = 'hugo-bearblog'" >> hugo.toml
 ```
-
-Once that's done you can spin up the website by running `hugo server` and then visiting http://localhost:1313/
-
-To stop the web server, just enter the command mentioned in your command line application (for macOS its Ctrl+C).
 
 ### Modifying the site
 
 Now that the website is set up, you can add your own content to it. 
 
 It's best to refer to a theme's recommended instructions. For [hugo-bearblog theme](https://github.com/janraasch/hugo-bearblog/), it's best to refer to the [exampleSite folder](https://github.com/janraasch/hugo-bearblog/tree/master/exampleSite) with the theme.
+
+### Testing and building the site
+
+Once that's done you can spin up the website by running `hugo server` and then visiting http://localhost:1313/
+
+To stop the web server, just enter the command mentioned in your command line application (for macOS its Ctrl+C).
 
 Once you've made your changes, you can build your website by running the `hugo` command. This will update the files within your public folder, which you can then deploy to a hosting service.
 

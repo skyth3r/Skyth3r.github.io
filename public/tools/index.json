@@ -2,7 +2,7 @@
     "version" : "https://jsonfeed.org/version/1",
     "title" : "Tools on Akash Goswami",
     "description": "Recent content in Tools on Akash Goswami",
-    "home_page_url" : "https://akashgoswami.com",
+    "home_page_url" : "https://akashgoswami.com/",
     "feed_url" : "https://akashgoswami.com/tools/index.json",
     "items" : [
     ]

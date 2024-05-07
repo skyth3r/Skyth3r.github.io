@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>guide on Akash Goswami</title>
+    <title>Guide on Akash Goswami</title>
     <link>https://akashgoswami.com/tags/guide/</link>
-    <description>Recent content in guide on Akash Goswami</description>
+    <description>Recent content in Guide on Akash Goswami</description>
     <generator>Hugo -- gohugo.io</generator>
     <language></language>
     <lastBuildDate>Thu, 18 Jan 2024 12:05:00 +0000</lastBuildDate><atom:link href="https://akashgoswami.com/tags/guide/index.xml" rel="self" type="application/rss+xml" />
@@ -137,12 +137,13 @@
 git init
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;After that, we want to add our Hugo theme and set it as well by using the following two commands&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;git submodule add https://github.com/janraasch/hugo-bearblog themes/hugo-bearblog
-echo &amp;#34;theme = &amp;#39;hugo-bearblog&amp;#39;&amp;#34; &amp;gt;&amp;gt; config.toml
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Once that&amp;rsquo;s done you can spin up the website by running &lt;code&gt;hugo server&lt;/code&gt; and then visiting http://localhost:1313/&lt;/p&gt;
-&lt;p&gt;To stop the web server, just enter the command mentioned in your command line application (for macOS its Ctrl+C).&lt;/p&gt;
-&lt;h3 id=&#34;modifying-the-site&#34;&gt;Modifying the site&lt;/h3&gt;
+echo &amp;#34;theme = &amp;#39;hugo-bearblog&amp;#39;&amp;#34; &amp;gt;&amp;gt; hugo.toml
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;modifying-the-site&#34;&gt;Modifying the site&lt;/h3&gt;
 &lt;p&gt;Now that the website is set up, you can add your own content to it.&lt;/p&gt;
 &lt;p&gt;It&amp;rsquo;s best to refer to a theme&amp;rsquo;s recommended instructions. For &lt;a href=&#34;https://github.com/janraasch/hugo-bearblog/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;hugo-bearblog theme&lt;/a&gt;, it&amp;rsquo;s best to refer to the &lt;a href=&#34;https://github.com/janraasch/hugo-bearblog/tree/master/exampleSite&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;exampleSite folder&lt;/a&gt; with the theme.&lt;/p&gt;
+&lt;h3 id=&#34;testing-and-building-the-site&#34;&gt;Testing and building the site&lt;/h3&gt;
+&lt;p&gt;Once that&amp;rsquo;s done you can spin up the website by running &lt;code&gt;hugo server&lt;/code&gt; and then visiting http://localhost:1313/&lt;/p&gt;
+&lt;p&gt;To stop the web server, just enter the command mentioned in your command line application (for macOS its Ctrl+C).&lt;/p&gt;
 &lt;p&gt;Once you&amp;rsquo;ve made your changes, you can build your website by running the &lt;code&gt;hugo&lt;/code&gt; command. This will update the files within your public folder, which you can then deploy to a hosting service.&lt;/p&gt;
 &lt;h2 id=&#34;uploading-the-website-to-github&#34;&gt;Uploading the website to GitHub&lt;/h2&gt;
 &lt;p&gt;Now that we&amp;rsquo;re happy with our website, we&amp;rsquo;ll want to upload it to GitHub. Open the GitHub Desktop application and then go to File &amp;gt; Open Local Repository.&lt;/p&gt;

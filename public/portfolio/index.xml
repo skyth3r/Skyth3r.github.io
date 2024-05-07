@@ -48,6 +48,11 @@
       <guid>https://akashgoswami.com/portfolio/manual-receipt-generator/</guid>
       <description>&lt;p&gt;A simple python third party terminal client based on the &lt;a href=&#34;https://github.com/monzo/reference-receipts-app&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;reference receipts app&lt;/a&gt; that attaches receipts to Monzo transactions using the Monzo Receipts API and a json payload.&lt;/p&gt;
 &lt;p&gt;You can find the &lt;a href=&#34;https://github.com/Skyth3r/Manual-Receipt-Generator&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;source code here on GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Screenshots 👇🏽&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://akashgoswami.com/portfolio/coco_ichibanya.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://akashgoswami.com/portfolio/edgard_cooper.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://akashgoswami.com/portfolio/lush.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://akashgoswami.com/portfolio/tonkotsu.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -75,6 +80,12 @@
 &lt;p&gt;It was written in Python and made use of AWS Lambda to process TfL jounrey data into Monzo recipts.&lt;/p&gt;
 &lt;p&gt;The Lambda function would recieve incoming transcation webhook events from a linked Monzo account, check if they were TfL transcations and then run a web scraper script to extract the matching journey data from the TfL web portal before then submitting this data as a reciept to the Monzo receipt API endpoint.&lt;/p&gt;
 &lt;p&gt;This was one of my favourite projects at university and overall we recieved a final mark of 98/100. I also posted a &lt;a href=&#34;https://twitter.com/akashgoswami_/status/1112685400336855040&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;tweet&lt;/a&gt; of this project and it was highly received.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Screenshots 👇🏽&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://akashgoswami.com/portfolio/tfl-to-monzo-tweet.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://akashgoswami.com/portfolio/tfl-monzo-1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://akashgoswami.com/portfolio/tfl-monzo-2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://akashgoswami.com/portfolio/tfl-monzo-3.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://akashgoswami.com/portfolio/tfl-monzo-4.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
