@@ -77,9 +77,9 @@ I've got into hiking in 2023. Last summer, I hiked up Ben Nevis in Scotland 🏴
 
 *Data sourced from [Serializd](https://www.serializd.com/)*
 
+* [Doctor Who, Season 1](https://www.serializd.com/show/239770)
+* [Modern Family, Season 1](https://www.serializd.com/show/1421)
 * [Fallout, Season 1](https://www.serializd.com/show/106379)
-* [Inside No. 9, Series 2](https://www.serializd.com/show/61746)
-* [Inside No. 9, Series 8](https://www.serializd.com/show/61746)
 
 ## 🎮 Video Games
 
@@ -92,4 +92,4 @@ I've got into hiking in 2023. Last summer, I hiked up Ben Nevis in Scotland 🏴
 
 ---
 
-Last updated: 18 May 2024
+Last updated: 19 May 2024
