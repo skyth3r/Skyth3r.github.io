@@ -60,8 +60,6 @@ I've got into hiking in 2023. Last summer, I hiked up Ben Nevis in Scotland 🏴
 *Data sourced from [Oku](https://oku.club/)*
 
 * [The People on Platform 5](https://oku.club/book/the-people-on-platform-5-by-clare-pooley-Rq3BN)
-* [Focus on What Matters](https://oku.club/book/focus-on-what-matters-by-darius-foroux-EpdkW)
-* [Wool](https://oku.club/book/wool-by-hugh-howey-q3WcI)
 
 ## 🎬 Movies and TV Shows
 
@@ -92,4 +90,4 @@ I've got into hiking in 2023. Last summer, I hiked up Ben Nevis in Scotland 🏴
 
 ---
 
-Last updated: 31 May 2024
+Last updated: 1 Jun 2024
