@@ -67,9 +67,9 @@ I've got into hiking in 2023. Last summer, I hiked up Ben Nevis in Scotland 🏴
 
 *Data sourced from [Letterboxd](https://letterboxd.com/)*
 
+* [The Creator](https://letterboxd.com/film/the-creator-2023/)
 * [Monkey Man](https://letterboxd.com/film/monkey-man/)
 * [Dumb Money](https://letterboxd.com/film/dumb-money/)
-* [The Marvels](https://letterboxd.com/film/the-marvels/)
 
 ### Recently watched TV shows
 
@@ -90,4 +90,4 @@ I've got into hiking in 2023. Last summer, I hiked up Ben Nevis in Scotland 🏴
 
 ---
 
-Last updated: 7 Jun 2024
+Last updated: 8 Jun 2024
