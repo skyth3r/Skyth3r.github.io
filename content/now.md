@@ -67,9 +67,9 @@ I've got into hiking in 2023. Last summer, I hiked up Ben Nevis in Scotland 🏴
 
 *Data sourced from [Letterboxd](https://letterboxd.com/)*
 
+* [Dawn of the Planet of the Apes](https://letterboxd.com/film/dawn-of-the-planet-of-the-apes/)
 * [Rise of the Planet of the Apes](https://letterboxd.com/film/rise-of-the-planet-of-the-apes/)
 * [The Creator](https://letterboxd.com/film/the-creator-2023/)
-* [Monkey Man](https://letterboxd.com/film/monkey-man/)
 
 ### Recently watched TV shows
 
@@ -90,4 +90,4 @@ I've got into hiking in 2023. Last summer, I hiked up Ben Nevis in Scotland 🏴
 
 ---
 
-Last updated: 13 Jun 2024
+Last updated: 14 Jun 2024
