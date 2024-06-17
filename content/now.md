@@ -85,9 +85,7 @@ I've got into hiking in 2023. Last summer, I hiked up Ben Nevis in Scotland 🏴
 
 * [The Legend of Zelda: Tears of the Kingdom](https://backloggd.com/games/the-legend-of-zelda-tears-of-the-kingdom/)
 * [Hades](https://backloggd.com/games/hades--1/)
-* [The Outer Worlds](https://backloggd.com/games/the-outer-worlds/)
-* [Super Mario Bros. Wonder](https://backloggd.com/games/super-mario-bros-wonder/)
 
 ---
 
-Last updated: 16 Jun 2024
+Last updated: 17 Jun 2024
