@@ -75,8 +75,8 @@ I've got into hiking in 2023. Last summer, I hiked up Ben Nevis in Scotland 🏴
 
 *Data sourced from [Serializd](https://www.serializd.com/)*
 
-* [The Boys, Season 4](https://www.serializd.com/show/76479)
 * [Doctor Who, Season 1](https://www.serializd.com/show/239770)
+* [The Boys, Season 4](https://www.serializd.com/show/76479)
 * [Modern Family, Season 1](https://www.serializd.com/show/1421)
 
 ## 🎮 Video Games
@@ -88,4 +88,4 @@ I've got into hiking in 2023. Last summer, I hiked up Ben Nevis in Scotland 🏴
 
 ---
 
-Last updated: 18 Jun 2024
+Last updated: 20 Jun 2024
