@@ -7,7 +7,7 @@ Some referral links to things I like using. I aim to only refer products & servi
 If you use any of the affiliate links on this page, I may earn a commission for referring you (thanks!) 
 
 ## ⚡ Community Fibre
-Fast internet speeds. Fair prices. Get a £100 Amazon voucher when you sign up with the link below.
+Fast internet speeds. Fair prices. Get a £50 Amazon voucher when you sign up with the link below.
 
 [Supercharge your broadband](https://communityfibre.co.uk/friends?ci=1BQoqiT4ElzsZwnqYJDfCw%3D%3D)
 

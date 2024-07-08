@@ -8,7 +8,6 @@ The things I use on a daily basis.
 * 14" M1 Pro Macbook Pro 2021
 * Anne Pro 2
 * Apple Magic Trackpad 2
-* Razer Viper Ultimate
 
 ## Phone
 * iPhone 14 Pro Max
