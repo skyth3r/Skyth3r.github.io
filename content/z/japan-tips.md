@@ -14,15 +14,25 @@ Some tips for visiting Japan.
 * Avoid missing the last train. Ubers are really expensive in Japan.
 * Note down the 7-11 locations near where you're staying. They are open 24/7 and all have an ATM that accepts all international bank cards (great for when you need to make a cash withdrawal)
 * Want to drive in Japan (yes this includes go karts!)? Remember to get your International Drivers Permit before you leave the UK. You can get it from The Post Office for about £5.50 and need to bring your drivers linsce and a passport photo of yourself
+* Keep a plastic bag with you to carry trash. There aren't many bins to throw trash away
+* Check if you need a Japan Rail Pass - They are available for preiods of either 7, 14 or 21 consecutive days. Depending on your trip, you might not want to get one, since they have gone up in price recently and encourage you to rush from place to place to get your money's worth on the pass
+* Don't tip - Tipping is not expected and attempted to tip will normally result in the host turning down the tip
+* Don't eat and walk - If you need to eat something while out and about, stand to the side and eat your food
+
+## Japanese Experinces
+* Tea Ceremony
+* Bullet Train
+* Coffee House
+* Sake Tasting
 
 ## Tokyo
 
 ### Activities
-* Monkey Kart
-* teamLab Planets
-* Tokyo Disneyland/Tokyo DisneySea
-* SAUNA RESET Pint
-* Sensō-ji
+* [Monkey Kart](https://www.monkey-kart.com/)
+* [teamLab Planets](https://www.teamlab.art/e/planets/)
+* [Tokyo DisneySea](https://www.tokyodisneyresort.jp/en/tds/)
+* [SAUNA RESET Pint](https://pintsauna.com/)
+* [Sensō-ji temple](https://maps.app.goo.gl/uP72Wnu9etTejG5K7)
 
 ### Food
 * Asakusa Kagetsudō - Matcha ice cream melon pan

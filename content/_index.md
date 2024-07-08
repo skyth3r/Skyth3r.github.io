@@ -8,7 +8,7 @@ title: Home
 
 I'm a London based coffee fueled Cybersecurity Backend Engineer.
 
-My interests include, but are not limited to: writing, [travelling](/tags/travel), [coding](https://akashgoswami.dev), cycling, video games, and a recent favourite of mine, archery!
+My interests include, but are not limited to: writing, [travelling](/tags/travel), [coding](https://akashgoswami.dev), [cycling](/tags/cycling), video games, and a recent favourite of mine, archery!
 
 This website is a home for everything I've learnt, enjoyed and [things I\'ve worked on](/portfolio). Basically it's my [digital garden](https://maggieappleton.com/garden-history) - An ever growing collection of my [notes](/notes), ideas, thoughts and more.
 
