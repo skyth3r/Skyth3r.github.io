@@ -67,16 +67,16 @@ I've got into hiking in 2023. Last summer, I hiked up Ben Nevis in Scotland 🏴
 
 *Data sourced from [Letterboxd](https://letterboxd.com/)*
 
+* [Kiki's Delivery Service](https://letterboxd.com/film/kikis-delivery-service/)
 * [Dawn of the Planet of the Apes](https://letterboxd.com/film/dawn-of-the-planet-of-the-apes/)
 * [Rise of the Planet of the Apes](https://letterboxd.com/film/rise-of-the-planet-of-the-apes/)
-* [The Creator](https://letterboxd.com/film/the-creator-2023/)
 
 ### Recently watched TV shows
 
 *Data sourced from [Serializd](https://www.serializd.com/)*
 
-* [Supacell, Season 1](https://www.serializd.com/show/158141)
 * [The Boys, Season 4](https://www.serializd.com/show/76479)
+* [Supacell, Season 1](https://www.serializd.com/show/158141)
 * [3 Body Problem, Season 1](https://www.serializd.com/show/108545)
 
 ## 🎮 Video Games
@@ -88,4 +88,4 @@ I've got into hiking in 2023. Last summer, I hiked up Ben Nevis in Scotland 🏴
 
 ---
 
-Last updated: 13 Jul 2024
+Last updated: 14 Jul 2024
