@@ -3,7 +3,7 @@ title: Buying a bike
 date: 2024-07-07T14:00:00
 images: 
     - /img/buying-a-bike/cover.jpg
-description: Thoughts on Robinhood's initial offering in the UK and how it compares to other available investment platforms
+description: Buying my first bike after cycling in Amsterdam and not owning a bike for 10 years
 tags: ['cycling']
 ---
 
