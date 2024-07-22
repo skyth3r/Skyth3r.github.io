@@ -75,9 +75,9 @@ I've got into hiking in 2023. Last summer, I hiked up Ben Nevis in Scotland 🏴
 
 *Data sourced from [Serializd](https://www.serializd.com/)*
 
-* [Supacell, Season 1](https://www.serializd.com/show/158141)
-* [The Boys, Season 4](https://www.serializd.com/show/76479)
 * [3 Body Problem, Season 1](https://www.serializd.com/show/108545)
+* [The Boys, Season 4](https://www.serializd.com/show/76479)
+* [Supacell, Season 1](https://www.serializd.com/show/158141)
 
 ## 🎮 Video Games
 
@@ -88,4 +88,4 @@ I've got into hiking in 2023. Last summer, I hiked up Ben Nevis in Scotland 🏴
 
 ---
 
-Last updated: 21 Jul 2024
+Last updated: 22 Jul 2024
