@@ -67,9 +67,9 @@ I've got into hiking in 2023. Last summer, I hiked up Ben Nevis in Scotland 🏴
 
 *Data sourced from [Letterboxd](https://letterboxd.com/)*
 
+* [Hunger](https://letterboxd.com/film/hunger-2023/)
+* [Deadpool and Wolverine](https://letterboxd.com/film/deadpool-wolverine/)
 * [Kiki's Delivery Service](https://letterboxd.com/film/kikis-delivery-service/)
-* [Dawn of the Planet of the Apes](https://letterboxd.com/film/dawn-of-the-planet-of-the-apes/)
-* [Rise of the Planet of the Apes](https://letterboxd.com/film/rise-of-the-planet-of-the-apes/)
 
 ### Recently watched TV shows
 
@@ -88,4 +88,4 @@ I've got into hiking in 2023. Last summer, I hiked up Ben Nevis in Scotland 🏴
 
 ---
 
-Last updated: 28 Jul 2024
+Last updated: 29 Jul 2024
