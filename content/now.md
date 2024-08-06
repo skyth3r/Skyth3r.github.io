@@ -75,9 +75,9 @@ I've got into hiking in 2023. Last summer, I hiked up Ben Nevis in Scotland 🏴
 
 *Data sourced from [Serializd](https://www.serializd.com/)*
 
+* [Alice in Borderland, Season 2](https://www.serializd.com/show/110316)
 * [Delicious in Dungeon, Season 1](https://www.serializd.com/show/207784)
 * [3 Body Problem, Season 1](https://www.serializd.com/show/108545)
-* [The Boys, Season 4](https://www.serializd.com/show/76479)
 
 ## 🎮 Video Games
 
@@ -88,4 +88,4 @@ I've got into hiking in 2023. Last summer, I hiked up Ben Nevis in Scotland 🏴
 
 ---
 
-Last updated: 5 Aug 2024
+Last updated: 6 Aug 2024
