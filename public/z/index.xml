@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>z on Akash Goswami</title>
-    <link>https://akashgoswami.com/z/</link>
+    <link>http://localhost:1313/z/</link>
     <description>Recent content in z on Akash Goswami</description>
     <generator>Hugo -- gohugo.io</generator>
     <language></language>
-    <lastBuildDate>Mon, 18 Dec 2023 13:44:00 +0000</lastBuildDate><atom:link href="https://akashgoswami.com/z/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Dec 2023 13:44:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/z/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A note from Sage</title>
-      <link>https://akashgoswami.com/z/sage/</link>
+      <link>http://localhost:1313/z/sage/</link>
       <pubDate>Mon, 18 Dec 2023 13:44:00 +0000</pubDate>
       
-      <guid>https://akashgoswami.com/z/sage/</guid>
+      <guid>http://localhost:1313/z/sage/</guid>
       <description>&lt;p&gt;Hkjjjjkjn, c kasch a mnxç,mcmzzd. .mx
 X&lt;br&gt;
 X;x
@@ -25,10 +25,10 @@ Du mlf mncv ;Leclerc ,c,d&lt;/p&gt;
     
     <item>
       <title>A note from Nova</title>
-      <link>https://akashgoswami.com/z/nova/</link>
+      <link>http://localhost:1313/z/nova/</link>
       <pubDate>Wed, 13 Dec 2023 09:30:00 +0000</pubDate>
       
-      <guid>https://akashgoswami.com/z/nova/</guid>
+      <guid>http://localhost:1313/z/nova/</guid>
       <description>&lt;p&gt;ujhgmngnggnngggngn
 kbnkn nl;l
 ;l&lt;/p&gt;
@@ -42,10 +42,10 @@ l&lt;/p&gt;
     
     <item>
       <title>Japan Tips</title>
-      <link>https://akashgoswami.com/z/japan-tips/</link>
+      <link>http://localhost:1313/z/japan-tips/</link>
       <pubDate>Thu, 21 Sep 2023 10:24:00 +0000</pubDate>
       
-      <guid>https://akashgoswami.com/z/japan-tips/</guid>
+      <guid>http://localhost:1313/z/japan-tips/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Note: This is a work in progress page&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Some tips for visiting Japan.&lt;/p&gt;
 &lt;h2 id=&#34;general-tips&#34;&gt;General Tips&lt;/h2&gt;
@@ -54,15 +54,26 @@ l&lt;/p&gt;
 &lt;li&gt;Avoid missing the last train. Ubers are really expensive in Japan.&lt;/li&gt;
 &lt;li&gt;Note down the 7-11 locations near where you&amp;rsquo;re staying. They are open 24/7 and all have an ATM that accepts all international bank cards (great for when you need to make a cash withdrawal)&lt;/li&gt;
 &lt;li&gt;Want to drive in Japan (yes this includes go karts!)? Remember to get your International Drivers Permit before you leave the UK. You can get it from The Post Office for about £5.50 and need to bring your drivers linsce and a passport photo of yourself&lt;/li&gt;
+&lt;li&gt;Keep a plastic bag with you to carry trash. There aren&amp;rsquo;t many bins to throw trash away&lt;/li&gt;
+&lt;li&gt;Check if you need a Japan Rail Pass - They are available for preiods of either 7, 14 or 21 consecutive days. Depending on your trip, you might not want to get one, since they have gone up in price recently and encourage you to rush from place to place to get your money&amp;rsquo;s worth on the pass&lt;/li&gt;
+&lt;li&gt;Don&amp;rsquo;t tip - Tipping is not expected and attempted to tip will normally result in the host turning down the tip&lt;/li&gt;
+&lt;li&gt;Don&amp;rsquo;t eat and walk - If you need to eat something while out and about, stand to the side and eat your food&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;japanese-experinces&#34;&gt;Japanese Experinces&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Tea Ceremony&lt;/li&gt;
+&lt;li&gt;Bullet Train&lt;/li&gt;
+&lt;li&gt;Coffee House&lt;/li&gt;
+&lt;li&gt;Sake Tasting&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;tokyo&#34;&gt;Tokyo&lt;/h2&gt;
 &lt;h3 id=&#34;activities&#34;&gt;Activities&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Monkey Kart&lt;/li&gt;
-&lt;li&gt;teamLab Planets&lt;/li&gt;
-&lt;li&gt;Tokyo Disneyland/Tokyo DisneySea&lt;/li&gt;
-&lt;li&gt;SAUNA RESET Pint&lt;/li&gt;
-&lt;li&gt;Sensō-ji&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.monkey-kart.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Monkey Kart&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.teamlab.art/e/planets/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;teamLab Planets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tokyodisneyresort.jp/en/tds/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Tokyo DisneySea&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pintsauna.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;SAUNA RESET Pint&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://maps.app.goo.gl/uP72Wnu9etTejG5K7&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Sensō-ji temple&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;food&#34;&gt;Food&lt;/h3&gt;
 &lt;ul&gt;

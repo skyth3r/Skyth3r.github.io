@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Web-Dev on Akash Goswami</title>
-    <link>https://akashgoswami.com/tags/web-dev/</link>
+    <link>http://localhost:1313/tags/web-dev/</link>
     <description>Recent content in Web-Dev on Akash Goswami</description>
     <generator>Hugo -- gohugo.io</generator>
     <language></language>
-    <lastBuildDate>Mon, 30 Jan 2023 21:45:00 +0000</lastBuildDate><atom:link href="https://akashgoswami.com/tags/web-dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Jan 2023 21:45:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/web-dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Customising my Hugo Theme</title>
-      <link>https://akashgoswami.com/articles/customising-my-hugo-theme/</link>
+      <link>http://localhost:1313/articles/customising-my-hugo-theme/</link>
       <pubDate>Mon, 30 Jan 2023 21:45:00 +0000</pubDate>
       
-      <guid>https://akashgoswami.com/articles/customising-my-hugo-theme/</guid>
+      <guid>http://localhost:1313/articles/customising-my-hugo-theme/</guid>
       <description>&lt;p&gt;My Hugo website uses the &lt;a href=&#34;https://github.com/apvarun/digital-garden-hugo-theme&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Digital Garden Hugo theme&lt;/a&gt; but I&amp;rsquo;ve made a few changes in addition to using the theme. I&amp;rsquo;ve listed these changes below both for myself to refer back to and for anyone else who might find these useful to include in their own Hugo website 👇🏽&lt;/p&gt;
 &lt;h2 id=&#34;updating-lastmod-text&#34;&gt;Updating lastmod text&lt;/h2&gt;
 &lt;p&gt;One of the first changes I made was to &lt;a href=&#34;https://github.com/Skyth3r/Skyth3r.github.io/commit/ee9926c786e458476524ac571be01a7ea6a38285&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;change the lastmod front matter text&lt;/a&gt; that was displayed on the theme. Previously it would default to showing &lt;code&gt;Pruned January 2, 2023&lt;/code&gt; on articles with the &lt;code&gt;lastmod&lt;/code&gt; front matter. After my change to the article single layout it now instead shows &lt;code&gt;Last tended to on January 2, 2023&lt;/code&gt;.&lt;/p&gt;
@@ -63,10 +63,10 @@ Reading time: {{ .ReadingTime }} {{ .Scratch.Get &amp;#34;readingTime&amp;#34; }
     
     <item>
       <title>Building websites with Hugo</title>
-      <link>https://akashgoswami.com/articles/building-websites-with-hugo/</link>
+      <link>http://localhost:1313/articles/building-websites-with-hugo/</link>
       <pubDate>Fri, 20 Jan 2023 08:00:00 +0000</pubDate>
       
-      <guid>https://akashgoswami.com/articles/building-websites-with-hugo/</guid>
+      <guid>http://localhost:1313/articles/building-websites-with-hugo/</guid>
       <description>&lt;p&gt;In the last few months, there has been a flurry of activity around &lt;a href=&#34;https://www.theverge.com/23513418/bring-back-personal-blogging&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;personal blogs&lt;/a&gt; and &lt;a href=&#34;https://www.brycewray.com/posts/2022/11/own-your-stuff/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;owning your own data&lt;/a&gt;, since &lt;a href=&#34;https://www.theverge.com/23551060/elon-musk-twitter-takeover-layoffs-workplace-salute-emoji&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Musk took the reins of Twitter&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;With that, a lot of people have been wondering how they can start their own websites. Since re-launching my website, I&amp;rsquo;ve had people ask me how they can make their own website in the last few weeks. To avoid repeating myself, I&amp;rsquo;ve put together a guide on how you can build a website using Hugo and GitHub Pages.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://kinsta.com/blog/hugo-static-site/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Other guides exist&lt;/a&gt;, but this one covers how I&amp;rsquo;ve set up my website in a simple and easy-to-follow guide.&lt;/p&gt;
@@ -135,10 +135,10 @@ echo &amp;#34;theme = &amp;#39;hugo-bearblog&amp;#39;&amp;#34; &amp;gt;&amp;gt; 
     
     <item>
       <title>Why you need a personal website</title>
-      <link>https://akashgoswami.com/articles/why-you-need-a-personal-website/</link>
+      <link>http://localhost:1313/articles/why-you-need-a-personal-website/</link>
       <pubDate>Sun, 01 Jan 2023 09:00:00 +0000</pubDate>
       
-      <guid>https://akashgoswami.com/articles/why-you-need-a-personal-website/</guid>
+      <guid>http://localhost:1313/articles/why-you-need-a-personal-website/</guid>
       <description>&lt;p&gt;Time and time again, we are shown that we cannot rely on third-party platforms to host our content.&lt;/p&gt;
 &lt;p&gt;The internet is constantly changing and with that, the platforms that host our content are constantly in flux. Platforms can fall just as quickly as they can rise, either by just going &lt;a href=&#34;https://indieweb.org/site-deaths&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;completely offline&lt;/a&gt; or by making drastic changes to how people interact with content on their site/platform.&lt;/p&gt;
 &lt;p&gt;There are countless examples of this happening in the past and more recently the 2022 Twitter meltdown has led to some massive changes. One of these changes is that the newsletter platform Twitter acquired just two years ago, Revue is now &lt;a href=&#34;https://www.theverge.com/2022/12/14/23509254/twitter-revue-shutdown-newsletter-data-deletion&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;shutting down&lt;/a&gt;.&lt;/p&gt;
@@ -158,7 +158,7 @@ echo &amp;#34;theme = &amp;#39;hugo-bearblog&amp;#39;&amp;#34; &amp;gt;&amp;gt; 
 &lt;p&gt;&lt;strong&gt;Robust &amp;amp; compact&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Because I&amp;rsquo;m using a static site generator for this website now, this has simplified a lot for me and has helped make the website a lot smaller and more compact. Due to its small size, I&amp;rsquo;m able to back up the entire site to several other code hosting/cloud storage platforms with ease. Currently, you can find this website on &lt;a href=&#34;https://github.com/Skyth3r/Skyth3r.github.io&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Additionally, using a static site generator has also done a lot of the heavy lifting when it comes to SEO optimisation and has drastically improved the website&amp;rsquo;s load times as pointed out by this speed test 👇🏽
-&lt;img src=&#34;https://akashgoswami.com/img/personal-website/pagespeed-insights-desktop-100.png&#34; alt=&#34;Pagespeed insights results desktop: 100% all pagespeed-insights-desktop-100-performace&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/img/personal-website/pagespeed-insights-desktop-100.png&#34; alt=&#34;Pagespeed insights results desktop: 100% all pagespeed-insights-desktop-100-performace&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;what-to-expect-from-this-website&#34;&gt;What to expect from this website&lt;/h2&gt;
 &lt;p&gt;So what can you expect from this website then?&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m someone that has several interests and hobbies so I don&amp;rsquo;t want to box myself in with a particular theme or topic. My interests are not set in stone, and I expect them to change over time but there will likely be many recurring themes &amp;amp; topics I write about.&lt;/p&gt;

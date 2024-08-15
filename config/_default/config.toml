@@ -1,7 +1,7 @@
 baseURL = 'https://akashgoswami.com'
 languageCode = 'en-us'
 title = 'Akash Goswami'
-theme = ['hugo-cloak-email', 'digitalgarden']
+theme = ['plausible-hugo', 'hugo-cloak-email', 'digitalgarden']
 enableRobotsTXT = true
 
 [Params]
@@ -13,6 +13,10 @@ enableRobotsTXT = true
   description = "Recieve new articles directly in your mailbox!"
   provider = "buttondown"
   path = "https://buttondown.email/api/emails/embed-subscribe/akashgoswami"
+
+[Params.plausible]
+  enable = true 
+  domain = "akashgoswami.com"
 
 [menu]
 [[menu.main]]
