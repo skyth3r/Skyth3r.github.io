@@ -2,223 +2,223 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://akashgoswami.com/articles/</loc>
+    <loc>http://localhost:1313/articles/</loc>
     <lastmod>2024-07-07T14:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/articles/buying-a-bike/</loc>
+    <loc>http://localhost:1313/articles/buying-a-bike/</loc>
     <lastmod>2024-07-07T14:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/tags/cycling/</loc>
+    <loc>http://localhost:1313/tags/cycling/</loc>
     <lastmod>2024-07-07T14:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-07-07T14:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-07-07T14:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/tags/finance/</loc>
+    <loc>http://localhost:1313/tags/finance/</loc>
     <lastmod>2024-03-24T20:15:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/articles/initial-thoughts-on-robinhood-uk/</loc>
+    <loc>http://localhost:1313/articles/initial-thoughts-on-robinhood-uk/</loc>
     <lastmod>2024-03-24T20:15:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/notes/automating-now/</loc>
+    <loc>http://localhost:1313/notes/automating-now/</loc>
     <lastmod>2024-02-22T21:35:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/notes/</loc>
+    <loc>http://localhost:1313/notes/</loc>
     <lastmod>2024-02-22T21:35:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/tags/update/</loc>
+    <loc>http://localhost:1313/tags/update/</loc>
     <lastmod>2024-02-22T21:35:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/tags/git/</loc>
+    <loc>http://localhost:1313/tags/git/</loc>
     <lastmod>2024-01-18T12:05:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/tags/guide/</loc>
+    <loc>http://localhost:1313/tags/guide/</loc>
     <lastmod>2024-05-07T18:05:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/notes/remove-files-from-git-history/</loc>
+    <loc>http://localhost:1313/notes/remove-files-from-git-history/</loc>
     <lastmod>2024-01-18T12:05:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/tags/open-web/</loc>
+    <loc>http://localhost:1313/tags/open-web/</loc>
     <lastmod>2024-01-12T18:17:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/notes/rss-feeds/</loc>
+    <loc>http://localhost:1313/notes/rss-feeds/</loc>
     <lastmod>2024-01-12T18:17:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/portfolio/</loc>
+    <loc>http://localhost:1313/portfolio/</loc>
     <lastmod>2023-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/portfolio/you-got-this-scraper/</loc>
+    <loc>http://localhost:1313/portfolio/you-got-this-scraper/</loc>
     <lastmod>2023-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/z/sage/</loc>
+    <loc>http://localhost:1313/z/sage/</loc>
     <lastmod>2023-12-18T13:44:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/z/</loc>
+    <loc>http://localhost:1313/z/</loc>
     <lastmod>2023-12-18T13:44:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/z/nova/</loc>
+    <loc>http://localhost:1313/z/nova/</loc>
     <lastmod>2023-12-13T09:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/z/japan-tips/</loc>
+    <loc>http://localhost:1313/z/japan-tips/</loc>
     <lastmod>2023-09-21T10:24:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/notes/esimdb/</loc>
+    <loc>http://localhost:1313/notes/esimdb/</loc>
     <lastmod>2023-09-17T08:40:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/notes/solar-website/</loc>
+    <loc>http://localhost:1313/notes/solar-website/</loc>
     <lastmod>2023-09-15T21:32:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/tags/misc/</loc>
+    <loc>http://localhost:1313/tags/misc/</loc>
     <lastmod>2023-09-15T21:32:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/tags/apple/</loc>
+    <loc>http://localhost:1313/tags/apple/</loc>
     <lastmod>2023-09-15T14:20:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/notes/apple-watch-double-tap/</loc>
+    <loc>http://localhost:1313/notes/apple-watch-double-tap/</loc>
     <lastmod>2023-09-15T14:20:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/notes/arc-reader-mode/</loc>
+    <loc>http://localhost:1313/notes/arc-reader-mode/</loc>
     <lastmod>2023-09-09T15:20:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/tags/web-browser/</loc>
+    <loc>http://localhost:1313/tags/web-browser/</loc>
     <lastmod>2023-09-09T15:20:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/articles/adding-notes/</loc>
+    <loc>http://localhost:1313/articles/adding-notes/</loc>
     <lastmod>2023-09-11T07:41:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/tags/cybersecurity/</loc>
+    <loc>http://localhost:1313/tags/cybersecurity/</loc>
     <lastmod>2023-09-09T09:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/notes/adblocker/</loc>
+    <loc>http://localhost:1313/notes/adblocker/</loc>
     <lastmod>2023-09-09T09:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/articles/removing-drm-from-kindle-books/</loc>
+    <loc>http://localhost:1313/articles/removing-drm-from-kindle-books/</loc>
     <lastmod>2023-08-21T17:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/tags/ebooks/</loc>
+    <loc>http://localhost:1313/tags/ebooks/</loc>
     <lastmod>2023-08-21T17:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/tags/kindle/</loc>
+    <loc>http://localhost:1313/tags/kindle/</loc>
     <lastmod>2023-08-21T17:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/articles/sabbatical-leave-part-1/</loc>
+    <loc>http://localhost:1313/articles/sabbatical-leave-part-1/</loc>
     <lastmod>2023-07-17T08:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/tags/travel/</loc>
+    <loc>http://localhost:1313/tags/travel/</loc>
     <lastmod>2023-07-17T08:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/articles/customising-my-hugo-theme/</loc>
+    <loc>http://localhost:1313/articles/customising-my-hugo-theme/</loc>
     <lastmod>2023-09-11T07:41:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/tags/hugo/</loc>
+    <loc>http://localhost:1313/tags/hugo/</loc>
     <lastmod>2024-05-07T18:05:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/tags/web-dev/</loc>
+    <loc>http://localhost:1313/tags/web-dev/</loc>
     <lastmod>2024-05-07T18:05:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/articles/building-websites-with-hugo/</loc>
+    <loc>http://localhost:1313/articles/building-websites-with-hugo/</loc>
     <lastmod>2024-05-07T18:05:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/tags/digital-garden/</loc>
+    <loc>http://localhost:1313/tags/digital-garden/</loc>
     <lastmod>2023-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/articles/why-you-need-a-personal-website/</loc>
+    <loc>http://localhost:1313/articles/why-you-need-a-personal-website/</loc>
     <lastmod>2023-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/archive/akashandmoney/</loc>
+    <loc>http://localhost:1313/archive/akashandmoney/</loc>
     <lastmod>2022-03-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/archive/</loc>
+    <loc>http://localhost:1313/archive/</loc>
     <lastmod>2022-03-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/tags/bitcoin/</loc>
+    <loc>http://localhost:1313/tags/bitcoin/</loc>
     <lastmod>2022-03-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/tags/crypto/</loc>
+    <loc>http://localhost:1313/tags/crypto/</loc>
     <lastmod>2022-03-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/archive/akashandmoney/bitcoin/</loc>
+    <loc>http://localhost:1313/archive/akashandmoney/bitcoin/</loc>
     <lastmod>2022-03-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/portfolio/buying-back-your-time/</loc>
+    <loc>http://localhost:1313/portfolio/buying-back-your-time/</loc>
     <lastmod>2022-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/archive/akashandmoney/text-message-scams/</loc>
+    <loc>http://localhost:1313/archive/akashandmoney/text-message-scams/</loc>
     <lastmod>2021-05-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/archive/akashandmoney/investing-101/</loc>
+    <loc>http://localhost:1313/archive/akashandmoney/investing-101/</loc>
     <lastmod>2021-04-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/archive/akashandmoney/interesting-isas/</loc>
+    <loc>http://localhost:1313/archive/akashandmoney/interesting-isas/</loc>
     <lastmod>2021-03-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/archive/akashandmoney/overcoming-outages/</loc>
+    <loc>http://localhost:1313/archive/akashandmoney/overcoming-outages/</loc>
     <lastmod>2021-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/archive/akashandmoney/phone-plans/</loc>
+    <loc>http://localhost:1313/archive/akashandmoney/phone-plans/</loc>
     <lastmod>2021-02-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/archive/akashandmoney/swimming-in-subscriptions/</loc>
+    <loc>http://localhost:1313/archive/akashandmoney/swimming-in-subscriptions/</loc>
     <lastmod>2021-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/archive/akashandmoney/four-finance-books-for-2021/</loc>
+    <loc>http://localhost:1313/archive/akashandmoney/four-finance-books-for-2021/</loc>
     <lastmod>2021-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/archive/akashandmoney/binge-buying/</loc>
+    <loc>http://localhost:1313/archive/akashandmoney/binge-buying/</loc>
     <lastmod>2020-12-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/archive/akashandmoney/credit-card-connoisseur/</loc>
+    <loc>http://localhost:1313/archive/akashandmoney/credit-card-connoisseur/</loc>
     <lastmod>2020-11-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/archive/akashandmoney/crunching-credit-scores/</loc>
+    <loc>http://localhost:1313/archive/akashandmoney/crunching-credit-scores/</loc>
     <lastmod>2020-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/archive/akashandmoney/social-scammers/</loc>
+    <loc>http://localhost:1313/archive/akashandmoney/social-scammers/</loc>
     <lastmod>2020-10-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/archive/akashandmoney/busting-broadband-bills/</loc>
+    <loc>http://localhost:1313/archive/akashandmoney/busting-broadband-bills/</loc>
     <lastmod>2020-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/archive/akashandmoney/bank-accounts-chequing-out-current-accounts/</loc>
+    <loc>http://localhost:1313/archive/akashandmoney/bank-accounts-chequing-out-current-accounts/</loc>
     <lastmod>2020-09-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/archive/akashandmoney/emergency-funds/</loc>
+    <loc>http://localhost:1313/archive/akashandmoney/emergency-funds/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/portfolio/akash-and-money/</loc>
+    <loc>http://localhost:1313/portfolio/akash-and-money/</loc>
     <lastmod>2020-08-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/portfolio/manual-receipt-generator/</loc>
+    <loc>http://localhost:1313/portfolio/manual-receipt-generator/</loc>
     <lastmod>2020-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/portfolio/unity-3d-platformer/</loc>
+    <loc>http://localhost:1313/portfolio/unity-3d-platformer/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/portfolio/tfl-to-monzo/</loc>
+    <loc>http://localhost:1313/portfolio/tfl-to-monzo/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/portfolio/credit-card-workout/</loc>
+    <loc>http://localhost:1313/portfolio/credit-card-workout/</loc>
     <lastmod>2017-10-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://akashgoswami.com/archives/</loc>
+    <loc>http://localhost:1313/archives/</loc>
   </url><url>
-    <loc>https://akashgoswami.com/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://akashgoswami.com/not-financial-advice/</loc>
+    <loc>http://localhost:1313/not-financial-advice/</loc>
   </url><url>
-    <loc>https://akashgoswami.com/now/</loc>
+    <loc>http://localhost:1313/now/</loc>
   </url><url>
-    <loc>https://akashgoswami.com/referrals/</loc>
+    <loc>http://localhost:1313/referrals/</loc>
   </url><url>
-    <loc>https://akashgoswami.com/stack/</loc>
+    <loc>http://localhost:1313/stack/</loc>
   </url><url>
-    <loc>https://akashgoswami.com/tools/</loc>
+    <loc>http://localhost:1313/tools/</loc>
   </url><url>
-    <loc>https://akashgoswami.com/uses/</loc>
+    <loc>http://localhost:1313/uses/</loc>
   </url><url>
-    <loc>https://akashgoswami.com/verify/</loc>
+    <loc>http://localhost:1313/verify/</loc>
   </url>
 </urlset>

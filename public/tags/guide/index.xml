@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Guide on Akash Goswami</title>
-    <link>https://akashgoswami.com/tags/guide/</link>
+    <link>http://localhost:1313/tags/guide/</link>
     <description>Recent content in Guide on Akash Goswami</description>
     <generator>Hugo -- gohugo.io</generator>
     <language></language>
-    <lastBuildDate>Thu, 18 Jan 2024 12:05:00 +0000</lastBuildDate><atom:link href="https://akashgoswami.com/tags/guide/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Jan 2024 12:05:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/guide/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Remove files from Git history</title>
-      <link>https://akashgoswami.com/notes/remove-files-from-git-history/</link>
+      <link>http://localhost:1313/notes/remove-files-from-git-history/</link>
       <pubDate>Thu, 18 Jan 2024 12:05:00 +0000</pubDate>
       
-      <guid>https://akashgoswami.com/notes/remove-files-from-git-history/</guid>
+      <guid>http://localhost:1313/notes/remove-files-from-git-history/</guid>
       <description>&lt;p&gt;A note for myself because I know I&amp;rsquo;ll probably do it again in the future&amp;hellip;&lt;/p&gt;
 &lt;p&gt;I managed to accidently commited a text file to a repository and pushed it to GitHub 🤦🏽‍♂️&lt;/p&gt;
 &lt;p&gt;While it didn&amp;rsquo;t contain any sensitive data, I still wanted to remove it from the repository&amp;rsquo;s history. I found &lt;a href=&#34;https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;this guide on GitHub&lt;/a&gt; and these are the exact steps I followed to resolve this issue.&lt;/p&gt;
@@ -40,10 +40,10 @@
     
     <item>
       <title>DRM free books</title>
-      <link>https://akashgoswami.com/articles/removing-drm-from-kindle-books/</link>
+      <link>http://localhost:1313/articles/removing-drm-from-kindle-books/</link>
       <pubDate>Mon, 21 Aug 2023 17:00:00 +0000</pubDate>
       
-      <guid>https://akashgoswami.com/articles/removing-drm-from-kindle-books/</guid>
+      <guid>http://localhost:1313/articles/removing-drm-from-kindle-books/</guid>
       <description>&lt;p&gt;I really enjoy reading books on my Kindle. I also buy most of my digital books via Amazon. I never thought about making DRM-free copies of my eBooks until I read about how &lt;a href=&#34;https://medium.com/@bjax_/a-tale-of-unwanted-disruption-my-week-without-amazon-df1074e3818b&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;an engineer had his Amazon account suspended&lt;/a&gt; due to a delivery driver&amp;rsquo;s false claim.&lt;/p&gt;
 &lt;p&gt;That really got me thinking about how I would feel if I lost access to my Amazon account. I’ve purchased most of my ebooks from Amazon. Losing access would mean losing the majority of my digital library.&lt;/p&gt;
 &lt;p&gt;To avoid such a situation, I decided it was time to make a copy of the digital eBooks I purchased from Amazon.&lt;/p&gt;
@@ -92,10 +92,10 @@
     
     <item>
       <title>Building websites with Hugo</title>
-      <link>https://akashgoswami.com/articles/building-websites-with-hugo/</link>
+      <link>http://localhost:1313/articles/building-websites-with-hugo/</link>
       <pubDate>Fri, 20 Jan 2023 08:00:00 +0000</pubDate>
       
-      <guid>https://akashgoswami.com/articles/building-websites-with-hugo/</guid>
+      <guid>http://localhost:1313/articles/building-websites-with-hugo/</guid>
       <description>&lt;p&gt;In the last few months, there has been a flurry of activity around &lt;a href=&#34;https://www.theverge.com/23513418/bring-back-personal-blogging&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;personal blogs&lt;/a&gt; and &lt;a href=&#34;https://www.brycewray.com/posts/2022/11/own-your-stuff/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;owning your own data&lt;/a&gt;, since &lt;a href=&#34;https://www.theverge.com/23551060/elon-musk-twitter-takeover-layoffs-workplace-salute-emoji&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Musk took the reins of Twitter&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;With that, a lot of people have been wondering how they can start their own websites. Since re-launching my website, I&amp;rsquo;ve had people ask me how they can make their own website in the last few weeks. To avoid repeating myself, I&amp;rsquo;ve put together a guide on how you can build a website using Hugo and GitHub Pages.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://kinsta.com/blog/hugo-static-site/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Other guides exist&lt;/a&gt;, but this one covers how I&amp;rsquo;ve set up my website in a simple and easy-to-follow guide.&lt;/p&gt;
