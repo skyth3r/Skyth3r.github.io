@@ -1,1 +1,6 @@
 googleAnalytics = 'G-6RD6L79H3R'
+
+theme = ["plausible-hugo"] 
+[params.plausible]
+  enable = true 
+  domain = "akashgoswami.com"

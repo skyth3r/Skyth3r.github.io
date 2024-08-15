@@ -1,7 +1,7 @@
 baseURL = 'https://akashgoswami.com'
 languageCode = 'en-us'
 title = 'Akash Goswami'
-theme = ['hugo-cloak-email', 'digitalgarden']
+theme = ['hugo-cloak-email', 'digitalgarden', 'plausible-hugo']
 enableRobotsTXT = true
 
 [Params]
