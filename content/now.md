@@ -63,9 +63,9 @@ I've got into hiking in 2023. Last summer, I hiked up Ben Nevis in Scotland 🏴
 
 *Data sourced from [Letterboxd](https://letterboxd.com/)*
 
+* [Spirited Away](https://letterboxd.com/film/spirited-away/)
 * [Hunger](https://letterboxd.com/film/hunger-2023/)
 * [Deadpool and Wolverine](https://letterboxd.com/film/deadpool-wolverine/)
-* [Kiki's Delivery Service](https://letterboxd.com/film/kikis-delivery-service/)
 
 ### Recently watched TV shows
 
@@ -84,4 +84,4 @@ I've got into hiking in 2023. Last summer, I hiked up Ben Nevis in Scotland 🏴
 
 ---
 
-Last updated: 15 Aug 2024
+Last updated: 16 Aug 2024
