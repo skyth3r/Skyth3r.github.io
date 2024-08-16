@@ -6,6 +6,8 @@ This is my [now page](https://nownownow.com/about). You can also view my profile
 
 **This now page is automatically updated daily using [automate /now](https://github.com/skyth3r/automate-now).**
 
+You can read more about [how I automated my now page here](https://akashgoswami.dev/posts/automating-my-now-page/).
+
 
 ## ⭐ What I'm up to
 
