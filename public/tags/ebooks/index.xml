@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ebooks on Akash Goswami</title>
-    <link>http://localhost:1313/tags/ebooks/</link>
+    <link>https://akashgoswami.com/tags/ebooks/</link>
     <description>Recent content in Ebooks on Akash Goswami</description>
     <generator>Hugo -- gohugo.io</generator>
     <language></language>
-    <lastBuildDate>Mon, 21 Aug 2023 17:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ebooks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Aug 2023 17:00:00 +0000</lastBuildDate><atom:link href="https://akashgoswami.com/tags/ebooks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DRM free books</title>
-      <link>http://localhost:1313/articles/removing-drm-from-kindle-books/</link>
+      <link>https://akashgoswami.com/articles/removing-drm-from-kindle-books/</link>
       <pubDate>Mon, 21 Aug 2023 17:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/articles/removing-drm-from-kindle-books/</guid>
+      <guid>https://akashgoswami.com/articles/removing-drm-from-kindle-books/</guid>
       <description>&lt;p&gt;I really enjoy reading books on my Kindle. I also buy most of my digital books via Amazon. I never thought about making DRM-free copies of my eBooks until I read about how &lt;a href=&#34;https://medium.com/@bjax_/a-tale-of-unwanted-disruption-my-week-without-amazon-df1074e3818b&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;an engineer had his Amazon account suspended&lt;/a&gt; due to a delivery driver&amp;rsquo;s false claim.&lt;/p&gt;
 &lt;p&gt;That really got me thinking about how I would feel if I lost access to my Amazon account. I’ve purchased most of my ebooks from Amazon. Losing access would mean losing the majority of my digital library.&lt;/p&gt;
 &lt;p&gt;To avoid such a situation, I decided it was time to make a copy of the digital eBooks I purchased from Amazon.&lt;/p&gt;

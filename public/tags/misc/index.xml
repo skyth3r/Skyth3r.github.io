@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Misc on Akash Goswami</title>
-    <link>http://localhost:1313/tags/misc/</link>
+    <link>https://akashgoswami.com/tags/misc/</link>
     <description>Recent content in Misc on Akash Goswami</description>
     <generator>Hugo -- gohugo.io</generator>
     <language></language>
-    <lastBuildDate>Fri, 15 Sep 2023 21:32:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/misc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Sep 2023 21:32:00 +0000</lastBuildDate><atom:link href="https://akashgoswami.com/tags/misc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A solar powered website</title>
-      <link>http://localhost:1313/notes/solar-website/</link>
+      <link>https://akashgoswami.com/notes/solar-website/</link>
       <pubDate>Fri, 15 Sep 2023 21:32:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/notes/solar-website/</guid>
+      <guid>https://akashgoswami.com/notes/solar-website/</guid>
       <description>&lt;p&gt;Last month I came across a quirky little website.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://solar.lowtechmagazine.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Low Tech Magazine&lt;/a&gt; is a website that explores forgotten tech and energy sustainability.&lt;/p&gt;
 &lt;p&gt;Articles on the website are split into three main categories; &lt;a href=&#34;https://solar.lowtechmagazine.com/low-tech-solutions/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Low-tech solutions&lt;/a&gt;, &lt;a href=&#34;https://solar.lowtechmagazine.com/high-tech-problems/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;High-tech problems&lt;/a&gt; and &lt;a href=&#34;https://solar.lowtechmagazine.com/obsolete-technology/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Obsolete Technology&lt;/a&gt;.&lt;/p&gt;

@@ -2,17 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Akash Goswami</title>
-    <link>http://localhost:1313/</link>
+    <link>https://akashgoswami.com/</link>
     <description>Recent content in Home on Akash Goswami</description>
     <generator>Hugo -- gohugo.io</generator>
     <language></language>
-    <lastBuildDate>Sun, 07 Jul 2024 14:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Aug 2024 12:48:00 +0000</lastBuildDate><atom:link href="https://akashgoswami.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This site now uses Plausible Analytics</title>
+      <link>https://akashgoswami.com/notes/plausible/</link>
+      <pubDate>Mon, 19 Aug 2024 12:48:00 +0000</pubDate>
+      
+      <guid>https://akashgoswami.com/notes/plausible/</guid>
+      <description>&lt;p&gt;This website now uses &lt;a href=&#34;https://plausible.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Plausible Analytics&lt;/a&gt; instead of Google Analytics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Automating My /Now Page</title>
+      <link>https://akashgoswami.com/notes/automation-now-blog-post/</link>
+      <pubDate>Mon, 19 Aug 2024 12:45:00 +0000</pubDate>
+      
+      <guid>https://akashgoswami.com/notes/automation-now-blog-post/</guid>
+      <description>&lt;p&gt;Around the start of this year, I put together a &lt;a href=&#34;https://github.com/skyth3r/automate-now&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Go script to automatically update my now page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I &lt;a href=&#34;https://akashgoswami.com/notes/automating-now&#34; &gt;posted a note&lt;/a&gt; about it on my website and planned to eventually do a write up on how I did it.&lt;/p&gt;
+&lt;p&gt;Last friday, I finally posted the deep dive on my developer website under the title &lt;a href=&#34;https://akashgoswami.dev/posts/automating-my-now-page/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Automating my /now page&lt;/a&gt; and decided to cross post it to a few places, including &lt;a href=&#34;https://news.ycombinator.com/item?id=41264716#41270859&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Hacker News&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This was my first time posting something I&amp;rsquo;d written on Hacker News, so I was surprised to find out that I eneded up hitting the front page of Hacker News as the third post in the list.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://akashgoswami.com/notes/automate_now_stats.png&#34; alt=&#34;A screenshot showing my post listed as the third item on the front page of Hacker news along side with web analytics data from Plausible showing that the post has received over 9k views&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This ended up leading to &lt;strong&gt;over 9,000 people clicking through to my post&lt;/strong&gt; 🤯.&lt;/p&gt;
+&lt;p&gt;Overall the feedback was quite positive and I even received a few encouraging comments&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://akashgoswami.com/notes/automate_now_comments.png&#34; alt=&#34;Comments people made about my post&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Automating Now</title>
+      <link>https://akashgoswami.com/notes/automating-now/</link>
+      <pubDate>Mon, 19 Aug 2024 12:45:00 +0000</pubDate>
+      
+      <guid>https://akashgoswami.com/notes/automating-now/</guid>
+      <description>&lt;p&gt;A quick little website update.&lt;/p&gt;
+&lt;p&gt;My &lt;a href=&#34;https://akashgoswami.com/now&#34; &gt;now&lt;/a&gt; page on this website is automatically updated daily 🎉&lt;/p&gt;
+&lt;p&gt;The travel and media sections are now updated daily with the lastest places I&amp;rsquo;ve been and the lastest things I&amp;rsquo;ve watched, read and played as well!&lt;/p&gt;
+&lt;p&gt;The idea to automate my now page comes from seeing other folks trying to do the same, but I was mainly inspired by &lt;a href=&#34;https://rknight.me/blog/automating-my-now-page/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Robb Knight&lt;/a&gt; and &lt;a href=&#34;https://localghost.dev/blog/everything-should-have-an-api-adventures-in-trying-to-automate-stuff/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Sophie Koonin&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This data is obtained from a few different sources. If you want to know more about how it works, you can checkout the Go script I wrote &lt;a href=&#34;https://github.com/Skyth3r/automate-now&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;here on GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I plan on putting a small guide together on how to use it to automate your own now page as well as a detailed deep dive post to explain how I got it all working and what some of the challenges were with this project soon.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Update:&lt;/strong&gt; I got around to writing the post on how I did this using a Go and GitHub Actions. You can read more about &lt;a href=&#34;https://akashgoswami.dev/posts/automating-my-now-page/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;how I automated my now page here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>Buying a bike</title>
-      <link>http://localhost:1313/articles/buying-a-bike/</link>
+      <link>https://akashgoswami.com/articles/buying-a-bike/</link>
       <pubDate>Sun, 07 Jul 2024 14:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/articles/buying-a-bike/</guid>
+      <guid>https://akashgoswami.com/articles/buying-a-bike/</guid>
       <description>&lt;p&gt;Last year I debated about getting a new bicycle after 10 years of not owning a bike, but after doing some cycling in Amsterdam while away on &lt;a href=&#34;https://akashgoswami.com/articles/sabbatical-leave-part-1/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;sabbatical&lt;/a&gt;, I finally bought a bike last summer and it’s been my favourite purchase I’ve made in a while.&lt;/p&gt;
 &lt;h2 id=&#34;why-i-cycle&#34;&gt;Why I cycle&lt;/h2&gt;
 &lt;p&gt;There are few reasons I’ve started cycling again. The first is just that I just really enjoy cycling. I had a mountain bike growing up but at some point, I ended up leaving my bike out in the rain for too long and it ended up rusting away. It’s been over 10 years since I’ve owned a bike, so I thought now would be a great time to get back into cycling.&lt;/p&gt;
@@ -44,17 +87,17 @@
     
     <item>
       <title>Initial thoughts on Robinhood UK</title>
-      <link>http://localhost:1313/articles/initial-thoughts-on-robinhood-uk/</link>
+      <link>https://akashgoswami.com/articles/initial-thoughts-on-robinhood-uk/</link>
       <pubDate>Tue, 19 Mar 2024 22:55:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/articles/initial-thoughts-on-robinhood-uk/</guid>
+      <guid>https://akashgoswami.com/articles/initial-thoughts-on-robinhood-uk/</guid>
       <description>&lt;p&gt;This week, &lt;a href=&#34;https://robinhood.com/gb/en/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Robinhood&lt;/a&gt;, a US-based stock trading app, went &lt;a href=&#34;https://www.cityam.com/robinhood-launches-to-uk-customers/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;live in the UK&lt;/a&gt;. As someone who is very much interested in investing and having tried out other app-based investment platforms in the past, I thought it would be a good idea to share my thoughts on the platform and if it’s worth using.&lt;/p&gt;
 &lt;p&gt;Funny enough, I had just watched &lt;a href=&#34;https://letterboxd.com/film/dumb-money/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Dumb Money&lt;/a&gt;, covering the GameStop sage in 2021 on a flight back from South Africa yesterday so Robinhood’s UK launch is a well-timed surprise.&lt;/p&gt;
 &lt;h2 id=&#34;the-website&#34;&gt;The website&lt;/h2&gt;
 &lt;p&gt;Let’s first have a look at Robinhood’s website for its UK launch.&lt;/p&gt;
 &lt;h3 id=&#34;the-hero-section&#34;&gt;The hero section&lt;/h3&gt;
 &lt;p&gt;Upon the first visit to the UK Robinhood website, you’re greeted by a well-designed hero image of London, featuring Big Ben, the river Thames and a glimpse of the London Eye on the right. The main title features Robinhood’s key promised feature ‘Trade US stocks without commission or FX fees’.
-&lt;img src=&#34;http://localhost:1313/img/initial-thoughts-on-robinhood/hero.png&#34; alt=&#34;Robinhood UK website, hero section&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://akashgoswami.com/img/initial-thoughts-on-robinhood/hero.png&#34; alt=&#34;Robinhood UK website, hero section&#34;&gt;&lt;/p&gt;
 &lt;h4 id=&#34;other-costs&#34;&gt;Other Costs&lt;/h4&gt;
 &lt;p&gt;Underneath that is a hyperlink stating ‘Other costs apply’ and that capital is at risk. Pretty standard for a stock trading platform. Clicking the ‘Other costs apply’ link takes you to &lt;a href=&#34;https://cdn.robinhood.com/assets/robinhood/legal/RHUK_Fee_Schedule.pdf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;a PDF that lists a few fees Robinhood does charge&lt;/a&gt;. Most of these fees are listed as $0 except for the Regulatory Trading Fees section and a single fee/rate under the Margin section.&lt;/p&gt;
 &lt;p&gt;The two fees under Regulatory Trading Fees are a regulatory fee of $8.00 per $1,000,000 of principal (sells only), rounded up to the nearest penny and a trading activity fee of $0.000166 per share (sells only), rounded up to the nearest penny and no greater than $8.30. These fees are set by US law and regulation outside of Robinhood’s control and there are similar fees when you buy UK stocks. Additionally, there are some small disclaimers for each of these fees.&lt;/p&gt;
@@ -66,7 +109,7 @@
 &lt;p&gt;Pretty standard stuff.&lt;/p&gt;
 &lt;h5 id=&#34;exchange-rate-fees&#34;&gt;&lt;strong&gt;Exchange Rate Fees&lt;/strong&gt;&lt;/h5&gt;
 &lt;p&gt;This one isn’t listed on the PDF but rather further down the home page under the comparison, table Robinhood has listed. Since Robinhood offers stock trading in US stocks, and most UK investors will not have access to a USD funding source, there’s going to be a need to convert pounds to dollars and vice versa.
-&lt;img src=&#34;http://localhost:1313/img/initial-thoughts-on-robinhood/third-party-cost.png&#34; alt=&#34;Third party cost disclaimer under comparison table&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://akashgoswami.com/img/initial-thoughts-on-robinhood/third-party-cost.png&#34; alt=&#34;Third party cost disclaimer under comparison table&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Robinhood holds funds in USD and thus charges a 0.03% ‘third party cost’ (translation - fee by third party exchange provider) that will be included in the exchange rate. Technically this would mean that Robinhood has an FX fee, but this fee goes to the third-party exchange company that exchanges your money from pounds to USD as a service fee and that this is not something Robinhood themselves control or profit from.&lt;/p&gt;
 &lt;p&gt;By comparison, Trading212 charges a 0.15% currency conversion rate fee when buying shares that require a currency conversion (e.g. buying US stocks in USD via an account that holds funds in GBP). Robinhood’s fee is 80% lower in comparison.&lt;/p&gt;
 &lt;h3 id=&#34;featured-benefits&#34;&gt;Featured benefits&lt;/h3&gt;
@@ -78,16 +121,16 @@
 &lt;p&gt;At the time of writing this, the current base rate from the Bank of England is 5.25%. Most banks trying to acquire new deposits will offer a rate on instant access savings accounts that is just below the base rate in the UK.&lt;/p&gt;
 &lt;p&gt;Robinhood is doing the same thing here but since the money is held in a USD account, the interest being earned comes from the US Fed interest rate which currently sits at 5.50%, a little higher than the base rate from the Bank of England.&lt;/p&gt;
 &lt;p&gt;Additionally, Robinhood is making use of a partner bank network made up of 12 banks to offer a combined FDIC insurance coverage of 2.25 million USD. This isn’t mentioned on the UK website but if you check the &lt;a href=&#34;https://robinhood.com/us/en/gold/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;FAQ section for Robinhood Gold&lt;/a&gt; on the US website, it mentions this and how it works
-&lt;img src=&#34;http://localhost:1313/img/initial-thoughts-on-robinhood/gold-fdic-insureance.png&#34; alt=&#34;Robinhood US Gold, Q - How can you give 9x the FDIC insurance of a standard bank s $250K? A - That&amp;rsquo;s easy&amp;hellip;we&amp;rsquo;ve got 12 partner banks so you can enjoy a combined coverage of up to $2.25 million FDIC insurance across all of them.&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://akashgoswami.com/img/initial-thoughts-on-robinhood/gold-fdic-insureance.png&#34; alt=&#34;Robinhood US Gold, Q - How can you give 9x the FDIC insurance of a standard bank s $250K? A - That&amp;rsquo;s easy&amp;hellip;we&amp;rsquo;ve got 12 partner banks so you can enjoy a combined coverage of up to $2.25 million FDIC insurance across all of them.&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Just bear in mind that, if you have any accounts with any of these partner banks then the $250,000 FDIC insurance (per partner bank) is shared across all accounts to hold with this partner bank, but it is highly unlikely that this will apply to the majority of UK investors who will not have a USD checking account before signing up to Robinhood).&lt;/p&gt;
 &lt;p&gt;This also means that the UK’s Financial Services Compensation Scheme (FSCS), which protects up to £85,000 does &lt;strong&gt;NOT&lt;/strong&gt; apply to this account since it is not a UK trading account (technically).&lt;/p&gt;
 &lt;p&gt;Excluding the 0.03% deposit and withdrawal ‘third party cost’ fee, this could make Robinhood a competitive savings account provider, although the FAQs on Robinhood Gold also mention that withdrawals can take up to 4-5 days (or pay a 1.5% fee for an instant withdrawal) but I didn’t see this mentioned anywhere on the UK website.
-&lt;img src=&#34;http://localhost:1313/img/initial-thoughts-on-robinhood/withdrawals.png&#34; alt=&#34;Robinhood US Gold, Q - Is it hard to withdraw my cash? How long does it take to get it out? A - It&amp;rsquo;s your money, you can access your money whenever you want. Bank transfers can take up to 4-5 days or you can choose the instant withdrawal option for a 1.5% fee.&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://akashgoswami.com/img/initial-thoughts-on-robinhood/withdrawals.png&#34; alt=&#34;Robinhood US Gold, Q - Is it hard to withdraw my cash? How long does it take to get it out? A - It&amp;rsquo;s your money, you can access your money whenever you want. Bank transfers can take up to 4-5 days or you can choose the instant withdrawal option for a 1.5% fee.&#34;&gt;&lt;/p&gt;
 &lt;h4 id=&#34;free-stocks&#34;&gt;Free stocks&lt;/h4&gt;
 &lt;p&gt;It’s quite normal for trading platforms to offer a free share if you’ve been referred to an account via a refer-a-friend program (which was funnily enough made popular by Robinhood in the US).&lt;/p&gt;
 &lt;p&gt;Surprisingly, also claims to offer a free fractional share when you sign up to Robinhood in addition to the Refer a Friend program (normally there are no free shares given if you do not sign up via a referral link with other investment platforms).&lt;/p&gt;
 &lt;p&gt;The terms state that you can be offered between $7-$175 if you sign up and fund your account. They also state that 96% of participants will receive a cash value of $7 to $8 (net), and provide a handy table to see your probability of what the value of your free share will be.
-&lt;img src=&#34;http://localhost:1313/img/initial-thoughts-on-robinhood/reward-probability.png&#34; alt=&#34;Reward probability table&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://akashgoswami.com/img/initial-thoughts-on-robinhood/reward-probability.png&#34; alt=&#34;Reward probability table&#34;&gt;&lt;/p&gt;
 &lt;p&gt;You’ll be able to apply this cash to purchase a share from 22 stocks (selected by choosing the 2 largest S&amp;amp;P 500 companies within the top 11 sectors based on market cap).&lt;/p&gt;
 &lt;h4 id=&#34;24-hour-trading-on-weekdays&#34;&gt;24-hour trading (on weekdays)&lt;/h4&gt;
 &lt;p&gt;Robinhood also boasts that you can trade 24 hours, 5 days a week with a disclaimer that additional risks apply to trades made outside of regular market hours. A nice feature but personally I stick to making all my investment trading during regular market hours so this isn’t something I’m interested in.&lt;/p&gt;
@@ -101,7 +144,7 @@
 &lt;p&gt;&lt;a href=&#34;https://www.cnet.com/personal-finance/banking/robinhood-20-million-settlement-who-is-eligible-for-money/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Robinhood faced a 20 million dollar class action lawsuit&lt;/a&gt; where around 40,000 customers said their accounts had been hacked. They also faced &lt;a href=&#34;https://newsroom.aboutrobinhood.com/robinhood-announces-data-security-incident-update/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;a data breach where the data of 7 million investors were stolen&lt;/a&gt; via a social engineering attack on a customer support employee.&lt;/p&gt;
 &lt;p&gt;Robinhood’s security practices seem to have gotten a lot better since then. Robinhood claims to cover 100% of direct losses due to unauthorised account activity that is not &lt;strong&gt;your&lt;/strong&gt; fault (this is legal speak for, you better use a unique password and enable two-factor authentication).&lt;/p&gt;
 &lt;p&gt;What surprised me was that Robinhood offered me the ability to create a passkey for accessing my Robinhood account after I had created it. A nice (and secure) addition that gets a thumbs-up from me.
-&lt;img src=&#34;http://localhost:1313/img/initial-thoughts-on-robinhood/robinhood-passkey.png&#34; alt=&#34;Robinhood passkey creation&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://akashgoswami.com/img/initial-thoughts-on-robinhood/robinhood-passkey.png&#34; alt=&#34;Robinhood passkey creation&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;learning&#34;&gt;Learning&lt;/h3&gt;
 &lt;p&gt;Below the protection commitments section is the final section on the home page, &lt;a href=&#34;https://learn.robinhood.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Robinhood Learn&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Robinhood Learn offers a large assortment of articles to learn more about the various parts of investing. If you’re new to investing, this is a great place to start.&lt;/p&gt;
@@ -110,7 +153,7 @@
 &lt;p&gt;I decided to sign up for a Robinhood UK account and noticed a few things during the signup flow I thought were worth mentioning.&lt;/p&gt;
 &lt;h3 id=&#34;pre-selected-margin-account-signup&#34;&gt;Pre-selected Margin Account Signup&lt;/h3&gt;
 &lt;p&gt;Most of the signup flow is pretty standard (and well-designed in my opinion), but there was one part on the final step of creating the account that alarmed me. On the final part of the Brokerage account application page, I noticed that a box was preselected, ‘Robinhood Margin Account Agreement’.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/initial-thoughts-on-robinhood/margin-account.png&#34; alt=&#34;Pre-selected margin account&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://akashgoswami.com/img/initial-thoughts-on-robinhood/margin-account.png&#34; alt=&#34;Pre-selected margin account&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Leaving this option ticked would create a margin account instead of a ‘Non-Margin account’.&lt;/p&gt;
 &lt;p&gt;I think it’s pretty sneaky having this option pre-selected without really explaining the risks that come with a margin trading account. There are large risks that come with margin trading and in addition to that Robinhood also charges that 12% margin rate they mentioned in their ‘other costs’ if you end up using this feature.&lt;/p&gt;
 &lt;p&gt;Turns out that I was right to be alarmed by this because, on the same day, Robinhood announced it was going live in the UK, they ended up &lt;a href=&#34;https://www.reuters.com/technology/trading-app-robinhood-drops-margin-investing-uk-launch-2024-03-19/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;pausing their plans to lend to UK-based customers pending talks with regulators&lt;/a&gt;.&lt;/p&gt;
@@ -122,7 +165,7 @@
 &lt;p&gt;I’ve signed up for dozens of fintech apps and they all follow a similar identification verification process. Take a photo of your ID and take a video or photo of yourself.&lt;/p&gt;
 &lt;p&gt;There was one part of Robinhood’s process that threw me off, however…&lt;/p&gt;
 &lt;p&gt;Robinhood asked me for a photo of my ‘tax document’.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/initial-thoughts-on-robinhood/tax-document.png&#34; alt=&#34;tax document&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://akashgoswami.com/img/initial-thoughts-on-robinhood/tax-document.png&#34; alt=&#34;tax document&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Most investment platforms will ask for a NIN (National Insurance number) but Robinhood also wanted a colour photo of a paper copy of either a payslip, P45 or P60. This is the first time I’ve ever been asked for this. Thankfully I was able to print out a copy fairly quickly and continue with the application process.&lt;/p&gt;
 &lt;h3 id=&#34;accessing-the-app&#34;&gt;Accessing the app&lt;/h3&gt;
 &lt;p&gt;After submitting that, my account application is still in review, but in the meantime, I have been granted access to other parts of the app. Right now I’m able to view stocks in the app and read the latest news on various stocks as well. All that’s left now is for my account to be approved.&lt;/p&gt;
@@ -142,26 +185,11 @@
     </item>
     
     <item>
-      <title>Automating Now</title>
-      <link>http://localhost:1313/notes/automating-now/</link>
-      <pubDate>Thu, 22 Feb 2024 21:35:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/notes/automating-now/</guid>
-      <description>&lt;p&gt;A quick little website update.&lt;/p&gt;
-&lt;p&gt;My &lt;a href=&#34;http://localhost:1313/now&#34; &gt;now&lt;/a&gt; page on this website is automatically updated daily 🎉&lt;/p&gt;
-&lt;p&gt;The travel and media sections are now updated daily with the lastest places I&amp;rsquo;ve been and the lastest things I&amp;rsquo;ve watched, read and played as well!&lt;/p&gt;
-&lt;p&gt;The idea to automate my now page comes from seeing other folks trying to do the same, but I was mainly inspired by &lt;a href=&#34;https://rknight.me/blog/automating-my-now-page/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Robb Knight&lt;/a&gt; and &lt;a href=&#34;https://localghost.dev/blog/everything-should-have-an-api-adventures-in-trying-to-automate-stuff/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Sophie Koonin&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;This data is obtained from a few different sources. If you want to know more about how it works, you can checkout the Go script I wrote &lt;a href=&#34;https://github.com/Skyth3r/automate-now&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;here on GitHub&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;I plan on putting a small guide together on how to use it to automate your own now page as well as a detailed deep dive post to explain how I got it all working and what some of the challenges were with this project soon.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Remove files from Git history</title>
-      <link>http://localhost:1313/notes/remove-files-from-git-history/</link>
+      <link>https://akashgoswami.com/notes/remove-files-from-git-history/</link>
       <pubDate>Thu, 18 Jan 2024 12:05:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/notes/remove-files-from-git-history/</guid>
+      <guid>https://akashgoswami.com/notes/remove-files-from-git-history/</guid>
       <description>&lt;p&gt;A note for myself because I know I&amp;rsquo;ll probably do it again in the future&amp;hellip;&lt;/p&gt;
 &lt;p&gt;I managed to accidently commited a text file to a repository and pushed it to GitHub 🤦🏽‍♂️&lt;/p&gt;
 &lt;p&gt;While it didn&amp;rsquo;t contain any sensitive data, I still wanted to remove it from the repository&amp;rsquo;s history. I found &lt;a href=&#34;https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;this guide on GitHub&lt;/a&gt; and these are the exact steps I followed to resolve this issue.&lt;/p&gt;
@@ -189,10 +217,10 @@
     
     <item>
       <title>RSS Feeds</title>
-      <link>http://localhost:1313/notes/rss-feeds/</link>
+      <link>https://akashgoswami.com/notes/rss-feeds/</link>
       <pubDate>Fri, 12 Jan 2024 18:17:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/notes/rss-feeds/</guid>
+      <guid>https://akashgoswami.com/notes/rss-feeds/</guid>
       <description>&lt;p&gt;Recently I&amp;rsquo;ve been thinking a lot about RSS (Really Simple Syndication) feeds.&lt;/p&gt;
 &lt;p&gt;There&amp;rsquo;s a lot of cool stuff you can do with RSS feeds. I read a post by Robb Knight, about how he &lt;a href=&#34;https://rknight.me/blog/automating-my-now-page/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;automated his now page&lt;/a&gt;, which led to &lt;a href=&#34;https://localghost.dev/blog/everything-should-have-an-api-adventures-in-trying-to-automate-stuff/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Sophie automating her now page as well&lt;/a&gt;. I was thinking of how I could do the same using services that offer RSS feeds.&lt;/p&gt;
 &lt;p&gt;I would love to be able to automate the Movies, TV Shows and Video Games sections of my now page. So far I&amp;rsquo;ve found that Letterboxd offers an RSS feed for movies and Backloggd offers an RSS feed for a user&amp;rsquo;s reviewed games but not for their &amp;lsquo;Currently playing&amp;rsquo; games. I&amp;rsquo;m still exploring what would be the best solution to use for books and TV shows.&lt;/p&gt;
@@ -206,10 +234,10 @@
     
     <item>
       <title>You Got This Scraper</title>
-      <link>http://localhost:1313/portfolio/you-got-this-scraper/</link>
+      <link>https://akashgoswami.com/portfolio/you-got-this-scraper/</link>
       <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/portfolio/you-got-this-scraper/</guid>
+      <guid>https://akashgoswami.com/portfolio/you-got-this-scraper/</guid>
       <description>&lt;p&gt;A Python script to scrape the metadata from the &lt;a href=&#34;https://yougotthis.io/library&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;You Got This library&lt;/a&gt; and output the formatted data into a txt file that can be used in &lt;a href=&#34;https://obsidian.md/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Obsidian&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/Skyth3r/You-Got-This-Scraper&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;View the code here&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -217,10 +245,10 @@
     
     <item>
       <title>A note from Sage</title>
-      <link>http://localhost:1313/z/sage/</link>
+      <link>https://akashgoswami.com/z/sage/</link>
       <pubDate>Mon, 18 Dec 2023 13:44:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/z/sage/</guid>
+      <guid>https://akashgoswami.com/z/sage/</guid>
       <description>&lt;p&gt;Hkjjjjkjn, c kasch a mnxç,mcmzzd. .mx
 X&lt;br&gt;
 X;x
@@ -233,10 +261,10 @@ Du mlf mncv ;Leclerc ,c,d&lt;/p&gt;
     
     <item>
       <title>A note from Nova</title>
-      <link>http://localhost:1313/z/nova/</link>
+      <link>https://akashgoswami.com/z/nova/</link>
       <pubDate>Wed, 13 Dec 2023 09:30:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/z/nova/</guid>
+      <guid>https://akashgoswami.com/z/nova/</guid>
       <description>&lt;p&gt;ujhgmngnggnngggngn
 kbnkn nl;l
 ;l&lt;/p&gt;
@@ -250,10 +278,10 @@ l&lt;/p&gt;
     
     <item>
       <title>Japan Tips</title>
-      <link>http://localhost:1313/z/japan-tips/</link>
+      <link>https://akashgoswami.com/z/japan-tips/</link>
       <pubDate>Thu, 21 Sep 2023 10:24:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/z/japan-tips/</guid>
+      <guid>https://akashgoswami.com/z/japan-tips/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Note: This is a work in progress page&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Some tips for visiting Japan.&lt;/p&gt;
 &lt;h2 id=&#34;general-tips&#34;&gt;General Tips&lt;/h2&gt;
@@ -334,10 +362,10 @@ l&lt;/p&gt;
     
     <item>
       <title>An eSim database!</title>
-      <link>http://localhost:1313/notes/esimdb/</link>
+      <link>https://akashgoswami.com/notes/esimdb/</link>
       <pubDate>Sun, 17 Sep 2023 08:40:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/notes/esimdb/</guid>
+      <guid>https://akashgoswami.com/notes/esimdb/</guid>
       <description>&lt;p&gt;Last year I came across a handly little app called &lt;a href=&#34;https://www.airalo.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Airalo&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Airalo lets you install data only eSims on your phone - perfect for a trip abroad.&lt;/p&gt;
 &lt;p&gt;It&amp;rsquo;s always been my go to since (most) mobile networks in the UK re-introuduced roaming fees.&lt;/p&gt;
@@ -349,10 +377,10 @@ l&lt;/p&gt;
     
     <item>
       <title>A solar powered website</title>
-      <link>http://localhost:1313/notes/solar-website/</link>
+      <link>https://akashgoswami.com/notes/solar-website/</link>
       <pubDate>Fri, 15 Sep 2023 21:32:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/notes/solar-website/</guid>
+      <guid>https://akashgoswami.com/notes/solar-website/</guid>
       <description>&lt;p&gt;Last month I came across a quirky little website.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://solar.lowtechmagazine.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Low Tech Magazine&lt;/a&gt; is a website that explores forgotten tech and energy sustainability.&lt;/p&gt;
 &lt;p&gt;Articles on the website are split into three main categories; &lt;a href=&#34;https://solar.lowtechmagazine.com/low-tech-solutions/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Low-tech solutions&lt;/a&gt;, &lt;a href=&#34;https://solar.lowtechmagazine.com/high-tech-problems/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;High-tech problems&lt;/a&gt; and &lt;a href=&#34;https://solar.lowtechmagazine.com/obsolete-technology/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Obsolete Technology&lt;/a&gt;.&lt;/p&gt;
@@ -366,10 +394,10 @@ l&lt;/p&gt;
     
     <item>
       <title>Apple Watch Double Tap</title>
-      <link>http://localhost:1313/notes/apple-watch-double-tap/</link>
+      <link>https://akashgoswami.com/notes/apple-watch-double-tap/</link>
       <pubDate>Fri, 15 Sep 2023 14:20:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/notes/apple-watch-double-tap/</guid>
+      <guid>https://akashgoswami.com/notes/apple-watch-double-tap/</guid>
       <description>&lt;p&gt;On 12th September 2023, Apple announced the new Apple Watch Series 9 with a new double tap guesture.&lt;/p&gt;
 &lt;p&gt;Except&amp;hellip;this new guesture isn&amp;rsquo;t actually new. You can enable it on your Apple Watch (Series 4 and later, Apple Watch SE and later, and Apple Watch Ultra) already.&lt;/p&gt;
 &lt;p&gt;On the Apple Watch app on your iPhone, head to Settings &amp;gt; Accessibility &amp;gt; AssistiveTouch and then toggle &amp;lsquo;Hand Gestures&amp;rsquo; on. You can now control your entire Apple Watch with one hand using the Pinch, Double Pinch, Clench and Double Clench gestures.&lt;/p&gt;
@@ -380,10 +408,10 @@ l&lt;/p&gt;
     
     <item>
       <title>Arc&#39;s secert reader mode</title>
-      <link>http://localhost:1313/notes/arc-reader-mode/</link>
+      <link>https://akashgoswami.com/notes/arc-reader-mode/</link>
       <pubDate>Sat, 09 Sep 2023 15:20:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/notes/arc-reader-mode/</guid>
+      <guid>https://akashgoswami.com/notes/arc-reader-mode/</guid>
       <description>&lt;p&gt;One of the features I&amp;rsquo;ve always liked in Apple&amp;rsquo;s Safari web browser is the &lt;a href=&#34;https://support.apple.com/en-gb/guide/safari/sfri32632/mac&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Safari Reader mode&lt;/a&gt;, which removes ads, navigation or other distracting elements from a web page.&lt;/p&gt;
 &lt;p&gt;This works perfectly for me on iOS but on my laptop, I mainly use Google Chrome and Arc for my web browsing.&lt;/p&gt;
 &lt;p&gt;Chrome has a reader type view hidden under &lt;code&gt;chrome://flags&lt;/code&gt; and by then searching for &amp;lsquo;reading mode&amp;rsquo; but it&amp;rsquo;s still a bit complicated to enable and doesn&amp;rsquo;t provide the same view as Safari&amp;rsquo;s web browser.&lt;/p&gt;
@@ -394,29 +422,29 @@ l&lt;/p&gt;
     
     <item>
       <title>Houston, we have notes!</title>
-      <link>http://localhost:1313/articles/adding-notes/</link>
+      <link>https://akashgoswami.com/articles/adding-notes/</link>
       <pubDate>Sat, 09 Sep 2023 09:42:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/articles/adding-notes/</guid>
+      <guid>https://akashgoswami.com/articles/adding-notes/</guid>
       <description>&lt;p&gt;In addition to the articles, I’ve decided to add a notes section to the website now. There are times when I wanted to write a short piece about something but it didn’t feel right to put it in the articles section of the website.&lt;/p&gt;
 &lt;p&gt;Sometimes I just want to…note something down.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Hence the &lt;a href=&#34;http://localhost:1313/notes&#34; &gt;notes section&lt;/a&gt;!&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Hence the &lt;a href=&#34;https://akashgoswami.com/notes&#34; &gt;notes section&lt;/a&gt;!&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;what-are-notes-meant-to-be&#34;&gt;What are notes meant to be?&lt;/h2&gt;
 &lt;p&gt;Notes will be short pieces of writing. Most likely a couple of lines long.&lt;/p&gt;
 &lt;p&gt;They’ll basically be my equivalent of a tweet.&lt;/p&gt;
 &lt;p&gt;If a note ends up getting too long, I might decide to nudge it over to the articles section.&lt;/p&gt;
 &lt;h2 id=&#34;notes-rss-feed&#34;&gt;Notes RSS feed&lt;/h2&gt;
-&lt;p&gt;Thanks to &lt;a href=&#34;http://localhost:1313/articles/building-websites-with-hugo&#34; &gt;Hugo&lt;/a&gt;, a new RSS feed is auto-magically generated for notes.
-If you want to subscribe to it, here’s the &lt;a href=&#34;http://localhost:1313/notes/index.xml&#34; &gt;notes RSS feed link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Thanks to &lt;a href=&#34;https://akashgoswami.com/articles/building-websites-with-hugo&#34; &gt;Hugo&lt;/a&gt;, a new RSS feed is auto-magically generated for notes.
+If you want to subscribe to it, here’s the &lt;a href=&#34;https://akashgoswami.com/notes/index.xml&#34; &gt;notes RSS feed link&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Use an adblocker</title>
-      <link>http://localhost:1313/notes/adblocker/</link>
+      <link>https://akashgoswami.com/notes/adblocker/</link>
       <pubDate>Sat, 09 Sep 2023 09:30:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/notes/adblocker/</guid>
+      <guid>https://akashgoswami.com/notes/adblocker/</guid>
       <description>&lt;p&gt;You should be using an adblocker.&lt;/p&gt;
 &lt;p&gt;Not because ads are bad (although some are really annoying), but because even &lt;a href=&#34;https://techcrunch.com/2022/12/22/fbi-ad-blocker/?guccounter=1&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;the FBI recommend using one for security&lt;/a&gt; now.&lt;/p&gt;
 &lt;p&gt;Use &lt;a href=&#34;https://ublockorigin.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;uBlock Origin&lt;/a&gt; and block those scam adverts that pop up at the top of search results.&lt;/p&gt;
@@ -425,10 +453,10 @@ If you want to subscribe to it, here’s the &lt;a href=&#34;http://localhost:13
     
     <item>
       <title>DRM free books</title>
-      <link>http://localhost:1313/articles/removing-drm-from-kindle-books/</link>
+      <link>https://akashgoswami.com/articles/removing-drm-from-kindle-books/</link>
       <pubDate>Mon, 21 Aug 2023 17:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/articles/removing-drm-from-kindle-books/</guid>
+      <guid>https://akashgoswami.com/articles/removing-drm-from-kindle-books/</guid>
       <description>&lt;p&gt;I really enjoy reading books on my Kindle. I also buy most of my digital books via Amazon. I never thought about making DRM-free copies of my eBooks until I read about how &lt;a href=&#34;https://medium.com/@bjax_/a-tale-of-unwanted-disruption-my-week-without-amazon-df1074e3818b&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;an engineer had his Amazon account suspended&lt;/a&gt; due to a delivery driver&amp;rsquo;s false claim.&lt;/p&gt;
 &lt;p&gt;That really got me thinking about how I would feel if I lost access to my Amazon account. I’ve purchased most of my ebooks from Amazon. Losing access would mean losing the majority of my digital library.&lt;/p&gt;
 &lt;p&gt;To avoid such a situation, I decided it was time to make a copy of the digital eBooks I purchased from Amazon.&lt;/p&gt;
@@ -477,10 +505,10 @@ If you want to subscribe to it, here’s the &lt;a href=&#34;http://localhost:13
     
     <item>
       <title>Sabbatical Leave (part 1)</title>
-      <link>http://localhost:1313/articles/sabbatical-leave-part-1/</link>
+      <link>https://akashgoswami.com/articles/sabbatical-leave-part-1/</link>
       <pubDate>Mon, 17 Jul 2023 08:30:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/articles/sabbatical-leave-part-1/</guid>
+      <guid>https://akashgoswami.com/articles/sabbatical-leave-part-1/</guid>
       <description>&lt;p&gt;I took 9 weeks off work. Of those 9 weeks, I spent 8 travelling. This is a summary of how I found my time off and what I did, things I learnt from my first long-term travel trip and my favourite highlights.&lt;/p&gt;
 &lt;h2 id=&#34;what-is-sabbatical-leave&#34;&gt;What is sabbatical leave?&lt;/h2&gt;
 &lt;p&gt;A quick 101 - sabbatical leave is an extended period of time away from work. Common reasons for taking sabbatical leave are to pursue interests outside of work; such as travelling, studying, volunteering or even just to take a break to just rest.&lt;/p&gt;
@@ -533,15 +561,15 @@ If you want to subscribe to it, here’s the &lt;a href=&#34;http://localhost:13
 &lt;p&gt;There were a lot of exciting moments from my trip. Here’s what were my top five:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Driving a go-kart down the streets of Tokyo
-&lt;img src=&#34;http://localhost:1313/img/sabbatical-leave/tokyo_go_karts.png&#34; alt=&#34;Me, sitting in a go-kart at an intersection of the Shibuya scramble crossing&#34;&gt;&lt;/li&gt;
+&lt;img src=&#34;https://akashgoswami.com/img/sabbatical-leave/tokyo_go_karts.png&#34; alt=&#34;Me, sitting in a go-kart at an intersection of the Shibuya scramble crossing&#34;&gt;&lt;/li&gt;
 &lt;li&gt;Climbing up Mt Batur at 4 am to watch the sunrise from the peak in Bali
-&lt;img src=&#34;http://localhost:1313/img/sabbatical-leave/mt_batur.png&#34; alt=&#34;A view of the valley covered in clouds from the peak of Mt Batur at 6 am in the morning&#34;&gt;&lt;/li&gt;
+&lt;img src=&#34;https://akashgoswami.com/img/sabbatical-leave/mt_batur.png&#34; alt=&#34;A view of the valley covered in clouds from the peak of Mt Batur at 6 am in the morning&#34;&gt;&lt;/li&gt;
 &lt;li&gt;Waking up at 4:30 am in the morning to an iconic photo of the Hōkan-ji Temple in Kyoto
-&lt;img src=&#34;http://localhost:1313/img/sabbatical-leave/hokan_ji.png&#34; alt=&#34;Sunrise photo of the Hōkan-ji Temple in Kyoto&#34;&gt;&lt;/li&gt;
+&lt;img src=&#34;https://akashgoswami.com/img/sabbatical-leave/hokan_ji.png&#34; alt=&#34;Sunrise photo of the Hōkan-ji Temple in Kyoto&#34;&gt;&lt;/li&gt;
 &lt;li&gt;Watching the sunset on a boat at Ha Long Bay in Vietnam
-&lt;img src=&#34;http://localhost:1313/img/sabbatical-leave/halong_bay.png&#34; alt=&#34;Sunset of the bay at Ha Long Bay in Vietnam&#34;&gt;&lt;/li&gt;
+&lt;img src=&#34;https://akashgoswami.com/img/sabbatical-leave/halong_bay.png&#34; alt=&#34;Sunset of the bay at Ha Long Bay in Vietnam&#34;&gt;&lt;/li&gt;
 &lt;li&gt;Taking a photo with this adorable chihuahua at the Senso-ji temple festive (Sanja Matsuri) in Tokyo
-&lt;img src=&#34;http://localhost:1313/img/sabbatical-leave/chihuahua.png&#34; alt=&#34;Photo of me holding a chihuahua wearing a costume with glasses for the Senso-ji temple festive (Sanja Matsuri)&#34;&gt;&lt;/li&gt;
+&lt;img src=&#34;https://akashgoswami.com/img/sabbatical-leave/chihuahua.png&#34; alt=&#34;Photo of me holding a chihuahua wearing a costume with glasses for the Senso-ji temple festive (Sanja Matsuri)&#34;&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;whats-next&#34;&gt;What’s next?&lt;/h2&gt;
 &lt;p&gt;I&amp;rsquo;m back at work now but I still have some sabbatical leave left to use. I&amp;rsquo;m planning on carrying it over to next year and using it for a trip to South Africa. I&amp;rsquo;ll likely also do a few smaller trips across Europe before that though.&lt;/p&gt;
@@ -554,10 +582,10 @@ If you want to subscribe to it, here’s the &lt;a href=&#34;http://localhost:13
     
     <item>
       <title>Customising my Hugo Theme</title>
-      <link>http://localhost:1313/articles/customising-my-hugo-theme/</link>
+      <link>https://akashgoswami.com/articles/customising-my-hugo-theme/</link>
       <pubDate>Mon, 30 Jan 2023 21:45:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/articles/customising-my-hugo-theme/</guid>
+      <guid>https://akashgoswami.com/articles/customising-my-hugo-theme/</guid>
       <description>&lt;p&gt;My Hugo website uses the &lt;a href=&#34;https://github.com/apvarun/digital-garden-hugo-theme&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Digital Garden Hugo theme&lt;/a&gt; but I&amp;rsquo;ve made a few changes in addition to using the theme. I&amp;rsquo;ve listed these changes below both for myself to refer back to and for anyone else who might find these useful to include in their own Hugo website 👇🏽&lt;/p&gt;
 &lt;h2 id=&#34;updating-lastmod-text&#34;&gt;Updating lastmod text&lt;/h2&gt;
 &lt;p&gt;One of the first changes I made was to &lt;a href=&#34;https://github.com/Skyth3r/Skyth3r.github.io/commit/ee9926c786e458476524ac571be01a7ea6a38285&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;change the lastmod front matter text&lt;/a&gt; that was displayed on the theme. Previously it would default to showing &lt;code&gt;Pruned January 2, 2023&lt;/code&gt; on articles with the &lt;code&gt;lastmod&lt;/code&gt; front matter. After my change to the article single layout it now instead shows &lt;code&gt;Last tended to on January 2, 2023&lt;/code&gt;.&lt;/p&gt;
@@ -608,10 +636,10 @@ Reading time: {{ .ReadingTime }} {{ .Scratch.Get &amp;#34;readingTime&amp;#34; }
     
     <item>
       <title>Building websites with Hugo</title>
-      <link>http://localhost:1313/articles/building-websites-with-hugo/</link>
+      <link>https://akashgoswami.com/articles/building-websites-with-hugo/</link>
       <pubDate>Fri, 20 Jan 2023 08:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/articles/building-websites-with-hugo/</guid>
+      <guid>https://akashgoswami.com/articles/building-websites-with-hugo/</guid>
       <description>&lt;p&gt;In the last few months, there has been a flurry of activity around &lt;a href=&#34;https://www.theverge.com/23513418/bring-back-personal-blogging&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;personal blogs&lt;/a&gt; and &lt;a href=&#34;https://www.brycewray.com/posts/2022/11/own-your-stuff/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;owning your own data&lt;/a&gt;, since &lt;a href=&#34;https://www.theverge.com/23551060/elon-musk-twitter-takeover-layoffs-workplace-salute-emoji&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Musk took the reins of Twitter&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;With that, a lot of people have been wondering how they can start their own websites. Since re-launching my website, I&amp;rsquo;ve had people ask me how they can make their own website in the last few weeks. To avoid repeating myself, I&amp;rsquo;ve put together a guide on how you can build a website using Hugo and GitHub Pages.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://kinsta.com/blog/hugo-static-site/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Other guides exist&lt;/a&gt;, but this one covers how I&amp;rsquo;ve set up my website in a simple and easy-to-follow guide.&lt;/p&gt;
@@ -680,10 +708,10 @@ echo &amp;#34;theme = &amp;#39;hugo-bearblog&amp;#39;&amp;#34; &amp;gt;&amp;gt; 
     
     <item>
       <title>Why you need a personal website</title>
-      <link>http://localhost:1313/articles/why-you-need-a-personal-website/</link>
+      <link>https://akashgoswami.com/articles/why-you-need-a-personal-website/</link>
       <pubDate>Sun, 01 Jan 2023 09:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/articles/why-you-need-a-personal-website/</guid>
+      <guid>https://akashgoswami.com/articles/why-you-need-a-personal-website/</guid>
       <description>&lt;p&gt;Time and time again, we are shown that we cannot rely on third-party platforms to host our content.&lt;/p&gt;
 &lt;p&gt;The internet is constantly changing and with that, the platforms that host our content are constantly in flux. Platforms can fall just as quickly as they can rise, either by just going &lt;a href=&#34;https://indieweb.org/site-deaths&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;completely offline&lt;/a&gt; or by making drastic changes to how people interact with content on their site/platform.&lt;/p&gt;
 &lt;p&gt;There are countless examples of this happening in the past and more recently the 2022 Twitter meltdown has led to some massive changes. One of these changes is that the newsletter platform Twitter acquired just two years ago, Revue is now &lt;a href=&#34;https://www.theverge.com/2022/12/14/23509254/twitter-revue-shutdown-newsletter-data-deletion&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;shutting down&lt;/a&gt;.&lt;/p&gt;
@@ -703,7 +731,7 @@ echo &amp;#34;theme = &amp;#39;hugo-bearblog&amp;#39;&amp;#34; &amp;gt;&amp;gt; 
 &lt;p&gt;&lt;strong&gt;Robust &amp;amp; compact&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Because I&amp;rsquo;m using a static site generator for this website now, this has simplified a lot for me and has helped make the website a lot smaller and more compact. Due to its small size, I&amp;rsquo;m able to back up the entire site to several other code hosting/cloud storage platforms with ease. Currently, you can find this website on &lt;a href=&#34;https://github.com/Skyth3r/Skyth3r.github.io&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Additionally, using a static site generator has also done a lot of the heavy lifting when it comes to SEO optimisation and has drastically improved the website&amp;rsquo;s load times as pointed out by this speed test 👇🏽
-&lt;img src=&#34;http://localhost:1313/img/personal-website/pagespeed-insights-desktop-100.png&#34; alt=&#34;Pagespeed insights results desktop: 100% all pagespeed-insights-desktop-100-performace&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://akashgoswami.com/img/personal-website/pagespeed-insights-desktop-100.png&#34; alt=&#34;Pagespeed insights results desktop: 100% all pagespeed-insights-desktop-100-performace&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;what-to-expect-from-this-website&#34;&gt;What to expect from this website&lt;/h2&gt;
 &lt;p&gt;So what can you expect from this website then?&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m someone that has several interests and hobbies so I don&amp;rsquo;t want to box myself in with a particular theme or topic. My interests are not set in stone, and I expect them to change over time but there will likely be many recurring themes &amp;amp; topics I write about.&lt;/p&gt;
@@ -737,10 +765,10 @@ echo &amp;#34;theme = &amp;#39;hugo-bearblog&amp;#39;&amp;#34; &amp;gt;&amp;gt; 
     
     <item>
       <title>What you need to know about...Bitcoin</title>
-      <link>http://localhost:1313/archive/akashandmoney/bitcoin/</link>
+      <link>https://akashgoswami.com/archive/akashandmoney/bitcoin/</link>
       <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/archive/akashandmoney/bitcoin/</guid>
+      <guid>https://akashgoswami.com/archive/akashandmoney/bitcoin/</guid>
       <description>&lt;p&gt;Hey friends 👋&lt;/p&gt;
 &lt;p&gt;Let’s talk about Bitcoin.&lt;/p&gt;
 &lt;hr&gt;
@@ -820,8 +848,8 @@ echo &amp;#34;theme = &amp;#39;hugo-bearblog&amp;#39;&amp;#34; &amp;gt;&amp;gt; 
 &lt;p&gt;So that begs the question…&lt;em&gt;should you buy Bitcoin?&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;The answer (bearing in mind this isn’t financial advice) is maybe.&lt;/p&gt;
 &lt;p&gt;I personally think it depends on your individual circumstances…&lt;/p&gt;
-&lt;p&gt;For example, if you currently have little to no savings, I don’t think it’s a good idea to buy Bitcoin or any cryptocurrency and instead, you should focus on &lt;a href=&#34;http://localhost:1313/archive/akashandmoney/emergency-funds&#34; &gt;building up an emergency fund&lt;/a&gt;, first.&lt;/p&gt;
-&lt;p&gt;If you’re someone that already has some savings/an emergency fund, then I think it makes more sense to &lt;a href=&#34;http://localhost:1313/archive/akashandmoney/investing-101&#34; &gt;look into more traditional investments&lt;/a&gt; that are less risky and &lt;a href=&#34;http://localhost:1313/archive/akashandmoney/interesting-isas&#34; &gt;explore tax-efficient savings accounts&lt;/a&gt; such as a Stocks and Shares ISA.&lt;/p&gt;
+&lt;p&gt;For example, if you currently have little to no savings, I don’t think it’s a good idea to buy Bitcoin or any cryptocurrency and instead, you should focus on &lt;a href=&#34;https://akashgoswami.com/archive/akashandmoney/emergency-funds&#34; &gt;building up an emergency fund&lt;/a&gt;, first.&lt;/p&gt;
+&lt;p&gt;If you’re someone that already has some savings/an emergency fund, then I think it makes more sense to &lt;a href=&#34;https://akashgoswami.com/archive/akashandmoney/investing-101&#34; &gt;look into more traditional investments&lt;/a&gt; that are less risky and &lt;a href=&#34;https://akashgoswami.com/archive/akashandmoney/interesting-isas&#34; &gt;explore tax-efficient savings accounts&lt;/a&gt; such as a Stocks and Shares ISA.&lt;/p&gt;
 &lt;p&gt;If you’ve already nailed the emergency fund, have a decent tax-efficient investment portfolio, have looked into &lt;a href=&#34;https://yougotthis.io/talks/buying-back-your-time&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;buying back your time&lt;/a&gt; (optional - but I highly recommend it), only then would I really say it would be worth looking into Bitcoin as an investment (once again, &lt;em&gt;not. financial. advice.&lt;/em&gt;).&lt;/p&gt;
 &lt;p&gt;Even at this point, I would say it’s probably best to only invest a small amount of your net worth/investment portfolio into Bitcoin. Bitcoin is still a relatively high risk as an asset class and extremely volatile.&lt;/p&gt;
 &lt;p&gt;I wanted to also discuss the risks and concerns that come with Bitcoin and cryptocurrencies because Bitcoin is not a perfect solution.&lt;/p&gt;
@@ -908,10 +936,10 @@ Banks exist for a reason. They help the average person keep their money secure a
     
     <item>
       <title>Buying Back Your Time</title>
-      <link>http://localhost:1313/portfolio/buying-back-your-time/</link>
+      <link>https://akashgoswami.com/portfolio/buying-back-your-time/</link>
       <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/portfolio/buying-back-your-time/</guid>
+      <guid>https://akashgoswami.com/portfolio/buying-back-your-time/</guid>
       <description>&lt;p&gt;A talk I presented at &lt;a href=&#34;https://yougotthis.io/collections/cyberspace/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;You Got This in Cyberspace&lt;/a&gt; about knowing when to prioritise saving time vs saving money and a simple framework for how we can buy back our time.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://yougotthis.io/library/buying-back-time&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;View the full talk here&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -919,10 +947,10 @@ Banks exist for a reason. They help the average person keep their money secure a
     
     <item>
       <title>Fighting Text Message Scams with Kia</title>
-      <link>http://localhost:1313/archive/akashandmoney/text-message-scams/</link>
+      <link>https://akashgoswami.com/archive/akashandmoney/text-message-scams/</link>
       <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/archive/akashandmoney/text-message-scams/</guid>
+      <guid>https://akashgoswami.com/archive/akashandmoney/text-message-scams/</guid>
       <description>&lt;p&gt;Hello folks, &lt;a href=&#34;https://twitter.com/akashgoswami_&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Akash&lt;/a&gt; here 👋&lt;/p&gt;
 &lt;p&gt;Today I’ve got something a bit different - This week’s newsletter comes in audio format 🗣&lt;/p&gt;
 &lt;p&gt;I recently recorded a podcast episode with &lt;a href=&#34;https://twitter.com/ikeeyah_/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Kia&lt;/a&gt; from the &lt;a href=&#34;https://twitter.com/PenniesToPound&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Pennies to Pounds Podcast&lt;/a&gt;!&lt;/p&gt;
@@ -955,10 +983,10 @@ Banks exist for a reason. They help the average person keep their money secure a
     
     <item>
       <title>Investing 101</title>
-      <link>http://localhost:1313/archive/akashandmoney/investing-101/</link>
+      <link>https://akashgoswami.com/archive/akashandmoney/investing-101/</link>
       <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/archive/akashandmoney/investing-101/</guid>
+      <guid>https://akashgoswami.com/archive/akashandmoney/investing-101/</guid>
       <description>&lt;p&gt;Hello there 👋&lt;/p&gt;
 &lt;p&gt;It’s been a while but good news, I’m back! 😎&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;im-back.gif&#34; alt=&#34;joey friends im back baby gif&#34;&gt;&lt;/p&gt;
@@ -981,14 +1009,14 @@ Banks exist for a reason. They help the average person keep their money secure a
     &lt;/div&gt;
 
 &lt;p&gt;Ok, now the second key reason why you should consider investing, is because of &lt;strong&gt;inflation&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;I’ve mentioned this briefly before in a &lt;a href=&#34;http://localhost:1313/archive/akashandmoney/interesting-isas&#34; &gt;past newsletter issue&lt;/a&gt; and essentially what it means is that the value of your money will go down and you’ll find that the price of things like food, houses and wages will increase over time. Typically countries want the rate of inflation to be around 2% a year, to encourage spending, ensure stability and help plan for the future. &lt;a href=&#34;https://www.bankofengland.co.uk/monetary-policy/inflation&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;The Bank of England has a handy page&lt;/a&gt; that explains inflation and the downsides to both a higher rate of inflation and a lower rate of inflation. They also have an &lt;a href=&#34;https://www.bankofengland.co.uk/monetary-policy/inflation/inflation-calculator&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;inflation calculator&lt;/a&gt; you can use to see how the value of money has changed over time due to inflation.&lt;/p&gt;
+&lt;p&gt;I’ve mentioned this briefly before in a &lt;a href=&#34;https://akashgoswami.com/archive/akashandmoney/interesting-isas&#34; &gt;past newsletter issue&lt;/a&gt; and essentially what it means is that the value of your money will go down and you’ll find that the price of things like food, houses and wages will increase over time. Typically countries want the rate of inflation to be around 2% a year, to encourage spending, ensure stability and help plan for the future. &lt;a href=&#34;https://www.bankofengland.co.uk/monetary-policy/inflation&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;The Bank of England has a handy page&lt;/a&gt; that explains inflation and the downsides to both a higher rate of inflation and a lower rate of inflation. They also have an &lt;a href=&#34;https://www.bankofengland.co.uk/monetary-policy/inflation/inflation-calculator&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;inflation calculator&lt;/a&gt; you can use to see how the value of money has changed over time due to inflation.&lt;/p&gt;
 &lt;p&gt;With that in mind, investing can you retain the value of your money by allowing it to grow at a faster rate than the rate of inflation (this will ultimately depend on what you invest in exactly).&lt;/p&gt;
 &lt;p&gt;Want another reason to invest? Those gains you make can be &lt;strong&gt;100% tax-free&lt;/strong&gt; - thanks to stocks and shares ISAs.&lt;/p&gt;
 &lt;p&gt;Let’s go back to the example with Tom before. If he invested his £10,000 using a stocks and shares ISA and ended up with £24,111.62, he could withdraw all of that from his ISA account (minus any fees) and not need to pay a penny in tax on that. If he had used a general investment account (GIA) then he’d need to pay some tax, specifically &lt;a href=&#34;https://www.gov.uk/capital-gains-tax&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Capital Gains Tax&lt;/a&gt;. Let’s say he also earns £38,600 a year (the UK average salary). Using &lt;a href=&#34;https://taxscouts.com/calculator/capital-gains-tax/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;this capital gains tax calculator&lt;/a&gt; (a handy free tool) he&amp;rsquo;d need to pay roughly £181 if he withdrew all his money today. Now that isn’t a lot in this example but it can be a lot more the longer you leave your money invested to grow. Let’s say Tom invested his money for 25 years instead of 10 years then he’d have made a gain of £80,274.68 and would need to pay around &lt;strong&gt;£12,428 in capital gains tax&lt;/strong&gt; - a tax bill he could avoid entirely if he invested using a stocks and shares ISA instead.&lt;/p&gt;
 &lt;p&gt;So this sounds great, right? Well, there are a few things you should know before you start investing.&lt;/p&gt;
 &lt;h2 id=&#34;before-you-invest-&#34;&gt;Before you invest ✋&lt;/h2&gt;
 &lt;h3 id=&#34;emergency-fund-&#34;&gt;Emergency fund 🚨&lt;/h3&gt;
-&lt;p&gt;I don’t think this is talked about enough, but &lt;strong&gt;please have an &lt;a href=&#34;http://localhost:1313/archive/akashandmoney/emergency-funds&#34; &gt;emergency fund&lt;/a&gt;&lt;/strong&gt; before you look into investing your money. The value of your investments can go down as well as up so it’s highly recommended that you do not invest money that you need in the short term. It’s a good idea to have a few months worth of expenses at hand in an emergency fund so you don’t need to dip into the money you’ve already invested and possibly get back less than what you started with.&lt;/p&gt;
+&lt;p&gt;I don’t think this is talked about enough, but &lt;strong&gt;please have an &lt;a href=&#34;https://akashgoswami.com/archive/akashandmoney/emergency-funds&#34; &gt;emergency fund&lt;/a&gt;&lt;/strong&gt; before you look into investing your money. The value of your investments can go down as well as up so it’s highly recommended that you do not invest money that you need in the short term. It’s a good idea to have a few months worth of expenses at hand in an emergency fund so you don’t need to dip into the money you’ve already invested and possibly get back less than what you started with.&lt;/p&gt;
 &lt;h3 id=&#34;risks-&#34;&gt;Risks ⚠️&lt;/h3&gt;
 &lt;p&gt;While investing can boost the amount of money you have, it isn’t all smooth sailing. There are risks when it comes to investing your money - You’ve likely heard the phrase “the value of your investments can go down as well as up”.&lt;/p&gt;
 &lt;p&gt;Generally speaking, for the majority of new investors, picking individual stocks to invest in isn’t recommended due to their volatility (how often the price moves up or down) and it might be better to consider Exchange Traded Funds (ETFs) to help manage and diversify risk for new investors (more on this further down).&lt;/p&gt;
@@ -1045,10 +1073,10 @@ Banks exist for a reason. They help the average person keep their money secure a
     
     <item>
       <title>Interesting ISAs</title>
-      <link>http://localhost:1313/archive/akashandmoney/interesting-isas/</link>
+      <link>https://akashgoswami.com/archive/akashandmoney/interesting-isas/</link>
       <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/archive/akashandmoney/interesting-isas/</guid>
+      <guid>https://akashgoswami.com/archive/akashandmoney/interesting-isas/</guid>
       <description>&lt;p&gt;Hey there 👋&lt;/p&gt;
 &lt;p&gt;Usually, around this time of year, you’ll start seeing more reminders, adverts, emails and more all saying the same or similar thing - “&lt;em&gt;Remember to use your ISA limit before the end of the tax year&lt;/em&gt;”, and honestly, I don’t think it’s a big issue for the majority of people with ISAs.&lt;/p&gt;
 &lt;p&gt;ISAs can be confusing so here’s my personal take on ISA’s (Individual Savings Accounts) and which ones I think are worth looking into for yourself (based on your goals).&lt;/p&gt;
@@ -1096,17 +1124,17 @@ Banks exist for a reason. They help the average person keep their money secure a
     
     <item>
       <title>Overcoming outages</title>
-      <link>http://localhost:1313/archive/akashandmoney/overcoming-outages/</link>
+      <link>https://akashgoswami.com/archive/akashandmoney/overcoming-outages/</link>
       <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/archive/akashandmoney/overcoming-outages/</guid>
+      <guid>https://akashgoswami.com/archive/akashandmoney/overcoming-outages/</guid>
       <description>&lt;p&gt;Hey 👋&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;What would you do if your main bank had an outage?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;What I mean is, what if you held all your money in one bank account and that bank had an outage&amp;hellip;how would you access your money? Answer - &lt;strong&gt;You can’t&lt;/strong&gt;….at least not until their systems are back online. So what do you do to prevent an outage from interrupting your life (and your access to money)?&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;TL;DR - Spread your money across a few bank accounts (and card networks)&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;multiple-bank-accounts&#34;&gt;Multiple bank accounts&lt;/h2&gt;
 &lt;p&gt;It’s rare for a bank to have an outage but if and when they do and you need access to your money, you’ll want a backup account for such a situation. The majority of current accounts are free and a few banks let you open an online current account within less than an hour. I think it’s a great idea to open up a second bank account and hold a few days worth of spending money in it or at least enough to cover any recurring bills you might have.&lt;/p&gt;
-&lt;p&gt;Another thing you might want to do instead would be to split your &lt;a href=&#34;http://localhost:1313/archive/akashandmoney/emergency-funds/&#34; &gt;emergency fund&lt;/a&gt;  across two or three bank accounts, to ensure you always have access to some money regardless of if your main bank has an outage.&lt;/p&gt;
+&lt;p&gt;Another thing you might want to do instead would be to split your &lt;a href=&#34;https://akashgoswami.com/archive/akashandmoney/emergency-funds/&#34; &gt;emergency fund&lt;/a&gt;  across two or three bank accounts, to ensure you always have access to some money regardless of if your main bank has an outage.&lt;/p&gt;
 &lt;p&gt;Here are some examples of outages that have happened in the past:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;TSB, 2018 - &lt;a href=&#34;https://www.theguardian.com/business/2018/jun/06/timeline-of-trouble-how-the-tsb-it-meltdown-unfolded&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;outage for multiple weeks&lt;/a&gt;&lt;/li&gt;
@@ -1134,10 +1162,10 @@ There’s just one other thing to consider as well when looking into secondary a
     
     <item>
       <title>Phone plans</title>
-      <link>http://localhost:1313/archive/akashandmoney/phone-plans/</link>
+      <link>https://akashgoswami.com/archive/akashandmoney/phone-plans/</link>
       <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/archive/akashandmoney/phone-plans/</guid>
+      <guid>https://akashgoswami.com/archive/akashandmoney/phone-plans/</guid>
       <description>&lt;p&gt;Hey there 👋&lt;/p&gt;
 &lt;p&gt;Our phones have become an essential tool in our everyday lives. Everything is just a tap away, whether it’s online banking, shopping or ordering a takeaway. For what is an essential tool, you’re likely paying more for your phone or sim plan than you need to. I thought I’d share some of the things I’ve learnt to help keep costs low 📉&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;TL;DR - Check if changing your phone contract/sim plan can save you money at least once a year&lt;/strong&gt;&lt;/p&gt;
@@ -1149,7 +1177,7 @@ There’s just one other thing to consider as well when looking into secondary a
 &lt;p&gt;While we don’t pay as much as folks in America (who pay around an average of $101.50 a month!) we’re still spending a considerable amount on phones. In 2018, Money Saving Expert found that &lt;em&gt;four million mobile phone users are paying up to £38 extra for their phones/contracts&lt;/em&gt; without realising it and it’s partly to do it with how fixed contact deals work.&lt;/p&gt;
 &lt;p&gt;At the end of a contact, most network providers will roll you onto a 30-day plan where everything stays the same including the price. This isn’t great because fixed-term contracts include the price of the phone in the plan. At the end of the term, you’d have paid the phone off but by not changing your plan you could still end up paying for a phone you’ve already paid off 😱&lt;/p&gt;
 &lt;p&gt;Last year, a handful of network providers have committed to moving customers to lower-priced plans at the end of a contract term automatically to save them some money however, some network providers (&lt;em&gt;cough cough&lt;/em&gt;, Three, EE and Vodafone 🙄) have declined to offer this, leaving it up to customers to remember switching to a cheaper deal.&lt;/p&gt;
-&lt;p&gt;You can use the tips I’ve previously discussed on how to &lt;a href=&#34;http://localhost:1313/archive/akashandmoney/busting-broadband-bills&#34; &gt;haggle with your broadband provider&lt;/a&gt; with network providers as well if you want to stay with the same one at the end of your contact.&lt;/p&gt;
+&lt;p&gt;You can use the tips I’ve previously discussed on how to &lt;a href=&#34;https://akashgoswami.com/archive/akashandmoney/busting-broadband-bills&#34; &gt;haggle with your broadband provider&lt;/a&gt; with network providers as well if you want to stay with the same one at the end of your contact.&lt;/p&gt;
 &lt;p&gt;Personally, I buy my phone outright while sticking to sim only plans and hang onto my phone for three to four years before replacing it. There are also a few other things I did over the years to help keep costs low&amp;hellip;&lt;/p&gt;
 &lt;h2 id=&#34;switch-to-a-virtual-network-operatorssim-only-plan-&#34;&gt;Switch to a virtual network operators/sim only plan 🔄&lt;/h2&gt;
 &lt;p&gt;Virtual network operators are companies that lease network usage from the main network providers and usually have sim plans that are a lot cheaper than those offered by the main network providers. You’ve likely heard of a few of them already such as GiffGaff, Lyca Mobile and Virgin Mobile just to name a few and there are some newer (and interesting) ones popping up like Voxi and Zevvle.&lt;/p&gt;
@@ -1181,10 +1209,10 @@ There’s just one other thing to consider as well when looking into secondary a
     
     <item>
       <title>Swimming in Subscriptions</title>
-      <link>http://localhost:1313/archive/akashandmoney/swimming-in-subscriptions/</link>
+      <link>https://akashgoswami.com/archive/akashandmoney/swimming-in-subscriptions/</link>
       <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/archive/akashandmoney/swimming-in-subscriptions/</guid>
+      <guid>https://akashgoswami.com/archive/akashandmoney/swimming-in-subscriptions/</guid>
       <description>&lt;p&gt;Hey folks 👋&lt;/p&gt;
 &lt;p&gt;Let’s talk about subscriptions because &lt;strong&gt;everything is becoming a subscription&lt;/strong&gt;, from streaming services to software and even physical goods. Subscriptions are becoming a normal way of life and while a lot of them can provide a lot of value, they run up to hundreds (and sometimes thousands) of pounds a year.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;TL;DR - Have a look through all your subscriptions and cut out what you don’t use or need&lt;/strong&gt;&lt;/p&gt;
@@ -1200,7 +1228,7 @@ There’s just one other thing to consider as well when looking into secondary a
 &lt;h2 id=&#34;service-subscriptions&#34;&gt;Service subscriptions&lt;/h2&gt;
 &lt;p&gt;We’re starting to see more and more subscriptions that offer a service for a fixed monthly cost including but not limited to razor blades, recipe boxes, video games, newspapers and content streaming. As with software subscriptions, the same rule applies - Only keep the ones that prove to provide you value but also try not to be subscribed to different versions of the same type of service - You probably don’t need a subscription to two or more streaming services for example.&lt;/p&gt;
 &lt;h2 id=&#34;classic-subscriptions&#34;&gt;Classic subscriptions&lt;/h2&gt;
-&lt;p&gt;Fixed monthly costs can be thought of being subscriptions as well - You pay monthly for a service or product. So energy, internet, phone and rent/mortgage bills are what I would consider ‘classic subscriptions’. Instead of cutting these ones out, there are usually ways you could cut down on some of them which can end up saving you money. It could be as simple as checking if you are &lt;a href=&#34;https://www.which.co.uk/news/2020/08/third-of-mobile-network-customers-still-being-hit-by-overpayments-rip-off/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;overpaying for your phone plan&lt;/a&gt;, switching to a cheaper energy supplier, or &lt;a href=&#34;http://localhost:1313/archive/akashandmoney/busting-broadband-bills&#34; &gt;haggling with your broadband provider for a cheaper deal&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Fixed monthly costs can be thought of being subscriptions as well - You pay monthly for a service or product. So energy, internet, phone and rent/mortgage bills are what I would consider ‘classic subscriptions’. Instead of cutting these ones out, there are usually ways you could cut down on some of them which can end up saving you money. It could be as simple as checking if you are &lt;a href=&#34;https://www.which.co.uk/news/2020/08/third-of-mobile-network-customers-still-being-hit-by-overpayments-rip-off/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;overpaying for your phone plan&lt;/a&gt;, switching to a cheaper energy supplier, or &lt;a href=&#34;https://akashgoswami.com/archive/akashandmoney/busting-broadband-bills&#34; &gt;haggling with your broadband provider for a cheaper deal&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;keeping-a-track-on-subscriptions&#34;&gt;Keeping a track on subscriptions&lt;/h2&gt;
 &lt;p&gt;We can easily fall for the trap of needing every subscription service thrown at us and also losing track of what we are subscribed to. I found it useful to track each of these subscriptions and how much they are costing me each month/year. I use an app on Android that’s simply called &lt;a href=&#34;https://play.google.com/store/apps/details?id=de.simolation.subscriptionmanager&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Subscriptions&lt;/a&gt; to do this. For iOS users, you can get something similar from the &lt;a href=&#34;https://apps.apple.com/us/app/bobby-track-subscriptions/id1059152023&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Bobby&lt;/a&gt; app. Thankfully neither of these apps have their own subscription service but there are some in-app purchases if you want to get some extra functionality from either app.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;subscriptions-app-screenshot.jpeg&#34; alt=&#34;Screenshot of the Subscriptions Android app showing a few listed subscriptions&#34;&gt;
@@ -1216,10 +1244,10 @@ There’s just one other thing to consider as well when looking into secondary a
     
     <item>
       <title>Four finance books for 2021</title>
-      <link>http://localhost:1313/archive/akashandmoney/four-finance-books-for-2021/</link>
+      <link>https://akashgoswami.com/archive/akashandmoney/four-finance-books-for-2021/</link>
       <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/archive/akashandmoney/four-finance-books-for-2021/</guid>
+      <guid>https://akashgoswami.com/archive/akashandmoney/four-finance-books-for-2021/</guid>
       <description>&lt;p&gt;Hey folks 👋&lt;/p&gt;
 &lt;p&gt;Happy belated New Year! 🎉&lt;/p&gt;
 &lt;p&gt;With 2020 behind us and the start of a what we can only hope will be a better year to look forward too, I thought now would be the perfect time to share four personal finance books that I&amp;rsquo;ve read that helped me get better with my finances and that might help you as well!&lt;/p&gt;
@@ -1252,10 +1280,10 @@ There’s just one other thing to consider as well when looking into secondary a
     
     <item>
       <title>Binge Buying</title>
-      <link>http://localhost:1313/archive/akashandmoney/binge-buying/</link>
+      <link>https://akashgoswami.com/archive/akashandmoney/binge-buying/</link>
       <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/archive/akashandmoney/binge-buying/</guid>
+      <guid>https://akashgoswami.com/archive/akashandmoney/binge-buying/</guid>
       <description>&lt;p&gt;Hey there 👋&lt;/p&gt;
 &lt;p&gt;Sorry this issue is a few days late - I just wanted to spend a bit more time to polish the last few touches on this email.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;TL;DR - Consider only buying things you need or things that significantly improves your life.&lt;/strong&gt;&lt;/p&gt;
@@ -1303,10 +1331,10 @@ Here are some questions I&amp;rsquo;ve asked myself when considering buying some
     
     <item>
       <title>Credit Card Connoisseur</title>
-      <link>http://localhost:1313/archive/akashandmoney/credit-card-connoisseur/</link>
+      <link>https://akashgoswami.com/archive/akashandmoney/credit-card-connoisseur/</link>
       <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/archive/akashandmoney/credit-card-connoisseur/</guid>
+      <guid>https://akashgoswami.com/archive/akashandmoney/credit-card-connoisseur/</guid>
       <description>&lt;p&gt;Hi everybody 👋&lt;/p&gt;
 &lt;p&gt;Hope you&amp;rsquo;ve all been well!&lt;/p&gt;
 &lt;p&gt;For this week&amp;rsquo;s issue of Akash &amp;amp; Money, I wanted to share how I&amp;rsquo;ve used credit cards to my advantage to earn points and why I spend my money via a credit card and not a debit card.&lt;/p&gt;
@@ -1351,12 +1379,12 @@ That&amp;rsquo;s why I have one monthly card subscription paid from my BA credit
     
     <item>
       <title>Crunching Credit Scores</title>
-      <link>http://localhost:1313/archive/akashandmoney/crunching-credit-scores/</link>
+      <link>https://akashgoswami.com/archive/akashandmoney/crunching-credit-scores/</link>
       <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/archive/akashandmoney/crunching-credit-scores/</guid>
+      <guid>https://akashgoswami.com/archive/akashandmoney/crunching-credit-scores/</guid>
       <description>&lt;p&gt;Hey there lockdown crew 👋&lt;/p&gt;
-&lt;p&gt;Last time I went over some of the &lt;a href=&#34;http://localhost:1313/archive/akashandmoney/social-scammers&#34; &gt;types of scams you might come across on social media&lt;/a&gt;. Given we&amp;rsquo;re in a second lockdown now, there&amp;rsquo;s a chance you might start seeing some of these scams re-emerging so if you haven&amp;rsquo;t already I would recommend giving the last issue a look over.&lt;/p&gt;
+&lt;p&gt;Last time I went over some of the &lt;a href=&#34;https://akashgoswami.com/archive/akashandmoney/social-scammers&#34; &gt;types of scams you might come across on social media&lt;/a&gt;. Given we&amp;rsquo;re in a second lockdown now, there&amp;rsquo;s a chance you might start seeing some of these scams re-emerging so if you haven&amp;rsquo;t already I would recommend giving the last issue a look over.&lt;/p&gt;
 &lt;p&gt;In this issue I’m covering credit scores and why you should think about yours. I want to avoid sharing what you &lt;a href=&#34;https://twitter.com/ikeeyah_/status/1179145024602329088&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;might have already come across online&lt;/a&gt; but rather expand share what I&amp;rsquo;ve learnt from my own experience trying to understanding my credit score.&lt;/p&gt;
 &lt;p&gt;Let&amp;rsquo;s go 🏃‍♂️💨&lt;/p&gt;
 &lt;h2 id=&#34;credit-scores-101&#34;&gt;Credit Scores 101&lt;/h2&gt;
@@ -1386,16 +1414,16 @@ That&amp;rsquo;s why I have one monthly card subscription paid from my BA credit
 &lt;p&gt;All three of these things when combined gave lenders a good understanding of how I managed my money and brought up my score without really doing much. These led to being accepted for other lending products like my American Express credit cards and an overdraft (the latter being something I don&amp;rsquo;t use and only really have for an emergency), which further builds a clearer picture of my credit history.&lt;/p&gt;
 &lt;p&gt;Having a good credit score and credit history can help you secure a better interest rate (remember where we talked about measuring reliability) for large loans such as a mortgage.&lt;/p&gt;
 &lt;p&gt;Checking your score also helps you spot anything fishy on your account, such as a credit card you never took out - Using these same services you can usually report something like this and they&amp;rsquo;ll be able to investigate things like that for you.&lt;/p&gt;
-&lt;p&gt;That&amp;rsquo;s all for this email and I hope that this is a great introduction to credit scores for you. In the next issue, I&amp;rsquo;ll go over &lt;a href=&#34;http://localhost:1313/archive/akashandmoney/credit-card-connoisseur&#34; &gt;credit cards&lt;/a&gt; and how I use mine to get a ton of points, air miles and cashback without paying anything extra fees or costs.&lt;/p&gt;
+&lt;p&gt;That&amp;rsquo;s all for this email and I hope that this is a great introduction to credit scores for you. In the next issue, I&amp;rsquo;ll go over &lt;a href=&#34;https://akashgoswami.com/archive/akashandmoney/credit-card-connoisseur&#34; &gt;credit cards&lt;/a&gt; and how I use mine to get a ton of points, air miles and cashback without paying anything extra fees or costs.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Social Scammers</title>
-      <link>http://localhost:1313/archive/akashandmoney/social-scammers/</link>
+      <link>https://akashgoswami.com/archive/akashandmoney/social-scammers/</link>
       <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/archive/akashandmoney/social-scammers/</guid>
+      <guid>https://akashgoswami.com/archive/akashandmoney/social-scammers/</guid>
       <description>&lt;p&gt;Hey 👋&lt;/p&gt;
 &lt;p&gt;Long time no see! First of all apologies for this reaching you a week later than it should have, I was a bit busy settling into &lt;a href=&#34;https://twitter.com/akashgoswami_/status/1316723658455478273&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;my new role at work&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;In this issue, I wanted to cover social media and how scammers have been using it to their advantage. Social media is great, it has allowed us to connect to friends and family globally through a trying year. Unfortunately, it has also made it a lot easier for fraudsters to find people to deceive and steal their money via these same platforms.&lt;/p&gt;
@@ -1443,13 +1471,13 @@ I found &lt;a href=&#34;https://www.fintrail.co.uk/news/2020/4/16/how-social-med
     
     <item>
       <title>Busting broadband bills</title>
-      <link>http://localhost:1313/archive/akashandmoney/busting-broadband-bills/</link>
+      <link>https://akashgoswami.com/archive/akashandmoney/busting-broadband-bills/</link>
       <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/archive/akashandmoney/busting-broadband-bills/</guid>
+      <guid>https://akashgoswami.com/archive/akashandmoney/busting-broadband-bills/</guid>
       <description>&lt;p&gt;Hi again 👋&lt;/p&gt;
 &lt;p&gt;Today in the third issue of Akash &amp;amp; Money, I’m covering something almost all of us will be familiar with - Internet Service Providers (ISPs), broadband and your monthly bill.&lt;/p&gt;
-&lt;p&gt;It&amp;rsquo;s often easy to avoid price hikes and get discounts with little effort and any money you save can end up being put towards other things (like &lt;a href=&#34;http://localhost:1313/archive/akashandmoney/emergency-funds&#34; &gt;an emergency fund&lt;/a&gt;. I also wanted to share my own experience where just last Friday, I managed to talk my own bill down to save an extra 25% in just a 20-minute phone call. I&amp;rsquo;m going to cover how I did this and how you can also haggle your own broadband bill.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s often easy to avoid price hikes and get discounts with little effort and any money you save can end up being put towards other things (like &lt;a href=&#34;https://akashgoswami.com/archive/akashandmoney/emergency-funds&#34; &gt;an emergency fund&lt;/a&gt;. I also wanted to share my own experience where just last Friday, I managed to talk my own bill down to save an extra 25% in just a 20-minute phone call. I&amp;rsquo;m going to cover how I did this and how you can also haggle your own broadband bill.&lt;/p&gt;
 &lt;h2 id=&#34;how-does-it-work&#34;&gt;How does it work?&lt;/h2&gt;
 &lt;p&gt;Currently in the UK when you sign up with a broadband provider you&amp;rsquo;ll often come across two plans - pay monthly and a fixed-term contract. The monthly plan allows you to easily switch between providers when and where it suits you however this isn&amp;rsquo;t something a provider will want, so the monthly price for such plans are a lot higher than those on a fixed-term contract. Providers love long term customers and are willing to reduce the monthly cost if they can keep you for longer.&lt;/p&gt;
 &lt;p&gt;Most contracts will have a minimum term of 12 months, however, longer contracts of 18 months and 24 months are also available for packaged bundles that include broadband, a landline line rental and a TV package as well. These contracts will often have a lower monthly fee for the duration of the contract and after the contract ends the price usually increases quite a bit. Knowing when your contract is coming to an end allows you to avoid getting stung with a higher bill by simply switching or asking your provider for a discount.&lt;/p&gt;
@@ -1486,13 +1514,13 @@ I found &lt;a href=&#34;https://www.fintrail.co.uk/news/2020/4/16/how-social-med
     
     <item>
       <title>Bank accounts - Chequing out current accounts</title>
-      <link>http://localhost:1313/archive/akashandmoney/bank-accounts-chequing-out-current-accounts/</link>
+      <link>https://akashgoswami.com/archive/akashandmoney/bank-accounts-chequing-out-current-accounts/</link>
       <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/archive/akashandmoney/bank-accounts-chequing-out-current-accounts/</guid>
+      <guid>https://akashgoswami.com/archive/akashandmoney/bank-accounts-chequing-out-current-accounts/</guid>
       <description>&lt;p&gt;Hey folks 👋&lt;/p&gt;
 &lt;p&gt;This is the second issue of Akash &amp;amp; Money, fresh out the oven and delivered right to your inboxes!&lt;/p&gt;
-&lt;p&gt;Last time I covered &lt;a href=&#34;http://localhost:1313/archive/akashandmoney/emergency-funds&#34; &gt;emergency funds&lt;/a&gt; and why you should probably have one. In this issue, I&amp;rsquo;ll be covering the basics of current accounts.&lt;/p&gt;
+&lt;p&gt;Last time I covered &lt;a href=&#34;https://akashgoswami.com/archive/akashandmoney/emergency-funds&#34; &gt;emergency funds&lt;/a&gt; and why you should probably have one. In this issue, I&amp;rsquo;ll be covering the basics of current accounts.&lt;/p&gt;
 &lt;h2 id=&#34;current-accounts&#34;&gt;Current Accounts&lt;/h2&gt;
 &lt;p&gt;In the UK your main bank account is your Current Account. This account is mainly used as a place you can store and withdraw money from and use the account to pay for things. You&amp;rsquo;ll find that it comes with a linked bank card called a debit card that lets you spend money from your account. This simply means that your account will have the money taken from the account either on the same day as a transaction or a few days after. Usually, you&amp;rsquo;ll have just the one card linked to each of your accounts but certain accounts can have more than one debit card linked to them at a time such as joint accounts and business accounts.&lt;/p&gt;
 &lt;p&gt;On your debit card, you&amp;rsquo;ll likely also see a Visa or Mastercard logo on it that tells you which payment network your debit card runs on. Either is fine and there aren&amp;rsquo;t any major differences between the two in the UK. Using your card overseas is a slightly different story - I&amp;rsquo;d recommend that you have at least one Visa card and one Mastercard at hand as you might have payment issues using only one type of debit card in certain countries. While this is uncommon, it doesn&amp;rsquo;t hurt to have a few extra cards.&lt;/p&gt;
@@ -1531,10 +1559,10 @@ For more information regarding the FSCS, I&amp;rsquo;d highly recommend going th
     
     <item>
       <title>Emergency Funds - Why do you need one?</title>
-      <link>http://localhost:1313/archive/akashandmoney/emergency-funds/</link>
+      <link>https://akashgoswami.com/archive/akashandmoney/emergency-funds/</link>
       <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/archive/akashandmoney/emergency-funds/</guid>
+      <guid>https://akashgoswami.com/archive/akashandmoney/emergency-funds/</guid>
       <description>&lt;p&gt;Hey friends 👋&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Welcome to the first email from the Akash &amp;amp; Money newsletter!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m hoping to share a lot of useful information about personal finance in the future so I&amp;rsquo;m glad you are here. Today&amp;rsquo;s topic is emergency funds and is inspired by &lt;a href=&#34;https://twitter.com/ikeeyah_&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Kae&lt;/a&gt; and one of her tweets.&lt;/p&gt;
@@ -1583,37 +1611,37 @@ Two years ago I woke up one morning to catch my flight to Tokyo. Unfortunately, 
     
     <item>
       <title>Akash &amp; Money Newsletter</title>
-      <link>http://localhost:1313/portfolio/akash-and-money/</link>
+      <link>https://akashgoswami.com/portfolio/akash-and-money/</link>
       <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/portfolio/akash-and-money/</guid>
+      <guid>https://akashgoswami.com/portfolio/akash-and-money/</guid>
       <description>&lt;p&gt;A writing side project I worked on from 2020 to 2022 that covers topics on personal finance. The newsletter had 185 subscribers, with an average open rate of 67% across all posts.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/archive/akashandmoney&#34; &gt;View the past Akash and Money issues here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://akashgoswami.com/archive/akashandmoney&#34; &gt;View the past Akash and Money issues here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Manual Receipt Generator</title>
-      <link>http://localhost:1313/portfolio/manual-receipt-generator/</link>
+      <link>https://akashgoswami.com/portfolio/manual-receipt-generator/</link>
       <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/portfolio/manual-receipt-generator/</guid>
+      <guid>https://akashgoswami.com/portfolio/manual-receipt-generator/</guid>
       <description>&lt;p&gt;A simple python third party terminal client based on the &lt;a href=&#34;https://github.com/monzo/reference-receipts-app&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;reference receipts app&lt;/a&gt; that attaches receipts to Monzo transactions using the Monzo Receipts API and a json payload.&lt;/p&gt;
 &lt;p&gt;You can find the &lt;a href=&#34;https://github.com/Skyth3r/Manual-Receipt-Generator&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;source code here on GitHub&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Screenshots 👇🏽&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/portfolio/coco_ichibanya.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/portfolio/edgard_cooper.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/portfolio/lush.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/portfolio/tonkotsu.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://akashgoswami.com/portfolio/coco_ichibanya.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://akashgoswami.com/portfolio/edgard_cooper.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://akashgoswami.com/portfolio/lush.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://akashgoswami.com/portfolio/tonkotsu.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Unity 3D Platformer</title>
-      <link>http://localhost:1313/portfolio/unity-3d-platformer/</link>
+      <link>https://akashgoswami.com/portfolio/unity-3d-platformer/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/portfolio/unity-3d-platformer/</guid>
+      <guid>https://akashgoswami.com/portfolio/unity-3d-platformer/</guid>
       <description>&lt;p&gt;A 3d platformer game with randomised powerup mechanics I made for my final year universirty dissertation project.&lt;/p&gt;
 &lt;p&gt;The game focus on giving players a different playthrough experience on each playthrough based on the powerups they acquired throughout each level.&lt;/p&gt;
 &lt;p&gt;These powerups affected player stats such as movement speed, jump height, and base attack damage. By manipulating these game elements, each playthrough of the game would be unique due to the randomness of the powerups that were presented in each level.&lt;/p&gt;
@@ -1624,29 +1652,29 @@ Two years ago I woke up one morning to catch my flight to Tokyo. Unfortunately, 
     
     <item>
       <title>TfL to Monzo</title>
-      <link>http://localhost:1313/portfolio/tfl-to-monzo/</link>
+      <link>https://akashgoswami.com/portfolio/tfl-to-monzo/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/portfolio/tfl-to-monzo/</guid>
+      <guid>https://akashgoswami.com/portfolio/tfl-to-monzo/</guid>
       <description>&lt;p&gt;TfL to Monzo was an severless application built as my project for my Cloud Computing module at university with a friend.&lt;/p&gt;
 &lt;p&gt;It was written in Python and made use of AWS Lambda to process TfL jounrey data into Monzo recipts.&lt;/p&gt;
 &lt;p&gt;The Lambda function would recieve incoming transcation webhook events from a linked Monzo account, check if they were TfL transcations and then run a web scraper script to extract the matching journey data from the TfL web portal before then submitting this data as a reciept to the Monzo receipt API endpoint.&lt;/p&gt;
 &lt;p&gt;This was one of my favourite projects at university and overall we recieved a final mark of 98/100. I also posted a &lt;a href=&#34;https://twitter.com/akashgoswami_/status/1112685400336855040&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;tweet&lt;/a&gt; of this project and it was highly received.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Screenshots 👇🏽&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/portfolio/tfl-to-monzo-tweet.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/portfolio/tfl-monzo-1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/portfolio/tfl-monzo-2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/portfolio/tfl-monzo-3.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/portfolio/tfl-monzo-4.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://akashgoswami.com/portfolio/tfl-to-monzo-tweet.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://akashgoswami.com/portfolio/tfl-monzo-1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://akashgoswami.com/portfolio/tfl-monzo-2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://akashgoswami.com/portfolio/tfl-monzo-3.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://akashgoswami.com/portfolio/tfl-monzo-4.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Credit Card Workout</title>
-      <link>http://localhost:1313/portfolio/credit-card-workout/</link>
+      <link>https://akashgoswami.com/portfolio/credit-card-workout/</link>
       <pubDate>Sun, 29 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/portfolio/credit-card-workout/</guid>
+      <guid>https://akashgoswami.com/portfolio/credit-card-workout/</guid>
       <description>&lt;p&gt;A website that takes a users credit card balance, interest rate and monthly amount they wish to pay to calculate how long it would take them to pay their debt off as well as showing them how much interest they have accumulated. This was made within 24 hours for the Porticode 2.0 Hackathon.&lt;/p&gt;
 &lt;p&gt;The &lt;a href=&#34;https://github.com/Skyth3r/Credit-Card-Workout&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;source code is hosted here on GitHub&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -1654,20 +1682,20 @@ Two years ago I woke up one morning to catch my flight to Tokyo. Unfortunately, 
     
     <item>
       <title>Archives</title>
-      <link>http://localhost:1313/archives/</link>
+      <link>https://akashgoswami.com/archives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/archives/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/archive/akashandmoney&#34; &gt;View Akash and Money archives&lt;/a&gt;&lt;/p&gt;
+      <guid>https://akashgoswami.com/archives/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://akashgoswami.com/archive/akashandmoney&#34; &gt;View Akash and Money archives&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Not Financial Advice</title>
-      <link>http://localhost:1313/not-financial-advice/</link>
+      <link>https://akashgoswami.com/not-financial-advice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/not-financial-advice/</guid>
+      <guid>https://akashgoswami.com/not-financial-advice/</guid>
       <description>&lt;p&gt;Hi there, if you&amp;rsquo;re reading this page, then you&amp;rsquo;ve likely got here via a page related to personal finance, investing, etc that I have on my website or something I said elsewhere.&lt;/p&gt;
 &lt;p&gt;This is a disclaimer to make it clear that all information, opinions and suggestions shared on my website or anywhere else are for educational and entertainment purposes only.&lt;/p&gt;
 &lt;p&gt;I try to provide accurate information, but there&amp;rsquo;s always a chance for errors or inaccuracies. You should always do your own research.&lt;/p&gt;
@@ -1678,12 +1706,13 @@ Two years ago I woke up one morning to catch my flight to Tokyo. Unfortunately, 
     
     <item>
       <title>Now</title>
-      <link>http://localhost:1313/now/</link>
+      <link>https://akashgoswami.com/now/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/now/</guid>
+      <guid>https://akashgoswami.com/now/</guid>
       <description>&lt;p&gt;This is my &lt;a href=&#34;https://nownownow.com/about&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;now page&lt;/a&gt;. You can also view my profile on &lt;a href=&#34;https://nownownow.com/p/1M0p&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;nownownow&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;This now page is automatically updated daily using &lt;a href=&#34;https://github.com/skyth3r/automate-now&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;automate /now&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;You can read more about &lt;a href=&#34;https://akashgoswami.dev/posts/automating-my-now-page/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;how I automated my now page here&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;-what-im-up-to&#34;&gt;⭐ What I&amp;rsquo;m up to&lt;/h2&gt;
 &lt;p&gt;I live in London and currently work at &lt;a href=&#34;https://monzo.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Monzo Bank&lt;/a&gt; as a Backend Engineer.&lt;/p&gt;
 &lt;p&gt;Right now I&amp;rsquo;m on a month&amp;rsquo;s sabbatical leave 🏝️&lt;/p&gt;
@@ -1715,9 +1744,9 @@ Two years ago I woke up one morning to catch my flight to Tokyo. Unfortunately, 
 &lt;h3 id=&#34;recently-watched-movies&#34;&gt;Recently watched movies&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;Data sourced from &lt;a href=&#34;https://letterboxd.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Letterboxd&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://letterboxd.com/film/spirited-away/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Spirited Away&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://letterboxd.com/film/hunger-2023/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Hunger&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://letterboxd.com/film/deadpool-wolverine/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Deadpool and Wolverine&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://letterboxd.com/film/kikis-delivery-service/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Kiki&amp;amp;rsquo;s Delivery Service&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;recently-watched-tv-shows&#34;&gt;Recently watched TV shows&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;Data sourced from &lt;a href=&#34;https://www.serializd.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Serializd&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
@@ -1733,16 +1762,16 @@ Two years ago I woke up one morning to catch my flight to Tokyo. Unfortunately, 
 &lt;li&gt;&lt;a href=&#34;https://backloggd.com/games/hades--1/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Hades&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;p&gt;Last updated: 15 Aug 2024&lt;/p&gt;
+&lt;p&gt;Last updated: 19 Aug 2024&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Referrals</title>
-      <link>http://localhost:1313/referrals/</link>
+      <link>https://akashgoswami.com/referrals/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/referrals/</guid>
+      <guid>https://akashgoswami.com/referrals/</guid>
       <description>&lt;p&gt;Some referral links to things I like using. I aim to only refer products &amp;amp; services I know and use.&lt;/p&gt;
 &lt;p&gt;If you use any of the affiliate links on this page, I may earn a commission for referring you (thanks!)&lt;/p&gt;
 &lt;h2 id=&#34;-community-fibre&#34;&gt;⚡ Community Fibre&lt;/h2&gt;
@@ -1774,10 +1803,10 @@ Two years ago I woke up one morning to catch my flight to Tokyo. Unfortunately, 
     
     <item>
       <title>Uses</title>
-      <link>http://localhost:1313/uses/</link>
+      <link>https://akashgoswami.com/uses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/uses/</guid>
+      <guid>https://akashgoswami.com/uses/</guid>
       <description>&lt;p&gt;The things I use on a daily basis.&lt;/p&gt;
 &lt;h2 id=&#34;laptop&#34;&gt;Laptop&lt;/h2&gt;
 &lt;ul&gt;
@@ -1828,10 +1857,10 @@ Two years ago I woke up one morning to catch my flight to Tokyo. Unfortunately, 
     
     <item>
       <title>Verify</title>
-      <link>http://localhost:1313/verify/</link>
+      <link>https://akashgoswami.com/verify/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/verify/</guid>
+      <guid>https://akashgoswami.com/verify/</guid>
       <description>&lt;p&gt;This page serves as record for my online identity. It is inspired by &lt;a href=&#34;https://www.mollywhite.net/verify/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Molly White&amp;#39;s verify page.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The accounts listed below are the public facing accounts I use online:&lt;/p&gt;
 &lt;p&gt;Mastodon - &lt;a href=&#34;https://hachyderm.io/@akashgoswami&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;@akashgoswami@hachyderm.io&lt;/a&gt;&lt;/p&gt;
@@ -1843,16 +1872,16 @@ Two years ago I woke up one morning to catch my flight to Tokyo. Unfortunately, 
 &lt;p&gt;Reddit - &lt;a href=&#34;https://www.reddit.com/user/akashgoswami_/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;akashgoswami_&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;My main email address is 
 &lt;style&gt;
-  #span-4a1d3fd0.cloaked-e-mail:before {
+  #span-070a8c49.cloaked-e-mail:before {
     content:attr(data-domain) &#34;\0040&#34; attr(data-user);
     unicode-bidi:bidi-override;
     direction:rtl;
   }
 &lt;/style&gt;
-&amp;#32;&lt;span class=&#34;cloaked-e-mail&#34; data-user=&#34;hsaka&#34; data-domain=&#34;moc.imawsoghsaka&#34; id=&#34;span-4a1d3fd0&#34;&gt;&lt;/span&gt;&amp;#32;
+&amp;#32;&lt;span class=&#34;cloaked-e-mail&#34; data-user=&#34;hsaka&#34; data-domain=&#34;moc.imawsoghsaka&#34; id=&#34;span-070a8c49&#34;&gt;&lt;/span&gt;&amp;#32;
 
-&lt;script id=&#34;script-4a1d3fd0&#34;&gt;
-  var scriptTag = document.getElementById(&#34;script-4a1d3fd0&#34;);
+&lt;script id=&#34;script-070a8c49&#34;&gt;
+  var scriptTag = document.getElementById(&#34;script-070a8c49&#34;);
   var link = document.createElement(&#34;a&#34;);
   var address = &#34;hsaka&#34;.split(&#39;&#39;).reverse().join(&#39;&#39;) + &#34;@&#34; + &#34;moc.imawsoghsaka&#34;.split(&#39;&#39;).reverse().join(&#39;&#39;);
   link.href = &#34;mailto&#34; + &#34;:&#34; + address;
