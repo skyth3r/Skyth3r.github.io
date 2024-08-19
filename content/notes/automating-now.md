@@ -1,6 +1,6 @@
 ---
 title: Automating Now
-date: 2024-02-22T21:35:00
+date: 2024-08-19T12:45:00
 description: The /now page is now automated!
 tags: ['update']
 ---
@@ -16,3 +16,5 @@ The idea to automate my now page comes from seeing other folks trying to do the 
 This data is obtained from a few different sources. If you want to know more about how it works, you can checkout the Go script I wrote [here on GitHub](https://github.com/Skyth3r/automate-now).
 
 I plan on putting a small guide together on how to use it to automate your own now page as well as a detailed deep dive post to explain how I got it all working and what some of the challenges were with this project soon.
+
+**Update:** I got around to writing the post on how I did this using a Go and GitHub Actions. You can read more about [how I automated my now page here](https://akashgoswami.dev/posts/automating-my-now-page/).

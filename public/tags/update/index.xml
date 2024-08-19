@@ -2,42 +2,70 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Update on Akash Goswami</title>
-    <link>http://localhost:1313/tags/update/</link>
+    <link>https://akashgoswami.com/tags/update/</link>
     <description>Recent content in Update on Akash Goswami</description>
     <generator>Hugo -- gohugo.io</generator>
     <language></language>
-    <lastBuildDate>Thu, 22 Feb 2024 21:35:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/update/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Aug 2024 12:48:00 +0000</lastBuildDate><atom:link href="https://akashgoswami.com/tags/update/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This site now uses Plausible Analytics</title>
+      <link>https://akashgoswami.com/notes/plausible/</link>
+      <pubDate>Mon, 19 Aug 2024 12:48:00 +0000</pubDate>
+      
+      <guid>https://akashgoswami.com/notes/plausible/</guid>
+      <description>&lt;p&gt;This website now uses &lt;a href=&#34;https://plausible.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Plausible Analytics&lt;/a&gt; instead of Google Analytics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Automating My /Now Page</title>
+      <link>https://akashgoswami.com/notes/automation-now-blog-post/</link>
+      <pubDate>Mon, 19 Aug 2024 12:45:00 +0000</pubDate>
+      
+      <guid>https://akashgoswami.com/notes/automation-now-blog-post/</guid>
+      <description>&lt;p&gt;Around the start of this year, I put together a &lt;a href=&#34;https://github.com/skyth3r/automate-now&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Go script to automatically update my now page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I &lt;a href=&#34;https://akashgoswami.com/notes/automating-now&#34; &gt;posted a note&lt;/a&gt; about it on my website and planned to eventually do a write up on how I did it.&lt;/p&gt;
+&lt;p&gt;Last friday, I finally posted the deep dive on my developer website under the title &lt;a href=&#34;https://akashgoswami.dev/posts/automating-my-now-page/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Automating my /now page&lt;/a&gt; and decided to cross post it to a few places, including &lt;a href=&#34;https://news.ycombinator.com/item?id=41264716#41270859&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Hacker News&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This was my first time posting something I&amp;rsquo;d written on Hacker News, so I was surprised to find out that I eneded up hitting the front page of Hacker News as the third post in the list.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://akashgoswami.com/notes/automate_now_stats.png&#34; alt=&#34;A screenshot showing my post listed as the third item on the front page of Hacker news along side with web analytics data from Plausible showing that the post has received over 9k views&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This ended up leading to &lt;strong&gt;over 9,000 people clicking through to my post&lt;/strong&gt; 🤯.&lt;/p&gt;
+&lt;p&gt;Overall the feedback was quite positive and I even received a few encouraging comments&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://akashgoswami.com/notes/automate_now_comments.png&#34; alt=&#34;Comments people made about my post&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>Automating Now</title>
-      <link>http://localhost:1313/notes/automating-now/</link>
-      <pubDate>Thu, 22 Feb 2024 21:35:00 +0000</pubDate>
+      <link>https://akashgoswami.com/notes/automating-now/</link>
+      <pubDate>Mon, 19 Aug 2024 12:45:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/notes/automating-now/</guid>
+      <guid>https://akashgoswami.com/notes/automating-now/</guid>
       <description>&lt;p&gt;A quick little website update.&lt;/p&gt;
-&lt;p&gt;My &lt;a href=&#34;http://localhost:1313/now&#34; &gt;now&lt;/a&gt; page on this website is automatically updated daily 🎉&lt;/p&gt;
+&lt;p&gt;My &lt;a href=&#34;https://akashgoswami.com/now&#34; &gt;now&lt;/a&gt; page on this website is automatically updated daily 🎉&lt;/p&gt;
 &lt;p&gt;The travel and media sections are now updated daily with the lastest places I&amp;rsquo;ve been and the lastest things I&amp;rsquo;ve watched, read and played as well!&lt;/p&gt;
 &lt;p&gt;The idea to automate my now page comes from seeing other folks trying to do the same, but I was mainly inspired by &lt;a href=&#34;https://rknight.me/blog/automating-my-now-page/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Robb Knight&lt;/a&gt; and &lt;a href=&#34;https://localghost.dev/blog/everything-should-have-an-api-adventures-in-trying-to-automate-stuff/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Sophie Koonin&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;This data is obtained from a few different sources. If you want to know more about how it works, you can checkout the Go script I wrote &lt;a href=&#34;https://github.com/Skyth3r/automate-now&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;here on GitHub&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I plan on putting a small guide together on how to use it to automate your own now page as well as a detailed deep dive post to explain how I got it all working and what some of the challenges were with this project soon.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Update:&lt;/strong&gt; I got around to writing the post on how I did this using a Go and GitHub Actions. You can read more about &lt;a href=&#34;https://akashgoswami.dev/posts/automating-my-now-page/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;how I automated my now page here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Houston, we have notes!</title>
-      <link>http://localhost:1313/articles/adding-notes/</link>
+      <link>https://akashgoswami.com/articles/adding-notes/</link>
       <pubDate>Sat, 09 Sep 2023 09:42:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/articles/adding-notes/</guid>
+      <guid>https://akashgoswami.com/articles/adding-notes/</guid>
       <description>&lt;p&gt;In addition to the articles, I’ve decided to add a notes section to the website now. There are times when I wanted to write a short piece about something but it didn’t feel right to put it in the articles section of the website.&lt;/p&gt;
 &lt;p&gt;Sometimes I just want to…note something down.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Hence the &lt;a href=&#34;http://localhost:1313/notes&#34; &gt;notes section&lt;/a&gt;!&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Hence the &lt;a href=&#34;https://akashgoswami.com/notes&#34; &gt;notes section&lt;/a&gt;!&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;what-are-notes-meant-to-be&#34;&gt;What are notes meant to be?&lt;/h2&gt;
 &lt;p&gt;Notes will be short pieces of writing. Most likely a couple of lines long.&lt;/p&gt;
 &lt;p&gt;They’ll basically be my equivalent of a tweet.&lt;/p&gt;
 &lt;p&gt;If a note ends up getting too long, I might decide to nudge it over to the articles section.&lt;/p&gt;
 &lt;h2 id=&#34;notes-rss-feed&#34;&gt;Notes RSS feed&lt;/h2&gt;
-&lt;p&gt;Thanks to &lt;a href=&#34;http://localhost:1313/articles/building-websites-with-hugo&#34; &gt;Hugo&lt;/a&gt;, a new RSS feed is auto-magically generated for notes.
-If you want to subscribe to it, here’s the &lt;a href=&#34;http://localhost:1313/notes/index.xml&#34; &gt;notes RSS feed link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Thanks to &lt;a href=&#34;https://akashgoswami.com/articles/building-websites-with-hugo&#34; &gt;Hugo&lt;/a&gt;, a new RSS feed is auto-magically generated for notes.
+If you want to subscribe to it, here’s the &lt;a href=&#34;https://akashgoswami.com/notes/index.xml&#34; &gt;notes RSS feed link&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

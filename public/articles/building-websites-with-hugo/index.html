@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en" itemscope itemtype="http://schema.org/WebPage">
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
     <meta charset="utf-8" />
   
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -35,7 +35,9 @@
     
         <link rel="preconnect" href="https://plausible.io">
     
-        <!-- Dev mode : We do not load plausible script to avoid bloating your stats -->
+        
+            
+            <script defer  data-domain="akashgoswami.com" src="https://plausible.io/js/script.js" ></script>
 
 <!-- If you are using Content-Security-Policy, do not forget to add this code to your CSP : 
   script-src 'unsafe-inline' https://plausible.io
@@ -56,12 +58,12 @@
     
 
   
-    <link rel="stylesheet" href="http://localhost:1313/css/main.css" />
+    <link rel="stylesheet" href="https://akashgoswami.com/css/main.css" />
   
     
     
   
-    <meta property="og:url" content="http://localhost:1313/articles/building-websites-with-hugo/">
+    <meta property="og:url" content="https://akashgoswami.com/articles/building-websites-with-hugo/">
   <meta property="og:site_name" content="Akash Goswami">
   <meta property="og:title" content="Building websites with Hugo">
   <meta property="og:description" content="A guide on building your own website for free using Hugo and Github Pages.">
@@ -73,12 +75,12 @@
     <meta property="article:tag" content="Web-Dev">
     <meta property="article:tag" content="Hugo">
     <meta property="article:tag" content="Guide">
-    <meta property="og:image" content="http://localhost:1313/img/setting-up-hugo/setting-up-hugo-header.png">
+    <meta property="og:image" content="https://akashgoswami.com/img/setting-up-hugo/setting-up-hugo-header.png">
 
   
     
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:image" content="http://localhost:1313/img/setting-up-hugo/setting-up-hugo-header.png">
+  <meta name="twitter:image" content="https://akashgoswami.com/img/setting-up-hugo/setting-up-hugo-header.png">
   <meta name="twitter:title" content="Building websites with Hugo">
   <meta name="twitter:description" content="A guide on building your own website for free using Hugo and Github Pages.">
 
@@ -89,7 +91,7 @@
   <meta itemprop="datePublished" content="2023-01-20T08:00:00+00:00">
   <meta itemprop="dateModified" content="2024-05-07T18:05:00+00:00">
   <meta itemprop="wordCount" content="1229">
-  <meta itemprop="image" content="http://localhost:1313/img/setting-up-hugo/setting-up-hugo-header.png">
+  <meta itemprop="image" content="https://akashgoswami.com/img/setting-up-hugo/setting-up-hugo-header.png">
   <meta itemprop="keywords" content="Web-Dev,Hugo,Guide">
   
     
@@ -98,7 +100,7 @@
   <meta itemprop="datePublished" content="2023-01-20T08:00:00+00:00">
   <meta itemprop="dateModified" content="2024-05-07T18:05:00+00:00">
   <meta itemprop="wordCount" content="1229">
-  <meta itemprop="image" content="http://localhost:1313/img/setting-up-hugo/setting-up-hugo-header.png">
+  <meta itemprop="image" content="https://akashgoswami.com/img/setting-up-hugo/setting-up-hugo-header.png">
   <meta itemprop="keywords" content="Web-Dev,Hugo,Guide">
   </head><body class="flex relative h-full min-h-screen"><aside
   class="will-change-transform transform transition-transform -translate-x-full absolute top-0 left-0 md:relative md:translate-x-0 w-3/4 md:w-60 h-full min-h-screen p-3 bg-slate-50 dark:bg-slate-800 border-r border-slate-200 dark:border-slate-700 flex flex-col gap-2.5 z-20 sidebar">
@@ -110,7 +112,7 @@
   <line x1="18" y1="6" x2="6" y2="18" />
   <line x1="6" y1="6" x2="18" y2="18" />
 </svg></button>
-    <a href="http://localhost:1313/" class="px-2">
+    <a href="https://akashgoswami.com/" class="px-2">
       <span>Akash Goswami</span>
     </a>
     <button aria-label="Toggle dark mode"
@@ -351,7 +353,7 @@
   lg:translate-x-0 lg:min-w-[400px] lg:w-1/4 h-full bg-slate-50 dark:bg-slate-800 border-r border-slate-200 dark:border-slate-700 lg:flex flex-col py-3 overflow-y-auto scroll-area">
     
     
-    <a href="http://localhost:1313/articles/">
+    <a href="https://akashgoswami.com/articles/">
       <h2 class="font-bold mb-5 py-1 pl-12 pr-3 md:px-3">Articles</h2>
     </a><div class="space-y-2.5">
       
@@ -481,15 +483,15 @@
       
          
           
-            <a href="http://localhost:1313/tags/guide/">#guide</a>
+            <a href="https://akashgoswami.com/tags/guide/">#guide</a>
           
          
           
-            <a href="http://localhost:1313/tags/hugo/">#hugo</a>
+            <a href="https://akashgoswami.com/tags/hugo/">#hugo</a>
           
          
           
-            <a href="http://localhost:1313/tags/web-dev/">#web-dev</a>
+            <a href="https://akashgoswami.com/tags/web-dev/">#web-dev</a>
           
         
       
@@ -577,6 +579,23 @@ echo &#34;theme = &#39;hugo-bearblog&#39;&#34; &gt;&gt; hugo.toml
 <script type="text/javascript" src="/main.js" defer></script>
 
 
+  
+    
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-6RD6L79H3R"></script>
+      <script>
+        var doNotTrack = false;
+        if ( false ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-6RD6L79H3R');
+        }
+      </script>
+    
   
 
 

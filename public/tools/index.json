@@ -2,8 +2,8 @@
     "version" : "https://jsonfeed.org/version/1",
     "title" : "Tools on Akash Goswami",
     "description": "Recent content in Tools on Akash Goswami",
-    "home_page_url" : "http://localhost:1313/",
-    "feed_url" : "http://localhost:1313/tools/index.json",
+    "home_page_url" : "https://akashgoswami.com/",
+    "feed_url" : "https://akashgoswami.com/tools/index.json",
     "items" : [
     ]
 }

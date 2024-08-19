@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Git on Akash Goswami</title>
-    <link>http://localhost:1313/tags/git/</link>
+    <link>https://akashgoswami.com/tags/git/</link>
     <description>Recent content in Git on Akash Goswami</description>
     <generator>Hugo -- gohugo.io</generator>
     <language></language>
-    <lastBuildDate>Thu, 18 Jan 2024 12:05:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Jan 2024 12:05:00 +0000</lastBuildDate><atom:link href="https://akashgoswami.com/tags/git/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Remove files from Git history</title>
-      <link>http://localhost:1313/notes/remove-files-from-git-history/</link>
+      <link>https://akashgoswami.com/notes/remove-files-from-git-history/</link>
       <pubDate>Thu, 18 Jan 2024 12:05:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/notes/remove-files-from-git-history/</guid>
+      <guid>https://akashgoswami.com/notes/remove-files-from-git-history/</guid>
       <description>&lt;p&gt;A note for myself because I know I&amp;rsquo;ll probably do it again in the future&amp;hellip;&lt;/p&gt;
 &lt;p&gt;I managed to accidently commited a text file to a repository and pushed it to GitHub 🤦🏽‍♂️&lt;/p&gt;
 &lt;p&gt;While it didn&amp;rsquo;t contain any sensitive data, I still wanted to remove it from the repository&amp;rsquo;s history. I found &lt;a href=&#34;https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;this guide on GitHub&lt;/a&gt; and these are the exact steps I followed to resolve this issue.&lt;/p&gt;

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Digital-Garden on Akash Goswami</title>
-    <link>http://localhost:1313/tags/digital-garden/</link>
+    <link>https://akashgoswami.com/tags/digital-garden/</link>
     <description>Recent content in Digital-Garden on Akash Goswami</description>
     <generator>Hugo -- gohugo.io</generator>
     <language></language>
-    <lastBuildDate>Sun, 01 Jan 2023 09:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/digital-garden/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Jan 2023 09:00:00 +0000</lastBuildDate><atom:link href="https://akashgoswami.com/tags/digital-garden/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why you need a personal website</title>
-      <link>http://localhost:1313/articles/why-you-need-a-personal-website/</link>
+      <link>https://akashgoswami.com/articles/why-you-need-a-personal-website/</link>
       <pubDate>Sun, 01 Jan 2023 09:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/articles/why-you-need-a-personal-website/</guid>
+      <guid>https://akashgoswami.com/articles/why-you-need-a-personal-website/</guid>
       <description>&lt;p&gt;Time and time again, we are shown that we cannot rely on third-party platforms to host our content.&lt;/p&gt;
 &lt;p&gt;The internet is constantly changing and with that, the platforms that host our content are constantly in flux. Platforms can fall just as quickly as they can rise, either by just going &lt;a href=&#34;https://indieweb.org/site-deaths&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;completely offline&lt;/a&gt; or by making drastic changes to how people interact with content on their site/platform.&lt;/p&gt;
 &lt;p&gt;There are countless examples of this happening in the past and more recently the 2022 Twitter meltdown has led to some massive changes. One of these changes is that the newsletter platform Twitter acquired just two years ago, Revue is now &lt;a href=&#34;https://www.theverge.com/2022/12/14/23509254/twitter-revue-shutdown-newsletter-data-deletion&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;shutting down&lt;/a&gt;.&lt;/p&gt;
@@ -32,7 +32,7 @@
 &lt;p&gt;&lt;strong&gt;Robust &amp;amp; compact&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Because I&amp;rsquo;m using a static site generator for this website now, this has simplified a lot for me and has helped make the website a lot smaller and more compact. Due to its small size, I&amp;rsquo;m able to back up the entire site to several other code hosting/cloud storage platforms with ease. Currently, you can find this website on &lt;a href=&#34;https://github.com/Skyth3r/Skyth3r.github.io&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Additionally, using a static site generator has also done a lot of the heavy lifting when it comes to SEO optimisation and has drastically improved the website&amp;rsquo;s load times as pointed out by this speed test 👇🏽
-&lt;img src=&#34;http://localhost:1313/img/personal-website/pagespeed-insights-desktop-100.png&#34; alt=&#34;Pagespeed insights results desktop: 100% all pagespeed-insights-desktop-100-performace&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://akashgoswami.com/img/personal-website/pagespeed-insights-desktop-100.png&#34; alt=&#34;Pagespeed insights results desktop: 100% all pagespeed-insights-desktop-100-performace&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;what-to-expect-from-this-website&#34;&gt;What to expect from this website&lt;/h2&gt;
 &lt;p&gt;So what can you expect from this website then?&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m someone that has several interests and hobbies so I don&amp;rsquo;t want to box myself in with a particular theme or topic. My interests are not set in stone, and I expect them to change over time but there will likely be many recurring themes &amp;amp; topics I write about.&lt;/p&gt;

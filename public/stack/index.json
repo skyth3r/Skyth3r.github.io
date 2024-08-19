@@ -2,8 +2,8 @@
     "version" : "https://jsonfeed.org/version/1",
     "title" : "Stack on Akash Goswami",
     "description": "Recent content in Stack on Akash Goswami",
-    "home_page_url" : "http://localhost:1313/",
-    "feed_url" : "http://localhost:1313/stack/index.json",
+    "home_page_url" : "https://akashgoswami.com/",
+    "feed_url" : "https://akashgoswami.com/stack/index.json",
     "items" : [
     ]
 }
