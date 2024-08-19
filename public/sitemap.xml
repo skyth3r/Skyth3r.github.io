@@ -2,25 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://akashgoswami.com/</loc>
-    <lastmod>2024-08-19T12:48:00+00:00</lastmod>
-  </url><url>
-    <loc>https://akashgoswami.com/notes/</loc>
-    <lastmod>2024-08-19T12:48:00+00:00</lastmod>
-  </url><url>
-    <loc>https://akashgoswami.com/tags/</loc>
-    <lastmod>2024-08-19T12:48:00+00:00</lastmod>
-  </url><url>
-    <loc>https://akashgoswami.com/notes/plausible/</loc>
-    <lastmod>2024-08-19T12:48:00+00:00</lastmod>
-  </url><url>
-    <loc>https://akashgoswami.com/tags/update/</loc>
-    <lastmod>2024-08-19T12:48:00+00:00</lastmod>
-  </url><url>
     <loc>https://akashgoswami.com/notes/automation-now-blog-post/</loc>
     <lastmod>2024-08-19T12:45:00+00:00</lastmod>
   </url><url>
     <loc>https://akashgoswami.com/notes/automating-now/</loc>
+    <lastmod>2024-08-19T12:45:00+00:00</lastmod>
+  </url><url>
+    <loc>https://akashgoswami.com/</loc>
+    <lastmod>2024-08-19T12:45:00+00:00</lastmod>
+  </url><url>
+    <loc>https://akashgoswami.com/notes/</loc>
+    <lastmod>2024-08-19T12:45:00+00:00</lastmod>
+  </url><url>
+    <loc>https://akashgoswami.com/tags/</loc>
+    <lastmod>2024-08-19T12:45:00+00:00</lastmod>
+  </url><url>
+    <loc>https://akashgoswami.com/tags/update/</loc>
     <lastmod>2024-08-19T12:45:00+00:00</lastmod>
   </url><url>
     <loc>https://akashgoswami.com/articles/</loc>
