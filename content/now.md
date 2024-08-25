@@ -73,9 +73,9 @@ I've got into hiking in 2023. Last summer, I hiked up Ben Nevis in Scotland 🏴
 
 *Data sourced from [Serializd](https://www.serializd.com/)*
 
+* [Snowpiercer, Season 4](https://www.serializd.com/show/79680)
 * [Delicious in Dungeon, Season 1](https://www.serializd.com/show/207784)
 * [Alice in Borderland, Season 2](https://www.serializd.com/show/110316)
-* [3 Body Problem, Season 1](https://www.serializd.com/show/108545)
 
 ## 🎮 Video Games
 
