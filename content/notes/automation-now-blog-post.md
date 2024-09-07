@@ -17,9 +17,9 @@ This was my first time posting something I'd written on Hacker News, so I was su
 
 ![A screenshot showing my post listed as the third item on the front page of Hacker news along side with web analytics data from Plausible showing that the post has received over 9k views](/notes/automate_now_stats.png)
 
-This ended up leading to **over 9,000 people clicking through to my post** 🤯.
+This ended up leading to **over 9,000 people clicking through to my post** 🤯
 
-Overall the feedback was quite positive and I even received a few encouraging comments 
+Overall the feedback was quite positive and I even received a few encouraging comments including a little message from Derek Sivers (the person behind the [nownownow website](https://nownownow.com/)).
 
 ![Comments people made about my post](/notes/automate_now_comments.png)
 
