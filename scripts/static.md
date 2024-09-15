@@ -13,16 +13,16 @@ You can read more about [how I automated my now page here](https://akashgoswami.
 
 I live in London and currently work at [Monzo Bank](https://monzo.com/) as a Backend Engineer.
 
-Right now I'm on a month's sabbatical leave 🏝️
-
 ## 🤓 Learning
 
-I'm working on improving my programming skills. I'm focusing on [Go](https://go.dev/) at the moment but I'm also looking into other things like [React](https://react.dev/) and [Postgres](https://www.postgresql.org/).
+I'm working on improving my programming skills. 
+
+Currently I write code in either [Go](https://go.dev/) or [Python](https://www.python.org/) and I'm focusing on getting better at building web apps with both languages 🕸️
+
+You can find my [latest projects on my GitHub](https://github.com/skyth3r).
 
 ## 🤸🏽‍♂️ Fitness
 
 I'm currently getting back into going to the gym regularly 🏋🏽‍♂️
 
-I cycle regularly 🚴🏽‍♂️
-
-I've got into hiking in 2023. Last summer, I hiked up Ben Nevis in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+I cycle regularly (a bit less regularly during the winter) 🚴🏽‍♂️
