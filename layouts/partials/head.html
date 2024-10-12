@@ -19,13 +19,18 @@
     {{- if .Params.Author }}
     <meta name="author" content="{{ .Params.Author}}" />
     {{ end -}}
+
+    <!-- Mastodon Author Tag -->
+    {{ if .Site.Params.Mastodon }}
+    <meta name="fediverse:creator" content="{{ .Site.Params.mastodon.author }}" />
+    {{ end }}
     
     {{ hugo.Generator }}
 
     <!-- Plausible -->
     {{ partial "plausible_head.html" . }}
   
-    <link rel="stylesheet" href="{{ "/css/main.css" | absURL}}" />
+    <link rel="stylesheet" href="{{ "/css/main.cs" | absURL}}" />
   
     <!-- Katex support -->
     {{ if .Params.math }}
