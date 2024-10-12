@@ -14,6 +14,9 @@ enableRobotsTXT = true
   provider = "buttondown"
   path = "https://buttondown.email/api/emails/embed-subscribe/akashgoswami"
 
+[Params.mastodon]
+  author = "@akashgoswami@hachyderm.io"
+
 [Params.plausible]
   enable = true 
   domain = "akashgoswami.com"

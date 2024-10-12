@@ -19,6 +19,11 @@
     {{- if .Params.Author }}
     <meta name="author" content="{{ .Params.Author}}" />
     {{ end -}}
+
+    <!-- Mastodon Author Tag -->
+    {{ if .Site.Params.Mastodon }}
+    <meta name="fediverse:creator" content="{{ .Site.Params.mastodon.author }}" />
+    {{ end }}
     
     {{ hugo.Generator }}
 
