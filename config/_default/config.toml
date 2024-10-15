@@ -39,29 +39,25 @@ enableRobotsTXT = true
   url = '/notes'
   weight = 4
 [[menu.main]]
-  name = 'Tools'
-  url = '/tools'
-  weight = 5
-[[menu.main]]
   name = 'Now'
   url = '/now'
-  weight = 6
+  weight = 5
 [[menu.main]]
   name = 'Verify'
   url = '/verify'
-  weight = 7
+  weight = 6
 [[menu.main]]
-  name = 'Tags'
-  url = '/tags'
-  weight = 8
+  name = 'Explore'
+  url = '/explore'
+  weight = 7
 [[menu.main]]
   name = 'Links'
   params.header = true
-  weight = 9
+  weight = 8
 [[menu.main]]
   name = 'akashgoswami.dev'
   url = 'https://akashgoswami.dev'
-  weight = 10
+  weight = 9
 
 [[menu.social]]
   name = 'Mastodon'
