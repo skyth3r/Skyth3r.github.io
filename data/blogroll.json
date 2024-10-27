@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Maggie Appleton",
+    "description": "Maggie's digital garden filled with visual essays on programming, design, and anthropology",
+    "link": "https://maggieappleton.com/",
+    "icon": "/blogroll-images/maggie_appleton.png",
+    "tag": "Digital Garden,Tech,Web Development"
+  },
+  {
+    "name": "Derek Sivers",
+    "description": "California native, that now lives in New Zealand. Creator of things including books and the nownownow project",
+    "link": "https://sive.rs/",
+    "icon": "/blogroll-images/derek_sivers.png",
+    "tag": "Friend,Tech"
+  },
+  {
+    "name": "localghost",
+    "description": "Sophie builds fun things out of HTML, CSS & JavaScript, and writes blog posts about tech and mental health",
+    "link": "https://localghost.dev/",
+    "icon": "/blogroll-images/localghost.png",
+    "tag": "Tech,Web Development"
+  },
+  {
+    "name": "Robb Knight",
+    "description": "Maker of web things, Lego builder, sometimes blogger, sporadic pizzaiolo, fortnightly podcaster",
+    "link": "https://rknight.me/",
+    "icon": "/blogroll-images/robb_knight.png",
+    "tag": "Tech,Web Development"
+  },
+  {
+    "name": "Carol Gilabert",
+    "description": "Frontend engineer, community organiser, and dog mum",
+    "link": "https://carol.gg/",
+    "icon": "/blogroll-images/carol.png",
+    "tag": "Tech,Web Development"
+  },
+  {
+    "name": "Pawlean",
+    "description": "Thoughts into pixels since 2008 ✨",
+    "link": "https://pawlean.com/",
+    "icon": "/blogroll-images/pawlean.png",
+    "tag": "Friend,Tech"
+  },
+  {
+    "name": "Michael Enger",
+    "description": "Musician and software engineer",
+    "link": "https://michaelenger.com/",
+    "icon": "/blogroll-images/michael_enger.png",
+    "tag": "Friend,Tech,Music"
+  },
+  {
+    "name": "Bryce Wray",
+    "description": "Observations, opinions, geekiness since 2018",
+    "link": "https://www.brycewray.com/",
+    "icon": "/blogroll-images/bryce_wray.png",
+    "tag": "Hugo,Tech,Web Development"
+  },
+  {
+    "name": "Paul Stamatiou",
+    "description": "Technology, design and photography",
+    "link": "https://paulstamatiou.com/",
+    "icon": "/blogroll-images/paul_stamatiou.png",
+    "tag": "Tech"
+  },
+  {
+    "name": "Harry Cresswell",
+    "description": "Freelance web designer interested in static sites, privacy and web performance",
+    "link": "https://harrycresswell.com/",
+    "icon": "/blogroll-images/harry_cresswell.png",
+    "tag": "Hugo,Tech,Web Development"
+  },
+  {
+    "name": "Kev Quirk",
+    "description": "Web design, blogging, technology, watch collecting and motorbikes",
+    "link": "https://kevquirk.com/",
+    "icon": "/blogroll-images/kev_quirk.png",
+    "tag": "Tech,Web Development"
+  },
+  {
+    "name": "Justin James",
+    "description": "Web developer, tester, and professional speaker",
+    "link": "https://digitaldrummerj.me/",
+    "icon": "/blogroll-images/justin_james.png",
+    "tag": "Hugo,Tech"
+  },
+  {
+    "name": "Dmitry Kudryavtsev",
+    "description": "Senior software engineer, and entrepreneur",
+    "link": "https://yieldcode.blog/",
+    "icon": "/blogroll-images/dmitry_kudryavtsev.png",
+    "tag": "Tech,Web Development"
+  },
+  {
+    "name": "Darius Foroux",
+    "description": "Shares ideas weekly to become smarter and wealthier since 2015",
+    "link": "https://dariusforoux.com/",
+    "icon": "/blogroll-images/darius_foroux.png",
+    "tag": "Finance,Investing"
+  },
+  {
+    "name": "Mr. Money Mustache",
+    "description": "A thirtysomething retiree who now writes about how we can all live a frugal yet Badass life of leisure",
+    "link": "https://www.mrmoneymustache.com/",
+    "icon": "/blogroll-images/mr_money_mustache.png",
+    "tag": "Finance,Investing"
+  },
+  {
+    "name": "The Woke Salaryman",
+    "description": "Accessible personal finance comics",
+    "link": "https://thewokesalaryman.com/",
+    "icon": "/blogroll-images/the_woke_salaryman.png",
+    "tag": "Finance,Investing"
+  }
+]
