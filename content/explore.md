@@ -7,6 +7,9 @@ To avoid turning the side menu bar into a forever growing list, here are the oth
 ## [Articles](https://akashgoswami.com/articles/)
 My long form posts
 
+## [Blogroll](https://akashgoswami.com/blogroll/)
+Other blogs I follow
+
 ## [Not Financial Advice](https://akashgoswami.com/not-financial-advice)
 A disclaimer because I'm not a financial advisor
 
