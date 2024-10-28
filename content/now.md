@@ -65,9 +65,9 @@ I cycle regularly (a bit less regularly during the winter) 🚴🏽‍♂️
 
 *Data sourced from [Letterboxd](https://letterboxd.com/)*
 
+* [The Platform 2](https://letterboxd.com/film/the-platform-2/)
 * [Baby Driver](https://letterboxd.com/film/baby-driver/)
 * [Spirited Away](https://letterboxd.com/film/spirited-away/)
-* [Hunger](https://letterboxd.com/film/hunger-2023/)
 
 ### Recently watched TV shows
 
@@ -85,4 +85,4 @@ I cycle regularly (a bit less regularly during the winter) 🚴🏽‍♂️
 
 ---
 
-Last updated: 27 Oct 2024
+Last updated: 28 Oct 2024
