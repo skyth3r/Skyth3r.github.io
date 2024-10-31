@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Spending your security goodwill budget wisely",
+    "description": "Manging goodwill without causing security burnout",
+    "link": "https://bradleyjkemp.dev/post/spending-your-security-goodwill-budget-wisely/",
+    "icon": "/link-icon.png",
+    "tag": "Cybersecurity"
+  },
+  {
+    "name": "Don't build your castle in other people's kingdoms",
+    "description": "The risks content creators face when building their online presence on platforms they don't own",
+    "link": "https://howtomarketagame.com/2021/11/01/dont-build-your-castle-in-other-peoples-kingdoms/",
+    "icon": "/link-icon.png",
+    "tag": "Indie Web"
+  },
+  {
+    "name": "What Silicon Valley 'Gets' about Software Engineers that Traditional Companies Do Not",
+    "description": "How Silicon Valleyn companies see software engineers as problem solvers and not just coders",
+    "link": "https://blog.pragmaticengineer.com/what-silicon-valley-gets-right-on-software-engineers/",
+    "icon": "/link-icon.png",
+    "tag": "Engineering"
+  }
+]

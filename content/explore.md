@@ -10,6 +10,9 @@ My long form posts
 ## [Blogroll](https://akashgoswami.com/blogroll/)
 Other blogs I follow
 
+## [Bookmarks](https://akashgoswami.com/bookmarks/)
+Interesting web links
+
 ## [Not Financial Advice](https://akashgoswami.com/not-financial-advice)
 A disclaimer because I'm not a financial advisor
 
