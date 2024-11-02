@@ -73,6 +73,7 @@ I cycle regularly (a bit less regularly during the winter) 🚴🏽‍♂️
 
 *Data sourced from [Serializd](https://www.serializd.com/)*
 
+* [Maid, Limited Series](https://www.serializd.com/show/111141)
 * [Snowpiercer, Season 4](https://www.serializd.com/show/79680)
 * [Delicious in Dungeon, Season 1](https://www.serializd.com/show/207784)
 
@@ -85,4 +86,4 @@ I cycle regularly (a bit less regularly during the winter) 🚴🏽‍♂️
 
 ---
 
-Last updated: 1 Nov 2024
+Last updated: 2 Nov 2024
