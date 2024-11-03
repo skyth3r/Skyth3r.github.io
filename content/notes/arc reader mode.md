@@ -5,7 +5,9 @@ description: How to enable Arc's secert reading mode
 tags: ['web-browser']
 ---
 
-**Note** - Arc seems to have removed this feature from the browser now. I'm not sure when they are bringing it back.
+{{< notice warning >}}
+Arc seems to have removed this feature from the browser now. I'm not sure when they are bringing it back.
+{{< /notice >}}
 
 One of the features I've always liked in Apple's Safari web browser is the [Safari Reader mode](https://support.apple.com/en-gb/guide/safari/sfri32632/mac), which removes ads, navigation or other distracting elements from a web page.
 
