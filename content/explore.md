@@ -2,13 +2,16 @@
 title: Explore
 ---
 
-To avoid turning the side menu bar into a forever growing list, here are the other pages on my website you might find interesting.
+To avoid turning the side menu bar into a forever growing list, here are the other pages (in alphabetical order) on my website you might find interesting.
+
+## [Archives](https://akashgoswami.com/archives/)
+Hidden pages to old stuff
 
 ## [Articles](https://akashgoswami.com/articles/)
 My long form posts
 
 ## [Blogroll](https://akashgoswami.com/blogroll/)
-Other blogs I follow
+Other blogs I read and follow
 
 ## [Bookmarks](https://akashgoswami.com/bookmarks/)
 Interesting web links
@@ -39,5 +42,3 @@ What I'm currently using
 
 ## [Verify](https://akashgoswami.com/verify/)
 My other profiles across the interwebs
-
-
