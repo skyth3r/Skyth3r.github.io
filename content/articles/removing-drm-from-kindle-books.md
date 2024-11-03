@@ -42,10 +42,11 @@ That’s simple. Not having DRM on your eBooks means you can read them on any de
 
 No. Just don’t distribute the DRM-free books you have as that would be illegal.
 
-### Disclaimer
+{{< notice note >}}
 There a several guides online that explain how to do this, I initially followed those methods but I got some errors when following these guides.
 
 Below I’ve listed the steps that worked for me. You might find that this exact approach might not work for you.
+{{< /notice >}}
 
 ### Prerequisites
 You’ll need a Kindle eReader or the Kindle app on your machine. I personally used my Kindle eReader for this process.

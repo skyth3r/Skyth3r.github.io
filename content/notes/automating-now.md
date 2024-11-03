@@ -17,4 +17,6 @@ This data is obtained from a few different sources. If you want to know more abo
 
 I plan on putting a small guide together on how to use it to automate your own now page as well as a detailed deep dive post to explain how I got it all working and what some of the challenges were with this project soon.
 
-**Update:** I got around to writing the post on how I did this using a Go and GitHub Actions. You can read more about [how I automated my now page here](https://akashgoswami.dev/posts/automating-my-now-page/).
+{{< notice note >}}
+I got around to writing the post on how I did this using a Go and GitHub Actions. You can read more about [how I automated my now page here](https://akashgoswami.dev/posts/automating-my-now-page/).
+{{< /notice >}}
