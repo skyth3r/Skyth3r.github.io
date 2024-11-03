@@ -47,21 +47,29 @@ enableRobotsTXT = true
   url = '/blogroll'
   weight = 6
 [[menu.main]]
+  name = 'Bookmarks'
+  url = '/bookmarks'
+  weight = 7
+[[menu.main]]
+  name = 'Tools'
+  url = '/tools'
+  weight = 8
+[[menu.main]]
   name = 'Verify'
   url = '/verify'
-  weight = 7
+  weight = 9
 [[menu.main]]
   name = 'Explore'
   url = '/explore'
-  weight = 8
+  weight = 10
 [[menu.main]]
   name = 'Links'
   params.header = true
-  weight = 9
+  weight = 11
 [[menu.main]]
   name = 'akashgoswami.dev'
   url = 'https://akashgoswami.dev'
-  weight = 10
+  weight = 12
 
 [[menu.social]]
   name = 'Mastodon'
