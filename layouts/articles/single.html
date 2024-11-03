@@ -82,6 +82,34 @@
       {{ .Content }}
       <hr>
       {{- partial "shortcodes/buymeacoffee.html" . -}}
+
+      {{/*  Add related posts  */}}
+      
+      {{/*  loop through posts with same tags as post  */}}
+      {{- range first 1 (where (where .Site.Pages ".Params.tags" "intersect" .Params.tags) "Permalink" "!=" .Permalink) -}}
+        {{- $.Scratch.Set "has_related" true -}}
+      {{- end -}}
+
+      {{/* display up to three related posts on the page  */}}
+      {{ if $.Scratch.Get "has_related" }}
+          <div class="related-content">
+              <h3>Related Posts</h3>
+              <ul>
+                  {{- $num_to_show := .Site.Params.related_content_limit | default 3 -}}
+                  {{ range first $num_to_show (where (where .Site.Pages ".Params.tags" "intersect" .Params.tags) "Permalink" "!=" .Permalink) }}
+                  <li>
+                      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                      &ndash; 
+                      <time datetime="{{ .Date.UTC.Format "2006-01-02T15:04:05-0700" }}">
+                          {{ .Date.Format "January 2, 2006" }}
+                      </time>
+                      <br> 
+                      <small>{{ .Description | plainify | htmlUnescape }}</small>
+                  </li>
+                {{ end }}
+              </ul>
+          </div>
+      {{ end }}
     </article>
   </div>
 
