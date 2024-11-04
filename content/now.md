@@ -81,9 +81,9 @@ I cycle regularly (a bit less regularly during the winter) 🚴🏽‍♂️
 
 *Data sourced from [Backloggd](https://backloggd.com/)*
 
-* [The Legend of Zelda: Tears of the Kingdom](https://backloggd.com/games/the-legend-of-zelda-tears-of-the-kingdom/)
-* [Hades](https://backloggd.com/games/hades--1/)
+* [Pokémon: Let's Go, Pikachu!](https://backloggd.com/games/pokemon-lets-go-pikachu/)
+* [Pokémon Y](https://backloggd.com/games/pokemon-y/)
 
 ---
 
-Last updated: 3 Nov 2024
+Last updated: 4 Nov 2024
