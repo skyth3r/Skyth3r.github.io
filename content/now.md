@@ -81,9 +81,9 @@ I cycle regularly (a bit less regularly during the winter) 🚴🏽‍♂️
 
 *Data sourced from [Backloggd](https://backloggd.com/)*
 
-* [Pokémon: Let\'s Go, Pikachu!](https://backloggd.com/games/pokemon-lets-go-pikachu/)
+* [Borderlands 2](https://backloggd.com/games/borderlands-2/)
 * [Pokémon Y](https://backloggd.com/games/pokemon-y/)
 
 ---
 
-Last updated: 23 Nov 2024
+Last updated: 24 Nov 2024
