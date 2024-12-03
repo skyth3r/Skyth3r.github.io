@@ -65,9 +65,9 @@ I cycle regularly (a bit less regularly during the winter) 🚴🏽‍♂️
 
 *Data sourced from [Letterboxd](https://letterboxd.com/)*
 
+* [Moana 2](https://letterboxd.com/film/moana-2/)
 * [Venom: The Last Dance](https://letterboxd.com/film/venom-the-last-dance/)
 * [The Boy and the Heron](https://letterboxd.com/film/the-boy-and-the-heron/)
-* [The Platform 2](https://letterboxd.com/film/the-platform-2/)
 
 ### Recently watched TV shows
 
@@ -86,4 +86,4 @@ I cycle regularly (a bit less regularly during the winter) 🚴🏽‍♂️
 
 ---
 
-Last updated: 2 Dec 2024
+Last updated: 3 Dec 2024
