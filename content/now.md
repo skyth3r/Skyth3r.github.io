@@ -73,9 +73,9 @@ I cycle regularly (a bit less regularly during the winter) 🚴🏽‍♂️
 
 *Data sourced from [Serializd](https://www.serializd.com/)*
 
+* [Pantheon, Season 1](https://www.serializd.com/show/195339)
 * [Arcane, Season 2](https://www.serializd.com/show/94605)
 * [Maid, Limited Series](https://www.serializd.com/show/111141)
-* [Snowpiercer, Season 4](https://www.serializd.com/show/79680)
 
 ## 🎮 Video Games
 
@@ -86,4 +86,4 @@ I cycle regularly (a bit less regularly during the winter) 🚴🏽‍♂️
 
 ---
 
-Last updated: 3 Dec 2024
+Last updated: 4 Dec 2024
