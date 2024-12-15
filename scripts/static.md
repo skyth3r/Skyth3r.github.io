@@ -11,13 +11,13 @@ You can read more about [how I automated my now page here](https://akashgoswami.
 
 ## ⭐ What I'm up to
 
-I live in London and currently work at [Monzo Bank](https://monzo.com/) as a Backend Engineer.
+I live in London and currently work at [Snyk](https://snyk.io/) as a Backend Engineer.
 
 ## 🤓 Learning
 
-I'm working on improving my programming skills. 
+I'm working on getting better at [TypeScript](). 
 
-Currently I write code in either [Go](https://go.dev/) or [Python](https://www.python.org/) and I'm focusing on getting better at building web apps with both languages 🕸️
+Currently I write code in either [Go](https://go.dev/) or [Python](https://www.python.org/).
 
 You can find my [latest projects on my GitHub](https://github.com/skyth3r).
 
@@ -25,4 +25,4 @@ You can find my [latest projects on my GitHub](https://github.com/skyth3r).
 
 I'm currently getting back into going to the gym regularly 🏋🏽‍♂️
 
-I cycle regularly (a bit less regularly during the winter) 🚴🏽‍♂️
+I cycle regularly in the summer 🚴🏽‍♂️
