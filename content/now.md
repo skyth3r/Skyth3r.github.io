@@ -81,10 +81,8 @@ I cycle regularly in the summer 🚴🏽‍♂️
 
 *Data sourced from [Backloggd](https://backloggd.com/)*
 
-* [Marvel Rivals](https://backloggd.com/games/marvel-rivals/)
-* [Dredge](https://backloggd.com/games/dredge/)
 * [Borderlands 2](https://backloggd.com/games/borderlands-2/)
 
 ---
 
-Last updated: 22 Dec 2024
+Last updated: 23 Dec 2024
