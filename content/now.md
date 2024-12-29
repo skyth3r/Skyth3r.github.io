@@ -73,9 +73,9 @@ I cycle regularly in the summer 🚴🏽‍♂️
 
 *Data sourced from [Serializd](https://www.serializd.com/)*
 
+* [Squid Game, Season 2](https://www.serializd.com/show/93405)
 * [Doctor Who, Specials](https://www.serializd.com/show/239770)
 * [Pantheon, Season 1](https://www.serializd.com/show/195339)
-* [Arcane, Season 2](https://www.serializd.com/show/94605)
 
 ## 🎮 Video Games
 
@@ -86,4 +86,4 @@ I cycle regularly in the summer 🚴🏽‍♂️
 
 ---
 
-Last updated: 28 Dec 2024
+Last updated: 29 Dec 2024
