@@ -57,8 +57,7 @@ I cycle regularly in the summer 🚴🏽‍♂️
 
 *Data sourced from [Oku](https://oku.club/)*
 
-* [The People on Platform 5](https://oku.club/book/the-people-on-platform-5-by-clare-pooley-Rq3BN)
-
+Currently not reading a book
 ## 🎬 Movies and TV Shows
 
 ### Recently watched movies
@@ -86,4 +85,4 @@ I cycle regularly in the summer 🚴🏽‍♂️
 
 ---
 
-Last updated: 30 Dec 2024
+Last updated: 31 Dec 2024
