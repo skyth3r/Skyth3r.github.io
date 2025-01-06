@@ -72,7 +72,7 @@ Currently not reading a book
 
 *Data sourced from [Serializd](https://www.serializd.com/)*
 
-* [Squid Game, Season 2](https://www.serializd.com/show/93405)
+* [Squid Game, Squid Game 2](https://www.serializd.com/show/93405)
 * [Doctor Who, Specials](https://www.serializd.com/show/239770)
 * [Pantheon, Season 1](https://www.serializd.com/show/195339)
 
@@ -85,4 +85,4 @@ Currently not reading a book
 
 ---
 
-Last updated: 5 Jan 2025
+Last updated: 6 Jan 2025
