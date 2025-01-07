@@ -57,7 +57,8 @@ I cycle regularly in the summer 🚴🏽‍♂️
 
 *Data sourced from [Oku](https://oku.club/)*
 
-Currently not reading a book
+* [Wool](https://oku.club/book/wool-by-hugh-howey-q3WcI)
+
 ## 🎬 Movies and TV Shows
 
 ### Recently watched movies
@@ -72,7 +73,7 @@ Currently not reading a book
 
 *Data sourced from [Serializd](https://www.serializd.com/)*
 
-* [Squid Game, Squid Game 2](https://www.serializd.com/show/93405)
+* [Squid Game, Season 2](https://www.serializd.com/show/93405)
 * [Doctor Who, Specials](https://www.serializd.com/show/239770)
 * [Pantheon, Season 1](https://www.serializd.com/show/195339)
 
@@ -85,4 +86,4 @@ Currently not reading a book
 
 ---
 
-Last updated: 6 Jan 2025
+Last updated: 7 Jan 2025
