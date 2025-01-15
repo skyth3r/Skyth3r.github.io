@@ -73,9 +73,9 @@ I cycle regularly in the summer 🚴🏽‍♂️
 
 *Data sourced from [Serializd](https://www.serializd.com/)*
 
+* [The Rig, Season 2](https://www.serializd.com/show/112581)
 * [Squid Game, Season 2](https://www.serializd.com/show/93405)
 * [Doctor Who, Specials](https://www.serializd.com/show/239770)
-* [Pantheon, Season 1](https://www.serializd.com/show/195339)
 
 ## 🎮 Video Games
 
