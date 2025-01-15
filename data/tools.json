@@ -28,13 +28,6 @@
     "tag": "Productivity"
   },
   {
-    "name": "Readwise",
-    "description": "What I use to review my highlights from books & articles",
-    "link": "https://readwise.io/i/akash56",
-    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/readwise.png",
-    "tag": "Productivity"
-  },
-  {
     "name": "Readwise Reader",
     "description": "A powerful read it later app that integrates with Readwise",
     "link": "https://readwise.io/read",
@@ -63,13 +56,6 @@
     "tag": "Social"
   },
   {
-    "name": "Notion",
-    "description": "Versatile note taking app",
-    "link": "https://www.notion.so/",
-    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/notion.png",
-    "tag": "Productivity"
-  },
-  {
     "name": "GitHub",
     "description": "Code hosting platform for all projects",
     "link": "https://github.com/",
@@ -81,13 +67,6 @@
     "description": "My favourite terminal app for MacOS",
     "link": "https://iterm2.com/",
     "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/iterm.png",
-    "tag": "Coding"
-  },
-  {
-    "name": "Gitpod",
-    "description": "Instant cloud development environment tool",
-    "link": "https://www.gitpod.io/",
-    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/gitpod.png",
     "tag": "Coding"
   },
   {
