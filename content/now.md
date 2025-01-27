@@ -82,8 +82,7 @@ I cycle regularly in the summer 🚴🏽‍♂️
 *Data sourced from [Backloggd](https://backloggd.com/)*
 
 * [Days Gone](https://backloggd.com/games/days-gone/)
-* [Borderlands 2](https://backloggd.com/games/borderlands-2/)
 
 ---
 
-Last updated: 26 Jan 2025
+Last updated: 27 Jan 2025
