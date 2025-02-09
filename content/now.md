@@ -73,9 +73,9 @@ I cycle regularly in the summer 🚴🏽‍♂️
 
 *Data sourced from [Serializd](https://www.serializd.com/)*
 
+* [INVINCIBLE, Season 3](https://www.serializd.com/show/95557)
 * [The Rig, Season 2](https://www.serializd.com/show/112581)
 * [Squid Game, Season 2](https://www.serializd.com/show/93405)
-* [Doctor Who, Specials](https://www.serializd.com/show/239770)
 
 ## 🎮 Video Games
 
@@ -85,4 +85,4 @@ I cycle regularly in the summer 🚴🏽‍♂️
 
 ---
 
-Last updated: 8 Feb 2025
+Last updated: 9 Feb 2025
