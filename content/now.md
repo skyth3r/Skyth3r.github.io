@@ -11,15 +11,11 @@ You can read more about [how I automated my now page here](https://akashgoswami.
 
 ## ⭐ What I'm up to
 
-I live in London and currently work at [Snyk](https://snyk.io/) as a Backend Engineer.
+I live in London and currently work at [Snyk](https://snyk.io/) as a Software Engineer.
 
 ## 🤓 Learning
 
-I'm working on getting better at [TypeScript](). 
-
-Currently I write code in either [Go](https://go.dev/) or [Python](https://www.python.org/).
-
-You can find my [latest projects on my GitHub](https://github.com/skyth3r).
+Currently I'm working on understanding [Kubernetes](https://kubernetes.io/) better.
 
 ## 🤸🏽‍♂️ Fitness
 
