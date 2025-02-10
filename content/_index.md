@@ -6,7 +6,7 @@ title: Home
 
 ## Welcome to my corner of the internet!
 
-I'm a London based coffee fueled Cybersecurity Backend Engineer.
+I'm a London based coffee fueled Software Engineer.
 
 My interests include, but are not limited to: writing, [travelling](/tags/travel), [coding](https://akashgoswami.dev), [cycling](/tags/cycling), video games, and a recent favourite of mine, archery!
 
