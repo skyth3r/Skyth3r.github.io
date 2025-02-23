@@ -61,17 +61,17 @@ I cycle regularly in the summer 🚴🏽‍♂️
 
 *Data sourced from [Letterboxd](https://letterboxd.com/)*
 
+* [Captain America: Brave New World](https://letterboxd.com/film/captain-america-brave-new-world/)
 * [Moana 2](https://letterboxd.com/film/moana-2/)
 * [Venom: The Last Dance](https://letterboxd.com/film/venom-the-last-dance/)
-* [The Boy and the Heron](https://letterboxd.com/film/the-boy-and-the-heron/)
 
 ### Recently watched TV shows
 
 *Data sourced from [Serializd](https://www.serializd.com/)*
 
+* [Pantheon, Season 2](https://www.serializd.com/show/195339)
 * [INVINCIBLE, Season 3](https://www.serializd.com/show/95557)
 * [The Rig, Season 2](https://www.serializd.com/show/112581)
-* [Squid Game, Season 2](https://www.serializd.com/show/93405)
 
 ## 🎮 Video Games
 
@@ -81,4 +81,4 @@ I cycle regularly in the summer 🚴🏽‍♂️
 
 ---
 
-Last updated: 22 Feb 2025
+Last updated: 23 Feb 2025
