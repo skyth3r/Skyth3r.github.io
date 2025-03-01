@@ -25,7 +25,7 @@ I cycle regularly in the summer 🚴🏽‍♂️
 
 ## 🌏 Travel
 
-*Data sourced from [Nomadlist](https://nomadlist.com/)*
+*Data sourced from [Nomads](https://nomads.com/)*
 
 ### 2024
 
