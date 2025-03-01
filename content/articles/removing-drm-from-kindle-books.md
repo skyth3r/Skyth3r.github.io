@@ -8,6 +8,10 @@ description: A guide on how to remove DRM from Kindle books and why I think it m
 tags: ['ebooks', 'guide', 'kindle']
 ---
 
+{{< notice note >}}
+From Feburary 26th 2025, Amazon has removed the 'Download and Transfer via USB' option so this guide no longer works
+{{< /notice >}}
+
 I really enjoy reading books on my Kindle. I also buy most of my digital books via Amazon. I never thought about making DRM-free copies of my eBooks until I read about how [an engineer had his Amazon account suspended](https://medium.com/@bjax_/a-tale-of-unwanted-disruption-my-week-without-amazon-df1074e3818b) due to a delivery driver's false claim.
 
 That really got me thinking about how I would feel if I lost access to my Amazon account. I’ve purchased most of my ebooks from Amazon. Losing access would mean losing the majority of my digital library.
