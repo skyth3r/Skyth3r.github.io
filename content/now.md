@@ -69,8 +69,8 @@ I cycle regularly in the summer 🚴🏽‍♂️
 
 *Data sourced from [Serializd](https://www.serializd.com/)*
 
-* [The Haunting of Bly Manor, Season 1](https://www.serializd.com/show/109958)
 * [INVINCIBLE, Season 3](https://www.serializd.com/show/95557)
+* [The Haunting of Bly Manor, Season 1](https://www.serializd.com/show/109958)
 * [Pantheon, Season 2](https://www.serializd.com/show/195339)
 
 ## 🎮 Video Games
@@ -81,4 +81,4 @@ I cycle regularly in the summer 🚴🏽‍♂️
 
 ---
 
-Last updated: 14 Mar 2025
+Last updated: 16 Mar 2025
