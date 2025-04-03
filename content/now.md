@@ -69,9 +69,9 @@ I cycle regularly in the summer 🚴🏽‍♂️
 
 *Data sourced from [Serializd](https://www.serializd.com/)*
 
+* [Killing Eve, Season 2](https://www.serializd.com/show/72750)
 * [Severance, Season 1](https://www.serializd.com/show/95396)
 * [The Haunting of Bly Manor, Season 1](https://www.serializd.com/show/109958)
-* [INVINCIBLE, Season 3](https://www.serializd.com/show/95557)
 
 ## 🎮 Video Games
 
@@ -81,4 +81,4 @@ I cycle regularly in the summer 🚴🏽‍♂️
 
 ---
 
-Last updated: 2 Apr 2025
+Last updated: 3 Apr 2025
