@@ -69,9 +69,9 @@ I cycle regularly in the summer 🚴🏽‍♂️
 
 *Data sourced from [Serializd](https://www.serializd.com/)*
 
+* [Doctor Who, Season 2](https://www.serializd.com/show/239770)
 * [Black Mirror, Season 7](https://www.serializd.com/show/42009)
 * [Killing Eve, Season 2](https://www.serializd.com/show/72750)
-* [Severance, Season 1](https://www.serializd.com/show/95396)
 
 ## 🎮 Video Games
 
@@ -81,4 +81,4 @@ I cycle regularly in the summer 🚴🏽‍♂️
 
 ---
 
-Last updated: 20 Apr 2025
+Last updated: 21 Apr 2025
