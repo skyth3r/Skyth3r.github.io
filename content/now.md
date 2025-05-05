@@ -61,9 +61,9 @@ I cycle regularly in the summer 🚴🏽‍♂️
 
 *Data sourced from [Letterboxd](https://letterboxd.com/)*
 
+* [Thunderbolts*](https://letterboxd.com/film/thunderbolts/)
 * [Captain America: Brave New World](https://letterboxd.com/film/captain-america-brave-new-world/)
 * [Moana 2](https://letterboxd.com/film/moana-2/)
-* [Venom: The Last Dance](https://letterboxd.com/film/venom-the-last-dance/)
 
 ### Recently watched TV shows
 
@@ -81,4 +81,4 @@ I cycle regularly in the summer 🚴🏽‍♂️
 
 ---
 
-Last updated: 4 May 2025
+Last updated: 5 May 2025
