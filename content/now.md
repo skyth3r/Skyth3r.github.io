@@ -69,16 +69,16 @@ I cycle regularly in the summer 🚴🏽‍♂️
 
 *Data sourced from [Serializd](https://www.serializd.com/)*
 
-* [Money Heist, Season 1](https://www.serializd.com/show/71446)
 * [Doctor Who, Season 2](https://www.serializd.com/show/239770)
+* [Money Heist, Season 1](https://www.serializd.com/show/71446)
 * [Black Mirror, Season 7](https://www.serializd.com/show/42009)
 
 ## 🎮 Video Games
 
 *Data sourced from [Backloggd](https://backloggd.com/)*
 
-* [Days Gone](https://backloggd.com/games/days-gone/)
+* [Mario Kart World](https://backloggd.com/games/mario-kart-world/)
 
 ---
 
-Last updated: 3 Jun 2025
+Last updated: 7 Jun 2025
