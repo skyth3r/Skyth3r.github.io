@@ -61,9 +61,9 @@ I cycle regularly in the summer 🚴🏽‍♂️
 
 *Data sourced from [Letterboxd](https://letterboxd.com/)*
 
+* [Lilo and Stitch](https://letterboxd.com/film/lilo-stitch-2025/)
 * [Thunderbolts*](https://letterboxd.com/film/thunderbolts/)
 * [Captain America: Brave New World](https://letterboxd.com/film/captain-america-brave-new-world/)
-* [Moana 2](https://letterboxd.com/film/moana-2/)
 
 ### Recently watched TV shows
 
@@ -81,4 +81,4 @@ I cycle regularly in the summer 🚴🏽‍♂️
 
 ---
 
-Last updated: 12 Jun 2025
+Last updated: 13 Jun 2025
