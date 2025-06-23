@@ -61,9 +61,9 @@ I cycle regularly in the summer 🚴🏽‍♂️
 
 *Data sourced from [Letterboxd](https://letterboxd.com/)*
 
+* [How to Train Your Dragon](https://letterboxd.com/film/how-to-train-your-dragon-2025/)
 * [Lilo and Stitch](https://letterboxd.com/film/lilo-stitch-2025/)
 * [Thunderbolts*](https://letterboxd.com/film/thunderbolts/)
-* [Captain America: Brave New World](https://letterboxd.com/film/captain-america-brave-new-world/)
 
 ### Recently watched TV shows
 
@@ -81,4 +81,4 @@ I cycle regularly in the summer 🚴🏽‍♂️
 
 ---
 
-Last updated: 22 Jun 2025
+Last updated: 23 Jun 2025
