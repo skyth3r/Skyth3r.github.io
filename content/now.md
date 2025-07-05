@@ -69,9 +69,9 @@ I cycle regularly in the summer 🚴🏽‍♂️
 
 *Data sourced from [Serializd](https://www.serializd.com/)*
 
+* [Squid Game, Season 3](https://www.serializd.com/show/93405)
 * [Doctor Who, Season 2](https://www.serializd.com/show/239770)
 * [Money Heist, Season 1](https://www.serializd.com/show/71446)
-* [Black Mirror, Season 7](https://www.serializd.com/show/42009)
 
 ## 🎮 Video Games
 
@@ -82,4 +82,4 @@ I cycle regularly in the summer 🚴🏽‍♂️
 
 ---
 
-Last updated: 4 Jul 2025
+Last updated: 5 Jul 2025
