@@ -7,31 +7,10 @@
     "tag": "Utilities"
   },
   {
-    "name": "Arc",
-    "description": "A better web browser",
-    "link": "https://arc.net/",
-    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/arc.png",
-    "tag": "Utilities"
-  },
-  {
-    "name": "Bear",
-    "description": "Minimal writing app with markdown support",
-    "link": "https://bear.app/",
-    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/bear.png",
-    "tag": "Utilities"
-  },
-  {
     "name": "Obsidian",
     "description": "Markdown based note taking app",
     "link": "https://obsidian.md/",
     "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/obsidian.png",
-    "tag": "Productivity"
-  },
-  {
-    "name": "Readwise Reader",
-    "description": "A powerful read it later app that integrates with Readwise",
-    "link": "https://readwise.io/read",
-    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/reader.png",
     "tag": "Productivity"
   },
   {
@@ -42,18 +21,32 @@
     "tag": "Utilities"
   },
   {
-    "name": "NetNewsWire",
-    "description": "A free and open source RSS reader for Mac, iPhone, and iPad",
-    "link": "https://netnewswire.com/",
-    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/netnewswire.png",
+    "name": "Arc",
+    "description": "A better web browser",
+    "link": "https://arc.net/",
+    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/arc.png",
     "tag": "Utilities"
   },
   {
-    "name": "Typefully",
-    "description": "My favourite Twitter writing/scheduling app",
-    "link": "https://typefully.com/?via=akash",
-    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/typefully.png",
-    "tag": "Social"
+    "name": "Tapestry",
+    "description": "My favourite way of keeping up to date with everything that interests me",
+    "link": "https://usetapestry.com/",
+    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/tapestry.png",
+    "tag": "Utilities"
+  },
+  {
+    "name": "Bear",
+    "description": "Minimal writing app with markdown support",
+    "link": "https://bear.app/",
+    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/bear.png",
+    "tag": "Utilities"
+  },
+  {
+    "name": "Readwise Reader",
+    "description": "A powerful read it later app that integrates with Readwise",
+    "link": "https://readwise.io/read",
+    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/reader.png",
+    "tag": "Productivity"
   },
   {
     "name": "GitHub",
@@ -110,5 +103,12 @@
     "link": "https://excalidraw.com/",
     "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/excalidraw.png",
     "tag": "Utilities"
+  },
+  {
+    "name": "Typefully",
+    "description": "My favourite Twitter writing/scheduling app",
+    "link": "https://typefully.com/?via=akash",
+    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/typefully.png",
+    "tag": "Social"
   }
 ]
