@@ -19,6 +19,8 @@ Currently I'm working on understanding [Kubernetes](https://kubernetes.io/) bett
 
 ## 🤸🏽‍♂️ Fitness
 
-I'm currently getting back into going to the gym regularly 🏋🏽‍♂️
+I've taken up boxing classes 🥊
 
-I cycle regularly in the summer 🚴🏽‍♂️
+Getting back into a regular weight lifting routine 🏋🏽‍♂️
+
+Doing frequent bike trips across London 🚴🏽‍♂️
