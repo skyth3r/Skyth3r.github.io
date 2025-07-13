@@ -63,9 +63,9 @@ Doing frequent bike trips across London 🚴🏽‍♂️
 
 *Data sourced from [Letterboxd](https://letterboxd.com/)*
 
+* [Superman](https://letterboxd.com/film/superman-2025/)
 * [How to Train Your Dragon](https://letterboxd.com/film/how-to-train-your-dragon-2025/)
 * [Lilo and Stitch](https://letterboxd.com/film/lilo-stitch-2025/)
-* [Thunderbolts*](https://letterboxd.com/film/thunderbolts/)
 
 ### Recently watched TV shows
 
@@ -84,4 +84,4 @@ Doing frequent bike trips across London 🚴🏽‍♂️
 
 ---
 
-Last updated: 12 Jul 2025
+Last updated: 13 Jul 2025
