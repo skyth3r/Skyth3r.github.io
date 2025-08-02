@@ -63,9 +63,9 @@ Doing frequent bike trips across London 🚴🏽‍♂️
 
 *Data sourced from [Letterboxd](https://letterboxd.com/)*
 
+* [The Fantastic Four: First Steps](https://letterboxd.com/film/the-fantastic-four-first-steps/)
 * [Superman](https://letterboxd.com/film/superman-2025/)
 * [How to Train Your Dragon](https://letterboxd.com/film/how-to-train-your-dragon-2025/)
-* [Lilo and Stitch](https://letterboxd.com/film/lilo-stitch-2025/)
 
 ### Recently watched TV shows
 
@@ -84,4 +84,4 @@ Doing frequent bike trips across London 🚴🏽‍♂️
 
 ---
 
-Last updated: 1 Aug 2025
+Last updated: 2 Aug 2025
