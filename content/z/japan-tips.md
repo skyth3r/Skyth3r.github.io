@@ -52,7 +52,7 @@ Some tips for visiting Japan.
 ## Osaka
 
 ### Food
-* [Rikuro's](https://maps.app.goo.gl/77hNPtvXDzDZ2LvP8) - If you've seen those jiggly fluffy cheesecakes on social media, this is the home of them. There are several branches across the city, but the one I've linked is the main branch. Just beware that they seem to only sell whole cakes, so it might be a bit much if you're solo travelling 😅
+* [Rikuro\'s](https://maps.app.goo.gl/77hNPtvXDzDZ2LvP8) - If you've seen those jiggly fluffy cheesecakes on social media, this is the home of them. There are several branches across the city, but the one I've linked is the main branch. Just beware that they seem to only sell whole cakes, so it might be a bit much if you're solo travelling 😅
 
 ### Locations
 * [Dotombori](https://maps.app.goo.gl/hF6HNMpa7UwM4FLNA) - The most famous area in Osaka! A great place to visit and explore both day and night.
