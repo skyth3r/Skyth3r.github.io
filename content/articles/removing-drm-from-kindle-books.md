@@ -1,7 +1,7 @@
 ---
 title: DRM free books
 date: 2023-08-21T17:00:00
-lastmod: 2024-02-08:11:02
+lastmod: 2024-02-08T11:02:00
 images: 
 - /img/drm-free-books/remove-drm.png
 description: A guide on how to remove DRM from Kindle books and why I think it matters
