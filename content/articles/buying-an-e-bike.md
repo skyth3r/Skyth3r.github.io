@@ -7,7 +7,7 @@ description: A comprehensive guide to buying your first e-bike, covering key fac
 tags: ['cycling']
 ---
 
-Last year, I shared a post about how I got back into cycling and bought my first bike after not owning one for over 10 years. Shortly after that, I ended up buying an electric bike (e-bike, for short), and a year later, I have no regrets about my purchase!
+Last year, I shared a [post about how I got back into cycling](https://akashgoswami.com/articles/buying-a-bike/) and bought my first bike after not owning one for over 10 years. Shortly after that, I ended up buying an electric bike (e-bike, for short), and a year later, I have no regrets about my purchase!
 
 Good-quality e-bikes are not cheap. I spent a considerable amount of time researching which e-bike I would purchase. It ended up taking me **over a year to decide** on the exact e-bike I wanted.
 
@@ -99,7 +99,7 @@ I've also been in situations where I've needed to carry my bike down some stairs
 
 If you ditch the suspension, I found that there were still many e-bikes that weigh less than 20kg and have all the other features I wanted.
 
-### Minimialist designs
+### Minimalist designs
 
 This wasn't my strongest factor, but it would be nice to have an e-bike that was sleek and minimal looking. Some of the e-bikes I've seen scream 'Look, I'm an e-bike!', something I'd like to avoid in a large city where bike theft is common. The bike's design itself wouldn't be a good deterrent, but combined with adequate security measures, the chances of having the bike stolen should be mitigated (at least somewhat).
 
@@ -114,7 +114,7 @@ This goes hand in hand with not having priority parts. The more standard bike pa
 With all these factors in mind, I ended up with a short list of bikes that met either all of these criteria or at least most of them.
 
 * [Cube Editor SLX FE 400X](https://www.cube.eu/uk-en/cube-editor-hybrid-slx-fe-400x-sleekgrey-n-spectral/823210)
-* [Cowboy Cruiser](https://uk.cowboy.com/configure)
+* [Cowboy Cruiser](https://uk.cowboy.com/products/e-bike-cowboy-cruiser)
 * [Tenways CGO 600 Pro](https://www.tenways.com/products/cgo600-pro)
 
 There were, of course, a lot more bikes, but these were the three I ended up with. From this short list, it was clear which bike met all the requirements. The clear winner was…
