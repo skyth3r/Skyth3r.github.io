@@ -21,6 +21,7 @@ enableRobotsTXT = true
 [Params.plausible]
   enable = true 
   domain = "akashgoswami.com"
+  gitstar = false
 
 [menu]
 [[menu.main]]
