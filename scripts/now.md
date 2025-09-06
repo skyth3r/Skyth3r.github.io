@@ -71,9 +71,9 @@ Doing frequent bike trips across London 🚴🏽‍♂️
 
 *Data sourced from [Serializd](https://www.serializd.com/)*
 
+* [Agatha All Along, Miniseries](https://www.serializd.com/show/138501)
 * [What If...?, Season 3](https://www.serializd.com/show/91363)
 * [Squid Game, Season 3](https://www.serializd.com/show/93405)
-* [Doctor Who, Season 2](https://www.serializd.com/show/239770)
 
 ## 🎮 Video Games
 
@@ -84,4 +84,4 @@ Doing frequent bike trips across London 🚴🏽‍♂️
 
 ---
 
-Last updated: 5 Sep 2025
+Last updated: 6 Sep 2025
