@@ -55,8 +55,7 @@ Doing frequent bike trips across London 🚴🏽‍♂️
 
 *Data sourced from [Oku](https://oku.club/)*
 
-* [Wool](https://oku.club/book/wool-by-hugh-howey-q3WcI)
-
+Currently not reading a book
 ## 🎬 Movies and TV Shows
 
 ### Recently watched movies
@@ -80,8 +79,7 @@ Doing frequent bike trips across London 🚴🏽‍♂️
 *Data sourced from [Backloggd](https://backloggd.com/)*
 
 * [The Legend of Zelda: Breath of the Wild - Nintendo Switch 2 Edition](https://backloggd.com/games/the-legend-of-zelda-breath-of-the-wild-nintendo-switch-2-edition/)
-* [Mario Kart World](https://backloggd.com/games/mario-kart-world/)
 
 ---
 
-Last updated: 8 Sep 2025
+Last updated: 9 Sep 2025
