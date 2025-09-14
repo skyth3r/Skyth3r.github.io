@@ -9,7 +9,12 @@ If you use any of the affiliate links on this page, I may earn a commission for 
 ## ⚡ Community Fibre
 Fast internet speeds. Fair prices. Get a £50 Amazon voucher when you sign up with the link below.
 
-[Supercharge your broadband](https://communityfibre.co.uk/friends?ci=1BQoqiT4ElzsZwnqYJDfCw%3D%3D)
+[Supercharge your broadband](https://communityfibre.co.uk/friends?ci=mtR8hnni2lykVkxoHREFtw%3D%3D)
+
+## 🐙 Octopus Energy
+£50 energy credit when switching a property to Octopus Energy that hasn’t been supplied by Octopus Energy in the past.
+
+[Switch & save on energy](https://share.octopus.energy/noble-storey-80)
 
 ## 🏦 Monzo
 Get £5 when you open a personal account or £50 if you open a business account.
