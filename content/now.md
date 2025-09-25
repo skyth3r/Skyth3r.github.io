@@ -70,9 +70,9 @@ Currently not reading a book
 
 *Data sourced from [Serializd](https://www.serializd.com/)*
 
+* [Marvel Zombies, Miniseries](https://www.serializd.com/show/138505)
 * [Agatha All Along, Miniseries](https://www.serializd.com/show/138501)
 * [What If...?, Season 3](https://www.serializd.com/show/91363)
-* [Squid Game, Season 3](https://www.serializd.com/show/93405)
 
 ## 🎮 Video Games
 
@@ -82,4 +82,4 @@ Currently not reading a book
 
 ---
 
-Last updated: 24 Sep 2025
+Last updated: 25 Sep 2025
