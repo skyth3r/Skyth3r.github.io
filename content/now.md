@@ -78,8 +78,8 @@ Currently not reading a book
 
 *Data sourced from [Backloggd](https://backloggd.com/)*
 
-* [The Legend of Zelda: Breath of the Wild - Nintendo Switch 2 Edition](https://backloggd.com/games/the-legend-of-zelda-breath-of-the-wild-nintendo-switch-2-edition/)
+* [Pokémon Legends: Z-A](https://backloggd.com/games/pokemon-legends-z-a/)
 
 ---
 
-Last updated: 16 Oct 2025
+Last updated: 17 Oct 2025
