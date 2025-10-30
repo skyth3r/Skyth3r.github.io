@@ -64,7 +64,7 @@ Currently not reading a book
 
 * [The Long Walk](https://letterboxd.com/film/the-long-walk-2025/)
 * [Weapons](https://letterboxd.com/film/weapons-2025/)
-* [The Fantastic Four: First Steps](https://letterboxd.com/film/the-fantastic-four-first-steps/)
+* [The Fantastic 4: First Steps](https://letterboxd.com/film/the-fantastic-4-first-steps/)
 
 ### Recently watched TV shows
 
@@ -82,4 +82,4 @@ Currently not reading a book
 
 ---
 
-Last updated: 29 Oct 2025
+Last updated: 30 Oct 2025
