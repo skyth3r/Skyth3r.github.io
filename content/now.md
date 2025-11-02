@@ -82,4 +82,4 @@ Currently not reading a book
 
 ---
 
-Last updated: 1 Nov 2025
+Last updated: 2 Nov 2025
