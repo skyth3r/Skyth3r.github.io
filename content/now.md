@@ -15,15 +15,15 @@ I live in London and currently work at [Snyk](https://snyk.io/) as a Software En
 
 ## 🤓 Learning
 
-Currently I'm working on understanding [Kubernetes](https://kubernetes.io/) better.
+Currently I'm working on understanding [Kubernetes](https://kubernetes.io/) better and building my first homelab.
 
 ## 🤸🏽‍♂️ Fitness
 
-I've taken up boxing classes 🥊
-
 Getting back into a regular weight lifting routine 🏋🏽‍♂️
 
-Doing frequent bike trips across London 🚴🏽‍♂️
+Taken up salsa classes 🕺🏽
+
+Casually cycle to run errands when needed 🚴🏽‍♂️
 
 ## 🌏 Travel
 
@@ -78,6 +78,8 @@ Currently not reading a book
 
 *Data sourced from [Backloggd](https://backloggd.com/)*
 
+* [Dispatch](https://backloggd.com/games/dispatch--3/)
+* [Wheel World](https://backloggd.com/games/wheel-world--1/)
 * [Pokémon Legends: Z-A](https://backloggd.com/games/pokemon-legends-z-a/)
 
 ---
