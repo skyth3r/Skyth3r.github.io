@@ -62,9 +62,9 @@ Currently not reading a book
 
 *Data sourced from [Letterboxd](https://letterboxd.com/)*
 
+* [The Running Man](https://letterboxd.com/film/the-running-man-2025/)
 * [The Long Walk](https://letterboxd.com/film/the-long-walk-2025/)
 * [Weapons](https://letterboxd.com/film/weapons-2025/)
-* [The Fantastic 4: First Steps](https://letterboxd.com/film/the-fantastic-4-first-steps/)
 
 ### Recently watched TV shows
 
@@ -84,4 +84,4 @@ Currently not reading a book
 
 ---
 
-Last updated: 13 Nov 2025
+Last updated: 14 Nov 2025
