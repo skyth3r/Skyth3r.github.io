@@ -78,10 +78,9 @@ Currently not reading a book
 
 *Data sourced from [Backloggd](https://backloggd.com/)*
 
-* [Dispatch](https://backloggd.com/games/dispatch--3/)
 * [Wheel World](https://backloggd.com/games/wheel-world--1/)
 * [Pokémon Legends: Z-A](https://backloggd.com/games/pokemon-legends-z-a/)
 
 ---
 
-Last updated: 29 Nov 2025
+Last updated: 30 Nov 2025
