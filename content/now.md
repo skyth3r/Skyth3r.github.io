@@ -55,7 +55,8 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 
 *Data sourced from [Oku](https://oku.club/)*
 
-Currently not reading a book
+* [The Revolt of The Public and the Crisis of Authority in the New Millennium](https://oku.club/book/the-revolt-of-the-public-and-the-cris...-by-martin-gurri-admQX)
+
 ## 🎬 Movies and TV Shows
 
 ### Recently watched movies
@@ -70,9 +71,9 @@ Currently not reading a book
 
 *Data sourced from [Serializd](https://www.serializd.com/)*
 
+* [Fallout, Season 2](https://www.serializd.com/show/106379)
 * [Marvel Zombies, Miniseries](https://www.serializd.com/show/138505)
 * [Agatha All Along, Miniseries](https://www.serializd.com/show/138501)
-* [What If...?, Season 3](https://www.serializd.com/show/91363)
 
 ## 🎮 Video Games
 
@@ -83,4 +84,4 @@ Currently not reading a book
 
 ---
 
-Last updated: 17 Dec 2025
+Last updated: 18 Dec 2025
