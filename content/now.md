@@ -63,17 +63,17 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 
 *Data sourced from [Letterboxd](https://letterboxd.com/)*
 
+* [Avatar: Fire and Ash](https://letterboxd.com/film/avatar-fire-and-ash/)
 * [The Running Man](https://letterboxd.com/film/the-running-man-2025/)
 * [The Long Walk](https://letterboxd.com/film/the-long-walk-2025/)
-* [Weapons](https://letterboxd.com/film/weapons-2025/)
 
 ### Recently watched TV shows
 
 *Data sourced from [Serializd](https://www.serializd.com/)*
 
+* [IT: Welcome to Derry, Chapter One](https://www.serializd.com/show/200875)
 * [Fallout, Season 2](https://www.serializd.com/show/106379)
 * [Marvel Zombies, Miniseries](https://www.serializd.com/show/138505)
-* [Agatha All Along, Miniseries](https://www.serializd.com/show/138501)
 
 ## 🎮 Video Games
 
@@ -84,4 +84,4 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 
 ---
 
-Last updated: 26 Dec 2025
+Last updated: 27 Dec 2025
