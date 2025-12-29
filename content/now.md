@@ -71,9 +71,9 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 
 *Data sourced from [Serializd](https://www.serializd.com/)*
 
+* [The Witcher, Season 2](https://www.serializd.com/show/71912)
 * [IT: Welcome to Derry, Chapter One](https://www.serializd.com/show/200875)
 * [Fallout, Season 2](https://www.serializd.com/show/106379)
-* [Marvel Zombies, Miniseries](https://www.serializd.com/show/138505)
 
 ## 🎮 Video Games
 
@@ -84,4 +84,4 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 
 ---
 
-Last updated: 28 Dec 2025
+Last updated: 29 Dec 2025
