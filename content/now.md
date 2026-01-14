@@ -63,9 +63,9 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 
 *Data sourced from [Letterboxd](https://letterboxd.com/)*
 
+* [28 Years Later](https://letterboxd.com/film/28-years-later/)
 * [Avatar: Fire and Ash](https://letterboxd.com/film/avatar-fire-and-ash/)
 * [The Running Man](https://letterboxd.com/film/the-running-man-2025/)
-* [The Long Walk](https://letterboxd.com/film/the-long-walk-2025/)
 
 ### Recently watched TV shows
 
@@ -84,4 +84,4 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 
 ---
 
-Last updated: 13 Jan 2026
+Last updated: 14 Jan 2026
