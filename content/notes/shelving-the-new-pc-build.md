@@ -1,6 +1,8 @@
 ---
 title: Shelving the new PC Build
 date: 2026-01-19T12:05:00
+images: 
+- /notes/old_man_yells_at_ai.png
 description: My rant at AI data centers for sending RAM, GPU, and storage prices soaring.
 tags: ['video games']
 ---
