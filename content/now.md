@@ -63,17 +63,17 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 
 *Data sourced from [Letterboxd](https://letterboxd.com/)*
 
+* [Chainsaw Man – The Movie: Reze Arc](https://letterboxd.com/film/chainsaw-man-the-movie-reze-arc/)
 * [28 Years Later](https://letterboxd.com/film/28-years-later/)
 * [Avatar: Fire and Ash](https://letterboxd.com/film/avatar-fire-and-ash/)
-* [The Running Man](https://letterboxd.com/film/the-running-man-2025/)
 
 ### Recently watched TV shows
 
 *Data sourced from [Serializd](https://www.serializd.com/)*
 
+* [Chainsaw Man, Season 1](https://www.serializd.com/show/114410)
 * [Fallout, Season 2](https://www.serializd.com/show/106379)
 * [The Witcher, Season 3](https://www.serializd.com/show/71912)
-* [The Witcher, Season 2](https://www.serializd.com/show/71912)
 
 ## 🎮 Video Games
 
@@ -84,4 +84,4 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 
 ---
 
-Last updated: 18 Jan 2026
+Last updated: 19 Jan 2026
