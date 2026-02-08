@@ -55,6 +55,7 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 
 *Data sourced from [Oku](https://oku.club/)*
 
+* [The Yellow Envelope: One Gift, Three Rules, and a Life-Changing Journey Around the World](https://oku.club/book/the-yellow-envelope-by-kim-dinan-Go6K3)
 * [The Revolt of The Public and the Crisis of Authority in the New Millennium](https://oku.club/book/the-revolt-of-the-public-and-the-cris...-by-martin-gurri-admQX)
 
 ## 🎬 Movies and TV Shows
@@ -71,17 +72,15 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 
 *Data sourced from [Serializd](https://www.serializd.com/)*
 
-* [Chainsaw Man, Season 1](https://www.serializd.com/show/114410)
 * [Fallout, Season 2](https://www.serializd.com/show/106379)
+* [Chainsaw Man, Season 1](https://www.serializd.com/show/114410)
 * [The Witcher, Season 3](https://www.serializd.com/show/71912)
 
 ## 🎮 Video Games
 
 *Data sourced from [Backloggd](https://backloggd.com/)*
 
-* [Wheel World](https://backloggd.com/games/wheel-world--1/)
-* [Pokémon Legends: Z-A](https://backloggd.com/games/pokemon-legends-z-a/)
-
+Haven't played any video games recently
 ---
 
-Last updated: 23 Jan 2026
+Last updated: 8 Feb 2026
