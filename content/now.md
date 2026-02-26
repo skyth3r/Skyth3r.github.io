@@ -55,7 +55,6 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 
 *Data sourced from [Oku](https://oku.club/)*
 
-* [The Yellow Envelope: One Gift, Three Rules, and a Life-Changing Journey Around the World](https://oku.club/book/the-yellow-envelope-by-kim-dinan-Go6K3)
 * [The Revolt of The Public and the Crisis of Authority in the New Millennium](https://oku.club/book/the-revolt-of-the-public-and-the-cris...-by-martin-gurri-admQX)
 
 ## 🎬 Movies and TV Shows
@@ -83,4 +82,4 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 Haven't played any video games recently
 ---
 
-Last updated: 25 Feb 2026
+Last updated: 26 Feb 2026
