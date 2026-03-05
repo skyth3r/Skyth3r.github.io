@@ -55,7 +55,7 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 
 *Data sourced from [Oku](https://oku.club/)*
 
-* [Wants and Needs](https://oku.club/book/wants-and-needs-by-roxy-dunn-suBD2)
+* [Misery](https://oku.club/book/misery-by-stephen-king-M6Lt4)
 * [The Revolt of The Public and the Crisis of Authority in the New Millennium](https://oku.club/book/the-revolt-of-the-public-and-the-cris...-by-martin-gurri-admQX)
 
 ## 🎬 Movies and TV Shows
@@ -83,4 +83,4 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 Haven't played any video games recently
 ---
 
-Last updated: 4 Mar 2026
+Last updated: 5 Mar 2026
