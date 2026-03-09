@@ -64,9 +64,9 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 
 *Data sourced from [Letterboxd](https://letterboxd.com/)*
 
+* [Hoppers](https://letterboxd.com/film/hoppers/)
 * [Chainsaw Man – The Movie: Reze Arc](https://letterboxd.com/film/chainsaw-man-the-movie-reze-arc/)
 * [28 Years Later](https://letterboxd.com/film/28-years-later/)
-* [Avatar: Fire and Ash](https://letterboxd.com/film/avatar-fire-and-ash/)
 
 ### Recently watched TV shows
 
@@ -83,4 +83,4 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 Haven't played any video games recently
 ---
 
-Last updated: 8 Mar 2026
+Last updated: 9 Mar 2026
