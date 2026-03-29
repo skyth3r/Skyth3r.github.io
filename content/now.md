@@ -64,17 +64,17 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 
 *Data sourced from [Letterboxd](https://letterboxd.com/)*
 
+* [Project Hail Mary](https://letterboxd.com/film/project-hail-mary/)
 * [Hoppers](https://letterboxd.com/film/hoppers/)
 * [Chainsaw Man – The Movie: Reze Arc](https://letterboxd.com/film/chainsaw-man-the-movie-reze-arc/)
-* [28 Years Later](https://letterboxd.com/film/28-years-later/)
 
 ### Recently watched TV shows
 
 *Data sourced from [Serializd](https://www.serializd.com/)*
 
+* [Invincible, Season 4](https://www.serializd.com/show/95557)
 * [Fallout, Season 2](https://www.serializd.com/show/106379)
 * [Chainsaw Man, Season 1](https://www.serializd.com/show/114410)
-* [The Witcher, Season 3](https://www.serializd.com/show/71912)
 
 ## 🎮 Video Games
 
@@ -83,4 +83,4 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 Haven't played any video games recently
 ---
 
-Last updated: 22 Mar 2026
+Last updated: 29 Mar 2026
