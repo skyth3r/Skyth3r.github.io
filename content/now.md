@@ -64,9 +64,9 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 
 *Data sourced from [Letterboxd](https://letterboxd.com/)*
 
+* [The White Tiger](https://letterboxd.com/film/the-white-tiger/)
 * [Project Hail Mary](https://letterboxd.com/film/project-hail-mary/)
 * [Hoppers](https://letterboxd.com/film/hoppers/)
-* [Chainsaw Man – The Movie: Reze Arc](https://letterboxd.com/film/chainsaw-man-the-movie-reze-arc/)
 
 ### Recently watched TV shows
 
@@ -83,4 +83,4 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 Haven't played any video games recently
 ---
 
-Last updated: 29 Mar 2026
+Last updated: 30 Mar 2026
