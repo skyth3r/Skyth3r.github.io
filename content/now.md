@@ -72,9 +72,9 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 
 *Data sourced from [Serializd](https://www.serializd.com/)*
 
+* [The Boys, Season 5](https://www.serializd.com/show/76479)
 * [Invincible, Season 4](https://www.serializd.com/show/95557)
 * [Fallout, Season 2](https://www.serializd.com/show/106379)
-* [Chainsaw Man, Season 1](https://www.serializd.com/show/114410)
 
 ## 🎮 Video Games
 
@@ -83,4 +83,4 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 Haven't played any video games recently
 ---
 
-Last updated: 10 Apr 2026
+Last updated: 11 Apr 2026
