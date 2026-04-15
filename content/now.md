@@ -29,27 +29,15 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 
 *Data sourced from [Nomads](https://nomads.com/)*
 
+### 2026
+
+🇪🇬 Egypt
+
 ### 2024
 
 🇬🇷 Greece
 
 🇿🇦 South Africa
-
-### 2023
-
-🇳🇱 Netherlands
-
-🇩🇪 Germany
-
-🇯🇵 Japan
-
-🇻🇳 Vietnam
-
-🇮🇩 Indonesia
-
-🇸🇬 Singapore
-
-🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland
 
 ## 📚 Books
 
@@ -83,4 +71,4 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 Haven't played any video games recently
 ---
 
-Last updated: 14 Apr 2026
+Last updated: 15 Apr 2026
