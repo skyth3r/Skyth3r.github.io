@@ -44,7 +44,6 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 *Data sourced from [Oku](https://oku.club/)*
 
 * [Misery](https://oku.club/book/misery-by-stephen-king-M6Lt4)
-* [The Revolt of The Public and the Crisis of Authority in the New Millennium](https://oku.club/book/the-revolt-of-the-public-and-the-cris...-by-martin-gurri-admQX)
 
 ## 🎬 Movies and TV Shows
 
@@ -60,9 +59,9 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 
 *Data sourced from [Serializd](https://www.serializd.com/)*
 
+* [BEEF, Season 2](https://www.serializd.com/show/154385)
 * [The Boys, Season 5](https://www.serializd.com/show/76479)
 * [INVINCIBLE, Season 4](https://www.serializd.com/show/95557)
-* [Fallout, Season 2](https://www.serializd.com/show/106379)
 
 ## 🎮 Video Games
 
@@ -71,4 +70,4 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 Haven't played any video games recently
 ---
 
-Last updated: 18 Apr 2026
+Last updated: 19 Apr 2026
