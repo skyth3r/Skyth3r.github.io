@@ -43,7 +43,8 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 
 *Data sourced from [Oku](https://oku.club/)*
 
-Currently not reading a book
+* [Misery](https://oku.club/book/misery-by-stephen-king-M6Lt4)
+
 ## 🎬 Movies and TV Shows
 
 ### Recently watched movies
@@ -69,4 +70,4 @@ Currently not reading a book
 Haven't played any video games recently
 ---
 
-Last updated: 22 Apr 2026
+Last updated: 23 Apr 2026
