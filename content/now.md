@@ -59,9 +59,9 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 
 *Data sourced from [Serializd](https://www.serializd.com/)*
 
-* [BEEF, Season 2](https://www.serializd.com/show/154385)
-* [The Boys, Season 5](https://www.serializd.com/show/76479)
 * [INVINCIBLE, Season 4](https://www.serializd.com/show/95557)
+* [The Boys, Season 5](https://www.serializd.com/show/76479)
+* [BEEF, Season 2](https://www.serializd.com/show/154385)
 
 ## 🎮 Video Games
 
@@ -70,4 +70,4 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 Haven't played any video games recently
 ---
 
-Last updated: 23 Apr 2026
+Last updated: 24 Apr 2026
