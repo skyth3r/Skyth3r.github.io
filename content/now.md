@@ -33,6 +33,8 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 
 🇪🇬 Egypt
 
+🇳🇱 Netherlands
+
 ### 2024
 
 🇬🇷 Greece
@@ -43,6 +45,7 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 
 *Data sourced from [Oku](https://oku.club/)*
 
+* [Friday Black](https://oku.club/book/friday-black-by-nana-kwame-adjei-brenyah-iL4hO)
 * [Misery](https://oku.club/book/misery-by-stephen-king-M6Lt4)
 
 ## 🎬 Movies and TV Shows
@@ -51,23 +54,25 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 
 *Data sourced from [Letterboxd](https://letterboxd.com/)*
 
+* [Green Book](https://letterboxd.com/film/green-book/)
+* [Obsession](https://letterboxd.com/film/obsession-2025-2/)
 * [The White Tiger](https://letterboxd.com/film/the-white-tiger/)
-* [Project Hail Mary](https://letterboxd.com/film/project-hail-mary/)
-* [Hoppers](https://letterboxd.com/film/hoppers/)
 
 ### Recently watched TV shows
 
 *Data sourced from [Serializd](https://www.serializd.com/)*
 
-* [INVINCIBLE, Season 4](https://www.serializd.com/show/95557)
 * [The Boys, Season 5](https://www.serializd.com/show/76479)
-* [BEEF, Season 2](https://www.serializd.com/show/154385)
+* [Scavengers Reign, Season 1](https://www.serializd.com/show/204154)
+* [INVINCIBLE, Season 4](https://www.serializd.com/show/95557)
 
 ## 🎮 Video Games
 
 *Data sourced from [Backloggd](https://backloggd.com/)*
 
-Haven't played any video games recently
+* [Mouse: P.I. For Hire](https://backloggd.com/games/mouse-pi-for-hire--1/)
+* [Pokémon FireRed Version](https://backloggd.com/games/pokemon-firered-version/)
+
 ---
 
-Last updated: 24 Apr 2026
+Last updated: 17 May 2026
