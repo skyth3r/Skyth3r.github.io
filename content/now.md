@@ -70,9 +70,10 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 
 *Data sourced from [Backloggd](https://backloggd.com/)*
 
+* [Hogwarts Legacy](https://backloggd.com/games/hogwarts-legacy/)
 * [Mouse: P.I. For Hire](https://backloggd.com/games/mouse-pi-for-hire--1/)
 * [Pokémon FireRed Version](https://backloggd.com/games/pokemon-firered-version/)
 
 ---
 
-Last updated: 23 May 2026
+Last updated: 24 May 2026
