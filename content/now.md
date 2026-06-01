@@ -76,4 +76,4 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 
 ---
 
-Last updated: 31 May 2026
+Last updated: 1 Jun 2026
