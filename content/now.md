@@ -62,9 +62,9 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 
 *Data sourced from [Serializd](https://www.serializd.com/)*
 
+* [Castlevania, Season 2](https://www.serializd.com/show/71024)
 * [The Boroughs, Season 1](https://www.serializd.com/show/224941)
 * [The Boys, Season 5](https://www.serializd.com/show/76479)
-* [Scavengers Reign, Season 1](https://www.serializd.com/show/204154)
 
 ## 🎮 Video Games
 
@@ -76,4 +76,4 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 
 ---
 
-Last updated: 1 Jun 2026
+Last updated: 2 Jun 2026
