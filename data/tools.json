@@ -56,15 +56,15 @@
     "tag": "Coding"
   },
   {
-    "name": "iTerm",
-    "description": "My favourite terminal app for MacOS",
-    "link": "https://iterm2.com/",
-    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/iterm.png",
+    "name": "Ghostty",
+    "description": "A fast & feature-rich terminal emulator",
+    "link": "https://ghostty.org/",
+    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/ghostty.png",
     "tag": "Coding"
   },
   {
     "name": "Rocket",
-    "description": "Slack style emojo shortcuts for MacOS",
+    "description": "Slack style emoji shortcuts for MacOS",
     "link": "https://matthewpalmer.net/rocket/",
     "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/rocket.png",
     "tag": "Utilities"
