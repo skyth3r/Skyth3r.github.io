@@ -35,6 +35,8 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 
 🇳🇱 Netherlands
 
+🇨🇿 Czechia
+
 ### 2024
 
 🇬🇷 Greece
@@ -46,7 +48,6 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 *Data sourced from [Oku](https://oku.club/)*
 
 * [Friday Black](https://oku.club/book/friday-black-by-nana-kwame-adjei-brenyah-iL4hO)
-* [Misery](https://oku.club/book/misery-by-stephen-king-M6Lt4)
 
 ## 🎬 Movies and TV Shows
 
@@ -76,4 +77,4 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 
 ---
 
-Last updated: 8 Jun 2026
+Last updated: 9 Jun 2026
