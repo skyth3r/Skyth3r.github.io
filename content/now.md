@@ -56,7 +56,7 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 *Data sourced from [Letterboxd](https://letterboxd.com/)*
 
 * [Green Book](https://letterboxd.com/film/green-book/)
-* [Obsession](https://letterboxd.com/film/obsession-2025-2/)
+* [Obsession](https://letterboxd.com/film/obsession-2025/)
 * [The White Tiger](https://letterboxd.com/film/the-white-tiger/)
 
 ### Recently watched TV shows
@@ -77,4 +77,4 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 
 ---
 
-Last updated: 12 Jun 2026
+Last updated: 13 Jun 2026
