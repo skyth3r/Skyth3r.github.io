@@ -63,9 +63,9 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 
 *Data sourced from [Serializd](https://www.serializd.com/)*
 
+* [Castlevania, Season 4](https://www.serializd.com/show/71024)
 * [Castlevania, Season 3](https://www.serializd.com/show/71024)
 * [Castlevania, Season 2](https://www.serializd.com/show/71024)
-* [The Boroughs, Season 1](https://www.serializd.com/show/224941)
 
 ## 🎮 Video Games
 
@@ -77,4 +77,4 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 
 ---
 
-Last updated: 19 Jun 2026
+Last updated: 20 Jun 2026
