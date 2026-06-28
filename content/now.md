@@ -55,9 +55,9 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 
 *Data sourced from [Letterboxd](https://letterboxd.com/)*
 
+* [Supergirl](https://letterboxd.com/film/supergirl-2026/)
 * [Backrooms](https://letterboxd.com/film/backrooms-2026/)
 * [Masters of the Universe](https://letterboxd.com/film/masters-of-the-universe-2026/)
-* [Green Book](https://letterboxd.com/film/green-book/)
 
 ### Recently watched TV shows
 
@@ -77,4 +77,4 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 
 ---
 
-Last updated: 27 Jun 2026
+Last updated: 28 Jun 2026
