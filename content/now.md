@@ -63,8 +63,8 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 
 *Data sourced from [Serializd](https://www.serializd.com/)*
 
-* [Mr. and Mrs. Smith, Season 1](https://www.serializd.com/show/118642)
 * [Castlevania, Season 4](https://www.serializd.com/show/71024)
+* [Mr. and Mrs. Smith, Season 1](https://www.serializd.com/show/118642)
 * [Castlevania, Season 3](https://www.serializd.com/show/71024)
 
 ## 🎮 Video Games
@@ -77,4 +77,4 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 
 ---
 
-Last updated: 29 Jun 2026
+Last updated: 30 Jun 2026
