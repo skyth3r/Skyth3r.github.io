@@ -55,9 +55,9 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 
 *Data sourced from [Letterboxd](https://letterboxd.com/)*
 
+* [Evil Dead Burn](https://letterboxd.com/film/evil-dead-burn/)
 * [Evil Dead Rise](https://letterboxd.com/film/evil-dead-rise/)
 * [Evil Dead](https://letterboxd.com/film/evil-dead/)
-* [Supergirl](https://letterboxd.com/film/supergirl-2026/)
 
 ### Recently watched TV shows
 
@@ -77,4 +77,4 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 
 ---
 
-Last updated: 27 Jul 2026
+Last updated: 28 Jul 2026
