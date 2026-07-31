@@ -55,9 +55,9 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 
 *Data sourced from [Letterboxd](https://letterboxd.com/)*
 
+* [The Odyssey](https://letterboxd.com/film/the-odyssey-2026/)
 * [Evil Dead Burn](https://letterboxd.com/film/evil-dead-burn/)
 * [Evil Dead Rise](https://letterboxd.com/film/evil-dead-rise/)
-* [Evil Dead](https://letterboxd.com/film/evil-dead/)
 
 ### Recently watched TV shows
 
@@ -77,4 +77,4 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 
 ---
 
-Last updated: 30 Jul 2026
+Last updated: 31 Jul 2026
