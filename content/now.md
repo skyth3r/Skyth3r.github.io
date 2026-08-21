@@ -55,9 +55,9 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 
 *Data sourced from [Letterboxd](https://letterboxd.com/)*
 
+* [The Last House](https://letterboxd.com/film/the-last-house-2026/)
 * [Spider-Man: Brand New Day](https://letterboxd.com/film/spider-man-brand-new-day/)
 * [The Odyssey](https://letterboxd.com/film/the-odyssey-2026/)
-* [Evil Dead Burn](https://letterboxd.com/film/evil-dead-burn/)
 
 ### Recently watched TV shows
 
@@ -76,4 +76,4 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 
 ---
 
-Last updated: 20 Aug 2026
+Last updated: 21 Aug 2026
