@@ -1,6 +1,7 @@
 ---
 title: Buying a bike
 date: 2024-07-07T14:00:00
+lastmod: 2026-08-21T14:06:00
 images: 
     - /img/buying-a-bike/cover.jpg
 description: Buying my first bike after cycling in Amsterdam and not owning a bike for 10 years
@@ -11,13 +12,13 @@ Last year I debated about getting a new bicycle after 10 years of not owning a b
 
 ## Why I cycle
 
-There are few reasons I’ve started cycling again. The first is just that I just really enjoy cycling. I had a mountain bike growing up but at some point, I ended up leaving my bike out in the rain for too long and it ended up rusting away. It’s been over 10 years since I’ve owned a bike, so I thought now would be a great time to get back into cycling.
+There are a few reasons I’ve started cycling again. The first is that I just really enjoy cycling. I had a mountain bike growing up but at some point, I ended up leaving my bike out in the rain for too long and it ended up rusting away. It’s been over 10 years since I’ve owned a bike, so I thought now would be a great time to get back into cycling.
 
-There’s something freeing about being able to get around quicker than walking while also (usually) being able to skip the massive traffic jams. Cycling more often also means I’m less reliant on needing to drive a car for short trips. It seems a bit inefficient driving a 4 seater car when I’m usually only driving short trips by myself most of the time.
+There’s something freeing about being able to get around quicker than walking while also (usually) being able to skip the massive traffic jams. Cycling more often also means I’m less reliant on needing to drive a car for short trips. It seems a bit inefficient driving a 4-seater car when I’m usually only driving short trips by myself most of the time.
 
 I also work in central London, and driving to work isn’t really an option (there’s a £25 congestion charge plus parking is hard to find and expensive). The quickest way to my workplace is via the central line, which quickly feels hellish in the summer given there’s no air conditioning in the carriages. 
 
-I found that while a journey via train takes somewhere around 50 minutes, I checked how long it would take me to cycle to work and found that it would only take an extra 10 minutes compared to commuting by train and my workplace offers secure bike parking. I ended up trialing commuting to work via bike once last summer and found myself enjoying the journey a lot more than sitting on a hot tube carriage. Given the length of the journey (11 miles), I found myself cycling to work about 1-2 times a week.
+I found that while a journey via train takes somewhere around 50 minutes, I checked how long it would take me to cycle to work and found that it would only take an extra 10 minutes compared to commuting by train. My workplace also offered secure bike parking, so I ended up trialling commuting to work by bike once last summer and found myself enjoying the journey a lot more than sitting on a hot tube carriage. Given the length of the journey (11 miles), I found myself cycling to work about 1-2 times a week.
 
 For me this has been great because it means I’ve been able to save a little bit of money by cycling instead of taking the tube, exploring more of my local neighbourhoods (making note of nice spots to check out later) and alternative routes to work, all while also getting a good workout in the process. I’m now at the stage where every time I do get the tube to work, I wonder why I didn’t just cycle instead.
 
@@ -27,7 +28,7 @@ In addition to cycling to work, I’ve also been taking longer cycling trips ove
 
 ## My bike
 
-The bike I ended up getting is the [Carrera Crossfire 2](https://www.halfords.com/bikes/hybrid-bikes/carrera-crossfire-2-mens-hybrid-bike-2020---black---s-m-l-frames-345886.html). Originally I was considering getting it under my workplace’s cycle2work scheme ([cyclescheme](https://www.cyclescheme.co.uk/)) from Halfords but it turned out Halfords wasn’t a supported retailer for the cycle scheme (which also lead to me discovering that there was way more than one cycle2work scheme in the UK 😅).
+The bike I ended up getting is the [Carrera Crossfire 2](https://www.halfords.com/bikes/hybrid-bikes/carrera-crossfire-2-mens-hybrid-bike-2020---black---s-m-l-frames-345886.html). Originally I was considering getting it under my workplace’s cycle2work scheme ([cyclescheme](https://www.cyclescheme.co.uk/)) from Halfords but it turned out Halfords wasn’t a supported retailer for the cycle scheme (which also led to me discovering that there was way more than one cycle2work scheme in the UK 😅).
 
 In the end, I found the same bike on Facebook Marketplace and managed to get a used one (yet still in great condition) for just £150.
 
@@ -37,7 +38,7 @@ Initially, I was planning on only using this bike for commuting but I ended up e
 
 ## What’s next?
 
-Originally I was planning on converting this bike into an e-bike using an electric bike conversion kit, as my cycling commute to work was a bit longer than most cycling commutes other colleagues have (20 mins vs my 1 hour journey) and because there are some tough hills I need tackle on my cycle commute. 
+Originally I was planning on converting this bike into an e-bike using an electric bike conversion kit, as my cycling commute to work was a bit longer than most cycling commutes other colleagues have (20 mins vs my 1 hour journey) and because there are some tough hills I need to tackle on my cycle commute.
 
 In the end, I decided against it in favour of having a bike I could commute to work on and also use for leisure on the weekends. I am however considering getting an electric bike to use in addition to this bike. I’m still looking into a few options for that but I’m hoping I’ll have picked something before the end of the summer this year. 
 

@@ -1,10 +1,10 @@
 ---
 title: Building websites with Hugo
 date: 2023-01-20T08:00:00
-lastmod: 2024-05-07T18:05:00
+lastmod: 2026-08-22T22:56:00
 images: 
 - /img/setting-up-hugo/setting-up-hugo-header.png
-description: A guide on building your own website for free using Hugo and Github Pages.
+description: A guide on building your own website for free using Hugo and GitHub Pages.
 tags: ['web-dev', 'hugo', 'guide']
 ---
 
@@ -14,7 +14,7 @@ With that, a lot of people have been wondering how they can start their own webs
 
 [Other guides exist](https://kinsta.com/blog/hugo-static-site/), but this one covers how I've set up my website in a simple and easy-to-follow guide.
 
-For this demo, I'm going to be using the [Hugo Bear Blog theme](https://github.com/janraasch/hugo-bearblog) as it's a nice minimalist theme to start with. My website uses a theme called [Digital Garden](https://github.com/apvarun/digital-garden-hugo-theme). The [installation steps](https://digital-garden-hugo-theme.vercel.app/articles/installation/) for this theme are slightly more complicated. This guide will focus on using a simpler theme to demonstrate the basics of building websites with Hugo. There are many other [free Hugo themes](https://themes.gohugo.io/) you can choose from as well on the official Hugo website. 
+For this demo, I'm going to be using the [Hugo Bear Blog theme](https://github.com/janraasch/hugo-bearblog) as it's a nice minimalist theme to start with. My website uses a theme called [Digital Garden](https://github.com/apvarun/digital-garden-hugo-theme). The [installation steps](https://digital-garden-hugo-theme.vercel.app/articles/installation/) for this theme are slightly more complicated. This guide will focus on using a simpler theme to demonstrate the basics of building websites with Hugo. There are many other [free Hugo themes](https://themes.gohugo.io/) you can choose from on the official Hugo website as well.
 
 **One minor note**
 
@@ -23,7 +23,7 @@ While it's not needed, I would recommend spending some money and buying a domain
 A domain name shouldn't cost too much and you can buy one from several domain name registrars. I bought my domain name, akashgoswami.com via [Google Domains](https://domains.google/) and pay £10 a year for it (that's less than £1 a month!).
 
 ## What is Hugo?
-[Hugo](https://gohugo.io/) is a fast static site generator tool written in [Go](https://go.dev/). It uses templates and markdown files to generate webpages in seconds. The final result is a set of HTML files that you can deploy as a website using a hosting provider such as [GitHub Pages](https://pages.github.com/).
+[Hugo](https://gohugo.io/) is a fast static site generator tool written in [Go](https://go.dev/). It uses templates and Markdown files to generate webpages in seconds. The final result is a set of HTML files that you can deploy as a website using a hosting provider such as [GitHub Pages](https://pages.github.com/).
 
 Let's use an analogy. Let's pretend that we're making a sandwich, instead of building a website 🥪
 
@@ -39,15 +39,15 @@ Before we start building our website, there are a few things you'll need beforeh
 
 ### A text editor
 
-You'll need something to edit your code in. I like using [Visual Studio Code](https://code.visualstudio.com/).There are some [handy Hugo extensions](https://gohugo.io/tools/editors/#visual-studio-code) that you can install within Visual Studio Code as well.
+You'll need something to edit your code in. I like using [Visual Studio Code](https://code.visualstudio.com/). There are some [handy Hugo extensions](https://gohugo.io/tools/editors/#visual-studio-code) that you can install within Visual Studio Code as well.
 
 ### Familiarity with using a command line app
 
-You'll need to navigate around files and run some Hugo commands using the command line interface. On macOS, the built-in command line tool is called 'Terminal' (but I prefer using [iTerm2](https://iterm2.com/)) and on Windows it's Powershell. 
+You'll need to navigate around files and run some Hugo commands using the command line interface. On macOS, the built-in command line tool is called 'Terminal' (but I prefer using [iTerm2](https://iterm2.com/)) and on Windows it's PowerShell.
 
 ### A Package Manager
 
-Hugo can be installed as a [prebuilt binary](https://gohugo.io/installation/) but I prefer using a package manager. For macOS, you'll want to use Homebrew. For Windows, it's Chocolatey. The installation guides for both of these package managers is well documented so I'll leave the links to official installation instructions below.
+Hugo can be installed as a [prebuilt binary](https://gohugo.io/installation/) but I prefer using a package manager. For macOS, you'll want to use Homebrew. For Windows, it's Chocolatey. The installation guides for both of these package managers are well documented so I'll leave the links to official installation instructions below.
 
 macOS - [Installation instructions for Homebrew](https://brew.sh/)
 
@@ -75,7 +75,7 @@ choco install git.install
 
 ## Setting up our website
 
-First up, open the command line and navigate to where you want to create your website project file. I choose to create mine in Users/Akash (the default directory when you open Terminal on macOS). 
+First up, open the command line and navigate to where you want to create your website project file. I chose to create mine in Users/Akash (the default directory when you open Terminal on macOS).
 
 Then, run the following command (but replace username with your GitHub username):
 
@@ -92,7 +92,7 @@ cd username.github.io
 git init
 ```
 
-After that, we want to add our Hugo theme and set it as well by using the following two commands
+After that, we want to add our Hugo theme and set it using the following two commands:
 
 ```
 git submodule add https://github.com/janraasch/hugo-bearblog themes/hugo-bearblog
@@ -107,9 +107,9 @@ It's best to refer to a theme's recommended instructions. For [hugo-bearblog the
 
 ### Testing and building the site
 
-Once that's done you can spin up the website by running `hugo server` and then visiting http://localhost:1313/
+Once that's done, you can spin up the website by running `hugo server` and then visiting http://localhost:1313/
 
-To stop the web server, just enter the command mentioned in your command line application (for macOS its Ctrl+C).
+To stop the web server, just enter the command mentioned in your command line application (for macOS it's Ctrl+C).
 
 Once you've made your changes, you can build your website by running the `hugo` command. This will update the files within your public folder, which you can then deploy to a hosting service.
 
@@ -123,7 +123,7 @@ Make sure you tick all the files and then enter a commit message. It doesn't hav
 
 To deploy your website, open the new repository via GitHub on a web browser, and then head to Settings > Pages. 
 
-From here you can switch the source to 'GitHub Actions' and the default Hugo action should be suggested. Click configure button and then commit the code to your main branch.
+From here you can switch the source to 'GitHub Actions' and the default Hugo action should be suggested. Click the Configure button and then commit the code to your main branch.
 
 If you now head back to the Actions tab you can see a workflow running to build your website.
 

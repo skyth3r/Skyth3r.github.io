@@ -1,7 +1,7 @@
 ---
 title: Initial thoughts on Robinhood UK
 date: 2024-03-19T22:55:00
-lastmod: 2024-03-24T20:15:00
+lastmod: 2026-08-21T14:02:00
 images: 
     - /img/initial-thoughts-on-robinhood/cover.png
 description: Thoughts on Robinhood's initial offering in the UK and how it compares to other available investment platforms
@@ -10,7 +10,7 @@ tags: ['finance']
 
 This week, [Robinhood](https://robinhood.com/gb/en/), a US-based stock trading app, went [live in the UK](https://www.cityam.com/robinhood-launches-to-uk-customers/). As someone who is very much interested in investing and having tried out other app-based investment platforms in the past, I thought it would be a good idea to share my thoughts on the platform and if it’s worth using.
 
-Funny enough, I had just watched [Dumb Money](https://letterboxd.com/film/dumb-money/), covering the GameStop sage in 2021 on a flight back from South Africa yesterday so Robinhood’s UK launch is a well-timed surprise.
+Funny enough, I had just watched [Dumb Money](https://letterboxd.com/film/dumb-money/), covering the GameStop saga in 2021 on a flight back from South Africa yesterday so Robinhood’s UK launch is a well-timed surprise.
 
 ## The website
 
@@ -41,7 +41,7 @@ Pretty standard stuff.
 
 ##### **Exchange Rate Fees**
 
-This one isn’t listed on the PDF but rather further down the home page under the comparison, table Robinhood has listed. Since Robinhood offers stock trading in US stocks, and most UK investors will not have access to a USD funding source, there’s going to be a need to convert pounds to dollars and vice versa.
+This one isn’t listed on the PDF but rather further down the home page under the comparison table Robinhood has listed. Since Robinhood offers stock trading in US stocks, and most UK investors will not have access to a USD funding source, there’s going to be a need to convert pounds to dollars and vice versa.
 ![Third party cost disclaimer under comparison table](/img/initial-thoughts-on-robinhood/third-party-cost.png)
 
 Robinhood holds funds in USD and thus charges a 0.03% ‘third party cost’ (translation - fee by third party exchange provider) that will be included in the exchange rate. Technically this would mean that Robinhood has an FX fee, but this fee goes to the third-party exchange company that exchanges your money from pounds to USD as a service fee and that this is not something Robinhood themselves control or profit from.
@@ -68,7 +68,7 @@ Additionally, Robinhood is making use of a partner bank network made up of 12 ba
 ![Robinhood US Gold, Q - How can you give 9x the FDIC insurance of a standard bank s $250K? A - That's easy...we've got 12 partner banks so you can enjoy a combined coverage of up to $2.25 million FDIC insurance across all of them.](/img/initial-thoughts-on-robinhood/gold-fdic-insureance.png)
 
 
-Just bear in mind that, if you have any accounts with any of these partner banks then the $250,000 FDIC insurance (per partner bank) is shared across all accounts to hold with this partner bank, but it is highly unlikely that this will apply to the majority of UK investors who will not have a USD checking account before signing up to Robinhood).
+Just bear in mind that, if you have any accounts with any of these partner banks then the $250,000 FDIC insurance (per partner bank) is shared across all accounts held with this partner bank, but it is highly unlikely that this will apply to the majority of UK investors who will not have a USD checking account before signing up to Robinhood.
 
 This also means that the UK’s Financial Services Compensation Scheme (FSCS), which protects up to £85,000 does **NOT** apply to this account since it is not a UK trading account (technically).
 
@@ -79,7 +79,7 @@ Excluding the 0.03% deposit and withdrawal ‘third party cost’ fee, this coul
 
 It’s quite normal for trading platforms to offer a free share if you’ve been referred to an account via a refer-a-friend program (which was funnily enough made popular by Robinhood in the US).
 
-Surprisingly, also claims to offer a free fractional share when you sign up to Robinhood in addition to the Refer a Friend program (normally there are no free shares given if you do not sign up via a referral link with other investment platforms).
+Surprisingly, Robinhood also claims to offer a free fractional share when you sign up to Robinhood in addition to the Refer a Friend program (normally there are no free shares given if you do not sign up via a referral link with other investment platforms).
 
 The terms state that you can be offered between $7-$175 if you sign up and fund your account. They also state that 96% of participants will receive a cash value of $7 to $8 (net), and provide a handy table to see your probability of what the value of your free share will be.
 ![Reward probability table](/img/initial-thoughts-on-robinhood/reward-probability.png)
@@ -100,7 +100,7 @@ A nice bonus on this page, is that there is [a link to another page that explain
 
 ### Protection commitments
 
-I’m going to skip over the interest on cash section since we’ve already covered it and the fractional shares call out since this is a pretty standard feature across trading apps now. Instead, let’s look at Robinhood’s ‘Protection commitments’. This is also standard across most trading platforms now. Password hashing and encryption and used as standard and they also offer two-factor authentication.
+I’m going to skip over the interest on cash section since we’ve already covered it and the fractional shares call out since this is a pretty standard feature across trading apps now. Instead, let’s look at Robinhood’s ‘Protection commitments’. This is also standard across most trading platforms now. Password hashing and encryption are used as standard and they also offer two-factor authentication.
 
 It should be noted that a strong and unique password should be used in combination with two-factor authentication. There were incidents in the past where Robinhood US accounts were hacked and drained due to password reuse (it’s up to investors to set a unique password) and not enabling two-factor authentication.
 
@@ -143,7 +143,7 @@ My opinion - stay away from margin trading. Investing already comes with risk, s
 Funding the account was pretty easy. This is handled by open banking via Truelayer. No issues here and worked as expected.
 
 ### Identity Verification
-I’ve signed up for dozens of fintech apps and they all follow a similar identification verification process. Take a photo of your ID and take a video or photo of yourself. 
+I’ve signed up for dozens of fintech apps and they all follow a similar identity verification process. Take a photo of your ID and take a video or photo of yourself.
 
 There was one part of Robinhood’s process that threw me off, however…
 
@@ -167,14 +167,14 @@ Additionally, if Robinhood only plans to offer accounts in USD then they will ne
 
 ### No ETFs
 
-Since Robinhood focuses on the US stock market, it offers US-listed ETFs (Exchange Traded Funds). Currently, under local and European regulations, it’s not possible to buy US-listed ETFs in the UK, which leaves investors with only being able to buy shares in single stocks (a lot riskier than buying an ETF).
+Since Robinhood focuses on the US stock market, it offers US-listed ETFs (Exchange Traded Funds). Currently, under local and European regulations, it’s not possible to buy US-listed ETFs in the UK, which leaves investors able only to buy shares in single stocks (a lot riskier than buying an ETF).
 
-I would hope Robinhood offers a localised ETF equivalent offerings similar to their competitors in the UK but given the large focus being buying and selling US stocks and the account being held in USD I don’t think this will happen any time soon.
+I would hope Robinhood offers localised ETF offerings similar to their competitors in the UK but given the large focus being on buying and selling US stocks and the account being held in USD I don’t think this will happen any time soon.
 
 ## Summary
 
-Overall while Robinhood’s offering is unique and competitive in terms of fees compared to other brokerages in the UK. I think it makes more sense to focus on filling up a Stocks and Shares ISA for tax efficiency.
+Overall, Robinhood’s offering is unique and competitive in terms of fees compared to other brokerages in the UK. I think it makes more sense to focus on filling up a Stocks and Shares ISA for tax efficiency.
 
-I would only consider looking into a Robinhood account after fully utilising my ISA allowance first. I’m more of a long term passive investor, and I don’t think Robinhood is well suited for passive investors that are looking to solely focus on buying ETFs in a tax efficient investment account. There are other platforms that are better suited for passive investing.
+I would only consider looking into a Robinhood account after fully utilising my ISA allowance first. I’m more of a long-term passive investor, and I don’t think Robinhood is well suited for passive investors that are looking to solely focus on buying ETFs in a tax-efficient investment account. There are other platforms that are better suited for passive investing.
 
 Of course, this is just my opinion. Remember, none of this is financial advice. I just wanted to share some initial thoughts on Robinhood’s launch in the UK.

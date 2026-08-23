@@ -1,7 +1,7 @@
 ---
 title: Why you need a personal website
 date: 2023-01-01T09:00:00
-lastmod: 2023-01-02
+lastmod: 2026-08-21T14:08:00
 images: 
 - /img/personal-website/personal-website-header.png
 description: Time and time again, we are shown that we cannot rely on third-party platforms to host our content. It's time to start owning our digital content.
@@ -12,12 +12,12 @@ Time and time again, we are shown that we cannot rely on third-party platforms t
 
 The internet is constantly changing and with that, the platforms that host our content are constantly in flux. Platforms can fall just as quickly as they can rise, either by just going [completely offline](https://indieweb.org/site-deaths) or by making drastic changes to how people interact with content on their site/platform. 
 
-There are countless examples of this happening in the past and more recently the 2022 Twitter meltdown has led to some massive changes. One of these changes is that the newsletter platform Twitter acquired just two years ago, Revue is now [shutting down](https://www.theverge.com/2022/12/14/23509254/twitter-revue-shutdown-newsletter-data-deletion).
+There are countless examples of this happening in the past and more recently the 2022 Twitter meltdown has led to some massive changes. One of these changes is that the newsletter platform Twitter acquired just two years ago, Revue, is now [shutting down](https://www.theverge.com/2022/12/14/23509254/twitter-revue-shutdown-newsletter-data-deletion).
 
 ## Digital platforms are fragile
 That’s partly why I’m writing this. The shutdown of Revue has been particularly frustrating for me as someone who moved their [newsletter](https://akashandmoney.com/) from another newsletter service to Revue thinking it would be a better fit earlier this year. The announced shutdown left me scrambling to migrate my content and subscribers over the Christmas holidays.
 
-It just goes to show you the kind of problems we face when we trust third-party platforms to host our content. Thankfully I managed to export my content & subscribers in time, but that got me wondering...How do I avoid this happening again?
+It just goes to show you the kind of problems we face when we trust third-party platforms to host our content. Thankfully I managed to export my content & subscribers in time, but that got me wondering... How do I avoid this happening again?
 
 ## Owning your content
 It's time to start owning our digital content. 
@@ -26,10 +26,10 @@ After learning more about IndieWeb, I've decided to follow their [community prin
 
 So going forward I'll be hosting more of my content here on this website where I don't need to worry about another platform dying out and losing my content. Hosting my content also gives me the ability to fully control how my website/content looks.
 
-This doesn’t mean I’m quitting on using other platforms entirely but instead I plan on using this website to complement my activity on other digital platforms. You'll likely see my cross-posting most of my content from here to these other platforms for visibility (A practice coined as [POSSE](https://indieweb.org/POSSE) by IndieWeb). 
+This doesn’t mean I’m quitting on using other platforms entirely but instead I plan on using this website to complement my activity on other digital platforms. You'll likely see me cross-posting most of my content from here to these other platforms for visibility (a practice coined as [POSSE](https://indieweb.org/POSSE) by IndieWeb).
 
 ## The benefits of having a personal website
-There are a great number of benefits as to why you should have your own website but here are the reasons that really matter to me:
+There are a great number of benefits of having your own website but here are the reasons that really matter to me:
 
 **Platform independent**
 
@@ -54,18 +54,18 @@ For now, I plan on writing things around programming, tech, travel, video games,
 
 ### This is NOT a blog
 
-I'm kind of against the idea of calling this a blog. I found that having a blog always felt really pressurising. It felt like every post had to be perfect and I would end up spending too much time polishing up each post before publishing them. I would end up publishing less and less over time, while fussing over each post, trying to chase that sense of [perfection](https://www.yusuf.fyi/posts/perfectionism).
+I'm kind of against the idea of calling this a blog. I found that having a blog always felt really pressurising. It felt like every post had to be perfect and I would end up spending too much time polishing up each post before publishing it. I would end up publishing less and less over time, while fussing over each post, trying to chase that sense of [perfection](https://www.yusuf.fyi/posts/perfectionism).
 
 ### Welcome to my Digital Garden!
 
 I've come to like the term "[digital garden](https://maggieappleton.com/garden-history)" and I think it better suits what I'm trying to achieve with this website. 
 
-This website is my public digital garden. A place for me to cultivate, and grow my thoughts, ideas, and other bits of information freely. 
+This website is my public digital garden. A place for me to cultivate and grow my thoughts, ideas, and other bits of information freely.
 
 This quote from Maggie Appleton explains it well while keeping it short and simple:
 > Gardens present information in a richly linked landscape that grows slowly over time. Everything is arranged and connected in ways that allow you to explore.
 
-That's exactly what I'd like to build. An inter-connected garden of information around the things that interest me. I like to think of it more as being a content _curator_ rather than being a content creator. 
+That's exactly what I'd like to build. An interconnected garden of information around the things that interest me. I like to think of it more as being a content _curator_ rather than being a content creator.
 
 Additionally, I think there is a lot of information out there in the world and there's only so much the human brain can hold and retain. Having a secondary space (almost like a second brain) for collecting and organising meaningful notes, thoughts and ideas can help free cognitive capacity, a bit like backing up your computer's hard drive to cloud storage to free up memory on the local disk.
 

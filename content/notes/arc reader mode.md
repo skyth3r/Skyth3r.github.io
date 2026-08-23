@@ -1,7 +1,8 @@
 ---
-title: Arc's secert reader mode
+title: Arc's secret reader mode
 date: 2023-09-09T15:20:00
-description: How to enable Arc's secert reading mode 
+lastmod: 2026-08-23T12:04:00
+description: How to enable Arc's secret reading mode
 tags: ['web-browser']
 ---
 
@@ -13,7 +14,7 @@ One of the features I've always liked in Apple's Safari web browser is the [Safa
 
 This works perfectly for me on iOS but on my laptop, I mainly use Google Chrome and Arc for my web browsing. 
 
-Chrome has a reader type view hidden under `chrome://flags` and by then searching for 'reading mode' but it's still a bit complicated to enable and doesn't provide the same view as Safari's web browser. 
+Chrome has a reader-type view hidden under `chrome://flags`; search for 'reading mode'. It's still a bit complicated to enable and doesn't provide the same view as Safari's web browser.
 
 It turns out, [Arc for macOS](https://arc.net/) has a hidden reader mode that can be enabled on a web page by pressing the `option + command + r` keys together which is much more similar to Safari's reader mode.
 

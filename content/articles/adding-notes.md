@@ -1,14 +1,14 @@
 ---
 title: Houston, we have notes!
 date: 2023-09-09T09:42:00
-lastmod: 2023-09-11T7:41:00
+lastmod: 2026-08-20T22:21:00
 images: 
 - /img/notes/write-that-down.png
 description: Adding a notes section to the website
 tags: ['update']
 ---
 
-In addition to the articles, I’ve decided to add a notes section to the website now. There are times when I wanted to write a short piece about something but it didn’t feel right to put it in the articles section of the website. 
+In addition to the articles, I’ve decided to add a notes section to the website now. There are times when I want to write a short piece about something but it didn’t feel right to put it in the articles section of the website.
 
 Sometimes I just want to…note something down.
 
