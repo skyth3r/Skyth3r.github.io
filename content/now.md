@@ -47,6 +47,7 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 
 *Data sourced from [Oku](https://oku.club/)*
 
+* [Project Hail Mary](https://oku.club/book/project-hail-mary-by-andy-weir-M0dtY)
 * [Friday Black](https://oku.club/book/friday-black-by-nana-kwame-adjei-brenyah-iL4hO)
 
 ## 🎬 Movies and TV Shows
@@ -76,4 +77,4 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 
 ---
 
-Last updated: 5 Sep 2026
+Last updated: 6 Sep 2026
