@@ -74,7 +74,9 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 
 *Data sourced from [Backloggd](https://backloggd.com/)*
 
-Haven't played any video games recently
+* [Limbo](https://backloggd.com/games/limbo/)
+* [Pokémon FireRed Version](https://backloggd.com/games/pokemon-firered-version/)
+
 ---
 
-Last updated: 8 Sep 2026
+Last updated: 9 Sep 2026
