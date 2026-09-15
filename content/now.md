@@ -66,9 +66,9 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 
 *Data sourced from [Serializd](https://www.serializd.com/)*
 
+* [Money Heist, Season 1](https://www.serializd.com/show/71446)
 * [Castlevania, Season 4](https://www.serializd.com/show/71024)
 * [Mr. and Mrs. Smith, Season 1](https://www.serializd.com/show/118642)
-* [Castlevania, Season 3](https://www.serializd.com/show/71024)
 
 ## 🎮 Video Games
 
@@ -79,4 +79,4 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 
 ---
 
-Last updated: 14 Sep 2026
+Last updated: 15 Sep 2026
