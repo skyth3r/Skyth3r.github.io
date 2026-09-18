@@ -58,9 +58,9 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 
 *Data sourced from [Letterboxd](https://letterboxd.com/)*
 
+* [Colony](https://letterboxd.com/film/colony-2026/)
 * [Trap](https://letterboxd.com/film/trap-2024/)
 * [The Last House](https://letterboxd.com/film/the-last-house-2026/)
-* [Spider-Man: Brand New Day](https://letterboxd.com/film/spider-man-brand-new-day/)
 
 ### Recently watched TV shows
 
@@ -77,4 +77,4 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 Haven't played any video games recently
 ---
 
-Last updated: 17 Sep 2026
+Last updated: 18 Sep 2026
