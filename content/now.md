@@ -58,9 +58,9 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 
 *Data sourced from [Letterboxd](https://letterboxd.com/)*
 
+* [Resident Evil](https://letterboxd.com/film/resident-evil-2026/)
 * [Colony](https://letterboxd.com/film/colony-2026/)
 * [Trap](https://letterboxd.com/film/trap-2024/)
-* [The Last House](https://letterboxd.com/film/the-last-house-2026/)
 
 ### Recently watched TV shows
 
@@ -77,4 +77,4 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 Haven't played any video games recently
 ---
 
-Last updated: 28 Sep 2026
+Last updated: 29 Sep 2026
