@@ -58,9 +58,9 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 
 *Data sourced from [Letterboxd](https://letterboxd.com/)*
 
+* [Other Mommy](https://letterboxd.com/film/other-mommy/)
 * [Resident Evil](https://letterboxd.com/film/resident-evil-2026/)
 * [Colony](https://letterboxd.com/film/colony-2026/)
-* [Trap](https://letterboxd.com/film/trap-2024/)
 
 ### Recently watched TV shows
 
@@ -77,4 +77,4 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 Haven't played any video games recently
 ---
 
-Last updated: 27 Oct 2026
+Last updated: 28 Oct 2026
