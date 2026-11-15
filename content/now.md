@@ -66,9 +66,9 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 
 *Data sourced from [Serializd](https://www.serializd.com/)*
 
+* [Severance, Season 1](https://www.serializd.com/show/95396)
 * [Cyberpunk: Edgerunners, Cyberpunk: Edgerunners 2](https://www.serializd.com/show/105248)
 * [Money Heist, Season 1](https://www.serializd.com/show/71446)
-* [Castlevania, Season 4](https://www.serializd.com/show/71024)
 
 ## 🎮 Video Games
 
@@ -77,4 +77,4 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 Haven't played any video games recently
 ---
 
-Last updated: 14 Nov 2026
+Last updated: 15 Nov 2026
