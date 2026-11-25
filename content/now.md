@@ -39,6 +39,8 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 
 🇬🇷 Greece
 
+🇫🇷 France
+
 ### 2024
 
 🇬🇷 Greece
@@ -77,4 +79,4 @@ Casually cycle to run errands when needed 🚴🏽‍♂️
 Haven't played any video games recently
 ---
 
-Last updated: 24 Nov 2026
+Last updated: 25 Nov 2026
